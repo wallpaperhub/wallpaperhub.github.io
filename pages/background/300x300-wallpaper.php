@@ -1,0 +1,129 @@
+<title>Stunning 300x300 Wallpaper for Every Device</title>
+                    <meta name="description" content="Discover a diverse collection of high-quality 300x300 wallpapers to personalize your devices. Perfect for phones, tablets, and desktops, these wallpapers feature vibrant patterns, beautiful landscapes, and more. Transform your screen effortlessly and enjoy a fresh look every day!">
+                    <meta name="keywords" content="300x300 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/300x300-wallpaper">
+                            <span itemprop="name">300x300 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 300x300 Wallpaper for Every Device</h1>
+                <p>Enhance your digital space with stunning 300x300 wallpapers! These versatile images fit perfectly on various devices, adding a unique touch to your screens. Choose from vibrant colors, intricate designs, or serene landscapes to elevate your aesthetics. Explore a plethora of options and personalize your environment today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71 300x300 ideas | photo wall collage, picture collage wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/04/aa/e5/04aae5952f7753b3b99f36f906a1b763.jpg' alt='71 300x300 ideas | photo wall collage, picture collage wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/04/aa/e5/04aae5952f7753b3b99f36f906a1b763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71 300x300 ideas | photo wall collage, picture collage wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/00/35/45/0035450e6343bca27edb8e9105ba0528.jpg' alt='71 300x300 ideas | photo wall collage, picture collage wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/00/35/45/0035450e6343bca27edb8e9105ba0528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dark Aesthetic Abstract Hues Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/trippy-dark-aesthetic-glitched-rose-jom7rbng6kncztya.webp' alt='Trippy Dark Aesthetic Abstract Hues Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/trippy-dark-aesthetic-glitched-rose-jom7rbng6kncztya.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Art Cool Picture Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/astronaut-art-cool-picture-tpr7tdngfm9t47i0.jpg' alt='Astronaut Art Cool Picture Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/astronaut-art-cool-picture-tpr7tdngfm9t47i0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artist Wallpapers in 300x300 Resolution, HD Artist 4k 8k Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-artistic-dancing-girl_93039.jpg' alt='Artist Wallpapers in 300x300 Resolution, HD Artist 4k 8k Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-artistic-dancing-girl_93039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="va72-wallpaper-drunk-night-bokeh - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-va72-wallpaper-drunk-night-bokeh-40-wallpaper.jpg' alt='va72-wallpaper-drunk-night-bokeh - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-va72-wallpaper-drunk-night-bokeh-40-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Mountain Art Tablet Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-mountain-art-tablet-hd-h0hl17eocwfep5yh.jpg' alt='Aesthetic Mountain Art Tablet Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-mountain-art-tablet-hd-h0hl17eocwfep5yh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popular Anime Wallpapers in 300x300 Resolution, HD Anime 4k 8k ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-jujutsu-kaisen-satoru-gojo_76996.jpg' alt='Popular Anime Wallpapers in 300x300 Resolution, HD Anime 4k 8k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-jujutsu-kaisen-satoru-gojo_76996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="71 300x300 ideas | photo wall collage, picture collage wall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/68/d8/29/68d829d9564a20ff95e90d7eda738304.jpg' alt='71 300x300 ideas | photo wall collage, picture collage wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/68/d8/29/68d829d9564a20ff95e90d7eda738304.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="am01-red-rose-dark-flower-nature - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wp-content/uploads/papers.co-am01-red-rose-dark-flower-nature-1-wallpaper-300x300.jpg' alt='am01-red-rose-dark-flower-nature - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wp-content/uploads/papers.co-am01-red-rose-dark-flower-nature-1-wallpaper-300x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

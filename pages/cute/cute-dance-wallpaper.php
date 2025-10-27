@@ -1,0 +1,129 @@
+<title>Adorable Dance Wallpaper: Perfect for Every Room</title>
+                    <meta name="description" content="Discover our cute dance wallpaper collection, designed to bring joy and inspiration to any space! Perfect for kids’ rooms or personal studios, these lively designs feature vibrant colors and playful patterns. Transform your room with a touch of fun and creativity! Shop now for the perfect dance-themed decor.">
+                    <meta name="keywords" content="cute dance wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-dance-wallpaper">
+                            <span itemprop="name">cute dance wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dance Wallpaper: Perfect for Every Room</h1>
+                <p>Brighten up your space with our adorable cute dance wallpaper! Perfect for dance lovers, this vibrant collection features lively designs of dancing characters, playful patterns, and cheerful colors. Transform any room into a joyful dance studio and inspire creativity. Perfect for kids’ rooms, studios, or personal spaces!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Aesthetic Dance Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/e3/d3/69e3d35379c870cb3b4539b5122e19c9.jpg' alt='10 Aesthetic Dance Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/e3/d3/69e3d35379c870cb3b4539b5122e19c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ FREE Dance Wallpapers for your Phone and Desktop!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/df/93/20df9301e18816dc1409ed9ccbc3c8f5.jpg' alt='10+ FREE Dance Wallpapers for your Phone and Desktop!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/df/93/20df9301e18816dc1409ed9ccbc3c8f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Wallpapers (28 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/a/7/50445-1365x2048-samsung-hd-dance-background-image.jpg' alt='Dance Wallpapers (28 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/a/7/50445-1365x2048-samsung-hd-dance-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pirouette (Mural Edition) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/ScreenShot2021-03-24at12.49.06PM.png?v=1715996979&width=2048' alt='Pirouette (Mural Edition) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1718">
+                                <meta itemprop="height" content="1718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/ScreenShot2021-03-24at12.49.06PM.png?v=1715996979&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Training Dancer Blue Starry Gradient Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/2c/df/482cdfca489c1910c832a8ad8d9c0bb4.jpg' alt='Dance Training Dancer Blue Starry Gradient Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/2c/df/482cdfca489c1910c832a8ad8d9c0bb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Dance Aesthetic Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/just-dance-aesthetic-poster-2htqr1azt0c1v5cl.jpg' alt='Just Dance Aesthetic Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/just-dance-aesthetic-poster-2htqr1azt0c1v5cl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancer, Kiss, dancing, dark, fan, feather, feminine, green ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/193/469/HD-wallpaper-dancer-kiss-dancing-dark-fan-feather-feminine-green-movements-orange-pink-pretty-purple-yellow.jpg' alt='Dancer, Kiss, dancing, dark, fan, feather, feminine, green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/193/469/HD-wallpaper-dancer-kiss-dancing-dark-fan-feather-feminine-green-movements-orange-pink-pretty-purple-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing In The Sunset For Girls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dancing-in-the-sunset-for-girls-20pszd954jllhjng-3.jpg' alt='Dancing In The Sunset For Girls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dancing-in-the-sunset-for-girls-20pszd954jllhjng-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Ballerina dance Water color Cute logo vector 2023 ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/ballerina-dance-water-color-cute-logo-vector-2023-modern-design_290562-343.jpg' alt='Premium Vector | Ballerina dance Water color Cute logo vector 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/ballerina-dance-water-color-cute-logo-vector-2023-modern-design_290562-343.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Dancer Wallpaper Pattern Stock Illustrations – 622 Vintage ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/seamless-pattern-hand-drawn-ballerinas-cute-dancing-girls-isolated-polka-dots-blue-background-vector-fashion-repeat-155148102.jpg' alt='Vintage Dancer Wallpaper Pattern Stock Illustrations – 622 Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/seamless-pattern-hand-drawn-ballerinas-cute-dancing-girls-isolated-polka-dots-blue-background-vector-fashion-repeat-155148102.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

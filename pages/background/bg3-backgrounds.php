@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="bg3 backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bg3-backgrounds">
+                            <span itemprop="name">bg3 backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - Baldur's Gate III Guide - IGN">
+                                <img itemprop="contentUrl url" src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/04/Backgrounds.jpg' alt='Backgrounds - Baldur's Gate III Guide - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2555">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/04/Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Background In Baldur's Gate 3, Ranked">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/guild-artisan.jpg' alt='Every Background In Baldur's Gate 3, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/guild-artisan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BG3 - Backgrounds [UPDATED 2025] - DND.TOWN">
+                                <img itemprop="contentUrl url" src='https://www.dnd.town/wp-content/uploads/2022/08/Baldurs-Gate-3-beginners-guide-1280x740-1.jpg' alt='BG3 - Backgrounds [UPDATED 2025] - DND.TOWN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Town" />
+                                </span>
+                                <a href='https://www.dnd.town/wp-content/uploads/2022/08/Baldurs-Gate-3-beginners-guide-1280x740-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BG3 Patch 9 CC Background 4K at Baldur's Gate 3 Nexus - Mods and ...">
+                                <img itemprop="contentUrl url" src='https://staticdelivery.nexusmods.com/images/3474/100288838-1671549225.jpg' alt='BG3 Patch 9 CC Background 4K at Baldur's Gate 3 Nexus - Mods and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nexus Mods" />
+                                </span>
+                                <a href='https://staticdelivery.nexusmods.com/images/3474/100288838-1671549225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds - Baldur's Gate III Guide - IGN">
+                                <img itemprop="contentUrl url" src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/d/d8/Baldurs-gate-3-companions.jpg?width=1280' alt='Backgrounds - Baldur's Gate III Guide - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/d/d8/Baldurs-gate-3-companions.jpg?width=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: All character backgrounds & inspiration goals ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/10/Baldurs-Gate-3-backgrounds-1024x576.jpg?width=1200&quality=75&format=auto' alt='Baldur's Gate 3: All character backgrounds & inspiration goals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/10/Baldurs-Gate-3-backgrounds-1024x576.jpg?width=1200&quality=75&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BG3 main menu wallpapers (1440p & 1080p) : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bg3-main-menu-wallpapers-1440p-1080p-v0-4m0c6xhm1vib1.jpg?width=2560&format=pjpg&auto=webp&s=14d18015208bf6f15f8373e1cc7853f7f13b7494' alt='BG3 main menu wallpapers (1440p & 1080p) : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bg3-main-menu-wallpapers-1440p-1080p-v0-4m0c6xhm1vib1.jpg?width=2560&format=pjpg&auto=webp&s=14d18015208bf6f15f8373e1cc7853f7f13b7494' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: All character backgrounds & inspiration goals ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/10/Baldurs-Gate-3-backgrounds-explained.jpg' alt='Baldur's Gate 3: All character backgrounds & inspiration goals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/08/10/Baldurs-Gate-3-backgrounds-explained.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screen Backgrounds From BG3 Presskit : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/screen-backgrounds-from-bg3-presskit-v0-ytidnz2pd05a1.png?width=3840&format=png&auto=webp&s=ec8985e7a47f9d588b6f3c3d57dfcb23f45d880a' alt='Screen Backgrounds From BG3 Presskit : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/screen-backgrounds-from-bg3-presskit-v0-ytidnz2pd05a1.png?width=3840&format=png&auto=webp&s=ec8985e7a47f9d588b6f3c3d57dfcb23f45d880a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best backgrounds for Ranger in BG3">
+                                <img itemprop="contentUrl url" src='https://dotesports.com/wp-content/uploads/2025/02/Baldurs-Gate-3-all-Patch-8-subclasses.jpg?w=1200' alt='Baldur's Gate 3: Best backgrounds for Ranger in BG3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dot Esports" />
+                                </span>
+                                <a href='https://dotesports.com/wp-content/uploads/2025/02/Baldurs-Gate-3-all-Patch-8-subclasses.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

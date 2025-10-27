@@ -1,0 +1,129 @@
+<title>Prank Your Friends with Broken Screen Wallpaper</title>
+                    <meta name="description" content="Discover the best "Broken Screen" wallpaper to prank your friends! This fun and realistic wallpaper will make any device look cracked. Ideal for creating hilarious moments and unforgettable reactions. Get ready to laugh with this entertaining prank!">
+                    <meta name="keywords" content="wallpaper:1bjfmey7nri= prank:09ejkhhmgmy= broken screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/wallpaper1bjfmey7nri-prank09ejkhhmgmy-broken-screen">
+                            <span itemprop="name">wallpaper:1bjfmey7nri= prank:09ejkhhmgmy= broken screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Prank Your Friends with Broken Screen Wallpaper</h1>
+                <p>Unlock the ultimate prank with our "Broken Screen" wallpaper! Fool your friends by making their device look like it's shattered. This fun and safe way to prank anyone is perfect for sharing laughs. Simply set the wallpaper, and watch their reaction as they believe their screen is cracked! Perfect for a good laugh!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/47/4c/7b474ca328bfc26008c91fcd5744ccea.jpg' alt='11 Cracked & Broken Screen Wallpapers Prank For Laptops & TVs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/47/4c/7b474ca328bfc26008c91fcd5744ccea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BROKEN SCREEN PRANK 1 HOUR | PRANK YOUR FRIENDS!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rw43IzUqO6I/maxresdefault.jpg' alt='BROKEN SCREEN PRANK 1 HOUR | PRANK YOUR FRIENDS!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rw43IzUqO6I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun (and harmless) Broken Screen Wallpapers for April Fool's Day ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/69/12/1b6912197784b4a541830d3b1d8b0942.jpg' alt='Fun (and harmless) Broken Screen Wallpapers for April Fool's Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/69/12/1b6912197784b4a541830d3b1d8b0942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prank Broken Screen Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/saCVN7w3esTw646Y2Jg_ckGIvKluM9Gi6aD-5JYuika6w3FwH7KP4Rrqkj82_w_VmRI=w526-h296-rw' alt='Prank Broken Screen Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/saCVN7w3esTw646Y2Jg_ckGIvKluM9Gi6aD-5JYuika6w3FwH7KP4Rrqkj82_w_VmRI=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Screen crack, funny, prank, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/373/741/HD-wallpaper-screen-crack-funny-prank-thumbnail.jpg' alt='Screen crack, funny, prank, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/373/741/HD-wallpaper-screen-crack-funny-prank-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/35/55/e33555b273f1141b640707c01e6354e4.jpg' alt='Cracked Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/35/55/e33555b273f1141b640707c01e6354e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen Prank!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/24/9d/4f/249d4f833efa8bdb6c23eaf6c0d07168.jpg' alt='Cracked Screen Prank!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/24/9d/4f/249d4f833efa8bdb6c23eaf6c0d07168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Broken Screen Wallpapers for Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7094120694316928283&location=0&aid=1988' alt='Realistic Broken Screen Wallpapers for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7094120694316928283&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Screen Prank Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/-XFbhgGKC3ayt6z6AgnjMX-UshnSKTe-MKl_MJb_JnL3hwP-PVGgrDSmZ5YMafqUicbO=w526-h296-rw' alt='Broken Screen Prank Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/-XFbhgGKC3ayt6z6AgnjMX-UshnSKTe-MKl_MJb_JnL3hwP-PVGgrDSmZ5YMafqUicbO=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cracked Screen Wallpaper Prank">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/3c/1d/f33c1d4687af045db51cbc2be632676f.jpg' alt='Cracked Screen Wallpaper Prank'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/3c/1d/f33c1d4687af045db51cbc2be632676f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

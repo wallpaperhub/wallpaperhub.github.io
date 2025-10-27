@@ -1,0 +1,129 @@
+<title>Who Manufactures Mini Cooper? Discover the Iconic Brand</title>
+                    <meta name="description" content="Discover who manufactures the iconic Mini Cooper! Learn about BMW Group's role in producing this stylish and compact vehicle, renowned for its unique design and performance. Perfect for car enthusiasts and those curious about this classic brand!">
+                    <meta name="keywords" content="who makes mini cooper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-makes-mini-cooper">
+                            <span itemprop="name">who makes mini cooper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Manufactures Mini Cooper? Discover the Iconic Brand</h1>
+                <p>Mini Cooper is manufactured by BMW Group, a German automobile company known for its luxury vehicles. The Mini brand originated in the 1960s, becoming an icon for compact and sporty cars. BMW took ownership of Mini in 1994, revamping the classic design while maintaining its unique character and appeal to enthusiasts worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Makes The Mini Cooper?">
+                                <img itemprop="contentUrl url" src='https://cdn.jdpower.com/Who%20Makes%20The%20Mini%20Cooper.jpg' alt='Who Makes The Mini Cooper?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J.D. Power" />
+                                </span>
+                                <a href='https://cdn.jdpower.com/Who%20Makes%20The%20Mini%20Cooper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Makes MINI Cooper and Where Are MINI Coopers Made? | AutoGuide.com">
+                                <img itemprop="contentUrl url" src='https://cdn-fastly.autoguide.com/media/2023/06/09/12709747/who-makes-mini-cooper-and-where-are-mini-coopers-made.jpg?size=720x845&nocrop=1' alt='Who Makes MINI Cooper and Where Are MINI Coopers Made? | AutoGuide.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autoguide.com" />
+                                </span>
+                                <a href='https://cdn-fastly.autoguide.com/media/2023/06/09/12709747/who-makes-mini-cooper-and-where-are-mini-coopers-made.jpg?size=720x845&nocrop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Makes Mini Cooper? Read on to Know More!">
+                                <img itemprop="contentUrl url" src='https://blog.way.com/wp-content/uploads/2023/06/MINI-Feature-1.jpg' alt='Who Makes Mini Cooper? Read on to Know More!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Way" />
+                                </span>
+                                <a href='https://blog.way.com/wp-content/uploads/2023/06/MINI-Feature-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Makes MINI Cooper and Where Are MINI Coopers Made? | AutoGuide.com">
+                                <img itemprop="contentUrl url" src='https://cdn-fastly.autoguide.com/media/2023/06/09/12709738/who-makes-mini-cooper-and-where-are-mini-coopers-made.jpg?size=720x845&nocrop=1' alt='Who Makes MINI Cooper and Where Are MINI Coopers Made? | AutoGuide.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autoguide.com" />
+                                </span>
+                                <a href='https://cdn-fastly.autoguide.com/media/2023/06/09/12709738/who-makes-mini-cooper-and-where-are-mini-coopers-made.jpg?size=720x845&nocrop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Owns MINI Cooper? | Warwick| MINI of Warwick">
+                                <img itemprop="contentUrl url" src='https://vehicle-images.dealerinspire.com/b78f-110005683/thumbnails/large/WMW23DL03R3S23175/198c7f96ab4784c1dff1d782efc4b5d4.jpg' alt='Who Owns MINI Cooper? | Warwick| MINI of Warwick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINI of Warwick" />
+                                </span>
+                                <a href='https://vehicle-images.dealerinspire.com/b78f-110005683/thumbnails/large/WMW23DL03R3S23175/198c7f96ab4784c1dff1d782efc4b5d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Owns MINI Cooper? | Warwick| MINI of Warwick">
+                                <img itemprop="contentUrl url" src='https://vehicle-images.dealerinspire.com/421c-110005683/thumbnails/large/WMW23GD01S2W25255/3ffa424cc838b9770e6e131690a47b53.jpg' alt='Who Owns MINI Cooper? | Warwick| MINI of Warwick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINI of Warwick" />
+                                </span>
+                                <a href='https://vehicle-images.dealerinspire.com/421c-110005683/thumbnails/large/WMW23GD01S2W25255/3ffa424cc838b9770e6e131690a47b53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WHO OWNS MINI COOPER? | Motor City MINI">
+                                <img itemprop="contentUrl url" src='https://pictures.dealer.com/m/motorcityminimi/0675/05cad7506ba4302562b10a7059c546a4x.jpg' alt='WHO OWNS MINI COOPER? | Motor City MINI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motor City MINI" />
+                                </span>
+                                <a href='https://pictures.dealer.com/m/motorcityminimi/0675/05cad7506ba4302562b10a7059c546a4x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new MINI Cooper and MINI Cooper S with gasoline engines.">
+                                <img itemprop="contentUrl url" src='https://mediapool.bmwgroup.com/cache/P9/202401/P90536600/P90536600-mini-cooper-s-02-2024-600px.jpg' alt='The new MINI Cooper and MINI Cooper S with gasoline engines.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BMW Group PressClub" />
+                                </span>
+                                <a href='https://mediapool.bmwgroup.com/cache/P9/202401/P90536600/P90536600-mini-cooper-s-02-2024-600px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is MINI Owned by BMW?">
+                                <img itemprop="contentUrl url" src='https://www.motorbiscuit.com/wp-content/uploads/2020/02/Mini-Cooper.jpg' alt='Is MINI Owned by BMW?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MotorBiscuit" />
+                                </span>
+                                <a href='https://www.motorbiscuit.com/wp-content/uploads/2020/02/Mini-Cooper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Owns MINI Cooper? | Warwick| MINI of Warwick">
+                                <img itemprop="contentUrl url" src='https://vehicle-images.dealerinspire.com/b01c-110005683/thumbnails/large/WMW23GD03S2W29324/c806114569a002861451fc8b5644197c.jpg' alt='Who Owns MINI Cooper? | Warwick| MINI of Warwick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINI of Warwick" />
+                                </span>
+                                <a href='https://vehicle-images.dealerinspire.com/b01c-110005683/thumbnails/large/WMW23GD03S2W29324/c806114569a002861451fc8b5644197c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Floral Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the perfect floral wallpaper to enhance your home decor. Our collection features stunning designs that add elegance and charm to any space. From bold colors to soft pastels, find the ideal match that reflects your style and brightens your rooms effortlessly.">
+                    <meta name="keywords" content="wallpaper pretty flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/wallpaper-pretty-flowers">
+                            <span itemprop="name">wallpaper pretty flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Floral Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning wallpaper featuring pretty flowers. From vibrant blooms to delicate petals, floral designs bring warmth and charm to any room. Perfect for creating a serene atmosphere in living areas, bedrooms, or even offices, these wallpapers can elevate your decor and reflect your personal style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Pretty Flowers Wallpaper in Multicoloured">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?crop=center&height=886&v=1705418776&width=886' alt='Sample of Pretty Flowers Wallpaper in Multicoloured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?crop=center&height=886&v=1705418776&width=886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Flower Wallpapers For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0f/ef/e2/0fefe27507a39a5499d73155b218fb8c.jpg' alt='25 Beautiful Flower Wallpapers For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0f/ef/e2/0fefe27507a39a5499d73155b218fb8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper Cute">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' alt='Flower Wallpaper Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty flower 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/485/70/HD-wallpaper-purple-flowers-beauty-cool-cute-flower-lovely-nature-pretty.jpg' alt='Pretty flower 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/485/70/HD-wallpaper-purple-flowers-beauty-cool-cute-flower-lovely-nature-pretty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...">
+                                <img itemprop="contentUrl url" src='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' alt='Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndiaMART" />
+                                </span>
+                                <a href='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wallpaper Iphone (Be Mesmerized) - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/af/3b/a4af3bf62b48a750fe6cac0501049460.jpg' alt='Beautiful Flower Wallpaper Iphone (Be Mesmerized) - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/af/3b/a4af3bf62b48a750fe6cac0501049460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Beautiful Pretty Flower Showcasing Its Glory Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pretty-flower-jgd4i6sfa6ulmmlr.jpg' alt='Download A Beautiful Pretty Flower Showcasing Its Glory Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pretty-flower-jgd4i6sfa6ulmmlr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43+ Beautiful Flower Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2015/09/Beautiful-Flower-Wallpapers.jpg' alt='43+ Beautiful Flower Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2015/09/Beautiful-Flower-Wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ BEAUTIFUL FLOWERS    ideas in 2025 | beautiful flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ac/ec/04/acec04483c332d16e60989fe71d81262.jpg' alt='900+ BEAUTIFUL FLOWERS    ideas in 2025 | beautiful flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ac/ec/04/acec04483c332d16e60989fe71d81262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful flowers outlet hd wallpapers">
+                                <img itemprop="contentUrl url" src='https://c0.wallpaperflare.com/preview/401/632/38/pink-petaled-flowers-in-close-up-photography.jpg' alt='Beautiful flowers outlet hd wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Road To Glenlough" />
+                                </span>
+                                <a href='https://c0.wallpaperflare.com/preview/401/632/38/pink-petaled-flowers-in-close-up-photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

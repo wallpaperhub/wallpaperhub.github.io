@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Every Screen</title>
+                    <meta name="description" content="Discover our collection of exquisite 4K wallpapers that enhance your device's display. From breathtaking landscapes to unique designs, find the perfect wallpaper that reflects your style and personality. Dive into the world of high-resolution images and elevate your screen experience today!">
+                    <meta name="keywords" content="whis wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/whis-wallpaper-4k">
+                            <span itemprop="name">whis wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Every Screen</h1>
+                <p>Experience stunning visuals with high-quality 4K wallpaper, transforming your device into a breathtaking canvas. Whether you prefer serene landscapes or vibrant abstract art, our collection caters to all tastes. Elevate your screen's aesthetic with crystal-clear images that bring depth and beauty to your everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD whis wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/581/327/HD-wallpaper-whis-dbz-gods-legends.jpg' alt='HD whis wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/581/327/HD-wallpaper-whis-dbz-gods-legends.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e1/cd/4c/e1cd4cb621087aa9a43c1a5e54c6553e.png' alt='10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e1/cd/4c/e1cd4cb621087aa9a43c1a5e54c6553e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/78/b7/f0/78b7f0ee0946d9413bc993f84e62fecf.jpg' alt='10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/78/b7/f0/78b7f0ee0946d9413bc993f84e62fecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/18/a7/24/18a7242a0a3ea2c70bda05cff4ec2926.jpg' alt='10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1413">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/18/a7/24/18a7242a0a3ea2c70bda05cff4ec2926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whis Wallpaper [Xenoverse 2] by Maxiuchiha22 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf6xz-a571f054-1c74-42d9-9467-79977291c566.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4ZjZ4ei1hNTcxZjA1NC0xYzc0LTQyZDktOTQ2Ny03OTk3NzI5MWM1NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RWYuaB9SVfLpnNbZTWCZ5Au1y7M7w1XUBBnh_sykJn0' alt='Whis Wallpaper [Xenoverse 2] by Maxiuchiha22 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dexf6xz-a571f054-1c74-42d9-9467-79977291c566.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGV4ZjZ4ei1hNTcxZjA1NC0xYzc0LTQyZDktOTQ2Ny03OTk3NzI5MWM1NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RWYuaB9SVfLpnNbZTWCZ5Au1y7M7w1XUBBnh_sykJn0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whis DBZ Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9972456.jpg' alt='Whis DBZ Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9972456.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whis - DRAGON BALL SUPER - Image #2409529 - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e2/e8/79/e2e8796a31e43aa1259d4ef83a192f0c.jpg' alt='Whis - DRAGON BALL SUPER - Image #2409529 - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e2/e8/79/e2e8796a31e43aa1259d4ef83a192f0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball super, anime, goku, whis, silverb, movie, beerus ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/265/369/HD-wallpaper-dragon-ball-super-anime-goku-whis-silverb-movie-beerus-vegeta.jpg' alt='Dragon ball super, anime, goku, whis, silverb, movie, beerus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/265/369/HD-wallpaper-dragon-ball-super-anime-goku-whis-silverb-movie-beerus-vegeta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/4c/25/ab4c25df0a27d36e85485d0a795650ad.jpg' alt='10 Whis Wallpapers ideas | dragon ball artwork, anime dragon ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/4c/25/ab4c25df0a27d36e85485d0a795650ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beerus & Whis HD Wallpaper - Dragon Ball Super Champions">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/670/thumb-1920-670849.png' alt='Beerus & Whis HD Wallpaper - Dragon Ball Super Champions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/670/thumb-1920-670849.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

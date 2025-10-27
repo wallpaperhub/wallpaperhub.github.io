@@ -1,0 +1,129 @@
+<title>Stunning Ocean Google Slides Theme for Engaging Presentations</title>
+                    <meta name="description" content="Discover the perfect ocean Google Slides theme to elevate your presentations! With captivating marine designs and a soothing color palette, this template is ideal for educators, businesses, or personal projects. Make your content stand out and effortlessly engage your audience with this unique ocean-inspired design!">
+                    <meta name="keywords" content="ocean google slides theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ocean-google-slides-theme">
+                            <span itemprop="name">ocean google slides theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ocean Google Slides Theme for Engaging Presentations</h1>
+                <p>Transform your presentations with an ocean-themed Google Slides template! This vibrant design captures the beauty of the sea, featuring waves, marine life, and soothing blues that make your content captivating. Perfect for educational, business, or personal use, this theme will engage your audience and enhance storytelling. Dive into creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Google Slides themes & PowerPoint templates about the Sea">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/41467976/beautiful-ocean1695804004.jpg' alt='Free Google Slides themes & PowerPoint templates about the Sea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/41467976/beautiful-ocean1695804004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Ocean. Free PPT & Google Slides Template — SlidesCarnival">
+                                <img itemprop="contentUrl url" src='https://www.slidescarnival.com/wp-content/uploads/free-powerpoint-template-or-google-slides-theme-with-sea-underwater-illustrations.jpg' alt='Blue Ocean. Free PPT & Google Slides Template — SlidesCarnival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCarnival" />
+                                </span>
+                                <a href='https://www.slidescarnival.com/wp-content/uploads/free-powerpoint-template-or-google-slides-theme-with-sea-underwater-illustrations.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discovering the Ocean Nature Powerpoint Template and Google Slides ...">
+                                <img itemprop="contentUrl url" src='https://stg-uploads.slidenest.com/template_855/templateColor_889/previewImages/discovering-the-ocean-nature-powerpoint-google-slides-keynote-presentation-template-1.jpeg' alt='Discovering the Ocean Nature Powerpoint Template and Google Slides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidenest" />
+                                </span>
+                                <a href='https://stg-uploads.slidenest.com/template_855/templateColor_889/previewImages/discovering-the-ocean-nature-powerpoint-google-slides-keynote-presentation-template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Life Google Slides theme & PowerPoint template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/8647501/conversions/0-sea-life-thumb.jpg' alt='Sea Life Google Slides theme & PowerPoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/8647501/conversions/0-sea-life-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Themes for Google Slides and PPT Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/85527-ocean-themes-for-google-slides.png' alt='Ocean Themes for Google Slides and PPT Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/85527-ocean-themes-for-google-slides.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Ocean Google Slides Themes and PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/24422631/COVER-Chill-Summer-Beach-Minitheme-for-Marketing-XL-by-Slidesgo.gif' alt='Free Ocean Google Slides Themes and PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/24422631/COVER-Chill-Summer-Beach-Minitheme-for-Marketing-XL-by-Slidesgo.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Ocean Presentation Theme for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/5/f/5f4761b872cb4287a047127bb9d91e134d2f65b7a04e48d4adee5d348706d979/ocean-slide1_1.png' alt='Free Ocean Presentation Theme for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/5/f/5f4761b872cb4287a047127bb9d91e134d2f65b7a04e48d4adee5d348706d979/ocean-slide1_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sebastian, ocean slides theme. - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/09/Sebastian-789x444.jpg' alt='Sebastian, ocean slides theme. - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/09/Sebastian-789x444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Ocean Google Slides and PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/64544-ocean-google-slides-theme.png' alt='Elegant Ocean Google Slides and PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/64544-ocean-google-slides-theme.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Ocean Google Slides Themes and PowerPoint Templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/18949702/medical-waste-and-diseases1648112371.jpg' alt='Free Ocean Google Slides Themes and PowerPoint Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/18949702/medical-waste-and-diseases1648112371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

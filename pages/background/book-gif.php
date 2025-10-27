@@ -1,0 +1,129 @@
+<title>Engaging Book Gifs: Bring Literature to Life</title>
+                    <meta name="description" content="Discover captivating book gifs that animate your favorite stories! Perfect for social media, these short, creative visuals highlight memorable quotes and images. Let your love for reading shine through with fun book-themed gifs tailored for fellow bookworms and casual readers alike.">
+                    <meta name="keywords" content="book gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/book-gif">
+                            <span itemprop="name">book gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Book Gifs: Bring Literature to Life</h1>
+                <p>Book gifs are playful animations that bring literature to life, making reading fun and engaging. They can highlight quotes, showcase book covers, or depict iconic moments from stories. Perfect for social media sharing, these gifs capture the essence of beloved books, sparking interest and excitement in both avid readers and casual onlookers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Opening GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/W4uQ2KZt14br2hJ3sM/200w.gif?cid=6c09b952a1853hzc75eeu56fgjozniz2sfoqb4lqffy45gy5&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Book Opening GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/W4uQ2KZt14br2hJ3sM/200w.gif?cid=6c09b952a1853hzc75eeu56fgjozniz2sfoqb4lqffy45gy5&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Book GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/UQ84N6dIWObZWILqsE/giphy.gif?cid=6c09b9529ph7qtz53suciylz79nqfrufjcrvxbdsdwiwflgl&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Magic Book GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/UQ84N6dIWObZWILqsE/giphy.gif?cid=6c09b9529ph7qtz53suciylz79nqfrufjcrvxbdsdwiwflgl&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiction Books Stickers - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/VfK8uwEgsWawGtsSKO/giphy.gif?cid=6c09b952wd3r3rz5vc9egyu8ris7wewtfnw2ciro1qux13e5&ep=v1_stickers_search&rid=giphy.gif&ct=s' alt='Fiction Books Stickers - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/VfK8uwEgsWawGtsSKO/giphy.gif?cid=6c09b952wd3r3rz5vc9egyu8ris7wewtfnw2ciro1qux13e5&ep=v1_stickers_search&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Animation [GIF] by Stefan Göllner on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/19646652/file/original-b84277d6110f0722a534324ac2c977a8.gif' alt='Book Animation [GIF] by Stefan Göllner on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/19646652/file/original-b84277d6110f0722a534324ac2c977a8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Literacyday GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/5jYbuITbRUefXNGS1o/giphy.gif?cid=6c09b9526mlvdl3l5iaofjeqftdb1yhn497a8woby7e0kolp&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Literacyday GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/5jYbuITbRUefXNGS1o/giphy.gif?cid=6c09b9526mlvdl3l5iaofjeqftdb1yhn497a8woby7e0kolp&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Animations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/de/9e/b6/de9eb637d1dac9a77a7f3822ed57ce07.gif' alt='Best Animations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/de/9e/b6/de9eb637d1dac9a77a7f3822ed57ce07.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Book Text GIF by sheepfilms - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/I4KuGRVHwcUG8sPpNo/giphy.gif?cid=6c09b952zj2wypzmicozjcezugr4zrrh325u6br1ty3zh6x5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Open Book Text GIF by sheepfilms - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/I4KuGRVHwcUG8sPpNo/giphy.gif?cid=6c09b952zj2wypzmicozjcezugr4zrrh325u6br1ty3zh6x5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/XQ99RPTQeqN0CDBnr5/giphy.gif?cid=6c09b952e8kcnwfdu0r6pz67f6rx64bzlyn95zuoi7h0m4sb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- Find & Share on GIPHY" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/XQ99RPTQeqN0CDBnr5/giphy.gif?cid=6c09b952e8kcnwfdu0r6pz67f6rx64bzlyn95zuoi7h0m4sb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/B-dneC0C6bUAAAAM/study-book.gif' alt='Book GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/B-dneC0C6bUAAAAM/study-book.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Head GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=6c09b952el5vk55zx64anhpj1224m9j790gq30hfcalun5sn&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Book Head GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=6c09b952el5vk55zx64anhpj1224m9j790gq30hfcalun5sn&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

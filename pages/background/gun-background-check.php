@@ -1,0 +1,129 @@
+<title>Understanding Gun Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover the importance of gun background checks. Learn how these checks are conducted to ensure responsible firearm ownership and promote public safety. Get informed about the process and what it entails for potential gun buyers.">
+                    <meta name="keywords" content="gun background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gun-background-check">
+                            <span itemprop="name">gun background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Gun Background Checks: What You Need to Know</h1>
+                <p>A gun background check is an essential process that verifies an individual's eligibility to purchase a firearm. Conducted by licensed dealers, it examines criminal history, mental health status, and other factors to promote responsible gun ownership. These checks aim to enhance public safety and prevent firearms from falling into the wrong hands.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Gun Background Check Take?– Liberty Home Concealment">
+                                <img itemprop="contentUrl url" src='https://libertyhomeconcealment.com/cdn/shop/articles/How_Long_Does_a_Gun_Background_Check_Take.jpg?v=1643988863' alt='How Long Does a Gun Background Check Take?– Liberty Home Concealment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Home Concealment" />
+                                </span>
+                                <a href='https://libertyhomeconcealment.com/cdn/shop/articles/How_Long_Does_a_Gun_Background_Check_Take.jpg?v=1643988863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Background Checks Lower Homicide Rates | SPH">
+                                <img itemprop="contentUrl url" src='https://www.bu.edu/sph/files/2019/03/Universal-Background-Checks-400x241.jpeg' alt='Universal Background Checks Lower Homicide Rates | SPH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston University" />
+                                </span>
+                                <a href='https://www.bu.edu/sph/files/2019/03/Universal-Background-Checks-400x241.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Background Checks Are Not the Answer to Gun Violence ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2018/02/13/opinion/13lott-web/merlin_103170154_a77b5c51-4b02-4edb-8462-738f50317c62-superJumbo.jpg' alt='Opinion | Background Checks Are Not the Answer to Gun Violence ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2018/02/13/opinion/13lott-web/merlin_103170154_a77b5c51-4b02-4edb-8462-738f50317c62-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Firearms Checks (NICS) — FBI">
+                                <img itemprop="contentUrl url" src='https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics/@@images/image' alt='Firearms Checks (NICS) — FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1615">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI" />
+                                </span>
+                                <a href='https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics/@@images/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Form 4473 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Atf_form_4473-firearms_transaction_record_5300_9revised_0.pdf/page1-800px-Atf_form_4473-firearms_transaction_record_5300_9revised_0.pdf.jpg' alt='Form 4473 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Atf_form_4473-firearms_transaction_record_5300_9revised_0.pdf/page1-800px-Atf_form_4473-firearms_transaction_record_5300_9revised_0.pdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Gun Background Checks">
+                                <img itemprop="contentUrl url" src='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' alt='The History of Gun Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEE.org" />
+                                </span>
+                                <a href='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Federal Background Check System Allowed Nearly 7,000 Domestic ...">
+                                <img itemprop="contentUrl url" src='https://www.thetrace.org/wp-content/uploads/2016/07/shutterstock_362809967-scaled.jpg' alt='The Federal Background Check System Allowed Nearly 7,000 Domestic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Trace" />
+                                </span>
+                                <a href='https://www.thetrace.org/wp-content/uploads/2016/07/shutterstock_362809967-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Fixing Gun Background Checks - Center for American ...">
+                                <img itemprop="contentUrl url" src='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' alt='Infographic: Fixing Gun Background Checks - Center for American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Center for American Progress" />
+                                </span>
+                                <a href='http://americanprogress.org/wp-content/uploads/sites/2/2013/03/GunBackgroundCheckInfographic_4-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illinois, Kentucky lead country in FBI firearm background checks ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/6/f4/6f47652c-24f0-59cf-b6fd-fb63606905c1/6181b841cd749.image.jpg' alt='Illinois, Kentucky lead country in FBI firearm background checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WSIL" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/6/f4/6f47652c-24f0-59cf-b6fd-fb63606905c1/6181b841cd749.image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nevada Background Check Act Requirements for Private Gun Sales ...">
+                                <img itemprop="contentUrl url" src='https://www.thegerstenlawfirm.com/wp-content/uploads/sites/528/primary-images/334-333.jpg' alt='Nevada Background Check Act Requirements for Private Gun Sales ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gersten Law Firm" />
+                                </span>
+                                <a href='https://www.thegerstenlawfirm.com/wp-content/uploads/sites/528/primary-images/334-333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

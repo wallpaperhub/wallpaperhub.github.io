@@ -1,0 +1,129 @@
+<title>Vibrant Red Graffiti Backgrounds for Bold Designs</title>
+                    <meta name="description" content="Explore striking red graffiti backgrounds to elevate your creative projects. Perfect for digital designs, websites, and social media, these energetic visuals embody urban art and self-expression. Transform your content with a touch of boldness and style!">
+                    <meta name="keywords" content="red graffiti background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-graffiti-background">
+                            <span itemprop="name">red graffiti background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Graffiti Backgrounds for Bold Designs</h1>
+                <p>Red graffiti backgrounds are a bold and eye-catching choice for various creative projects. The vibrant hue captures attention, bringing energy and passion to designs. This rebellious art form conveys urban culture and self-expression, making it perfect for enhancing graphic designs, websites, or social media content. Embrace chaos with red graffiti!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Red">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64851/graffiti-brick-wall-red.jpg?h=699&q=85' alt='Graffiti Brick Wall - Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64851/graffiti-brick-wall-red.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,700+ Red Graffiti Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360170851/vector/black-red-and-white-abstract-hip-hop-street-art-graffiti-style-urban-calligraphy-vector.jpg?s=612x612&w=0&k=20&c=BqwsJd75VYPf7k1XdbscJkngxqE6FizJpPRVxijVO-g=' alt='5,700+ Red Graffiti Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360170851/vector/black-red-and-white-abstract-hip-hop-street-art-graffiti-style-urban-calligraphy-vector.jpg?s=612x612&w=0&k=20&c=BqwsJd75VYPf7k1XdbscJkngxqE6FizJpPRVxijVO-g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,138 White Black Red Graffiti Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/graffiti-red-vertical-2716242.jpg' alt='5,138 White Black Red Graffiti Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/graffiti-red-vertical-2716242.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Detail from Graffiti Wall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52902/red-detail-from-graffiti-wall.jpg?h=699&q=85' alt='Red Detail from Graffiti Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52902/red-detail-from-graffiti-wall.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,700+ Red Graffiti Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1331353813/vector/red-grunge-poster-background-vector.jpg?s=612x612&w=0&k=20&c=CUdkYz01D95NPiQD0deh5du3QpXQ6ZygYtlnUOLLsLk=' alt='5,700+ Red Graffiti Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1331353813/vector/red-grunge-poster-background-vector.jpg?s=612x612&w=0&k=20&c=CUdkYz01D95NPiQD0deh5du3QpXQ6ZygYtlnUOLLsLk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Background Red Stock Photos and Pictures - 162,622 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2352287939/display_1500/stock-vector-red-colorful-abstract-urban-style-hiphop-graffiti-street-art-vector-illustration-background-template-2352287939.jpg' alt='Graffiti Background Red Stock Photos and Pictures - 162,622 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2352287939/display_1500/stock-vector-red-colorful-abstract-urban-style-hiphop-graffiti-street-art-vector-illustration-background-template-2352287939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c3/48/24/c348243e869af5c8164a904b98b72825.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c3/48/24/c348243e869af5c8164a904b98b72825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Graffiti by HighScore on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0f245cb-958b-47e4-af71-6a056a1c1f3b/dk385b-6ef602c9-00d8-4439-b51f-a57276ab0c77.png/v1/fill/w_1024,h_768,q_80,strp/red_graffiti_by_highscore_dk385b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZTBmMjQ1Y2ItOTU4Yi00N2U0LWFmNzEtNmEwNTZhMWMxZjNiXC9kazM4NWItNmVmNjAyYzktMDBkOC00NDM5LWI1MWYtYTU3Mjc2YWIwYzc3LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FydNftzTspXNciqSL8cLZjwXIzqIEG397IQWcWNe3oQ' alt='Red Graffiti by HighScore on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e0f245cb-958b-47e4-af71-6a056a1c1f3b/dk385b-6ef602c9-00d8-4439-b51f-a57276ab0c77.png/v1/fill/w_1024,h_768,q_80,strp/red_graffiti_by_highscore_dk385b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZTBmMjQ1Y2ItOTU4Yi00N2U0LWFmNzEtNmEwNTZhMWMxZjNiXC9kazM4NWItNmVmNjAyYzktMDBkOC00NDM5LWI1MWYtYTU3Mjc2YWIwYzc3LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FydNftzTspXNciqSL8cLZjwXIzqIEG397IQWcWNe3oQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Red Colorful Abstract Urban Style Hiphop Graffiti ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-colorful-abstract-urban-style-hiphop-graffiti-street-art-vector-illustration-background_214056-1640.jpg' alt='Premium Vector | Red Colorful Abstract Urban Style Hiphop Graffiti ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-colorful-abstract-urban-style-hiphop-graffiti-street-art-vector-illustration-background_214056-1640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Seamless Colorful Urban Graffiti Style Sticker Bombing with ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-seamless-colorful-urban-graffiti-style-sticker-bombing-some-street-art-lettering-background-abstract-hello-my-name-300998006.jpg' alt='Red Seamless Colorful Urban Graffiti Style Sticker Bombing with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-seamless-colorful-urban-graffiti-style-sticker-bombing-some-street-art-lettering-background-abstract-hello-my-name-300998006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

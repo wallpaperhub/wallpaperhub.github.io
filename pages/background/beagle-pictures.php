@@ -1,0 +1,129 @@
+<title>Adorable Beagle Pictures: A Gallery of Cuteness</title>
+                    <meta name="description" content="Discover captivating beagle pictures that showcase their charm, playfulness, and adorable features. Perfect for dog lovers, these images highlight the joyful essence of beagles in various settings. From candid moments to posed portraits, explore this delightful collection and find your favorite beagle shot!">
+                    <meta name="keywords" content="beagle pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beagle-pictures">
+                            <span itemprop="name">beagle pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Beagle Pictures: A Gallery of Cuteness</h1>
+                <p>Beagles are lovable, curious, and expressive dogs known for their charming appearance and playful nature. Their adorable looks, including floppy ears and soulful eyes, make them a favorite in the dog community. Explore a variety of beagle pictures showcasing their playful antics, serene moments, and heartwarming expressions that capture the essence of this delightful breed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-in-a-frosty-field-on-a-cold-morning.jpg' alt='Beagle Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-in-a-frosty-field-on-a-cold-morning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle | Overview, Lifespan, Health, History & Temperament ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg' alt='Beagle | Overview, Lifespan, Health, History & Temperament ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle: Dog Breed Characteristics & Care">
+                                <img itemprop="contentUrl url" src='https://www.thesprucepets.com/thmb/76Jd0a4_CBxXNyBah2gbK099xGo=/4367x0/filters:no_upscale():strip_icc()/beagle-RolfKopfle-Photolibrary-Getty-135631212-56a26b1d3df78cf772756667.jpg' alt='Beagle: Dog Breed Characteristics & Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4367">
+                                <meta itemprop="height" content="2911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Pets" />
+                                </span>
+                                <a href='https://www.thesprucepets.com/thmb/76Jd0a4_CBxXNyBah2gbK099xGo=/4367x0/filters:no_upscale():strip_icc()/beagle-RolfKopfle-Photolibrary-Getty-135631212-56a26b1d3df78cf772756667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,439 Beagle Stock Photos, High-Res Pictures, and Images - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/157603003/photo/cute-beagle-at-park.jpg?s=612x612&w=gi&k=20&c=4iIuv20bBDEkPzRP_ZCWIl4tm9ZcL0NBn7QfubO09Ug=' alt='17,439 Beagle Stock Photos, High-Res Pictures, and Images - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/157603003/photo/cute-beagle-at-park.jpg?s=612x612&w=gi&k=20&c=4iIuv20bBDEkPzRP_ZCWIl4tm9ZcL0NBn7QfubO09Ug=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle Breed Info | Best Food, Training, Grooming & More">
+                                <img itemprop="contentUrl url" src='https://www.bil-jac.com/wp-content/uploads/2024/12/beagle2-184102750.webp' alt='Beagle Breed Info | Best Food, Training, Grooming & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bil-Jac" />
+                                </span>
+                                <a href='https://www.bil-jac.com/wp-content/uploads/2024/12/beagle2-184102750.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle Breed: Characteristics, Care & Photos | Chewy">
+                                <img itemprop="contentUrl url" src='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181107/202104GettyImages-1411469044-scaled-1.jpg' alt='Beagle Breed: Characteristics, Care & Photos | Chewy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chewy.com" />
+                                </span>
+                                <a href='https://pet-health-content-media.chewy.com/wp-content/uploads/2024/09/11181107/202104GettyImages-1411469044-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Beagle Pros And Cons: Is A Beagle The Right Dog For You? - Ollie ...">
+                                <img itemprop="contentUrl url" src='https://blog.myollie.com/wp-content/uploads/2020/02/beagle-puppy-running-through-a-yard-with-a-ball-in-his-mouth.jpg' alt='8 Beagle Pros And Cons: Is A Beagle The Right Dog For You? - Ollie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ollie Blog" />
+                                </span>
+                                <a href='https://blog.myollie.com/wp-content/uploads/2020/02/beagle-puppy-running-through-a-yard-with-a-ball-in-his-mouth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b6/Shemsu_Sotis_Perun.jpg' alt='Beagle - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3093">
+                                <meta itemprop="height" content="2104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b6/Shemsu_Sotis_Perun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breed highlight – Beagle facts and things to know | Addiction Pet SG">
+                                <img itemprop="contentUrl url" src='https://addictionpet.b-cdn.net/en-sg/wp-content/uploads/sites/4/2022/04/cute-beagle-puppy-lilly.jpg' alt='Breed highlight – Beagle facts and things to know | Addiction Pet SG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2863">
+                                <meta itemprop="height" content="2046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Addiction Pet Foods" />
+                                </span>
+                                <a href='https://addictionpet.b-cdn.net/en-sg/wp-content/uploads/sites/4/2022/04/cute-beagle-puppy-lilly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beagle Puppy Training Timeline: How to Train & Raise a Beagle">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2021/01/Beagle-puppy-standing-in-the-grass-1.jpeg' alt='Beagle Puppy Training Timeline: How to Train & Raise a Beagle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2021/01/Beagle-puppy-standing-in-the-grass-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Background Checks at Canada’s Borders: What You Need to Know</title>
+                    <meta name="description" content="Discover how Canada conducts background checks at its borders to ensure safety and security. Learn what travelers should know about screening processes and potential implications for entering the country. Stay informed and prepared for your trip to Canada.">
+                    <meta name="keywords" content="does canada do background check border">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-canada-do-background-check-border">
+                            <span itemprop="name">does canada do background check border</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Checks at Canada’s Borders: What You Need to Know</h1>
+                <p>Yes, Canada conducts background checks at its borders. When entering Canada, travelers are screened for criminal records, previous immigration violations, and other security risks. This process helps ensure public safety and maintain the integrity of Canada's immigration system. It's essential for travelers to be aware of this to avoid complications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Canada do Background Checks at the Border? [Answered]">
+                                <img itemprop="contentUrl url" src='https://www.dogenlaw.com/wp-content/uploads/2018/08/DogenLaw_Image03-1.jpg' alt='Does Canada do Background Checks at the Border? [Answered]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dogen Law" />
+                                </span>
+                                <a href='https://www.dogenlaw.com/wp-content/uploads/2018/08/DogenLaw_Image03-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Canada Do Background Check Border?">
+                                <img itemprop="contentUrl url" src='https://www.klmimmigration.com/wp-content/uploads/2022/12/cbsa-pic.jpg' alt='Does Canada Do Background Check Border?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KLM Immigration Law" />
+                                </span>
+                                <a href='https://www.klmimmigration.com/wp-content/uploads/2022/12/cbsa-pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does Canada Know About My US Criminal Record?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/66a9095f34507b00a08e86a9/66daae9d49db3a9f7a8b6b23_66cafbeda8b87a4a63f271c8_66b1fdd58cf7f3bec969a33e_pietro-de-grandi-y1O3iVE_MZ0-unsplash-scaled.jpeg' alt='How Does Canada Know About My US Criminal Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllCleared" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/66a9095f34507b00a08e86a9/66daae9d49db3a9f7a8b6b23_66cafbeda8b87a4a63f271c8_66b1fdd58cf7f3bec969a33e_pietro-de-grandi-y1O3iVE_MZ0-unsplash-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Canadian Visa Application Background Check - Road to Canada">
+                                <img itemprop="contentUrl url" src='https://roadtocanada.ca/wp-content/uploads/2024/02/B6okgy1-1-1024x881.webp' alt='What is a Canadian Visa Application Background Check - Road to Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="roadtocanada.ca" />
+                                </span>
+                                <a href='https://roadtocanada.ca/wp-content/uploads/2024/02/B6okgy1-1-1024x881.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why was I allowed entry to Canada with a criminal record last time?">
+                                <img itemprop="contentUrl url" src='https://www.klmimmigration.com/wp-content/uploads/2022/12/usa-canada-border-NEW.jpg' alt='Why was I allowed entry to Canada with a criminal record last time?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KLM Immigration Law" />
+                                </span>
+                                <a href='https://www.klmimmigration.com/wp-content/uploads/2022/12/usa-canada-border-NEW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Canadian RCMP Criminal Record Check for US Immigration">
+                                <img itemprop="contentUrl url" src='https://thefingerprintroom.com/wp-content/uploads/2024/07/Canadian-RCMP-criminal-record-check-certificate-for-US-immigration-.jpg' alt='Get Canadian RCMP Criminal Record Check for US Immigration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fingerprint Room Inc." />
+                                </span>
+                                <a href='https://thefingerprintroom.com/wp-content/uploads/2024/07/Canadian-RCMP-criminal-record-check-certificate-for-US-immigration-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Free Background Check on Someone in Canada - National ...">
+                                <img itemprop="contentUrl url" src='https://nationalpardon.org/wp-content/uploads/2019/04/free-background-check-canada-1280x720.png' alt='How to Do a Free Background Check on Someone in Canada - National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Pardon Centre" />
+                                </span>
+                                <a href='https://nationalpardon.org/wp-content/uploads/2019/04/free-background-check-canada-1280x720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian Criminal Background (RCMP) check search _ Korvia Guide">
+                                <img itemprop="contentUrl url" src='https://support.korvia.com/galleryDocuments/edbsn407d13f1a4ddc0ef377e15633da9762ef3d85572c09637d7cd2f8a83f1b7b9375eab2980f9e737e44a07ab73ad978329?inline=true' alt='Canadian Criminal Background (RCMP) check search _ Korvia Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teach English Abroad - Korvia Consulting" />
+                                </span>
+                                <a href='https://support.korvia.com/galleryDocuments/edbsn407d13f1a4ddc0ef377e15633da9762ef3d85572c09637d7cd2f8a83f1b7b9375eab2980f9e737e44a07ab73ad978329?inline=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks for Canadian Workers Employed in the US">
+                                <img itemprop="contentUrl url" src='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/04/canadian-workers-in-the-us.jpg' alt='Background Checks for Canadian Workers Employed in the US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Check Central" />
+                                </span>
+                                <a href='https://www.backgroundcheckcentral.com/wp-content/uploads/2022/04/canadian-workers-in-the-us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When to Use a Canada Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/07f4e59c30a0e77f9efa1679a7b87bc6/Article-Canada-Background-Check-963x413-1.png' alt='When to Use a Canada Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/07f4e59c30a0e77f9efa1679a7b87bc6/Article-Canada-Background-Check-963x413-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

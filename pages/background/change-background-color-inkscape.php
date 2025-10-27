@@ -1,0 +1,129 @@
+<title>Change Background Color in Inkscape: A Simple Guide</title>
+                    <meta name="description" content="Discover how to easily change the background color in Inkscape with our quick, step-by-step guide. Transform your designs effectively and enhance your workflow with just a few clicks. Perfect for beginners and experienced users alike!">
+                    <meta name="keywords" content="change background color inkscape">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/change-background-color-inkscape">
+                            <span itemprop="name">change background color inkscape</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Change Background Color in Inkscape: A Simple Guide</h1>
+                <p>To change the background color in Inkscape, open your document and go to File > Document Properties. In the 'Background' section, click the color box to select a new color. Adjust the Alpha value for transparency if needed. Save your changes, and your new background color will be visible in the workspace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change The Background Color In Inkscape – Logos By Nick">
+                                <img itemprop="contentUrl url" src='https://logosbynick.com/wp-content/uploads/2020/07/change-color.png' alt='How To Change The Background Color In Inkscape – Logos By Nick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos By Nick" />
+                                </span>
+                                <a href='https://logosbynick.com/wp-content/uploads/2020/07/change-color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="color - Inkscape: how to set black background? - Graphic Design ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/8Sm8E.png' alt='color - Inkscape: how to set black background? - Graphic Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1132">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/8Sm8E.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inkscape background color | Learn How to set the Background color?">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2021/01/Inkscape-background-color-output-14.png' alt='Inkscape background color | Learn How to set the Background color?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2021/01/Inkscape-background-color-output-14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change The Background Color In Inkscape">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0KST7AAyMX4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoi7BSSsL9hJoxSksZB-c2Q5eTXQ' alt='Change The Background Color In Inkscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0KST7AAyMX4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoi7BSSsL9hJoxSksZB-c2Q5eTXQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the background / not working area color - InkscapeForum.com">
+                                <img itemprop="contentUrl url" src='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file3f91.png' alt='Change the background / not working area color - InkscapeForum.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inkscape" />
+                                </span>
+                                <a href='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file3f91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inkscape: How To Change The Background Color In Inkscape">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/stkASBeWLJk/maxresdefault.jpg' alt='Inkscape: How To Change The Background Color In Inkscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/stkASBeWLJk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inkscape background color | Learn How to set the Background color?">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2021/01/Inkscape-background-color-output-4.png' alt='Inkscape background color | Learn How to set the Background color?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2021/01/Inkscape-background-color-output-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set & Change the Background Color in Inkscape">
+                                <img itemprop="contentUrl url" src='https://imagy.app/wp-content/uploads/2023/03/page-color-block.png' alt='How to Set & Change the Background Color in Inkscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="imagy.app" />
+                                </span>
+                                <a href='https://imagy.app/wp-content/uploads/2023/03/page-color-block.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change Inkscape's canvas color - InkscapeForum.com">
+                                <img itemprop="contentUrl url" src='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file382c.png' alt='How to change Inkscape's canvas color - InkscapeForum.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inkscape" />
+                                </span>
+                                <a href='https://alpha.inkscape.org/vectors/www.inkscapeforum.com/download/file382c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Default Background Color in Inkscape">
+                                <img itemprop="contentUrl url" src='https://i.vimeocdn.com/video/923723429-d89082d2aadc575d6f17801075272a6e699f9e181b2870fe3a6ba98804ce54cd-d?f=webp' alt='Change Default Background Color in Inkscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos By Nick" />
+                                </span>
+                                <a href='https://i.vimeocdn.com/video/923723429-d89082d2aadc575d6f17801075272a6e699f9e181b2870fe3a6ba98804ce54cd-d?f=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

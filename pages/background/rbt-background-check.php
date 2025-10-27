@@ -1,0 +1,129 @@
+<title>Essential RBT Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover the importance of RBT background checks in ensuring the safety and quality of behavioral health services. Learn how these checks verify qualifications and foster trust among clients and families, securing a high standard of care in the industry.">
+                    <meta name="keywords" content="rbt background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rbt-background-check">
+                            <span itemprop="name">rbt background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential RBT Background Checks: What You Need to Know</h1>
+                <p>A Registered Behavior Technician (RBT) background check is vital for ensuring the safety and quality of care in behavioral health. This comprehensive check examines previous employment, education, and criminal history to verify qualifications. It helps maintain high standards in service delivery and fosters trust with clients and their families.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Definite Guide to RBT Certification Process and Requirements">
+                                <img itemprop="contentUrl url" src='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/047/171/732/jMDOvP3KezRbON9kzlqoyk8AW/8403bc709484aaaacafcae45af89e2cc04c1ef02.jpg' alt='Definite Guide to RBT Certification Process and Requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABA Building Blocks" />
+                                </span>
+                                <a href='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/047/171/732/jMDOvP3KezRbON9kzlqoyk8AW/8403bc709484aaaacafcae45af89e2cc04c1ef02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions on how to become an RBT.">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2149413102/settings_images/610ae01-ece3-ed80-8a66-724e87c5404_5692fa9c-5e6a-4429-9fc9-85257427af5f.jpg' alt='Frequently Asked Questions on how to become an RBT.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2367">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Registered Behavior Technician® Training" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2149413102/settings_images/610ae01-ece3-ed80-8a66-724e87c5404_5692fa9c-5e6a-4429-9fc9-85257427af5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Entry level RBT here and had my first interview today/got hired. I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8jf4jjl2jmq61.jpg?auto=webp&s=b3a8ce5a9d104c471c08e2a748b7ca5434b3494e' alt='Entry level RBT here and had my first interview today/got hired. I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1756">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8jf4jjl2jmq61.jpg?auto=webp&s=b3a8ce5a9d104c471c08e2a748b7ca5434b3494e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get RBT Certification (with Pictures) - wikiHow">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/7/71/Get-RBT-Certification-Step-3.jpg/v4-460px-Get-RBT-Certification-Step-3.jpg' alt='How to Get RBT Certification (with Pictures) - wikiHow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/7/71/Get-RBT-Certification-Step-3.jpg/v4-460px-Get-RBT-Certification-Step-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FAQs how to become a Registered Behavior Technician (RBT)">
+                                <img itemprop="contentUrl url" src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2330/images/2a71d8-0ae4-75d-eff0-dbe21ec6dfa5_How_to_become_an_RBT2_v2.jpg' alt='FAQs how to become a Registered Behavior Technician (RBT)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Registered Behavior Technician® Training" />
+                                </span>
+                                <a href='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2330/images/2a71d8-0ae4-75d-eff0-dbe21ec6dfa5_How_to_become_an_RBT2_v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 RBT Competencies for 2025">
+                                <img itemprop="contentUrl url" src='https://lwfiles000.mycourse.app/school039823-public/ee1422785bf3af8748f5d8b0f372c6cc.png' alt='20 RBT Competencies for 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1468">
+                                <meta itemprop="height" content="1848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATCC Online" />
+                                </span>
+                                <a href='https://lwfiles000.mycourse.app/school039823-public/ee1422785bf3af8748f5d8b0f372c6cc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RBT Initial Competency Assessment Form">
+                                <img itemprop="contentUrl url" src='https://lwfiles000.mycourse.app/school039823-public/fcafab377a93cc171ce3a064691e5ad7.png' alt='RBT Initial Competency Assessment Form'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1474">
+                                <meta itemprop="height" content="1832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATCC Online" />
+                                </span>
+                                <a href='https://lwfiles000.mycourse.app/school039823-public/fcafab377a93cc171ce3a064691e5ad7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Key Changes Coming in 2025: Streamlining the RBT® Certification ...">
+                                <img itemprop="contentUrl url" src='https://lwfiles000.mycourse.app/school039823-public/3eabee5ea9b8e1c15b8160916e9c3a52.png' alt='Key Changes Coming in 2025: Streamlining the RBT® Certification ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATCC Online" />
+                                </span>
+                                <a href='https://lwfiles000.mycourse.app/school039823-public/3eabee5ea9b8e1c15b8160916e9c3a52.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Registered Behavior Technician Handbook">
+                                <img itemprop="contentUrl url" src='x-raw-image:///dbd2896b3bdb5f238882ba45cdc4f28b3071ba3949151931bca1cb35f99dc70b' alt='Registered Behavior Technician Handbook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BACB" />
+                                </span>
+                                <a href='x-raw-image:///dbd2896b3bdb5f238882ba45cdc4f28b3071ba3949151931bca1cb35f99dc70b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your Registered Behavior Technician Certification">
+                                <img itemprop="contentUrl url" src='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/048/411/234/JWBKNELpyQ2elODr6PvbX5R93/b037f6661b2ae3792d33177bef8fa7c0c59131e8.jpg' alt='How to Get Your Registered Behavior Technician Certification'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1790">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABA Building Blocks" />
+                                </span>
+                                <a href='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/048/411/234/JWBKNELpyQ2elODr6PvbX5R93/b037f6661b2ae3792d33177bef8fa7c0c59131e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

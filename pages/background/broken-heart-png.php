@@ -1,0 +1,129 @@
+<title>Heartbreak PNG Images: Express Your Emotions</title>
+                    <meta name="description" content="Discover a collection of broken heart PNG images perfect for your creative projects. Express your emotions with these transparent graphics, ideal for social media, designs, and more. Find the perfect broken heart illustration to communicate your feelings today!">
+                    <meta name="keywords" content="broken heart png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broken-heart-png">
+                            <span itemprop="name">broken heart png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heartbreak PNG Images: Express Your Emotions</h1>
+                <p>Broken heart PNG images are perfect for expressing emotions and creativity. Whether you're designing a project, creating social media posts, or simply looking to convey feelings of heartache, these transparent images can add a dramatic touch. Explore various styles, from simple outlines to intricate designs, and let your emotions flow through your artwork.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart PNG transparent image download, size: 600x475px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/broken_heart_PNG22.png' alt='Broken heart PNG transparent image download, size: 600x475px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/broken_heart_PNG22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210414/ourmid/pngtree-broken-heart-png-png-image_3219347.jpg' alt='Broken Heart PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210414/ourmid/pngtree-broken-heart-png-png-image_3219347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart PNG transparent image download, size: 512x512px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/broken_heart_PNG51.png' alt='Broken heart PNG transparent image download, size: 512x512px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/broken_heart_PNG51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart PNG Images - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/broken-heart-png/broken-heart-png-clipart-2.png' alt='Broken Heart PNG Images - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/broken-heart-png/broken-heart-png-clipart-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart Svg | Broken Heart Png | Red Broken Heart Cricut Cut File |  Broken Heart Silhouette">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36262552/r/il/d65a2c/4674390422/il_570xN.4674390422_4270.jpg' alt='Broken Heart Svg | Broken Heart Png | Red Broken Heart Cricut Cut File |  Broken Heart Silhouette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36262552/r/il/d65a2c/4674390422/il_570xN.4674390422_4270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart, broken heart, love, heart png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/804/140/png-clipart-broken-heart-broken-heart-love-heart.png' alt='Broken heart, broken heart, love, heart png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/804/140/png-clipart-broken-heart-broken-heart-love-heart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart Icon | Noto Emoji People Family & Love Iconpack | Google">
+                                <img itemprop="contentUrl url" src='https://www.iconarchive.com/download/i108683/google/noto-emoji-people-family-love/12140-broken-heart.1024.png' alt='Broken heart Icon | Noto Emoji People Family & Love Iconpack | Google'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icon Archive" />
+                                </span>
+                                <a href='https://www.iconarchive.com/download/i108683/google/noto-emoji-people-family-love/12140-broken-heart.1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart Illustration - Illustration of a Broken Heart ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190326/hwp/kisspng-emoji-clip-art-heart-portable-network-graphics-emo-1713900025517.webp' alt='Broken Heart Illustration - Illustration of a Broken Heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190326/hwp/kisspng-emoji-clip-art-heart-portable-network-graphics-emo-1713900025517.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/489/851/small_2x/broken-heart-drip-blood-heart-injury-with-bandage-png.png' alt='Broken Heart PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/489/851/small_2x/broken-heart-drip-blood-heart-injury-with-bandage-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart PNG transparent image download, size: 400x400px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/broken_heart_PNG47.png' alt='Broken heart PNG transparent image download, size: 400x400px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/broken_heart_PNG47.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

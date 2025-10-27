@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Red Barrel Studio Wallpaper</title>
+                    <meta name="description" content="Discover the perfect blend of style and creativity with Red Barrel Studio wallpaper. Explore an extensive range of designs, colors, and textures to breathe new life into your home decor, making every room a reflection of your personal style. Upgrade your interiors today!">
+                    <meta name="keywords" content="red barrel studio wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-barrel-studio-wallpaper">
+                            <span itemprop="name">red barrel studio wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Red Barrel Studio Wallpaper</h1>
+                <p>Red Barrel Studio wallpaper offers a stunning array of designs that can transform your living space with elegance and style. From contemporary patterns to classic motifs, each wallpaper is crafted to enhance your home decor. Perfect for any room, discover a wide selection of colors and textures to match your unique taste.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Floral+Tile.jpg' alt='Vintage Floral Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/66562568/resize-h800-w800%5Ecompr-r85/2309/230906153/Floral+Tile.jpg' alt='Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/66562568/resize-h800-w800%5Ecompr-r85/2309/230906153/Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/61036751/compr-r85/2465/246521087/peel-stick-floral-roll.jpg' alt='Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/61036751/compr-r85/2465/246521087/peel-stick-floral-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Leaves Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/70988990/resize-h755-w755%5Ecompr-r85/1927/192735598/Dark+Blue+Leaves+Wallpaper+Floral+Tile.jpg' alt='Dark Blue Leaves Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/70988990/resize-h755-w755%5Ecompr-r85/1927/192735598/Dark+Blue+Leaves+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Wallpaper Panel | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/71359692/resize-h800-w800%5Ecompr-r85/2280/228067455/Floral+Tile.jpg' alt='Red Barrel Studio® Wallpaper Panel | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/71359692/resize-h800-w800%5Ecompr-r85/2280/228067455/Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Red Pattern Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/96353420/resize-h800-w800%5Ecompr-r85/1927/192737161/Blue+And+Red+Pattern+Wallpaper+Floral+Tile.jpg' alt='Blue And Red Pattern Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/96353420/resize-h800-w800%5Ecompr-r85/1927/192737161/Blue+And+Red+Pattern+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tile 2.09' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/16134548/resize-h800-w800%5Ecompr-r85/2280/228069941/Tile%2C+2.09%27+W+x+10.42%27+L.jpg' alt='Tile 2.09' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/16134548/resize-h800-w800%5Ecompr-r85/2280/228069941/Tile%2C+2.09%27+W+x+10.42%27+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio Wallpaper Tile - ShopStyle Futon">
+                                <img itemprop="contentUrl url" src='https://img.shopstyle-cdn.com/sim/c4/8b/c48b0c8482541e751d3ceb2d6a596eca_best/wallpaper-tile.jpg' alt='Red Barrel Studio Wallpaper Tile - ShopStyle Futon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopStyle" />
+                                </span>
+                                <a href='https://img.shopstyle-cdn.com/sim/c4/8b/c48b0c8482541e751d3ceb2d6a596eca_best/wallpaper-tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Barrel Studio® Addiston Floral Roll 27.0 W in green/white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/e8/24/00e82452db987b9436a588310c757800.jpg' alt='Red Barrel Studio® Addiston Floral Roll 27.0 W in green/white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/e8/24/00e82452db987b9436a588310c757800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/29273453/resize-h800-w800%5Ecompr-r85/2309/230907094/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/29273453/resize-h800-w800%5Ecompr-r85/2309/230907094/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

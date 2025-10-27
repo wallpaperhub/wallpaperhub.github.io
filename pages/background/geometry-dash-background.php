@@ -1,0 +1,129 @@
+<title>Stunning Geometry Dash Backgrounds: Enhance Your Gameplay</title>
+                    <meta name="description" content="Discover the vibrant and captivating backgrounds of Geometry Dash! Explore unique, colorful scenes that enhance your gameplay and immerse you in a rhythmic visual experience. Perfect for all players looking to elevate their game with stunning aesthetics!">
+                    <meta name="keywords" content="geometry dash background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/geometry-dash-background">
+                            <span itemprop="name">geometry dash background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Geometry Dash Backgrounds: Enhance Your Gameplay</h1>
+                <p>Geometry Dash backgrounds are vibrant and dynamic, enhancing the gameplay experience. Each level features unique, colorful scenes, from futuristic landscapes to surreal environments, that captivate players' attention. These immersive backdrops not only reflect the rhythm of the music but also provide an engaging visual journey as players navigate obstacles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometry Dash Background (Free to use) by greaterhtrae on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f961ba4-4243-4889-928c-e7f4c2d38614/dggqyse-76b77fd2-a577-44f7-b3f4-151cdec2a610.png/v1/fill/w_952,h_704,q_80,strp/geometry_dash_background__free_to_use__by_greaterhtrae_dggqyse-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvMmY5NjFiYTQtNDI0My00ODg5LTkyOGMtZTdmNGMyZDM4NjE0XC9kZ2dxeXNlLTc2Yjc3ZmQyLWE1NzctNDRmNy1iM2Y0LTE1MWNkZWMyYTYxMC5wbmciLCJ3aWR0aCI6Ijw9OTUyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xcUrH2KMcVo67nEURS01azNStOyyoaTuy-J3EzeChuY' alt='Geometry Dash Background (Free to use) by greaterhtrae on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f961ba4-4243-4889-928c-e7f4c2d38614/dggqyse-76b77fd2-a577-44f7-b3f4-151cdec2a610.png/v1/fill/w_952,h_704,q_80,strp/geometry_dash_background__free_to_use__by_greaterhtrae_dggqyse-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvMmY5NjFiYTQtNDI0My00ODg5LTkyOGMtZTdmNGMyZDM4NjE0XC9kZ2dxeXNlLTc2Yjc3ZmQyLWE1NzctNDRmNy1iM2Y0LTE1MWNkZWMyYTYxMC5wbmciLCJ3aWR0aCI6Ijw9OTUyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xcUrH2KMcVo67nEURS01azNStOyyoaTuy-J3EzeChuY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so i mad a extended changeable color background from 1.0 : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/86yagye25g841.png' alt='so i mad a extended changeable color background from 1.0 : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/86yagye25g841.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A custom GD background I made for my Computer Graphics class. Is ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-custom-gd-background-i-made-for-my-computer-graphics-v0-6yzfwmp85i391.png?auto=webp&s=41395ec4827ab67226cbafb385ba00d5d48b3948' alt='A custom GD background I made for my Computer Graphics class. Is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-custom-gd-background-i-made-for-my-computer-graphics-v0-6yzfwmp85i391.png?auto=webp&s=41395ec4827ab67226cbafb385ba00d5d48b3948' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Geometry Dash Background">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/924811883701646234/214226FD3973DEB90F6763D336515EB75A246AC0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Geometry Dash Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/924811883701646234/214226FD3973DEB90F6763D336515EB75A246AC0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometry Dash vaporwave fade background by xXTrashcloudXx on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1aa4f050-cc9c-476e-8c74-87d121e3a5be/dc7z0xk-a11cad69-2eb3-4a01-91aa-d3ccfc953405.png/v1/fill/w_1024,h_1024,q_80,strp/geometry_dash_vaporwave_fade_background_by_xxtrashcloudxx_dc7z0xk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzFhYTRmMDUwLWNjOWMtNDc2ZS04Yzc0LTg3ZDEyMWUzYTViZVwvZGM3ejB4ay1hMTFjYWQ2OS0yZWIzLTRhMDEtOTFhYS1kM2NjZmM5NTM0MDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ll181EAP8Zg0Vmfy2grYAo_dg3UrfUz7RSEYe2TpSN8' alt='Geometry Dash vaporwave fade background by xXTrashcloudXx on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1aa4f050-cc9c-476e-8c74-87d121e3a5be/dc7z0xk-a11cad69-2eb3-4a01-91aa-d3ccfc953405.png/v1/fill/w_1024,h_1024,q_80,strp/geometry_dash_vaporwave_fade_background_by_xxtrashcloudxx_dc7z0xk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzFhYTRmMDUwLWNjOWMtNDc2ZS04Yzc0LTg3ZDEyMWUzYTViZVwvZGM3ejB4ay1hMTFjYWQ2OS0yZWIzLTRhMDEtOTFhYS1kM2NjZmM5NTM0MDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ll181EAP8Zg0Vmfy2grYAo_dg3UrfUz7RSEYe2TpSN8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Geometry dash Wallpaper : r/geometrydash">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/free-geometry-dash-wallpaper-v0-bc9107n96qeb1.png?width=4048&format=png&auto=webp&s=223163e5513bd80ee58737e3007d31270ffc1c5d' alt='Free Geometry dash Wallpaper : r/geometrydash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/free-geometry-dash-wallpaper-v0-bc9107n96qeb1.png?width=4048&format=png&auto=webp&s=223163e5513bd80ee58737e3007d31270ffc1c5d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Geometry Dash Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/geometry-dash-j5vh1zkypjxfcpb3.jpg' alt='100+] Geometry Dash Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/geometry-dash-j5vh1zkypjxfcpb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Category:Site images | Geometry Dash Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/geometry-dash/images/3/39/Site-community-image/revision/latest?cb=20220402070219' alt='Category:Site images | Geometry Dash Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geometry Dash Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/geometry-dash/images/3/39/Site-community-image/revision/latest?cb=20220402070219' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometry dash">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/49/38/d5493835d1c67df1f43efa5ddff6d218.jpg' alt='Geometry dash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/49/38/d5493835d1c67df1f43efa5ddff6d218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suggest a Background! | Geometry Dash Forum">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/8l0z9qD.png' alt='Suggest a Background! | Geometry Dash Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1956">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geometry Dash Forum - ProBoards" />
+                                </span>
+                                <a href='http://i.imgur.com/8l0z9qD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

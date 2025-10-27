@@ -1,0 +1,129 @@
+<title>Stunning Blank Cowgirl Invitation Backgrounds for Your Event</title>
+                    <meta name="description" content="Elevate your invitations with our blank cowgirl invitation backgrounds! Perfect for any western-themed occasion, these customizable designs add a rustic charm. Ideal for birthdays, bridal showers, and more. Find the perfect backdrop to make your invitations memorable and eye-catching!">
+                    <meta name="keywords" content="blank cowgirl invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blank-cowgirl-invitation-background">
+                            <span itemprop="name">blank cowgirl invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blank Cowgirl Invitation Backgrounds for Your Event</h1>
+                <p>Discover the perfect blank cowgirl invitation background for your next western-themed event! With rustic elements and a charming cowboy aesthetic, these backgrounds provide a versatile canvas for customization. Whether it's for a birthday party or a bridal shower, make your invitations stand out with a touch of cowboy flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Copy of Cowboy cowgirl birthday party invitation">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/69/14/e0/6914e099ae3d9298dfd00b86476f54de.jpg' alt='Copy of Cowboy cowgirl birthday party invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/69/14/e0/6914e099ae3d9298dfd00b86476f54de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowboy Fill in the Blank Birthday Party/Shower Invitation -party,  birthday invitation, Cowboy hat, Cowboy boots">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12167892/r/il/d50132/3709286202/il_fullxfull.3709286202_n0c8.jpg' alt='Western Cowboy Fill in the Blank Birthday Party/Shower Invitation -party,  birthday invitation, Cowboy hat, Cowboy boots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12167892/r/il/d50132/3709286202/il_fullxfull.3709286202_n0c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Cowgirl Template for your Baby Shower Invitation">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/a2/03/0aa2031bbc79e559a9751be2448532c5.jpg' alt='FREE Cowgirl Template for your Baby Shower Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/a2/03/0aa2031bbc79e559a9751be2448532c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowgirl Watercolor Blank Template Invitation poster certificate  border fall rustic">
+                                <img itemprop="contentUrl url" src='http://nowthatspeachy.shop/cdn/shop/files/7cowgirlbootswatercolorblanktemplateboardercardseventinvitehalloweenfallautumn5x7gardenleavesnowthatspeachy1.png?v=1691244088' alt='Western Cowgirl Watercolor Blank Template Invitation poster certificate  border fall rustic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Now That's Peachy" />
+                                </span>
+                                <a href='http://nowthatspeachy.shop/cdn/shop/files/7cowgirlbootswatercolorblanktemplateboardercardseventinvitehalloweenfallautumn5x7gardenleavesnowthatspeachy1.png?v=1691244088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Invitation Images – Browse 10,486 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/29/01/91/360_F_29019100_xJAhi4cgyxY2r8cFyPFtB4tW2rGHwt8j.jpg' alt='Western Invitation Images – Browse 10,486 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/29/01/91/360_F_29019100_xJAhi4cgyxY2r8cFyPFtB4tW2rGHwt8j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Cowgirl Birthday Invitations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e9/cb/73/e9cb735250be8c1eb5571313a9bde206.jpg' alt='FREE Cowgirl Birthday Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e9/cb/73/e9cb735250be8c1eb5571313a9bde206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Invitation Images – Browse 4,553 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/29/45/53/360_F_329455382_wnDWh3fioAgEu6K0kJvDxcrYolFAtHBg.jpg' alt='Cowboy Invitation Images – Browse 4,553 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/29/45/53/360_F_329455382_wnDWh3fioAgEu6K0kJvDxcrYolFAtHBg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Badge Invitations & Invitation Templates | Zazzle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/90/cf/b8/90cfb8b928389a0caa30f97b39706a46.jpg' alt='Badge Invitations & Invitation Templates | Zazzle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/90/cf/b8/90cfb8b928389a0caa30f97b39706a46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowgirl Boot Hat Watercolor Blank Template Invitation Page Border  Frame DIY">
+                                <img itemprop="contentUrl url" src='https://nowthatspeachy.shop/cdn/shop/files/33CowgirlbootSouthwesternwatercolorblanktemplatecardinviteposterboarder5x7orangetangerinebrownnowthatspeachy3.png?v=1691312407&width=1445' alt='Western Cowgirl Boot Hat Watercolor Blank Template Invitation Page Border  Frame DIY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Now That's Peachy" />
+                                </span>
+                                <a href='https://nowthatspeachy.shop/cdn/shop/files/33CowgirlbootSouthwesternwatercolorblanktemplatecardinviteposterboarder5x7orangetangerinebrownnowthatspeachy3.png?v=1691312407&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowgirl Party LARGE Invitations - 20 Invitations + 20 Envelopes">
+                                <img itemprop="contentUrl url" src='https://poppartiesink.com/wp-content/uploads/imported/Cowgirl-Party-LARGE-Invitations-20-Invitations-20-Envelopes-B06XGB4PXW.jpg' alt='Cowgirl Party LARGE Invitations - 20 Invitations + 20 Envelopes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="POPpartiesInk.com" />
+                                </span>
+                                <a href='https://poppartiesink.com/wp-content/uploads/imported/Cowgirl-Party-LARGE-Invitations-20-Invitations-20-Envelopes-B06XGB4PXW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

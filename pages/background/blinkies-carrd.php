@@ -1,0 +1,129 @@
+<title>Create Stunning Blinkies with Carrd</title>
+                    <meta name="description" content="Discover how to create eye-catching blinkies using Carrd! Our guide offers simple steps to personalize animated icons that enhance your online presence. Perfect for social media, these customizable graphics bring life and personality to your profiles. Start crafting your unique blinkies today!">
+                    <meta name="keywords" content="blinkies carrd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blinkies-carrd">
+                            <span itemprop="name">blinkies carrd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Stunning Blinkies with Carrd</h1>
+                <p>Blinkies Carrd is a platform where users can create customized, animated icons, known as blinkies, to express their personality and style. Ideal for social media, these eye-catching graphics add flair and fun to profiles. Whether used for personal branding or simply as a form of self-expression, blinkies enhance online interactions in a delightful way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blinkies">
+                                <img itemprop="contentUrl url" src='https://ugleeblinkie.carrd.co/assets/images/card.jpg?v01485035087951' alt='Blinkies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://ugleeblinkie.carrd.co/assets/images/card.jpg?v01485035087951' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="welcome to the party!">
+                                <img itemprop="contentUrl url" src='https://blinkies.carrd.co/assets/images/card.jpg?v709a49bc4' alt='welcome to the party!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://blinkies.carrd.co/assets/images/card.jpg?v709a49bc4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLINKIES">
+                                <img itemprop="contentUrl url" src='https://twigbranch.carrd.co/assets/images/card.jpg?v06786326821951' alt='BLINKIES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://twigbranch.carrd.co/assets/images/card.jpg?v06786326821951' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blinkie time">
+                                <img itemprop="contentUrl url" src='https://blinkietime.carrd.co/assets/images/card.jpg?v00969646734061' alt='blinkie time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://blinkietime.carrd.co/assets/images/card.jpg?v00969646734061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mikey ghosttown mp3 p1">
+                                <img itemprop="contentUrl url" src='https://ghosttownmp3.carrd.co/assets/images/card.jpg?v=4478d733' alt='mikey ghosttown mp3 p1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://ghosttownmp3.carrd.co/assets/images/card.jpg?v=4478d733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOODY'S TAPES">
+                                <img itemprop="contentUrl url" src='https://hoodystapes.carrd.co/assets/images/card.jpg?v=4337e0f8' alt='HOODY'S TAPES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://hoodystapes.carrd.co/assets/images/card.jpg?v=4337e0f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ Positivity is Pretty ✨">
+                                <img itemprop="contentUrl url" src='https://positivity-blinkies.carrd.co/assets/images/card.jpg?v55632863950851' alt='✨ Positivity is Pretty ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://positivity-blinkies.carrd.co/assets/images/card.jpg?v55632863950851' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="emoteez">
+                                <img itemprop="contentUrl url" src='https://emoteez.carrd.co/assets/images/card.jpg?vc42bea406' alt='emoteez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://emoteez.carrd.co/assets/images/card.jpg?vc42bea406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2cupsoforangejuice">
+                                <img itemprop="contentUrl url" src='https://aharddaysnight.carrd.co/assets/images/card.jpg?v=9fe791cf' alt='2cupsoforangejuice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://aharddaysnight.carrd.co/assets/images/card.jpg?v=9fe791cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skelebun Blinkies">
+                                <img itemprop="contentUrl url" src='https://skelebunblinkies.carrd.co/assets/images/card.jpg?v=0186b888' alt='Skelebun Blinkies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carrd" />
+                                </span>
+                                <a href='https://skelebunblinkies.carrd.co/assets/images/card.jpg?v=0186b888' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

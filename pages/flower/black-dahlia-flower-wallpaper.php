@@ -1,0 +1,129 @@
+<title>Elegant Black Dahlia Flower Wallpaper for Stylish Decor</title>
+                    <meta name="description" content="Elevate your interiors with our chic black dahlia flower wallpaper. Perfect for a bold statement, this floral design combines elegance and mystery to enrich any space. Shop now for a touch of sophistication that captivates while remaining timelessly beautiful!">
+                    <meta name="keywords" content="black dahlia flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/black-dahlia-flower-wallpaper">
+                            <span itemprop="name">black dahlia flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Dahlia Flower Wallpaper for Stylish Decor</h1>
+                <p>Discover the allure of black dahlia flower wallpaper, a perfect blend of elegance and mystery for your home decor. This stunning floral design adds a touch of sophistication to any room, with its deep, rich hues and intricate patterns. Transform your space into a stylish sanctuary with these eye-catching wallpapers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Dahlia Flowers Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/72080/dark_moody_dahlia_flowers_watercolor_luxury_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Dark Moody Dahlia Flowers Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/72080/dark_moody_dahlia_flowers_watercolor_luxury_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/87/4a/97874af4004548d44d64310676b770b6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/87/4a/97874af4004548d44d64310676b770b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dahlia On Black Background: Over 12,038 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2259197435/display_1500/stock-vector-illustration-of-realistic-purple-flower-on-black-background-2259197435.jpg' alt='Dahlia On Black Background: Over 12,038 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2259197435/display_1500/stock-vector-illustration-of-realistic-purple-flower-on-black-background-2259197435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Dahlia Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16177783/p/f/m/qiW7IPTX8JhnZ92micpvLQwI86P8SJBhqv_kx_VaGvGt3pNbOPVh1rQ/Small%20Opulent%20Dramatic%20Glamour%20Black%20Antique%20Baroque%20Luxury%20Dahlia%20Maximalistic%20Flowers%20Romanticism%20-%20Gothic%20And%20Mystic%20inspired%20.jpg' alt='Black Dahlia Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16177783/p/f/m/qiW7IPTX8JhnZ92micpvLQwI86P8SJBhqv_kx_VaGvGt3pNbOPVh1rQ/Small%20Opulent%20Dramatic%20Glamour%20Black%20Antique%20Baroque%20Luxury%20Dahlia%20Maximalistic%20Flowers%20Romanticism%20-%20Gothic%20And%20Mystic%20inspired%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="424 Black Dahlia Flower Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/108312617/photo/a-monochrome-dahlia-on-a-black-background.jpg?s=612x612&w=gi&k=20&c=zfjgzQQF-dACTel2GQiLYuG-ADpBjuCOoXLQ6Nt4sE4=' alt='424 Black Dahlia Flower Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/108312617/photo/a-monochrome-dahlia-on-a-black-background.jpg?s=612x612&w=gi&k=20&c=zfjgzQQF-dACTel2GQiLYuG-ADpBjuCOoXLQ6Nt4sE4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WP - Black Dahlia by SaTaNiA on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/c9/c5/7cc9c5da8d016806f86327252e459a4a.jpg' alt='WP - Black Dahlia by SaTaNiA on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/c9/c5/7cc9c5da8d016806f86327252e459a4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Black Dahlia Flower Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/479395350/photo/purple-dahlia-isolated-on-black.jpg?s=612x612&w=0&k=20&c=BXx40DdFf_6QYs6075kAkrmyEBrlxfuKiA0bE7gokVA=' alt='1,600+ Black Dahlia Flower Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/479395350/photo/purple-dahlia-isolated-on-black.jpg?s=612x612&w=0&k=20&c=BXx40DdFf_6QYs6075kAkrmyEBrlxfuKiA0bE7gokVA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Dahlia Dark Mauve Purple Watercolor Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/75251/moody_dahlia_dark_mauve_purple_watercolor_limited.jpg' alt='Moody Dahlia Dark Mauve Purple Watercolor Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/75251/moody_dahlia_dark_mauve_purple_watercolor_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: monochrome bouquet of dahlia flowers black and white background  Canvas Print Wallpaper Wall Mural Self Adhesive Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610EW9HuTpL.jpg' alt='Amazon.com: monochrome bouquet of dahlia flowers black and white background  Canvas Print Wallpaper Wall Mural Self Adhesive Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1051">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610EW9HuTpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Dahlia Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1601894603978-e91ef3989c83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGFobGlhfGVufDB8fDB8fHww' alt='550+ Dahlia Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1601894603978-e91ef3989c83?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGFobGlhfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

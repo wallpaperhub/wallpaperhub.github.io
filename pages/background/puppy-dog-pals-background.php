@@ -1,0 +1,129 @@
+<title>Puppy Dog Pals: Adventure and Friendship Unleashed!</title>
+                    <meta name="description" content="Discover the fun-filled world of Puppy Dog Pals! Join pugs Bingo and Rolly on exciting escapades, showcasing friendship, loyalty, and love. Perfect for young fans, this animated series fosters creativity and joy. Explore the adventures today!">
+                    <meta name="keywords" content="puppy dog pals background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/puppy-dog-pals-background">
+                            <span itemprop="name">puppy dog pals background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Puppy Dog Pals: Adventure and Friendship Unleashed!</h1>
+                <p>Puppy Dog Pals is an animated series centered around two pug puppies, Bingo and Rolly, who embark on adventurous missions to help their human, Bob. The show creatively blends humor and heart, showcasing themes of friendship and loyalty. With vibrant colors and engaging stories, it captivates young audiences while promoting positive values.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Puppy Dog Pals Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/puppy-dog-pals-h4italxz815qghqe.jpg' alt='100+] Puppy Dog Pals Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/puppy-dog-pals-h4italxz815qghqe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Dog Pals Wallpaper by Babyshowfan2002 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dcb3f1a2-7821-444b-8ca8-91b482d4935d/dh8i7tm-a785aec9-91d7-46a5-93e6-cc71dbd2a626.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjYjNmMWEyLTc4MjEtNDQ0Yi04Y2E4LTkxYjQ4MmQ0OTM1ZFwvZGg4aTd0bS1hNzg1YWVjOS05MWQ3LTQ2YTUtOTNlNi1jYzcxZGJkMmE2MjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OC-Fsays-HgyDmxllsc4F8Zgd50WCV_bRIFOqIikD6g' alt='Puppy Dog Pals Wallpaper by Babyshowfan2002 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dcb3f1a2-7821-444b-8ca8-91b482d4935d/dh8i7tm-a785aec9-91d7-46a5-93e6-cc71dbd2a626.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjYjNmMWEyLTc4MjEtNDQ0Yi04Y2E4LTkxYjQ4MmQ0OTM1ZFwvZGg4aTd0bS1hNzg1YWVjOS05MWQ3LTQ2YTUtOTNlNi1jYzcxZGJkMmE2MjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OC-Fsays-HgyDmxllsc4F8Zgd50WCV_bRIFOqIikD6g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bingo In Green Room Puppy Dog Pals Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/puppy-dog-pals-2qedbljfqxfo36nh.jpg' alt='Download Bingo In Green Room Puppy Dog Pals Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/puppy-dog-pals-2qedbljfqxfo36nh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Dog Pals | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/AlHZH96lsXSkZX2RYHmdE59BixQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13949191_i_v13_af.jpg' alt='Puppy Dog Pals | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/AlHZH96lsXSkZX2RYHmdE59BixQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13949191_i_v13_af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Dog Pals 8x8 Table Banner Backdrop with 8ft Table Wrap/ Step &  Repeat, Design, Print and Ship!">
+                                <img itemprop="contentUrl url" src='http://wooemdesign.com/cdn/shop/products/il_fullxfull.1532095685_93zk_1200x1200.jpg?v=1571731575' alt='Puppy Dog Pals 8x8 Table Banner Backdrop with 8ft Table Wrap/ Step &  Repeat, Design, Print and Ship!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woo'em Design" />
+                                </span>
+                                <a href='http://wooemdesign.com/cdn/shop/products/il_fullxfull.1532095685_93zk_1200x1200.jpg?v=1571731575' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Dog Pals - Apple TV (QA)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/77/66/c577660ff5c62830cc0a2851f0f8a9a2.jpg' alt='Puppy Dog Pals - Apple TV (QA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/77/66/c577660ff5c62830cc0a2851f0f8a9a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Puppy Dog Pals Blue Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/puppy-dog-pals-y33qzry7yzxqncw6.jpg' alt='Download Puppy Dog Pals Blue Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/puppy-dog-pals-y33qzry7yzxqncw6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy dog pals background #2 by KellyLovesPDP1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa80f361-4268-401a-b36a-d0d9ebe68a12/de1vwra-84ca2e79-198a-46e0-95f6-6f90e3faf14e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhODBmMzYxLTQyNjgtNDAxYS1iMzZhLWQwZDllYmU2OGExMlwvZGUxdndyYS04NGNhMmU3OS0xOThhLTQ2ZTAtOTVmNi02ZjkwZTNmYWYxNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vRO1Wvn-QNzRvpWWW8SMGNtx2PdZ75EhVC_V0D7GylQ' alt='Puppy dog pals background #2 by KellyLovesPDP1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="812">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa80f361-4268-401a-b36a-d0d9ebe68a12/de1vwra-84ca2e79-198a-46e0-95f6-6f90e3faf14e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhODBmMzYxLTQyNjgtNDAxYS1iMzZhLWQwZDllYmU2OGExMlwvZGUxdndyYS04NGNhMmU3OS0xOThhLTQ2ZTAtOTVmNi02ZjkwZTNmYWYxNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vRO1Wvn-QNzRvpWWW8SMGNtx2PdZ75EhVC_V0D7GylQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picture Pups | Puppy dog pals Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/puppydogpals/images/b/b0/Picture_Pups.png/revision/latest?cb=20210120042750' alt='Picture Pups | Puppy dog pals Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puppy Dog Pals Wiki Puppy dog pals Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/puppydogpals/images/b/b0/Picture_Pups.png/revision/latest?cb=20210120042750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Dog Pals Bingo and Rolly wallpaper by RainbowEevee-DA on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fb5c49d-86c3-4e97-b184-3a07674fd3e5/dcjsig8-0b13c895-88a7-40c6-b1a7-f0a18dff39b9.png/v1/fill/w_1024,h_570,q_80,strp/puppy_dog_pals_bingo_and_rolly_wallpaper_by_rainboweevee_da_dcjsig8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTcwIiwicGF0aCI6IlwvZlwvMWZiNWM0OWQtODZjMy00ZTk3LWIxODQtM2EwNzY3NGZkM2U1XC9kY2pzaWc4LTBiMTNjODk1LTg4YTctNDBjNi1iMWE3LWYwYTE4ZGZmMzliOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mnKXGhPR9OMwiMZAxiwhgkh3viMH8Bakh5JMjvzOvTU' alt='Puppy Dog Pals Bingo and Rolly wallpaper by RainbowEevee-DA on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fb5c49d-86c3-4e97-b184-3a07674fd3e5/dcjsig8-0b13c895-88a7-40c6-b1a7-f0a18dff39b9.png/v1/fill/w_1024,h_570,q_80,strp/puppy_dog_pals_bingo_and_rolly_wallpaper_by_rainboweevee_da_dcjsig8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTcwIiwicGF0aCI6IlwvZlwvMWZiNWM0OWQtODZjMy00ZTk3LWIxODQtM2EwNzY3NGZkM2U1XC9kY2pzaWc4LTBiMTNjODk1LTg4YTctNDBjNi1iMWE3LWYwYTE4ZGZmMzliOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mnKXGhPR9OMwiMZAxiwhgkh3viMH8Bakh5JMjvzOvTU' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

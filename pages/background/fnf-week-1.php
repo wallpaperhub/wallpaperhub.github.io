@@ -1,0 +1,129 @@
+<title>Friday Night Funkin' Week 1: A Thrilling Rhythm Adventure</title>
+                    <meta name="description" content="Discover the excitement of Friday Night Funkin' Week 1! Join Boyfriend as he faces off against fun characters in this addictive rhythm game. Perfect for fans of music and challenges, experience the catchy beats and vibrant art that make FNF a must-play!">
+                    <meta name="keywords" content="fnf week 1">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnf-week-1">
+                            <span itemprop="name">fnf week 1</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Friday Night Funkin' Week 1: A Thrilling Rhythm Adventure</h1>
+                <p>FNF Week 1 introduces players to the rhythm-based challenge of Friday Night Funkin’. In this exciting debut week, players control Boyfriend as he battles opponents to win over his love interest, Girlfriend. With catchy beats and vibrant characters, Week 1 sets the tone for a fun and addictive gaming experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF Week 1 - Friday Night Funkin'">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6plyDQC1oX8/maxresdefault.jpg' alt='FNF Week 1 - Friday Night Funkin''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6plyDQC1oX8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDAY NIGHT FUNKIN' - WeekEnd 1 (All Songs) Playthrough (HARD)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aAq9qCFUG1M/maxresdefault.jpg' alt='FRIDAY NIGHT FUNKIN' - WeekEnd 1 (All Songs) Playthrough (HARD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aAq9qCFUG1M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Week 1: Daddy Dearest - Funkipedia, the Friday Night Funkin' wiki">
+                                <img itemprop="contentUrl url" src='https://fridaynightfunkin.wiki.gg/images/thumb/7/7f/The_Stage%2C_I_guess.jpg/300px-The_Stage%2C_I_guess.jpg' alt='Week 1: Daddy Dearest - Funkipedia, the Friday Night Funkin' wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia, the Friday Night Funkin' wiki - wiki.gg" />
+                                </span>
+                                <a href='https://fridaynightfunkin.wiki.gg/images/thumb/7/7f/The_Stage%2C_I_guess.jpg/300px-The_Stage%2C_I_guess.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin' WEEKEND 1 - (Full Week & Cutscenes)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/74ueT3Yb6E4/maxresdefault.jpg' alt='Friday Night Funkin' WEEKEND 1 - (Full Week & Cutscenes)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/74ueT3Yb6E4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::FNF Week 1 Bopeebo - Friday Night Funkin - Death Theme">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2476492838318008785/F09A3D851F49872CAEDBA1430E383E5AFF555811/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::FNF Week 1 Bopeebo - Friday Night Funkin - Death Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2476492838318008785/F09A3D851F49872CAEDBA1430E383E5AFF555811/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Week 1: Daddy Dearest - Funkipedia, the Friday Night Funkin' wiki">
+                                <img itemprop="contentUrl url" src='https://fridaynightfunkin.wiki.gg/images/thumb/f/f8/Week_1_Variants_Background_showcase.png/300px-Week_1_Variants_Background_showcase.png' alt='Week 1: Daddy Dearest - Funkipedia, the Friday Night Funkin' wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia, the Friday Night Funkin' wiki - wiki.gg" />
+                                </span>
+                                <a href='https://fridaynightfunkin.wiki.gg/images/thumb/f/f8/Week_1_Variants_Background_showcase.png/300px-Week_1_Variants_Background_showcase.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF Week 1 Stage FLA [Friday Night Funkin'] [Modding Tools]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/tools/65c0040b92777.jpg' alt='FNF Week 1 Stage FLA [Friday Night Funkin'] [Modding Tools]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/tools/65c0040b92777.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDAY NIGHT FUNKIN' - Week 1, Week 2, Week 3 (All Songs) Playthrough  (HARD) [PC]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5UL0RD5XfOY/maxresdefault.jpg' alt='FRIDAY NIGHT FUNKIN' - Week 1, Week 2, Week 3 (All Songs) Playthrough  (HARD) [PC]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5UL0RD5XfOY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin' - WeekEnd 1 Update">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/friday-night-funkin-weekend-1-update-v0-Zk55ZzMMLnqYeuOlrYFjtDwWn0Mb0nCzDg-Tf1LO5Pc.jpg?format=pjpg&auto=webp&s=c8b7d4b4b4eafb3503f908bfa644d5e4ff60d5b8' alt='Friday Night Funkin' - WeekEnd 1 Update'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/friday-night-funkin-weekend-1-update-v0-Zk55ZzMMLnqYeuOlrYFjtDwWn0Mb0nCzDg-Tf1LO5Pc.jpg?format=pjpg&auto=webp&s=c8b7d4b4b4eafb3503f908bfa644d5e4ff60d5b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WeekEnd 1 Update [Friday Night Funkin'] [News]">
+                                <img itemprop="contentUrl url" src='https://gamebanana.com/news/embeddables/21861?variant=sd_image' alt='WeekEnd 1 Update [Friday Night Funkin'] [News]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://gamebanana.com/news/embeddables/21861?variant=sd_image' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

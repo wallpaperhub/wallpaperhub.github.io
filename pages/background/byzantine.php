@@ -1,0 +1,129 @@
+<title>Discover the Rich Legacy of the Byzantine Empire</title>
+                    <meta name="description" content="Explore the fascinating history, culture, and art of the Byzantine Empire. From its resilient capital, Constantinople, to its lasting influence on Western civilization, delve into the world of emperors, trade, and stunning mosaics. Perfect for history enthusiasts and curious minds alike!">
+                    <meta name="keywords" content="byzantine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/byzantine">
+                            <span itemprop="name">byzantine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Legacy of the Byzantine Empire</h1>
+                <p>The Byzantine Empire, lasting over a millennium, was a hub of art, culture, and politics. Nestled between Europe and Asia, its capital, Constantinople, thrived on trade and scholarship. Known for its iconic mosaics and architectural marvels like Hagia Sophia, Byzantine society was a blend of Roman legacy and Greek influence, profoundly impacting Western civilization.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine Empire - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/9b/Justinian555AD.png' alt='Byzantine Empire - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2111">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/9b/Justinian555AD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine Empire | History, Geography, Maps, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/46/64946-050-3D7FE219/Byzantine-Empire.jpg' alt='Byzantine Empire | History, Geography, Maps, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/46/64946-050-3D7FE219/Byzantine-Empire.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine Empire: Map, history and facts | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/9gUxVih6y3MiTWS7b2SRXR.jpg' alt='Byzantine Empire: Map, history and facts | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/9gUxVih6y3MiTWS7b2SRXR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine Empire - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/r/p/750x750/15330.png?v=1737032586' alt='Byzantine Empire - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/r/p/750x750/15330.png?v=1737032586' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine art - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/1200px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg' alt='Byzantine art - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/1200px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smarthistory – Byzantine art, an introduction">
+                                <img itemprop="contentUrl url" src='https://smarthistory.org/wp-content/uploads/2021/01/map-mid-6th-c-1-scaled.jpg' alt='Smarthistory – Byzantine art, an introduction'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarthistory" />
+                                </span>
+                                <a href='https://smarthistory.org/wp-content/uploads/2021/01/map-mid-6th-c-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine Empire | History, Geography, Maps, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/08/58808-050-32096AD5/Justinian-I-Christ-gifts-Constantine-the-Great.jpg' alt='Byzantine Empire | History, Geography, Maps, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/08/58808-050-32096AD5/Justinian-I-Christ-gifts-Constantine-the-Great.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Byzantine and Roman Empires Map Textus Receptus Bibles">
+                                <img itemprop="contentUrl url" src='https://textusreceptusbibles.com/Content/images/Blog/ByzantineRomanEmpiresMap.jpg' alt='Byzantine and Roman Empires Map Textus Receptus Bibles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textus Receptus Bibles" />
+                                </span>
+                                <a href='https://textusreceptusbibles.com/Content/images/Blog/ByzantineRomanEmpiresMap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What can we learn from Byzantine diplomacy? - Diplo">
+                                <img itemprop="contentUrl url" src='https://www.diplomacy.edu/wp-content/uploads/2021/08/big_byzantine-560px.gif' alt='What can we learn from Byzantine diplomacy? - Diplo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DiploFoundation" />
+                                </span>
+                                <a href='https://www.diplomacy.edu/wp-content/uploads/2021/08/big_byzantine-560px.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Elusive Byzantine Empire | History Today">
+                                <img itemprop="contentUrl url" src='https://www.historytoday.com/sites/default/files/justin.jpg' alt='The Elusive Byzantine Empire | History Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Today" />
+                                </span>
+                                <a href='https://www.historytoday.com/sites/default/files/justin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

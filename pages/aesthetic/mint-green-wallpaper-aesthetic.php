@@ -1,0 +1,129 @@
+<title>Transform Your Space with Mint Green Wallpaper Aesthetic</title>
+                    <meta name="description" content="Discover the perfect mint green wallpaper to elevate your home's aesthetic. Create a serene atmosphere with stylish designs that fit any interior, from modern to vintage. Embrace tranquility and beauty with mint green tones that inspire relaxation and creativity. Perfect for any room!">
+                    <meta name="keywords" content="mint green wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/mint-green-wallpaper-aesthetic">
+                            <span itemprop="name">mint green wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Mint Green Wallpaper Aesthetic</h1>
+                <p>Mint green wallpaper brings a refreshing vibe to any space, combining serenity and style effortlessly. Perfect for modern and vintage interiors, it pairs well with earthy tones and pastel accents. Whether you choose bold patterns or subtle textures, mint green creates a calming atmosphere ideal for relaxation and rejuvenation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/63/dd/fd63dd650379d9a6eca08ef795fd4985.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/63/dd/fd63dd650379d9a6eca08ef795fd4985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mint Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mint-green-aesthetic-6t3r2vp6s1siwh3f.jpg' alt='100+] Mint Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mint-green-aesthetic-6t3r2vp6s1siwh3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mint Green Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' alt='40 Mint Green Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/ed/23/d5ed23c90a3496abc92ef2aefe31260a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Cute Mint Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/heart-cute-mint-green-aesthetic-ncxhbror2cr9ric1.jpg' alt='Heart Cute Mint Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/heart-cute-mint-green-aesthetic-ncxhbror2cr9ric1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Mint Green Collage Kit, Green Pastel Wall Collage, Mint ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23658690/r/il/21b281/4202262089/il_570xN.4202262089_rw81.jpg' alt='100 Mint Green Collage Kit, Green Pastel Wall Collage, Mint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23658690/r/il/21b281/4202262089/il_570xN.4202262089_rw81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mint green wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/482/429/HD-wallpaper-mi-cuarto-mint-green-green-mint-green-aesthetic-mint-green-and-white.jpg' alt='HD mint green wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/482/429/HD-wallpaper-mi-cuarto-mint-green-green-mint-green-aesthetic-mint-green-and-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Aesthetic Flower Bottle Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/mint-green-aesthetic-flower-bottle-3um645suiivv8ai3.jpg' alt='Mint Green Aesthetic Flower Bottle Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/mint-green-aesthetic-flower-bottle-3um645suiivv8ai3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/ec/07/86ec074e19dbc42e3da7ccd81958089d.jpg' alt='Pastel Green Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/ec/07/86ec074e19dbc42e3da7ccd81958089d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Mint Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-mint-green-aesthetic-okv9t4u8y27aynqk.jpg' alt='100+] Cute Mint Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-mint-green-aesthetic-okv9t4u8y27aynqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Abstract Wallpaper With Aesthetic Line Art Flower ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230303/original/pngtree-mint-green-abstract-wallpaper-with-aesthetic-line-art-flower-drawing-picture-image_2079623.jpg' alt='Mint Green Abstract Wallpaper With Aesthetic Line Art Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230303/original/pngtree-mint-green-abstract-wallpaper-with-aesthetic-line-art-flower-drawing-picture-image_2079623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

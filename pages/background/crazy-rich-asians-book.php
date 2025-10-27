@@ -1,0 +1,129 @@
+<title>"Exploring the Opulence of Crazy Rich Asians"</title>
+                    <meta name="description" content="Delve into the world of "Crazy Rich Asians" by Kevin Kwan, a captivating tale that exposes the lavish lives of Singapore's elite through the perspective of Rachel Chu. Discover themes of love, cultural identity, and the challenges of fitting into a world of wealth and extravagance. Perfect for lovers of drama and romance!">
+                    <meta name="keywords" content="crazy rich asians book">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crazy-rich-asians-book">
+                            <span itemprop="name">crazy rich asians book</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Opulence of Crazy Rich Asians"</h1>
+                <p>"Crazy Rich Asians," a novel by Kevin Kwan, unveils the opulent lifestyles of Asia's ultra-wealthy through the eyes of Rachel Chu, an American-born Chinese. When Rachel travels to Singapore for her boyfriend's family wedding, she discovers shocking secrets and faces intense cultural pressures, revealing a glittering yet ruthless world of privilege and rivalry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians (Crazy Rich Asians Trilogy): Kwan, Kevin ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71qzZ9tf+AL.jpg' alt='Crazy Rich Asians (Crazy Rich Asians Trilogy): Kwan, Kevin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1556">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71qzZ9tf+AL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Eo1BeQt8L._AC_UF1000,1000_QL80_.jpg' alt='Crazy Rich Asians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Eo1BeQt8L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Crazy Rich Asians Trilogy Box Set by Kevin Kwan: 9780525566670 |  PenguinRandomHouse.com: Books">
+                                <img itemprop="contentUrl url" src='https://images.penguinrandomhouse.com/cover/9780525566670' alt='The Crazy Rich Asians Trilogy Box Set by Kevin Kwan: 9780525566670 |  PenguinRandomHouse.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="292">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Random House" />
+                                </span>
+                                <a href='https://images.penguinrandomhouse.com/cover/9780525566670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians [Paperback] Kevin Kwan: Kwan, Kevin ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71j1L4TLiML._AC_UC200,200_CACC,200,200_QL85_.jpg?aicid=community-reviews' alt='Crazy Rich Asians [Paperback] Kevin Kwan: Kwan, Kevin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71j1L4TLiML._AC_UC200,200_CACC,200,200_QL85_.jpg?aicid=community-reviews' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="China Rich Girlfriend (Crazy Rich Asians Trilogy) (Paperback ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/066/172/9780804172066.jpg' alt='China Rich Girlfriend (Crazy Rich Asians Trilogy) (Paperback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parnassus Books" />
+                                </span>
+                                <a href='https://images.booksense.com/images/066/172/9780804172066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians by Kevin Kwan on Apple Books">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/10/75/88/10758810-fe2d-73a9-4522-1d88a1ade9b7/9780385536981.d.jpg/1200x1200wz.jpg' alt='Crazy Rich Asians by Kevin Kwan on Apple Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Books" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/10/75/88/10758810-fe2d-73a9-4522-1d88a1ade9b7/9780385536981.d.jpg/1200x1200wz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians (Crazy Rich Asians, #1) by Kevin Kwan | Goodreads">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364852559i/16085481.jpg' alt='Crazy Rich Asians (Crazy Rich Asians, #1) by Kevin Kwan | Goodreads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364852559i/16085481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rich People Problems (Crazy Rich Asians Trilogy #3) by Kevin Kwan ...">
+                                <img itemprop="contentUrl url" src='http://prodimage.images-bn.com/pimages/9780525432371_p0_v4_s1200x630.jpg' alt='Rich People Problems (Crazy Rich Asians Trilogy #3) by Kevin Kwan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="409">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='http://prodimage.images-bn.com/pimages/9780525432371_p0_v4_s1200x630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Honest Review of Crazy Rich Asians – The Cardinal Chronicle">
+                                <img itemprop="contentUrl url" src='https://mhscardinalchronicle.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-23-at-4.23.19-PM.png' alt='An Honest Review of Crazy Rich Asians – The Cardinal Chronicle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cardinal Chronicle" />
+                                </span>
+                                <a href='https://mhscardinalchronicle.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-23-at-4.23.19-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crazy Rich Asians: Kevin Kwan: 9781400027071: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/714NbTtob2L._AC_UL210_SR210,210_.jpg' alt='Crazy Rich Asians: Kevin Kwan: 9781400027071: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/714NbTtob2L._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

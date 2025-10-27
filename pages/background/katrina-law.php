@@ -1,0 +1,129 @@
+<title>Discovering Katrina Law: Actress & Icon</title>
+                    <meta name="description" content="Explore the multifaceted career of Katrina Law, renowned for her roles in "Arrow" and "The Warrior's Way." Dive into her journey as an actress and discover her impact on film and television. Stay updated on her latest projects and achievements in the entertainment industry!">
+                    <meta name="keywords" content="katrina law">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/katrina-law">
+                            <span itemprop="name">katrina law</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Katrina Law: Actress & Icon</h1>
+                <p>Katrina Law is an American actress known for her dynamic roles in television and film. Born on September 30, 1985, in Berlin, Germany, she gained fame for her portrayal of Nyssa al Ghul in the DC Comics series "Arrow" and for her lead role in "The Warrior's Way." With diverse talents, Law continues to impress audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY0Mzc3OTcxOV5BMl5BanBnXkFtZTcwNzg4NDI1OA@@._V1_.jpg' alt='Katrina Law - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY0Mzc3OTcxOV5BMl5BanBnXkFtZTcwNzg4NDI1OA@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HVFFNYNJ2017Arrow-ALS-2_%2837471605822%29_-_Katrina_Law_%28cropped%29.jpg/1200px-HVFFNYNJ2017Arrow-ALS-2_%2837471605822%29_-_Katrina_Law_%28cropped%29.jpg' alt='Katrina Law - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HVFFNYNJ2017Arrow-ALS-2_%2837471605822%29_-_Katrina_Law_%28cropped%29.jpg/1200px-HVFFNYNJ2017Arrow-ALS-2_%2837471605822%29_-_Katrina_Law_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law | Live Action Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/live-action/images/e/e9/Katrina_Law.PNG/revision/latest/scale-to-width-down/284?cb=20170503133328' alt='Katrina Law | Live Action Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Action Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/live-action/images/e/e9/Katrina_Law.PNG/revision/latest/scale-to-width-down/284?cb=20170503133328' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katrina_Law_2014.jpg/170px-Katrina_Law_2014.jpg' alt='Katrina Law - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katrina_Law_2014.jpg/170px-Katrina_Law_2014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law: What's Next for Knight After NCIS Season 22 Premiere ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2024/10/Katrina-Law-Breaks-Down-Knights-Choice-to-Come-Home-in-NCIS-Season-22-Premiere.jpg?quality=86&strip=all' alt='Katrina Law: What's Next for Knight After NCIS Season 22 Premiere ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1547">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2024/10/Katrina-Law-Breaks-Down-Knights-Choice-to-Come-Home-in-NCIS-Season-22-Premiere.jpg?quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katrina Law — The Bare Magazine">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5da5efee465c426381fa3a2c/1648486364491-8KXURAEEOYBOV7VYN5X9/C2C998BA-CAFA-4531-8B76-D7C8A32C59A0_1_201_a.jpeg' alt='Katrina Law — The Bare Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bare Magazine" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5da5efee465c426381fa3a2c/1648486364491-8KXURAEEOYBOV7VYN5X9/C2C998BA-CAFA-4531-8B76-D7C8A32C59A0_1_201_a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What role in the MCU could Katrina Law play? Just curious what ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-role-in-the-mcu-could-katrina-law-play-just-curious-v0-p3pyoxfl5f5e1.jpeg?width=1080&crop=smart&auto=webp&s=98a54a39bc5efd26986d2600891cd2070cfd63e7' alt='What role in the MCU could Katrina Law play? Just curious what ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-role-in-the-mcu-could-katrina-law-play-just-curious-v0-p3pyoxfl5f5e1.jpeg?width=1080&crop=smart&auto=webp&s=98a54a39bc5efd26986d2600891cd2070cfd63e7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arrow Season 6: Katrina Law is Coming Back to Star City">
+                                <img itemprop="contentUrl url" src='https://bleedingcool.com/wp-content/uploads/2018/01/KatrinaLaw-1200x675.jpg' alt='Arrow Season 6: Katrina Law is Coming Back to Star City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://bleedingcool.com/wp-content/uploads/2018/01/KatrinaLaw-1200x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 THINGS YOU NEED TO KNOW ABOUT KATRINA LAW - Lapalme Magazine">
+                                <img itemprop="contentUrl url" src='https://lapalmemagazine.com/wp-content/uploads/2017/01/KATRINA-LAW.jpg' alt='10 THINGS YOU NEED TO KNOW ABOUT KATRINA LAW - Lapalme Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lapalme Magazine" />
+                                </span>
+                                <a href='https://lapalmemagazine.com/wp-content/uploads/2017/01/KATRINA-LAW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,115 Katrina Law Photos Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1388115199/photo/west-hollywood-california-keith-andreen-and-katrina-law-attend-the-elton-john-aids.jpg?s=612x612&w=gi&k=20&c=30PoEK796WynxAFrDRwxL-B1LEBXNLOA30r4LU49Rvw=' alt='1,115 Katrina Law Photos Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1388115199/photo/west-hollywood-california-keith-andreen-and-katrina-law-attend-the-elton-john-aids.jpg?s=612x612&w=gi&k=20&c=30PoEK796WynxAFrDRwxL-B1LEBXNLOA30r4LU49Rvw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

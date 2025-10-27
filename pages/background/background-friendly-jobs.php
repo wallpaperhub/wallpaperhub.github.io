@@ -1,0 +1,129 @@
+<title>Discover Background Friendly Jobs: Flexible & Inclusive Work Opportunities</title>
+                    <meta name="description" content="Explore background friendly jobs that offer flexibility and inclusivity for individuals juggling personal commitments. Perfect for remote work, freelancers, and those seeking part-time positions, these roles enhance work-life balance and satisfaction. Find your ideal job that fits your lifestyle today!">
+                    <meta name="keywords" content="background friendly jobs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-friendly-jobs">
+                            <span itemprop="name">background friendly jobs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Background Friendly Jobs: Flexible & Inclusive Work Opportunities</h1>
+                <p>Background friendly jobs are ideal for individuals seeking flexibility and inclusivity in the workplace. These roles allow employees to maintain a balance while accommodating personal commitments, such as caregiving or studying. Examples include remote work, freelance gigs, and part-time positions, promoting overall well-being and job satisfaction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Felony Friendly Companies! : r/probation">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/felony-friendly-companies-v0-pejvsjs86cba1.jpg?width=1080&crop=smart&auto=webp&s=43b0c212edd307f6a3812b4675ddf3caceeb4d73' alt='Felony Friendly Companies! : r/probation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/felony-friendly-companies-v0-pejvsjs86cba1.jpg?width=1080&crop=smart&auto=webp&s=43b0c212edd307f6a3812b4675ddf3caceeb4d73' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The List — New Beginnings Employment">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cf6c648ab36c20001fc933c/1566177228851-9463NAFODYQR9ZAH3KAB/0002.jpg' alt='The List — New Beginnings Employment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Beginnings Employment" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cf6c648ab36c20001fc933c/1566177228851-9463NAFODYQR9ZAH3KAB/0002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Companies that hire felons: 101 Jobs and Companies that Hire ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPF1dQCLBXUw6WbXNrWmkYOuJ2PlsEO5SI2eHR0y1NCiUPXLE0Rvy4kwyTdQQ0Ubu5Bcylzkrv-HuhiQ87gofmRkKBvE_zp1Ic64c5wo1vtP-7f-6RQTxXgS9QopmLkWL26d2ChOeK2KNV/s1600/felon-friendly-employers-uhm-pinterest-employers-who-hire-felons-mvcp.jpg' alt='All Companies that hire felons: 101 Jobs and Companies that Hire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="396">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Companies that hire felons" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPF1dQCLBXUw6WbXNrWmkYOuJ2PlsEO5SI2eHR0y1NCiUPXLE0Rvy4kwyTdQQ0Ubu5Bcylzkrv-HuhiQ87gofmRkKBvE_zp1Ic64c5wo1vtP-7f-6RQTxXgS9QopmLkWL26d2ChOeK2KNV/s1600/felon-friendly-employers-uhm-pinterest-employers-who-hire-felons-mvcp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Area Jobs | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=545042890143319&get_thumbnail=1' alt='Dallas Area Jobs | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=545042890143319&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  BACKGROUND FRIENDLY HIRING EVENT!   Join us February 14th from ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3293226678783358545' alt='  BACKGROUND FRIENDLY HIRING EVENT!   Join us February 14th from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3293226678783358545' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#jobs #felons #convicted #hiring | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' alt='#jobs #felons #convicted #hiring | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 FELONY FRIENDLY WORK FROM HOME JOBS!!! NO BACKGROUND CHECK!!!!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F-c6XcP445c/maxresdefault.jpg' alt='8 FELONY FRIENDLY WORK FROM HOME JOBS!!! NO BACKGROUND CHECK!!!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F-c6XcP445c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND FRIENDLY ONLY JOBS (FTWORTH)">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1139802097850465' alt='BACKGROUND FRIENDLY ONLY JOBS (FTWORTH)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1139802097850465' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Friendly Work From Home Jobs 11 Companies Hiring! Part & Full  Time Hours No Degree Remote">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/iiqu75Wh2BU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfVdpw-1E3MNBVTJf2ngOFAjgvJA' alt='Background Friendly Work From Home Jobs 11 Companies Hiring! Part & Full  Time Hours No Degree Remote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/iiqu75Wh2BU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfVdpw-1E3MNBVTJf2ngOFAjgvJA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jobs for People with Felonies">
+                                <img itemprop="contentUrl url" src='https://www.startgrants.com/wp-content/uploads/2015/01/Jobs-for-People-with-Felony-Convictions.jpg' alt='Jobs for People with Felonies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Government Grants News" />
+                                </span>
+                                <a href='https://www.startgrants.com/wp-content/uploads/2015/01/Jobs-for-People-with-Felony-Convictions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

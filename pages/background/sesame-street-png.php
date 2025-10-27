@@ -1,0 +1,129 @@
+<title>High-Quality Sesame Street PNGs for Creative Projects</title>
+                    <meta name="description" content="Explore premium Sesame Street PNGs for all your design needs! Perfect for educators, fans, and creative enthusiasts looking for transparent character images. Easy to use and diverse in selection, elevate your projects with iconic Sesame Street elements today!">
+                    <meta name="keywords" content="sesame street png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sesame-street-png">
+                            <span itemprop="name">sesame street png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Sesame Street PNGs for Creative Projects</h1>
+                <p>Discover an extensive collection of high-quality Sesame Street PNG images ideal for your creative projects! From beloved characters to iconic scenes, these transparent images can elevate your designs, perfect for educational materials, social media posts, or fun crafts. Dive into a world of creativity with Sesame Street PNGs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Characters, illustration of Sesame Street characters ...">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/160/822/png-clipart-sesame-street-characters-illustration-of-sesame-street-characters.png' alt='Sesame Street Characters, illustration of Sesame Street characters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/160/822/png-clipart-sesame-street-characters-illustration-of-sesame-street-characters.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Sesame Street logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sesame_Street_logo.svg/2560px-Sesame_Street_logo.svg.png' alt='File:Sesame Street logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sesame_Street_logo.svg/2560px-Sesame_Street_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Sesame Street Clip Art, HD Png Download , Transparent ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/97/b6/fc97b65831ed8b3f11fcc27837844161.jpg' alt='Transparent Sesame Street Clip Art, HD Png Download , Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/97/b6/fc97b65831ed8b3f11fcc27837844161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/lnd/20241212/hp/ab5f57463cc010808cd22df3f949ac.webp' alt='Sesame Street PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/lnd/20241212/hp/ab5f57463cc010808cd22df3f949ac.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street gang clipart by mcdnalds2016 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47427049-40f2-4e25-9ce7-dac4d90223b4/dftiw2o-a8391895-1b0d-4743-b6f5-e83fa413a687.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3NDI3MDQ5LTQwZjItNGUyNS05Y2U3LWRhYzRkOTAyMjNiNFwvZGZ0aXcyby1hODM5MTg5NS0xYjBkLTQ3NDMtYjZmNS1lODNmYTQxM2E2ODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.16hFIs2kRg0J_Krm5HG964h5p2E84IVxUwQBADyJdcc' alt='Sesame Street gang clipart by mcdnalds2016 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2789">
+                                <meta itemprop="height" content="2631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47427049-40f2-4e25-9ce7-dac4d90223b4/dftiw2o-a8391895-1b0d-4743-b6f5-e83fa413a687.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3NDI3MDQ5LTQwZjItNGUyNS05Y2U3LWRhYzRkOTAyMjNiNFwvZGZ0aXcyby1hODM5MTg5NS0xYjBkLTQ3NDMtYjZmNS1lODNmYTQxM2E2ODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.16hFIs2kRg0J_Krm5HG964h5p2E84IVxUwQBADyJdcc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sesame Street Clipart Bert Sesame Street Clipart - Sesame ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/f3/53/36f353f343f264847b64773b6a95e31e.jpg' alt='Free Sesame Street Clipart Bert Sesame Street Clipart - Sesame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/f3/53/36f353f343f264847b64773b6a95e31e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Clipart png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/141/173/png-clipart-sesame-street-character-zoe-ernie-count-von-count-elmo-big-bird-sesame-street-zoe-smile-thumbnail.png' alt='Sesame Street Clipart png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/141/173/png-clipart-sesame-street-character-zoe-ernie-count-von-count-elmo-big-bird-sesame-street-zoe-smile-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Mommy of the Birthday Boy PNG, JPG. Instant download files  for Design, Photography, Printing, or more">
+                                <img itemprop="contentUrl url" src='https://homedigitalstore.com/wp-content/uploads/2023/04/Mommy-01-3-scaled.jpg' alt='Sesame Street Mommy of the Birthday Boy PNG, JPG. Instant download files  for Design, Photography, Printing, or more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Home Digital Store" />
+                                </span>
+                                <a href='https://homedigitalstore.com/wp-content/uploads/2023/04/Mommy-01-3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street Characters Singing PNG by looneytunesfanlhl on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86278d9e-2dee-46ec-80d0-94431afa47ed/dhfsba8-fae68a3b-4179-4c83-8104-4eb86744ddd4.png/v1/fill/w_1280,h_997/sesame_street_characters_singing_png_by_looneytunesfanlhl_dhfsba8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk3IiwicGF0aCI6IlwvZlwvODYyNzhkOWUtMmRlZS00NmVjLTgwZDAtOTQ0MzFhZmE0N2VkXC9kaGZzYmE4LWZhZTY4YTNiLTQxNzktNGM4My04MTA0LTRlYjg2NzQ0ZGRkNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OiqiNj1tOKLiBkB_5YWXpCpDq3Y0sBhSAZSkI19Ts2M' alt='Sesame Street Characters Singing PNG by looneytunesfanlhl on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86278d9e-2dee-46ec-80d0-94431afa47ed/dhfsba8-fae68a3b-4179-4c83-8104-4eb86744ddd4.png/v1/fill/w_1280,h_997/sesame_street_characters_singing_png_by_looneytunesfanlhl_dhfsba8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk3IiwicGF0aCI6IlwvZlwvODYyNzhkOWUtMmRlZS00NmVjLTgwZDAtOTQ0MzFhZmE0N2VkXC9kaGZzYmE4LWZhZTY4YTNiLTQxNzktNGM4My04MTA0LTRlYjg2NzQ0ZGRkNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OiqiNj1tOKLiBkB_5YWXpCpDq3Y0sBhSAZSkI19Ts2M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sesame Street PNG Files Download, Sesame Street Vector | Inspire ...">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/35721/1704357682_1.png&width=600&height=600&quality=90&format=auto&fit=pad' alt='Sesame Street PNG Files Download, Sesame Street Vector | Inspire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/35721/1704357682_1.png&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

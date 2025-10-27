@@ -1,0 +1,129 @@
+<title>Candy Cane Heart Wallpaper: Festive Holiday Decor</title>
+                    <meta name="description" content="Add holiday cheer to your home with our candy cane heart wallpaper! Perfect for festive decor, this charming design brightens up any room. Easy to apply and remove, it’s an ideal choice for holiday celebrations or seasonal decorating. Embrace the spirit of Christmas with this whimsical wallpaper!">
+                    <meta name="keywords" content="candy cane heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/candy-cane-heart-wallpaper">
+                            <span itemprop="name">candy cane heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Cane Heart Wallpaper: Festive Holiday Decor</h1>
+                <p>Transform your space this holiday season with our enchanting candy cane heart wallpaper! Featuring a delightful design of intertwined candy canes in the shape of hearts, it adds a festive touch to any room. Perfect for Christmas decorations or creating a cheerful atmosphere, this wallpaper is a sweet way to celebrate the season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,700+ Candy Cane Heart Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/904190558/photo/candy-canes-held-up-in-shape-of-heart.jpg?s=612x612&w=0&k=20&c=pZIe0OWPrVC2F1phrIx6A87blGfJemAGNyCu-HW9dAk=' alt='6,700+ Candy Cane Heart Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/904190558/photo/candy-canes-held-up-in-shape-of-heart.jpg?s=612x612&w=0&k=20&c=pZIe0OWPrVC2F1phrIx6A87blGfJemAGNyCu-HW9dAk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,700+ Candy Cane Heart Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1358978937/vector/red-christmas-candy-cane-heart-with-red-bow.jpg?s=612x612&w=0&k=20&c=wZ_wIC62obmJH9MdxMcWsvNq1H894AFd64e-v93wdd0=' alt='6,700+ Candy Cane Heart Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1358978937/vector/red-christmas-candy-cane-heart-with-red-bow.jpg?s=612x612&w=0&k=20&c=wZ_wIC62obmJH9MdxMcWsvNq1H894AFd64e-v93wdd0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas candy canes, stick and decor on color background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/86/93/84/1000_F_286938460_JTQ60u43exjpQID6aKFbjFdgMD1vDoEM.jpg' alt='Christmas candy canes, stick and decor on color background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/86/93/84/1000_F_286938460_JTQ60u43exjpQID6aKFbjFdgMD1vDoEM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/7c/17/967c17eca6fef6d016a144fe1f233900.jpg' alt='Christmas love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/7c/17/967c17eca6fef6d016a144fe1f233900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane Heart Images – Browse 31,460 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/29/66/16/360_F_1029661693_BYkg74Ab8H02knzAZhPOJVmNn3OccOdo.jpg' alt='Candy Cane Heart Images – Browse 31,460 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/29/66/16/360_F_1029661693_BYkg74Ab8H02knzAZhPOJVmNn3OccOdo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Canes Free Stock Photo - StockSnap.io">
+                                <img itemprop="contentUrl url" src='https://cdn.stocksnap.io/img-thumbs/960w/candy-canes_LCNYWW1NT6.jpg' alt='Candy Canes Free Stock Photo - StockSnap.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockSnap.io" />
+                                </span>
+                                <a href='https://cdn.stocksnap.io/img-thumbs/960w/candy-canes_LCNYWW1NT6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Heart With Candy Canes Spelled Out Over A Red Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-a-heart-with-candy-canes-spelled-out-over-a-red-background-image_13332190.jpg' alt='A Heart With Candy Canes Spelled Out Over A Red Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-a-heart-with-candy-canes-spelled-out-over-a-red-background-image_13332190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Watch Face Candy Cane">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/e9/82/37e982baf534e10c019f9aea131c99a9.jpg' alt='Apple Watch Face Candy Cane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/e9/82/37e982baf534e10c019f9aea131c99a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Candy cane sticks in a shape of a heart on a red ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/candy-cane-sticks-shape-heart-red-background-christmas-holiday-card-with-copy-space-new-year-wallpaper-flat-lay_283817-870.jpg?w=360' alt='Premium Photo | Candy cane sticks in a shape of a heart on a red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/candy-cane-sticks-shape-heart-red-background-christmas-holiday-card-with-copy-space-new-year-wallpaper-flat-lay_283817-870.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Candy Cane Heartbokeh Background Ornament Greeting ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20221130/pngtree-christmas-candy-cane-heartbokeh-background-ornament-greeting-overhead-photo-image_40069948.jpg' alt='Christmas Candy Cane Heartbokeh Background Ornament Greeting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20221130/pngtree-christmas-candy-cane-heartbokeh-background-ornament-greeting-overhead-photo-image_40069948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

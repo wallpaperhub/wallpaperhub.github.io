@@ -1,0 +1,129 @@
+<title>Discover the Sweet Delights of Strawberry Fields</title>
+                    <meta name="description" content="Explore the enchanting world of strawberry fields! Enjoy the experience of picking fresh, juicy strawberries while basking in the beauty of nature. Perfect for families and lovers of outdoor activities, find out why strawberry fields are a must-visit destination this season.">
+                    <meta name="keywords" content="field of strawberries">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/field-of-strawberries">
+                            <span itemprop="name">field of strawberries</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Sweet Delights of Strawberry Fields</h1>
+                <p>Strawberry fields are vibrant, sun-drenched spaces where sweet, juicy strawberries grow. These fields are often a favorite for families, offering pick-your-own experiences in spring and summer. With rows of lush green plants and bright red berries, they attract countless visitors eager to enjoy the delicious fruits of their labor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Secret Life Of California's World-Class Strawberries : The ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2012/05/17/ed_kelly_1074-5dab6b8ecf5edac8fd48a4ea06586b918af246ed.jpg' alt='The Secret Life Of California's World-Class Strawberries : The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2012/05/17/ed_kelly_1074-5dab6b8ecf5edac8fd48a4ea06586b918af246ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field Notes: Strawberry fields forever - GREENVILLE JOURNAL">
+                                <img itemprop="contentUrl url" src='https://greenvillejournal.com/wp-content/uploads/2023/06/Fresh-from-the-field.jpg' alt='Field Notes: Strawberry fields forever - GREENVILLE JOURNAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenville Journal" />
+                                </span>
+                                <a href='https://greenvillejournal.com/wp-content/uploads/2023/06/Fresh-from-the-field.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Florida, Strawberry Fields Are Not Forever : The Salt : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/03/14/strawberries-1_custom-5868fe46883d0fc5ac909554aec82e3f0f0a5373.jpg' alt='In Florida, Strawberry Fields Are Not Forever : The Salt : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/03/14/strawberries-1_custom-5868fe46883d0fc5ac909554aec82e3f0f0a5373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Fields Images – Browse 96,763 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/66/88/51/360_F_66885129_Qsb51UEo2jSwmuBwN68t7sSmasnzaCFr.jpg' alt='Strawberry Fields Images – Browse 96,763 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/66/88/51/360_F_66885129_Qsb51UEo2jSwmuBwN68t7sSmasnzaCFr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,900+ Strawberry Fields Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1484306216/photo/strawberry-field-on-fruit-farm-fresh-ripe-organic-strawberry.jpg?s=612x612&w=0&k=20&c=eFIMwKmWoivBRv68JKr7QpQ0c8NIwp69n3jt_yRM3gE=' alt='9,900+ Strawberry Fields Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1484306216/photo/strawberry-field-on-fruit-farm-fresh-ripe-organic-strawberry.jpg?s=612x612&w=0&k=20&c=eFIMwKmWoivBRv68JKr7QpQ0c8NIwp69n3jt_yRM3gE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is the Strawberry Field The Next Farmworkers' Rights Battleground ...">
+                                <img itemprop="contentUrl url" src='https://civileats.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-25-at-10.16.51-PM.png' alt='Is the Strawberry Field The Next Farmworkers' Rights Battleground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Civil Eats" />
+                                </span>
+                                <a href='https://civileats.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-25-at-10.16.51-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Organic Strawberry Fields Forever | PCC Community Markets">
+                                <img itemprop="contentUrl url" src='https://www.pccmarkets.com/wp-content/uploads/2020/07/st-strawberry-crops_149470913.jpg' alt='Organic Strawberry Fields Forever | PCC Community Markets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCC Community Markets" />
+                                </span>
+                                <a href='https://www.pccmarkets.com/wp-content/uploads/2020/07/st-strawberry-crops_149470913.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pecan Creek Strawberry Farm">
+                                <img itemprop="contentUrl url" src='https://pecancreekstrawberryfarm.com/wp-content/uploads/2021/04/cropped-38676e57-707a-4f2f-84c4-ea89f35e6e95-2.jpg' alt='Pecan Creek Strawberry Farm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3224">
+                                <meta itemprop="height" content="2321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pecancreekstrawberryfarm.com" />
+                                </span>
+                                <a href='https://pecancreekstrawberryfarm.com/wp-content/uploads/2021/04/cropped-38676e57-707a-4f2f-84c4-ea89f35e6e95-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry field - Stock Image - E770/0949 - Science Photo Library">
+                                <img itemprop="contentUrl url" src='https://media.sciencephoto.com/e7/70/09/49/e7700949-800px-wm.jpg' alt='Strawberry field - Stock Image - E770/0949 - Science Photo Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Library" />
+                                </span>
+                                <a href='https://media.sciencephoto.com/e7/70/09/49/e7700949-800px-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July 28 is date for virtual Annual Santa Maria Strawberry Field ...">
+                                <img itemprop="contentUrl url" src='https://vegetablegrowersnews.com/wp-content/uploads/2019/07/RoyalRoyceStrawberry_HA_070119031-1024x746.jpg' alt='July 28 is date for virtual Annual Santa Maria Strawberry Field ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vegetable Growers News" />
+                                </span>
+                                <a href='https://vegetablegrowersnews.com/wp-content/uploads/2019/07/RoyalRoyceStrawberry_HA_070119031-1024x746.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

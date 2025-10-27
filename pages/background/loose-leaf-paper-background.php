@@ -1,0 +1,129 @@
+<title>Creative Loose Leaf Paper Backgrounds for Every Project</title>
+                    <meta name="description" content="Discover a collection of creative loose leaf paper backgrounds that add a touch of authenticity to your designs. Perfect for educators, students, or crafters, these versatile backgrounds enhance digital art, scrapbooking, and note-taking. Elevate your projects with the charm of loose leaf paper today!">
+                    <meta name="keywords" content="loose leaf paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/loose-leaf-paper-background">
+                            <span itemprop="name">loose leaf paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Loose Leaf Paper Backgrounds for Every Project</h1>
+                <p>Loose leaf paper backgrounds are versatile design elements, perfect for digitized artwork, scrapbooking, or digital note-taking. Their grid or lined patterns offer an authentic, handwritten feel, making them ideal for educational projects, stationery, and journaling concepts. Such backgrounds can evoke nostalgia while providing a clean canvas for creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1304684103/photo/lined-notebook-paper-for-background.jpg?s=612x612&w=0&k=20&c=Jz_8vP4l4Zq92j71fcJYzIAKOZdyVDRXAINXv1spMAk=' alt='250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1304684103/photo/lined-notebook-paper-for-background.jpg?s=612x612&w=0&k=20&c=Jz_8vP4l4Zq92j71fcJYzIAKOZdyVDRXAINXv1spMAk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/527897414/photo/sheet-of-looseleaf-paper-detailed-lined-paper-texture.jpg?s=612x612&w=0&k=20&c=G3FgxpgIPs2n6X6pqehzQKjo-GWaVWiQ-8AeKxthfYY=' alt='250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/527897414/photo/sheet-of-looseleaf-paper-detailed-lined-paper-texture.jpg?s=612x612&w=0&k=20&c=G3FgxpgIPs2n6X6pqehzQKjo-GWaVWiQ-8AeKxthfYY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OnlineLabels Clip Art - Loose Leaf Paper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/70/67/bb7067cd2c2d11422039ae05b2d36344.jpg' alt='OnlineLabels Clip Art - Loose Leaf Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/70/67/bb7067cd2c2d11422039ae05b2d36344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1416198757/photo/notebook-paper-background-paper-lines.jpg?s=612x612&w=0&k=20&c=2H_yQNIQDJIWuNn5VnOrpyJK-wD_EUGyiGkFETjMb9g=' alt='250+ Loose Leaf Paper Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="441">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1416198757/photo/notebook-paper-background-paper-lines.jpg?s=612x612&w=0&k=20&c=2H_yQNIQDJIWuNn5VnOrpyJK-wD_EUGyiGkFETjMb9g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crumpled Looseleaf Paper by Cliffski on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/488a08fe-d05b-46e9-baa1-9533867671d5/d1r050o-85109555-0299-4038-b73d-f2bc7d2cc155.jpg/v1/fill/w_600,h_784,q_75,strp/crumpled_looseleaf_paper_by_cliffski_d1r050o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzg0IiwicGF0aCI6IlwvZlwvNDg4YTA4ZmUtZDA1Yi00NmU5LWJhYTEtOTUzMzg2NzY3MWQ1XC9kMXIwNTBvLTg1MTA5NTU1LTAyOTktNDAzOC1iNzNkLWYyYmM3ZDJjYzE1NS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.D5HNj5Blxr0oDupTkMPNdb49K3NDDFILyJ_bizOnArw' alt='Crumpled Looseleaf Paper by Cliffski on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/488a08fe-d05b-46e9-baa1-9533867671d5/d1r050o-85109555-0299-4038-b73d-f2bc7d2cc155.jpg/v1/fill/w_600,h_784,q_75,strp/crumpled_looseleaf_paper_by_cliffski_d1r050o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzg0IiwicGF0aCI6IlwvZlwvNDg4YTA4ZmUtZDA1Yi00NmU5LWJhYTEtOTUzMzg2NzY3MWQ1XC9kMXIwNTBvLTg1MTA5NTU1LTAyOTktNDAzOC1iNzNkLWYyYmM3ZDJjYzE1NS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.D5HNj5Blxr0oDupTkMPNdb49K3NDDFILyJ_bizOnArw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank loose leaf notebook paper background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2RCM5PY/blank-loose-leaf-notebook-paper-background-2RCM5PY.jpg' alt='Blank loose leaf notebook paper background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2RCM5PY/blank-loose-leaf-notebook-paper-background-2RCM5PY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loose Leaf Paper Clip Art at Clker.com - vector clip art online ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/3/a/q/d/u/X/loose-leaf-paper.svg' alt='Loose Leaf Paper Clip Art at Clker.com - vector clip art online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/3/a/q/d/u/X/loose-leaf-paper.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook Paper Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/notebook-paper-background-lined-notebook-paper-crumpled-paper-background_322958-5172.jpg' alt='Notebook Paper Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/notebook-paper-background-lined-notebook-paper-crumpled-paper-background_322958-5172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loose Leaf Paper - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/800px/16004' alt='Loose Leaf Paper - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/800px/16004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sheet of Loose Leaf Paper stock vector. Illustration of assignment ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/a9/f5/73a9f50566263705e906def17eb620fc.jpg' alt='Sheet of Loose Leaf Paper stock vector. Illustration of assignment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/a9/f5/73a9f50566263705e906def17eb620fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

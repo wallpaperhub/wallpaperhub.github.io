@@ -1,0 +1,129 @@
+<title>High-Quality PS4 Controller PNG Images for Download</title>
+                    <meta name="description" content="Discover an extensive selection of PS4 controller PNG images, ideal for designers and gamers alike. Optimize your projects with these high-quality, transparent graphics, perfect for web use, print materials, and presentations. Download now and elevate your designs with stylish visuals!">
+                    <meta name="keywords" content="ps4 controller png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ps4-controller-png">
+                            <span itemprop="name">ps4 controller png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality PS4 Controller PNG Images for Download</h1>
+                <p>Looking for a PS4 controller PNG? Our collection offers high-quality, transparent images of the iconic PlayStation 4 controller, perfect for your graphic design projects, gaming websites, or promotional materials. Download these images easily for seamless integration into your art or presentations!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ps4 Controller transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/58f36427a4fa116215a923cf.png' alt='Ps4 Controller transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/58f36427a4fa116215a923cf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playstation Controller png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/739/498/png-clipart-sony-playstation-4-xbox-one-controller-game-controllers-dualshock-playstation-2-electronics-playstation-4-thumbnail.png' alt='Playstation Controller png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/739/498/png-clipart-sony-playstation-4-xbox-one-controller-game-controllers-dualshock-playstation-2-electronics-playstation-4-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playstation 4 Dualshock 4 Controller PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/playstation-4-dualshock-4-controller-png-12.png' alt='Playstation 4 Dualshock 4 Controller PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="906">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/playstation-4-dualshock-4-controller-png-12.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dualshock png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/155/387/png-clipart-playstation-4-xbox-one-controller-dualshock-4-gba-icon-playstation-4-game-controllers-thumbnail.png' alt='Dualshock png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/155/387/png-clipart-playstation-4-xbox-one-controller-dualshock-4-gba-icon-playstation-4-game-controllers-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUALSHOCK 4 wireless controller - PS4 Controller">
+                                <img itemprop="contentUrl url" src='https://gmedia.playstation.com/is/image/SIEPDC/dualshock-controller-product-thumbnail-01-en-14sep21?$facebook$' alt='DUALSHOCK 4 wireless controller - PS4 Controller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation" />
+                                </span>
+                                <a href='https://gmedia.playstation.com/is/image/SIEPDC/dualshock-controller-product-thumbnail-01-en-14sep21?$facebook$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ps4 Controller Images – Browse 2,100 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/09/00/83/360_F_109008395_OQDupHMza1V6CNOzrJwWAKlaktT4IsRW.jpg' alt='Ps4 Controller Images – Browse 2,100 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/09/00/83/360_F_109008395_OQDupHMza1V6CNOzrJwWAKlaktT4IsRW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PlayStation 4 Sony DualShock 4 Game Controllers, blue, video Game ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/279/192/png-clipart-playstation-4-sony-dualshock-4-game-controllers-others-blue-video-game.png' alt='PlayStation 4 Sony DualShock 4 Game Controllers, blue, video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/279/192/png-clipart-playstation-4-sony-dualshock-4-game-controllers-others-blue-video-game.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="playstation 4 controller png by KuromiAndChespin400 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36a30296-48ab-4d5a-b8fd-16ee9aeb3427/dfcgn06-382eb744-7070-4f37-a642-d7132e82e4d1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2YTMwMjk2LTQ4YWItNGQ1YS1iOGZkLTE2ZWU5YWViMzQyN1wvZGZjZ24wNi0zODJlYjc0NC03MDcwLTRmMzctYTY0Mi1kNzEzMmU4MmU0ZDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hBmGxcVNxMG4jAn4b74QhknL3Pz9nJHNTwLEKeDnmsU' alt='playstation 4 controller png by KuromiAndChespin400 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36a30296-48ab-4d5a-b8fd-16ee9aeb3427/dfcgn06-382eb744-7070-4f37-a642-d7132e82e4d1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2YTMwMjk2LTQ4YWItNGQ1YS1iOGZkLTE2ZWU5YWViMzQyN1wvZGZjZ24wNi0zODJlYjc0NC03MDcwLTRmMzctYTY0Mi1kNzEzMmU4MmU0ZDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hBmGxcVNxMG4jAn4b74QhknL3Pz9nJHNTwLEKeDnmsU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playstation, Ps4 Controller Silver PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/playstation-ps4-controller-silver-png-24.png' alt='Playstation, Ps4 Controller Silver PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/playstation-ps4-controller-silver-png-24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalized PlayStation 4 Controller    - Build, Create & Design ...">
+                                <img itemprop="contentUrl url" src='https://eu.aimcontrollers.com/wp-content/uploads/2019/11/PS4_Front_Default.png' alt='Personalized PlayStation 4 Controller    - Build, Create & Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AimControllers" />
+                                </span>
+                                <a href='https://eu.aimcontrollers.com/wp-content/uploads/2019/11/PS4_Front_Default.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

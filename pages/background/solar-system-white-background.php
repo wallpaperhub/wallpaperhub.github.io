@@ -1,0 +1,129 @@
+<title>Discover Our Solar System: A Visual Journey</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="solar system white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/solar-system-white-background">
+                            <span itemprop="name">solar system white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Our Solar System: A Visual Journey</h1>
+                <p>Explore the wonders of our solar system against a pristine white background. The Sun, planets, moons, and asteroids come to life in vibrant colors, showcasing their unique features and significance. This captivating visual invites you to delve deeper into the cosmos and understand our place in this vast universe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solar System On White Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/planets-solar-system-pluto-3d-260nw-1669381609.jpg' alt='Solar System On White Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/planets-solar-system-pluto-3d-260nw-1669381609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solar system planets white background hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PP449D/the-planets-of-the-solar-system-isolated-on-white-background-PP449D.jpg' alt='Solar system planets white background hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PP449D/the-planets-of-the-solar-system-isolated-on-white-background-PP449D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="690+ Solar System White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1394025658/vector/watercolor-illustration-of-hand-painted-all-planets-of-solar-system-with-star-sun-amd.jpg?s=612x612&w=0&k=20&c=xc7HLvnvU21t5cUd3Os7_U2rQj8enmK0i_mn_xgXaIo=' alt='690+ Solar System White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1394025658/vector/watercolor-illustration-of-hand-painted-all-planets-of-solar-system-with-star-sun-amd.jpg?s=612x612&w=0&k=20&c=xc7HLvnvU21t5cUd3Os7_U2rQj8enmK0i_mn_xgXaIo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration of our Solar System with planets on white ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/38/33/33/1000_F_138333378_OEImVnCyH8gKw6sE6fNnuNdiCGK5C5GQ.jpg' alt='Vector illustration of our Solar System with planets on white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/38/33/33/1000_F_138333378_OEImVnCyH8gKw6sE6fNnuNdiCGK5C5GQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration of our Solar System with gradient planets on ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/38/33/34/1000_F_138333462_6TEqtkBrkeqRkpXzebu9gpb7rEARMcKJ.jpg' alt='Vector illustration of our Solar System with gradient planets on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/38/33/34/1000_F_138333462_6TEqtkBrkeqRkpXzebu9gpb7rEARMcKJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solar system planets white background hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/CYYFEC/illustration-of-the-solar-system-showing-the-nine-planets-on-isolated-CYYFEC.jpg' alt='Solar system planets white background hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/CYYFEC/illustration-of-the-solar-system-showing-the-nine-planets-on-isolated-CYYFEC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="690+ Solar System White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2191056700/vector/isolated-solar-system-illustration-with-the-order-of-the-planets-from-the-sun-every-planet.jpg?s=612x612&w=0&k=20&c=ZJxBL47c7Op3gFkCSgJxXe-il2yskQTHCQhh7-9L03U=' alt='690+ Solar System White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2191056700/vector/isolated-solar-system-illustration-with-the-order-of-the-planets-from-the-sun-every-planet.jpg?s=612x612&w=0&k=20&c=ZJxBL47c7Op3gFkCSgJxXe-il2yskQTHCQhh7-9L03U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print the planets of the solar system isolated on ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/02/31/49/95/1000_F_231499503_OVN9ejruvUrU2dgYGm53kFUovD8ULJda.jpg' alt='Photo & Art Print the planets of the solar system isolated on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/02/31/49/95/1000_F_231499503_OVN9ejruvUrU2dgYGm53kFUovD8ULJda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The planet of the solar system isolated on white background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/planet-solar-system-isolated-white-background_887552-24715.jpg' alt='The planet of the solar system isolated on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/planet-solar-system-isolated-white-background_887552-24715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solar System On White Background Names Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/solar-system-on-white-background-260nw-2077457458.jpg' alt='Solar System On White Background Names Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/solar-system-on-white-background-260nw-2077457458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Small Bathroom with a Stylish Wallpaper Accent Wall</title>
+                    <meta name="description" content="Discover how to enhance your small bathroom with a chic wallpaper accent wall. Explore design tips, material choices, and color palettes that maximize style and space, all while ensuring durability and moisture resistance. Transform your bathroom into a cozy and inviting area effortlessly!">
+                    <meta name="keywords" content="small bathroom wallpaper accent wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/small-bathroom-wallpaper-accent-wall">
+                            <span itemprop="name">small bathroom wallpaper accent wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Small Bathroom with a Stylish Wallpaper Accent Wall</h1>
+                <p>Transform your small bathroom into a stylish retreat with a wallpaper accent wall. Choose bold patterns or soothing colors to create visual interest without overwhelming the space. Opt for moisture-resistant materials for durability. A well-placed accent wall can enhance the overall ambiance, making your bathroom feel more spacious and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Bathroom Accent Wall Ideas | You Must See! | The Kitchen Shop">
+                                <img itemprop="contentUrl url" src='https://www.mkdkitchenandbath.com/wp-content/uploads/2020/12/Bathroom-Accent-Wall-Ideas-3-1-434x510.jpg' alt='Gorgeous Bathroom Accent Wall Ideas | You Must See! | The Kitchen Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MKD Kitchen and Bath" />
+                                </span>
+                                <a href='https://www.mkdkitchenandbath.com/wp-content/uploads/2020/12/Bathroom-Accent-Wall-Ideas-3-1-434x510.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Bathroom Accent Wall Ideas That You Will Love!">
+                                <img itemprop="contentUrl url" src='https://virginiakitchenandbath.com/wp-content/uploads/2023/11/family-handyman-pinterest.jpeg' alt='17 Bathroom Accent Wall Ideas That You Will Love!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virginia Kitchen & Bath" />
+                                </span>
+                                <a href='https://virginiakitchenandbath.com/wp-content/uploads/2023/11/family-handyman-pinterest.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Small Bathroom Accent Wall Ideas - Hana's Happy Home">
+                                <img itemprop="contentUrl url" src='https://hanashappyhome.com/wp-content/uploads/2023/02/a16e0944-f9d6-443b-b191-fc3e74a2260b-757x1024.jpg' alt='DIY Small Bathroom Accent Wall Ideas - Hana's Happy Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hana's Happy Home" />
+                                </span>
+                                <a href='https://hanashappyhome.com/wp-content/uploads/2023/02/a16e0944-f9d6-443b-b191-fc3e74a2260b-757x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41 Bathroom Accent Wall Ideas to Energize Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/cxo1fL6vD3dAl6IJH58cbBl_l0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/111-67740a779c1d47e3945081c0f2ef3863.jpg' alt='41 Bathroom Accent Wall Ideas to Energize Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/cxo1fL6vD3dAl6IJH58cbBl_l0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/111-67740a779c1d47e3945081c0f2ef3863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Amazing Bathroom Accent Wall Ideas to Try 2024">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_1.webp?v=1683362746' alt='39 Amazing Bathroom Accent Wall Ideas to Try 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inyouths" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_1.webp?v=1683362746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Bathroom Wallpaper Accent Wall Ideas – ThinkNoirWallpaper">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/articles/Modern-Bathroom-Wallpaper-Accent-Wall-Ideas-Blog_1000x.jpg?v=1694009600' alt='Modern Bathroom Wallpaper Accent Wall Ideas – ThinkNoirWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/articles/Modern-Bathroom-Wallpaper-Accent-Wall-Ideas-Blog_1000x.jpg?v=1694009600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Amazing Bathroom Accent Wall Ideas to Try 2024">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_6.jpg?v=1683363663' alt='39 Amazing Bathroom Accent Wall Ideas to Try 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inyouths" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0604/6833/0665/files/Bathroom_Accent_Wall_6.jpg?v=1683363663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Bathroom Accent Wall Ideas">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/uQ93QN4zs-GxVPVWvHneCJmG0pQ=/4000x0/filters:no_upscale():strip_icc()/103320746-4eb71fe0466941b6a987c1706b973b9e.jpg' alt='26 Bathroom Accent Wall Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/uQ93QN4zs-GxVPVWvHneCJmG0pQ=/4000x0/filters:no_upscale():strip_icc()/103320746-4eb71fe0466941b6a987c1706b973b9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom refresh with wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/1e/49/091e49dd0fa237996eac456217949b35.jpg' alt='Bathroom refresh with wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/1e/49/091e49dd0fa237996eac456217949b35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper Ideas to Enhance Your Space | Robern">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e8a2_63470b639b94a93a34aab1d5_grace-kelly-xCxMmFBjJ6o-unsplash.jpeg' alt='Bathroom Wallpaper Ideas to Enhance Your Space | Robern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robern" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6334a8d89862a1cc15eae9e1/6744d920535581bd66d8e8a2_63470b639b94a93a34aab1d5_grace-kelly-xCxMmFBjJ6o-unsplash.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

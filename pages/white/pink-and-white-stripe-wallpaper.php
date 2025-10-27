@@ -1,0 +1,129 @@
+<title>Refresh Your Space with Pink and White Stripe Wallpaper</title>
+                    <meta name="description" content="Discover the charm of pink and white stripe wallpaper! Ideal for adding a playful yet elegant touch to your home, this wallpaper is perfect for nurseries and accent walls. Transform your space effortlessly and create a welcoming atmosphere with this stylish design.">
+                    <meta name="keywords" content="pink and white stripe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/pink-and-white-stripe-wallpaper">
+                            <span itemprop="name">pink and white stripe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your Space with Pink and White Stripe Wallpaper</h1>
+                <p>Pink and white stripe wallpaper brings a refreshing pop of color and playful style to any room. Perfect for nurseries, kids' rooms, or accent walls, this delightful design offers a cheerful vibe while maintaining elegance. Pair it with soft furnishings in complementary tones for a cohesive look that elevates your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Pastel Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' alt='Classic Stripe Wallpaper in Pastel Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' alt=''Candy Stripe' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sassy B Stripe Tease Wallpaper White Pink - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61a2s84G5sL._AC_UF894,1000_QL80_.jpg' alt='Sassy B Stripe Tease Wallpaper White Pink - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61a2s84G5sL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink and White Diagonal Stripe Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-diagonal-stripe-pr-shqh.jpg' alt='Light Pink and White Diagonal Stripe Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-diagonal-stripe-pr-shqh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgica Pink Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://madcapcottage.com/cdn/shop/products/madcap_cottage_pink_stripe_wallpaper.png?v=1736349308&width=800' alt='Georgica Pink Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Madcap Cottage" />
+                                </span>
+                                <a href='https://madcapcottage.com/cdn/shop/products/madcap_cottage_pink_stripe_wallpaper.png?v=1736349308&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Self Adhesive Vinyl Pink and White Stripe Peel and Stick  Wallpaper Shelf Liner for Walls Nursery Girls Bedroom Cabinets Dresser  Drawer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51Ge6feYHCL.jpg' alt='Amazon.com: Self Adhesive Vinyl Pink and White Stripe Peel and Stick  Wallpaper Shelf Liner for Walls Nursery Girls Bedroom Cabinets Dresser  Drawer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51Ge6feYHCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stripes Wallpaper Pink Wall Decor Pink Nursery Wallpaper Hand ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50424209/r/il/a8fd84/5926741612/il_570xN.5926741612_3trw.jpg' alt='Pink Stripes Wallpaper Pink Wall Decor Pink Nursery Wallpaper Hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50424209/r/il/a8fd84/5926741612/il_570xN.5926741612_3trw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stripe Wall Paper For Walls Vertical Striped Wallpapers 3d ...">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Hc8590dd8b07d4d8485cd164d92d171f4r.jpg_640x640q90.jpg' alt='Pink Stripe Wall Paper For Walls Vertical Striped Wallpapers 3d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Hc8590dd8b07d4d8485cd164d92d171f4r.jpg_640x640q90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brynn Pink Paisley Stripe Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thefabricco.com/cdn/shop/products/1014-001831_room.jpg?v=1707748606&width=480' alt='Brynn Pink Paisley Stripe Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fabric Co" />
+                                </span>
+                                <a href='https://thefabricco.com/cdn/shop/products/1014-001831_room.jpg?v=1707748606&width=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Stripe Wallpaper - Pink">
+                                <img itemprop="contentUrl url" src='https://ayarahome.com/cdn/shop/files/Hunters-of-Happiness-Wallpaper-WideStripe-Pink-Mockup1_1445x.jpg?v=1695663444' alt='Gracie's Stripe Wallpaper - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='https://ayarahome.com/cdn/shop/files/Hunters-of-Happiness-Wallpaper-WideStripe-Pink-Mockup1_1445x.jpg?v=1695663444' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

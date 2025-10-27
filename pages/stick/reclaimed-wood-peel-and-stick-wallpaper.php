@@ -1,0 +1,129 @@
+<title>Rustic Reclaimed Wood Peel and Stick Wallpaper for Easy Home Refresh</title>
+                    <meta name="description" content="Discover the beauty of reclaimed wood peel and stick wallpaper! Easy to install and remove, this wallpaper adds rustic charm to any room. Perfect for DIY enthusiasts, transform your space effortlessly while enjoying the warmth and character of aged wood. Ideal for renters and quick home makeovers!">
+                    <meta name="keywords" content="reclaimed wood peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/reclaimed-wood-peel-and-stick-wallpaper">
+                            <span itemprop="name">reclaimed wood peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rustic Reclaimed Wood Peel and Stick Wallpaper for Easy Home Refresh</h1>
+                <p>Reclaimed wood peel and stick wallpaper transforms your space with the rustic charm of aged wood without the hassle of traditional installation. Perfect for DIY enthusiasts, it's easy to apply and remove, making it ideal for renters or those seeking a quick home update. Enjoy the beauty of reclaimed wood while adding warmth and character to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Reclaimed Wood Plank Vinyl Peel & Stick Wallpaper Roll (Covers  30.75 Sq. Ft.) NW32601 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ade66a31-f064-4022-84d2-20fc6f5ead77/svn/nextwall-wallpaper-rolls-nw32601-64_1000.jpg' alt='NextWall Reclaimed Wood Plank Vinyl Peel & Stick Wallpaper Roll (Covers  30.75 Sq. Ft.) NW32601 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ade66a31-f064-4022-84d2-20fc6f5ead77/svn/nextwall-wallpaper-rolls-nw32601-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Wood Peel and Stick Wallpaper Gray Brown White 3D ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/939682/1235931669/il_570xN.1235931669_1cki.jpg' alt='Distressed Wood Peel and Stick Wallpaper Gray Brown White 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/939682/1235931669/il_570xN.1235931669_1cki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Reclaimed Wood Texture Peel and Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll Wall Mural Sticker Home Decor for Living  Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71t2+MlN4HL.jpg' alt='Amazon.com: Reclaimed Wood Texture Peel and Stick Wallpaper Removable  Self-Adhesive Large Wallpaper Roll Wall Mural Sticker Home Decor for Living  Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71t2+MlN4HL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Reclaimed Wood Plank Natural Raised Ink Vinyl Peel and Stick  Wallpaper, 216-in by 20.5-in, 30.75 Sq. ft. 1 count">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/NuWallpaper-Reclaimed-Wood-Plank-Natural-Raised-Ink-Vinyl-Peel-And-Stick-Wallpaper-216-in-by-20-5-in-30-75-sq-ft_3cd9a265-e71e-4671-a0cc-5357797f3201.5a9ef4a8cacc85ef2201559331ec43d6.jpeg' alt='NuWallpaper Reclaimed Wood Plank Natural Raised Ink Vinyl Peel and Stick  Wallpaper, 216-in by 20.5-in, 30.75 Sq. ft. 1 count'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/NuWallpaper-Reclaimed-Wood-Plank-Natural-Raised-Ink-Vinyl-Peel-And-Stick-Wallpaper-216-in-by-20-5-in-30-75-sq-ft_3cd9a265-e71e-4671-a0cc-5357797f3201.5a9ef4a8cacc85ef2201559331ec43d6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reclaimed Wood Plank Peel & Stick Wallpaper - Lelands Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2020/05/NW32601-Seabrook-Wallcoverings-NextWall-Reclaimed-Wood-Plank-Peel-and-Stick-Wallpaper-Grey-Room-Setting.jpg?fit=500%2C500&ssl=1' alt='Reclaimed Wood Plank Peel & Stick Wallpaper - Lelands Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2020/05/NW32601-Seabrook-Wallcoverings-NextWall-Reclaimed-Wood-Plank-Peel-and-Stick-Wallpaper-Grey-Room-Setting.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reclaimed Wood Plank Natural Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://windowfilmworld.com/cdn/shop/products/NU1690_Room_grande.jpg?v=1486466720' alt='Reclaimed Wood Plank Natural Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Window Film World" />
+                                </span>
+                                <a href='https://windowfilmworld.com/cdn/shop/products/NU1690_Room_grande.jpg?v=1486466720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repurposed Wood Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/RE561-multicolor-repurposed-wood-peel-stick-wallpaper-fireplace.jpg?v=1675449042' alt='Repurposed Wood Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/RE561-multicolor-repurposed-wood-peel-stick-wallpaper-fireplace.jpg?v=1675449042' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Reclaimed Wood Plank Peel and Stick Removable Wallpaper – Say ...">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW32600-E_2000x2000.jpg?v=1585447006' alt='Gray Reclaimed Wood Plank Peel and Stick Removable Wallpaper – Say ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW32600-E_2000x2000.jpg?v=1585447006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barn Wood Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?v=1666799095' alt='Barn Wood Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?v=1666799095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reclaimed Wood Peel and Stick Wallpaper–Plank Multicolored Vintage Barnwood  - Self Adhesive Backsplash,Vinyl Roll Contact Paper - AliExpress 13">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Ha6d93a147d1b4cf185af48f1241ee48cP.jpg' alt='Reclaimed Wood Peel and Stick Wallpaper–Plank Multicolored Vintage Barnwood  - Self Adhesive Backsplash,Vinyl Roll Contact Paper - AliExpress 13'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Ha6d93a147d1b4cf185af48f1241ee48cP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

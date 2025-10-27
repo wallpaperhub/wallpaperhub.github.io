@@ -1,0 +1,129 @@
+<title>Gracie's Corner: Fun & Educational PNGs for Kids</title>
+                    <meta name="description" content="Explore Gracie's Corner, a vibrant collection of PNG images perfect for children's education and play. Discover engaging characters that inspire learning while adding a fun touch to your resources. Ideal for parents and teachers looking to enhance children's experiences through delightful visuals!">
+                    <meta name="keywords" content="gracie's corner png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gracies-corner-png">
+                            <span itemprop="name">gracie's corner png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gracie's Corner: Fun & Educational PNGs for Kids</h1>
+                <p>Gracie's Corner is an engaging digital platform specifically designed for kids, featuring delightful characters and educational content. This vibrant PNG collection showcases Gracie and her friends, bringing joy and learning to young audiences. Perfect for educators, parents, or anyone looking to add a fun touch to children's materials!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner PNG Bundles, Gracie's Corner Birthday Png, Birthday Girl,  1st Birthday Png, Birthday Gift Gracie's">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1682859882_20.jpg&width=600&height=600&quality=90&format=auto&fit=pad' alt='Gracie's Corner PNG Bundles, Gracie's Corner Birthday Png, Birthday Girl,  1st Birthday Png, Birthday Gift Gracie's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1682859882_20.jpg&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Gracie Corner Png, Gracie's Corner Party Png, Gracie's Corner Png,  Gracie Png, Cartoon Png - Digital File">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/1682001810_Clintonfrazier-copy-6-gracies-cornersm03.jpeg' alt='Baby Gracie Corner Png, Gracie's Corner Party Png, Gracie's Corner Png,  Gracie Png, Cartoon Png - Digital File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/1682001810_Clintonfrazier-copy-6-gracies-cornersm03.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracies Corner PNG Instant Download Digital">
+                                <img itemprop="contentUrl url" src='https://s.ecrater.com/stores/573363/65fd39a1798b5_573363b.jpg' alt='Gracies Corner PNG Instant Download Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eCRATER" />
+                                </span>
+                                <a href='https://s.ecrater.com/stores/573363/65fd39a1798b5_573363b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Svg, Gracie's Girl Svg, Kids Song Svg - Instant ...">
+                                <img itemprop="contentUrl url" src='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-svg-girl-kids-song-instant-download-176.jpg?v=1690039568' alt='Gracie's Corner Svg, Gracie's Girl Svg, Kids Song Svg - Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gigabundlesvg" />
+                                </span>
+                                <a href='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-svg-girl-kids-song-instant-download-176.jpg?v=1690039568' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Clipart PNG Instant Digital Download">
+                                <img itemprop="contentUrl url" src='https://s.ecrater.com/stores/487097/656afaa0ba328_487097b.jpg' alt='Gracie's Corner Clipart PNG Instant Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eCRATER" />
+                                </span>
+                                <a href='https://s.ecrater.com/stores/487097/656afaa0ba328_487097b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Logo Svg, Gracie's Corner Svg, Gracie's Girl Svg ...">
+                                <img itemprop="contentUrl url" src='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-logo-svg-girl-kids-song-instant-download-169.jpg?v=1690040168' alt='Gracie's Corner Logo Svg, Gracie's Corner Svg, Gracie's Girl Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gigabundlesvg" />
+                                </span>
+                                <a href='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-logo-svg-girl-kids-song-instant-download-169.jpg?v=1690040168' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Outline Cutouts Edible Images — Choco House">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5bbe8cab7eb88c0882112cab/1697840718651-4B6DZTOPXD4A9FPBAMSZ/ttiyyuiyuiy.jpg?format=1000w' alt='Gracie's Corner Outline Cutouts Edible Images — Choco House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choco House" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5bbe8cab7eb88c0882112cab/1697840718651-4B6DZTOPXD4A9FPBAMSZ/ttiyyuiyuiy.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Party Png, Girl Png, Gracie Corner Girl Png, Gracie Girl  Png, Gracie Png, Cartoon Png - Digital File">
+                                <img itemprop="contentUrl url" src='https://cdn.inspireuplift.com/uploads/images/seller_products/1682001253_Clintonfrazier-copy-6-gracies-corner-BR32.jpeg' alt='Gracie's Corner Party Png, Girl Png, Gracie Corner Girl Png, Gracie Girl  Png, Gracie Png, Cartoon Png - Digital File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://cdn.inspireuplift.com/uploads/images/seller_products/1682001253_Clintonfrazier-copy-6-gracies-corner-BR32.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner Svg, Gracie's Girl Svg, Black Girl Svg, Kids Song ...">
+                                <img itemprop="contentUrl url" src='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-svg-girl-black-kids-song-instant-download-730.jpg?v=1690039697' alt='Gracie's Corner Svg, Gracie's Girl Svg, Black Girl Svg, Kids Song ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gigabundlesvg" />
+                                </span>
+                                <a href='http://gigabundlesvg.com/cdn/shop/files/gracies-corner-svg-girl-black-kids-song-instant-download-730.jpg?v=1690039697' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gracie's Corner png JPG birthday, digital download,">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46651729/r/il/7821b8/6123462656/il_fullxfull.6123462656_rpno.jpg' alt='Gracie's Corner png JPG birthday, digital download,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1545">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46651729/r/il/7821b8/6123462656/il_fullxfull.6123462656_rpno.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

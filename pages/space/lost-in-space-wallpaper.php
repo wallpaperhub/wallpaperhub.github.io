@@ -1,0 +1,129 @@
+<title>Stunning Lost in Space Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover breathtaking lost in space wallpaper that transforms your screens! Explore vibrant cosmic designs featuring galaxies, planets, and stars, perfect for stargazers and space enthusiasts. Refresh your device with these enchanting backgrounds that inspire adventure and exploration!">
+                    <meta name="keywords" content="lost in space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/lost-in-space-wallpaper">
+                            <span itemprop="name">lost in space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lost in Space Wallpaper for Your Device</h1>
+                <p>Transform your device's background with stunning lost in space wallpaper! Immerse yourself in the vast universe filled with vibrant planets, twinkling stars, and cosmic wonders. Each wallpaper brings a unique perspective of space that inspires dreams of exploration. Perfect for stargazers and sci-fi fans alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Mind, Paul Brennus">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/55/0b/0f550b53083676711bc2876e268ea6f2.jpg' alt='Lost In Mind, Paul Brennus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/55/0b/0f550b53083676711bc2876e268ea6f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lost In Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lost-in-space-6u6gyqhbnu6su1tn.jpg' alt='100+] Lost In Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lost-in-space-6u6gyqhbnu6su1tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost in Space Wallpaper 4K, Alone, Dream, Deep space, Nebula">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lost-in-space-alone-dream-deep-space-nebula-2560x2560-1053.jpg' alt='Lost in Space Wallpaper 4K, Alone, Dream, Deep space, Nebula'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lost-in-space-alone-dream-deep-space-nebula-2560x2560-1053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Space Netflix Tv Series Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lost-in-space-netflix-tv-series-sfb48kdco7r1b8l2.jpg' alt='Lost In Space Netflix Tv Series Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lost-in-space-netflix-tv-series-sfb48kdco7r1b8l2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost in Space Wallpaper by PZNS on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de61nd1-18cc918c-6ea3-420c-a853-23c6b1f3afcb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiOWE1NTFhLTAxMDItNGNiZC05MWQwLTI5MmE1OGFjZDY4MFwvZGU2MW5kMS0xOGNjOTE4Yy02ZWEzLTQyMGMtYTg1My0yM2M2YjFmM2FmY2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2l5QAmEOk03Hn64G4CDll15jgbh6oS2_h7XeelkW34k' alt='Lost in Space Wallpaper by PZNS on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de61nd1-18cc918c-6ea3-420c-a853-23c6b1f3afcb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiOWE1NTFhLTAxMDItNGNiZC05MWQwLTI5MmE1OGFjZDY4MFwvZGU2MW5kMS0xOGNjOTE4Yy02ZWEzLTQyMGMtYTg1My0yM2M2YjFmM2FmY2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2l5QAmEOk03Hn64G4CDll15jgbh6oS2_h7XeelkW34k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronaut Lost in Space, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/996/843/HD-wallpaper-astronaut-lost-in-space.jpg' alt='Astronaut Lost in Space, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/996/843/HD-wallpaper-astronaut-lost-in-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Space Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lost-in-space-phone-4aom7ik5b34axwog.jpg' alt='Lost In Space Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lost-in-space-phone-4aom7ik5b34axwog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Space (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pf6khtxlxcj61.png' alt='Lost In Space (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pf6khtxlxcj61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost in Space HD Wallpaper – Cosmic Adventure Theme">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/914/914124.jpg' alt='Lost in Space HD Wallpaper – Cosmic Adventure Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/914/914124.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost In Space - S3 (2021) Phone Wallpaper | Wallcinemania">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/52/f7/1852f74342687186c71dc49a733a21f9.jpg' alt='Lost In Space - S3 (2021) Phone Wallpaper | Wallcinemania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/52/f7/1852f74342687186c71dc49a733a21f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

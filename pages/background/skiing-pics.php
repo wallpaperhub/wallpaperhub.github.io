@@ -1,0 +1,129 @@
+<title>Skiing Pics: Capturing the Thrill of Winter Adventure</title>
+                    <meta name="description" content="Explore an extensive gallery of skiing pics that celebrate the excitement and beauty of winter sports. Perfect for enthusiasts and novices alike, these breathtaking images will inspire your next skiing adventure and ignite your passion for the slopes.">
+                    <meta name="keywords" content="skiing pics">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skiing-pics">
+                            <span itemprop="name">skiing pics</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Skiing Pics: Capturing the Thrill of Winter Adventure</h1>
+                <p>Discover the thrill of skiing through stunning pics that capture every exhilarating moment on the slopes. From breathtaking mountain vistas to vibrant action shots, our collection showcases the beauty of winter sports. Whether you're a seasoned pro or a curious beginner, these skiing pics will inspire your next adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skiing - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg' alt='Skiing - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skiing & Snowboarding in Ontario| Blue Mountain Resort">
+                                <img itemprop="contentUrl url" src='https://amc-p-001.sitecorecontenthub.cloud/api/public/content/5fcf04a21fd0499c9e57389b6c2d6cb4?v=6576abc8&t=w480' alt='Skiing & Snowboarding in Ontario| Blue Mountain Resort'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Mountain Resort" />
+                                </span>
+                                <a href='https://amc-p-001.sitecorecontenthub.cloud/api/public/content/5fcf04a21fd0499c9e57389b6c2d6cb4?v=6576abc8&t=w480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ski Photos, Download The BEST Free Ski Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2405062/pexels-photo-2405062.jpeg?cs=srgb&dl=pexels-tiffany-bui-1263477-2405062.jpg&fm=jpg' alt='Ski Photos, Download The BEST Free Ski Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2405062/pexels-photo-2405062.jpeg?cs=srgb&dl=pexels-tiffany-bui-1263477-2405062.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why I Finally Tried Skiing Even Though It Scares the Crap Out of ...">
+                                <img itemprop="contentUrl url" src='https://media.self.com/photos/5a3c3f3a2323e96043af81b7/4:3/w_2560%2Cc_limit/ashley-mateo-skiing-baby-steps%2520(1).jpg' alt='Why I Finally Tried Skiing Even Though It Scares the Crap Out of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.self.com" />
+                                </span>
+                                <a href='https://media.self.com/photos/5a3c3f3a2323e96043af81b7/4:3/w_2560%2Cc_limit/ashley-mateo-skiing-baby-steps%2520(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whistler Summer Skiing & Snowboarding | Tourism Whistler">
+                                <img itemprop="contentUrl url" src='https://cdn.whistler.com/s3/images/og/summer-skiing.jpg' alt='Whistler Summer Skiing & Snowboarding | Tourism Whistler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourism Whistler" />
+                                </span>
+                                <a href='https://cdn.whistler.com/s3/images/og/summer-skiing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Hated Winter Until I Learned to Ski - Outside Online">
+                                <img itemprop="contentUrl url" src='https://cdn.outsideonline.com/wp-content/uploads/2023/10/skier_sq.jpg' alt='I Hated Winter Until I Learned to Ski - Outside Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outside Magazine" />
+                                </span>
+                                <a href='https://cdn.outsideonline.com/wp-content/uploads/2023/10/skier_sq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The rules of alpine skiing">
+                                <img itemprop="contentUrl url" src='https://hotel-kaya.com/assets/uploads/2022/06/regles-ski-alpin.jpg' alt='The rules of alpine skiing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2300">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hôtel Kaya" />
+                                </span>
+                                <a href='https://hotel-kaya.com/assets/uploads/2022/06/regles-ski-alpin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Skiing Guide: Plan Your Perfect Trip - Ski Utah">
+                                <img itemprop="contentUrl url" src='https://www.skiutah.com/images/240422_JDP_0075-2100x1400-aa886951-359a-4476-a052-dd1bfffc9c11.jpg' alt='Spring Skiing Guide: Plan Your Perfect Trip - Ski Utah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ski Utah" />
+                                </span>
+                                <a href='https://www.skiutah.com/images/240422_JDP_0075-2100x1400-aa886951-359a-4476-a052-dd1bfffc9c11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advice for new skiers, from a new skier - Travel With Meena">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/travelwithmeena.com/wp-content/uploads/2023/06/IMG_5074-scaled.jpeg?fit=1920%2C1440&ssl=1' alt='Advice for new skiers, from a new skier - Travel With Meena'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel With Meena" />
+                                </span>
+                                <a href='https://i0.wp.com/travelwithmeena.com/wp-content/uploads/2023/06/IMG_5074-scaled.jpeg?fit=1920%2C1440&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Be a Better Skier - 10 Tips – Carv">
+                                <img itemprop="contentUrl url" src='https://d3t7modobimpp4.cloudfront.net/uploads/_1200x630_crop_center-center_82_none/shutterstock_441157258.jpg?mtime=1696846396' alt='How To Be a Better Skier - 10 Tips – Carv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carv" />
+                                </span>
+                                <a href='https://d3t7modobimpp4.cloudfront.net/uploads/_1200x630_crop_center-center_82_none/shutterstock_441157258.jpg?mtime=1696846396' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

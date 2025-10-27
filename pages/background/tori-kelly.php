@@ -1,0 +1,129 @@
+<title>Tori Kelly: The Rising Star in Music</title>
+                    <meta name="description" content="Discover Tori Kelly, the talented singer-songwriter captivating the world with her powerful voice and heartfelt lyrics. Explore her musical journey, chart-topping hits, and influence in pop and R&B. Join the millions who love her unique sound and inspiring story!">
+                    <meta name="keywords" content="tori kelly">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tori-kelly">
+                            <span itemprop="name">tori kelly</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tori Kelly: The Rising Star in Music</h1>
+                <p>Tori Kelly is a talented American singer-songwriter known for her powerful vocals and emotional lyrics. Rising to fame through YouTube, she gained recognition with hits like "Nobody Love" and "Hollow." A Grammy-nominated artist, Tori’s blend of pop, R&B, and soul captivates audiences worldwide. Her journey showcases resilience and passion for music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tori_Kelly_%40_The_Roxy_09_26_2023_%2853416546074%29_%28cropped%29.jpg/800px-Tori_Kelly_%40_The_Roxy_09_26_2023_%2853416546074%29_%28cropped%29.jpg' alt='Tori Kelly - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tori_Kelly_%40_The_Roxy_09_26_2023_%2853416546074%29_%28cropped%29.jpg/800px-Tori_Kelly_%40_The_Roxy_09_26_2023_%2853416546074%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly with Maisy Kay - purple skies tour | House of Blues Anaheim">
+                                <img itemprop="contentUrl url" src='https://s1.ticketm.net/dam/a/d20/71576a6d-eed6-43bb-a09e-9ce1eb4d3d20_RETINA_PORTRAIT_16_9.jpg' alt='Tori Kelly with Maisy Kay - purple skies tour | House of Blues Anaheim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Blues" />
+                                </span>
+                                <a href='https://s1.ticketm.net/dam/a/d20/71576a6d-eed6-43bb-a09e-9ce1eb4d3d20_RETINA_PORTRAIT_16_9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly | Tori Kelly Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/torikelly/images/3/3b/2015-BET-pic-5.jpg/revision/latest/thumbnail/width/360/height/450?cb=20150721033335' alt='Tori Kelly | Tori Kelly Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tori Kelly Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/torikelly/images/3/3b/2015-BET-pic-5.jpg/revision/latest/thumbnail/width/360/height/450?cb=20150721033335' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly Songs, Albums, Reviews, Bio & More ... | AllMusic">
+                                <img itemprop="contentUrl url" src='https://fastly-s3.allmusic.com/artist/mn0002717459/400/PATijGBfyi6NgXCEY8MXND6KsMttLlyBmmVTZ6_CLs0=.jpg' alt='Tori Kelly Songs, Albums, Reviews, Bio & More ... | AllMusic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllMusic" />
+                                </span>
+                                <a href='https://fastly-s3.allmusic.com/artist/mn0002717459/400/PATijGBfyi6NgXCEY8MXND6KsMttLlyBmmVTZ6_CLs0=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tori kelly (@torikelly) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565137207663138348' alt='tori kelly (@torikelly) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565137207663138348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Tori Kelly">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044611351477' alt='Profile for Tori Kelly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044611351477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly to perform Saturday">
+                                <img itemprop="contentUrl url" src='https://news.harding.edu/2015/12/images/Tori_Kelly-1024x683.jpg' alt='Tori Kelly to perform Saturday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News at HUtoday - Harding University" />
+                                </span>
+                                <a href='https://news.harding.edu/2015/12/images/Tori_Kelly-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tori kelly (@torikelly) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3560196502494562147' alt='tori kelly (@torikelly) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3560196502494562147' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Singer Tori Kelly had a 'scary few days' after reportedly ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-07/230727-tori-kelly-se-1231p-67d5e5.jpg' alt='Singer Tori Kelly had a 'scary few days' after reportedly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-07/230727-tori-kelly-se-1231p-67d5e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tori Kelly Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9' alt='Tori Kelly Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

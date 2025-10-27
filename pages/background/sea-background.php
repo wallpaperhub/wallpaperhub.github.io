@@ -1,0 +1,129 @@
+<title>Serene Sea Backgrounds for Tranquil Spaces</title>
+                    <meta name="description" content="Discover stunning sea backgrounds that evoke peace and beauty. Perfect for relaxation, art, or storytelling, our collection captures the tranquility of ocean landscapes. Explore calming coastal vibes today!">
+                    <meta name="keywords" content="sea background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sea-background">
+                            <span itemprop="name">sea background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Sea Backgrounds for Tranquil Spaces</h1>
+                <p>The sea background evokes tranquility and depth, ideal for relaxation or inspiration. Its vast horizons and rhythmic waves nurture a sense of calm, while vibrant hues of blue and green reflect nature's beauty. Whether used in art or as a setting for stories, a sea background transports viewers to serene coastal escapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Under the sea background clipart showing light ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/06/06/87/63/1000_F_606876358_NU2hCq3RP7xDpXG6PWnAMGGAun0fB5tW.jpg' alt='Photo & Art Print Under the sea background clipart showing light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/06/06/87/63/1000_F_606876358_NU2hCq3RP7xDpXG6PWnAMGGAun0fB5tW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Beach Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/951/340/small_2x/sea-ocean-beach-sunset-sunrise-landscape-outdoor-water-wave-with-white-foam-beautiful-sunset-colorful-sky-with-clouds-natural-island-panoramic-background-idyllic-amazing-tropical-island-shore-photo.jpg' alt='Ocean Beach Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/951/340/small_2x/sea-ocean-beach-sunset-sunrise-landscape-outdoor-water-wave-with-white-foam-beautiful-sunset-colorful-sky-with-clouds-natural-island-panoramic-background-idyllic-amazing-tropical-island-shore-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Background" Images – Browse 42,894 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/85/88/59/360_F_885885971_39e5Jxf8aUhlXRtnz8C57437OnDSV13t.jpg' alt='Ocean Background" Images – Browse 42,894 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/85/88/59/360_F_885885971_39e5Jxf8aUhlXRtnz8C57437OnDSV13t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Background Images – Browse 8,691,603 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/16/85/12/360_F_516851283_dfzIU1eoEvPE4h0ISpbF4ADa7ZVde1mO.jpg' alt='Ocean Background Images – Browse 8,691,603 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/16/85/12/360_F_516851283_dfzIU1eoEvPE4h0ISpbF4ADa7ZVde1mO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/861/239/small_2x/ai-generated-wide-copy-space-on-wooden-base-with-background-of-sea-and-beach-free-photo.jpg' alt='Sea Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/861/239/small_2x/ai-generated-wide-copy-space-on-wooden-base-with-background-of-sea-and-beach-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/fantastic-seascape-with-ripples_1232-424.jpg' alt='Sea Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/fantastic-seascape-with-ripples_1232-424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under Sea Background Stock Illustrations – 38,354 Under Sea ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-under-sea-background-white-sand-sun-ray-your-design-digital-generating-image-d-illustration-89870659.jpg' alt='Under Sea Background Stock Illustrations – 38,354 Under Sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-under-sea-background-white-sand-sun-ray-your-design-digital-generating-image-d-illustration-89870659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DZJYQ 6.5x5ft(2x1.5m) Summer Sun Light Blue Sky Sea White  Cloud Ocean Sea Wave Beautiful Natural Scenery Wedding Birthday Party  Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rlTv5rlhL.jpg' alt='Amazon.com : DZJYQ 6.5x5ft(2x1.5m) Summer Sun Light Blue Sky Sea White  Cloud Ocean Sea Wave Beautiful Natural Scenery Wedding Birthday Party  Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rlTv5rlhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Sea Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VhJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Sea Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VhJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 5x4ft Fabric Big Ocean Waves Photography Backdrop  Tropical Summer Sea Wave Backdrop Surfing Wave Water Sport Sunset  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81htNdWYxwL.jpg' alt='Amazon.com : BELECO 5x4ft Fabric Big Ocean Waves Photography Backdrop  Tropical Summer Sea Wave Backdrop Surfing Wave Water Sport Sunset  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81htNdWYxwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Sailor Moon: A Timeless Magical Adventure</title>
+                    <meta name="description" content="Explore the enchanting world of Sailor Moon! Discover the adventures of Usagi Tsukino and her friends as they battle evil and embrace friendship. A classic anime that continues to inspire fans with its powerful themes and magical transformations.">
+                    <meta name="keywords" content="sailor moon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sailor-moon-background">
+                            <span itemprop="name">sailor moon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sailor Moon: A Timeless Magical Adventure</h1>
+                <p>Sailor Moon, a beloved anime and manga, debuted in the early 1990s, captivating audiences with its blend of magic, friendship, and heroism. The story follows Usagi Tsukino, a teenage girl who transforms into Sailor Moon to protect Earth from evil forces. Iconic characters like Sailor Mercury and Sailor Mars add depth, while themes of love and courage resonate widely.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="     Forever Obsessing Over Sailor Moon Backgrounds     : r/sailormoon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rx8rscyke3o71.jpg' alt='     Forever Obsessing Over Sailor Moon Backgrounds     : r/sailormoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rx8rscyke3o71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love this Sailor Moon wallpaper I found on Pinterest. Thought I'd ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8akna448tbd41.jpg?auto=webp&s=a49aac79129e5cc2f308aa36c313c399a3137264' alt='Love this Sailor Moon wallpaper I found on Pinterest. Thought I'd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8akna448tbd41.jpg?auto=webp&s=a49aac79129e5cc2f308aa36c313c399a3137264' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Classic Background Title by AnnaMaryMarian on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cbf8ce1-bac7-4616-a844-dac247c60108/d8txyke-a919eab6-ab43-45a1-99cd-dd11ddfab510.jpg/v1/fill/w_800,h_600,q_75,strp/sailor_moon_classic_background_title_by_annamarymarian_d8txyke-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjYmY4Y2UxLWJhYzctNDYxNi1hODQ0LWRhYzI0N2M2MDEwOFwvZDh0eHlrZS1hOTE5ZWFiNi1hYjQzLTQ1YTEtOTljZC1kZDExZGRmYWI1MTAuanBnIiwiaGVpZ2h0IjoiPD02MDAiLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzNjYmY4Y2UxLWJhYzctNDYxNi1hODQ0LWRhYzI0N2M2MDEwOFwvYW5uYW1hcnltYXJpYW4tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.G2dwtwZZuWELcxS4IdkAnE9uKH6s1Y4XvSMAhe-cRa4' alt='Sailor Moon Classic Background Title by AnnaMaryMarian on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cbf8ce1-bac7-4616-a844-dac247c60108/d8txyke-a919eab6-ab43-45a1-99cd-dd11ddfab510.jpg/v1/fill/w_800,h_600,q_75,strp/sailor_moon_classic_background_title_by_annamarymarian_d8txyke-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjYmY4Y2UxLWJhYzctNDYxNi1hODQ0LWRhYzI0N2M2MDEwOFwvZDh0eHlrZS1hOTE5ZWFiNi1hYjQzLTQ1YTEtOTljZC1kZDExZGRmYWI1MTAuanBnIiwiaGVpZ2h0IjoiPD02MDAiLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzNjYmY4Y2UxLWJhYzctNDYxNi1hODQ0LWRhYzI0N2M2MDEwOFwvYW5uYW1hcnltYXJpYW4tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.G2dwtwZZuWELcxS4IdkAnE9uKH6s1Y4XvSMAhe-cRa4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Crystal Desktop Background [1920x1080] : r/sailormoon">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/bmMRbSIkFfHLvMNBCZk94nWRegYlvjzrIeyz6-L9-4k.png?auto=webp&s=8d81a8c69ed3adda18619f0284c7c6cac84954ec' alt='Sailor Moon Crystal Desktop Background [1920x1080] : r/sailormoon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/bmMRbSIkFfHLvMNBCZk94nWRegYlvjzrIeyz6-L9-4k.png?auto=webp&s=8d81a8c69ed3adda18619f0284c7c6cac84954ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Pastel City Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sailor-moon-pastel-city-background-kzns45d8rjz6s4pz.jpg' alt='Sailor Moon Pastel City Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sailor-moon-pastel-city-background-kzns45d8rjz6s4pz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/be/6c/b5be6c519af0362f1bec968401db452f.jpg' alt='Sailor Moon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/be/6c/b5be6c519af0362f1bec968401db452f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor store moon backgrounds">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/603/620/HD-wallpaper-sailor-moon-anime-luna-luna-and-sailor-moon.jpg' alt='Sailor store moon backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/603/620/HD-wallpaper-sailor-moon-anime-luna-luna-and-sailor-moon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sailor Moon Background Study by tadpolily on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a563da7-20c3-4d77-ab96-baf33244e38b/dcmu91k-a0db9fef-0021-4980-b4b8-4737dca2316a.png/v1/fill/w_1024,h_764,q_80,strp/sailor_moon_background_study_by_tadpolily_dcmu91k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY0IiwicGF0aCI6IlwvZlwvMGE1NjNkYTctMjBjMy00ZDc3LWFiOTYtYmFmMzMyNDRlMzhiXC9kY211OTFrLWEwZGI5ZmVmLTAwMjEtNDk4MC1iNGI4LTQ3MzdkY2EyMzE2YS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6SMlhAT_EC0dpLsW8DoHPZh_J0M7WOBDg5ebftEJA0U' alt='Sailor Moon Background Study by tadpolily on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a563da7-20c3-4d77-ab96-baf33244e38b/dcmu91k-a0db9fef-0021-4980-b4b8-4737dca2316a.png/v1/fill/w_1024,h_764,q_80,strp/sailor_moon_background_study_by_tadpolily_dcmu91k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY0IiwicGF0aCI6IlwvZlwvMGE1NjNkYTctMjBjMy00ZDc3LWFiOTYtYmFmMzMyNDRlMzhiXC9kY211OTFrLWEwZGI5ZmVmLTAwMjEtNDk4MC1iNGI4LTQ3MzdkY2EyMzE2YS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6SMlhAT_EC0dpLsW8DoHPZh_J0M7WOBDg5ebftEJA0U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster: The Silver Millennium">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/e5/98/59e5985010711a3343eecae48409876f.jpg' alt='Poster: The Silver Millennium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/e5/98/59e5985010711a3343eecae48409876f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Sky Background (Sailor Moon inspired) by mochapinku on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6273e11d-4ef6-4bfc-80fb-f11ae7904b1d/df9nb1w-18854242-37b0-406d-951b-915c61281cf0.png/v1/fill/w_1280,h_912,q_80,strp/city_sky_background__sailor_moon_inspired__by_mochapinku_df9nb1w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTEyIiwicGF0aCI6IlwvZlwvNjI3M2UxMWQtNGVmNi00YmZjLTgwZmItZjExYWU3OTA0YjFkXC9kZjluYjF3LTE4ODU0MjQyLTM3YjAtNDA2ZC05NTFiLTkxNWM2MTI4MWNmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.p7Xr0t65NNF72kwLh8iokcbnqQJgfzZao62vv7b54VY' alt='City Sky Background (Sailor Moon inspired) by mochapinku on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6273e11d-4ef6-4bfc-80fb-f11ae7904b1d/df9nb1w-18854242-37b0-406d-951b-915c61281cf0.png/v1/fill/w_1280,h_912,q_80,strp/city_sky_background__sailor_moon_inspired__by_mochapinku_df9nb1w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTEyIiwicGF0aCI6IlwvZlwvNjI3M2UxMWQtNGVmNi00YmZjLTgwZmItZjExYWU3OTA0YjFkXC9kZjluYjF3LTE4ODU0MjQyLTM3YjAtNDA2ZC05NTFiLTkxNWM2MTI4MWNmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.p7Xr0t65NNF72kwLh8iokcbnqQJgfzZao62vv7b54VY' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Top Gohan Wallpapers: Download Stunning Dragon Ball Images</title>
+                    <meta name="description" content="Explore a curated selection of the best Gohan wallpapers for your devices! With vibrant HD visuals and dynamic poses, find the perfect background to showcase your love for Dragon Ball. Enhance your screen today with these eye-catching designs that every Gohan fan will appreciate!">
+                    <meta name="keywords" content="best gohan wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-gohan-wallpaper">
+                            <span itemprop="name">best gohan wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Gohan Wallpapers: Download Stunning Dragon Ball Images</h1>
+                <p>Discover the best Gohan wallpaper to elevate your device's aesthetic! Whether you're a fan of Dragon Ball Z or just love Gohan's iconic moments, our collection features stunning HD images that capture his spirit and strength. Perfect for any fan, these wallpapers will make your screen come alive with vibrant colors and dynamic poses!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gohan Beast in Epic 4K Ultra HD Wallpaper - Dragon Ball Super ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/126/1266726.png' alt='Gohan Beast in Epic 4K Ultra HD Wallpaper - Dragon Ball Super ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/126/1266726.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gohan Beast, Dragon Ball, DEPTH EFFECT optimized, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gohan-beast-dragon-ball-depth-effect-optimized-phone-v0-i9idatl494mb1.jpg?width=2250&format=pjpg&auto=webp&s=0ec8ebfaab603436ad769af05a51dd7933ee21de' alt='Gohan Beast, Dragon Ball, DEPTH EFFECT optimized, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gohan-beast-dragon-ball-depth-effect-optimized-phone-v0-i9idatl494mb1.jpg?width=2250&format=pjpg&auto=webp&s=0ec8ebfaab603436ad769af05a51dd7933ee21de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Gohan Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-eyed-gohan-iphone-background-4wej3wxkgmaeua36.jpg' alt='200+] Gohan Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-eyed-gohan-iphone-background-4wej3wxkgmaeua36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Gohan ideas | dragon ball z, dragon ball super, dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6b/fb/44/6bfb443ec026d1ac63505d166f03adbb.jpg' alt='900+ Best Gohan ideas | dragon ball z, dragon ball super, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6b/fb/44/6bfb443ec026d1ac63505d166f03adbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Gohan moment, now with Depth effect : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/best-gohan-moment-now-with-depth-effect-v0-aq3kx7llrgv91.jpg?width=720&format=pjpg&auto=webp&s=127c74c12ab80437aa56c638d7ad49a612e55f4e' alt='Best Gohan moment, now with Depth effect : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/best-gohan-moment-now-with-depth-effect-v0-aq3kx7llrgv91.jpg?width=720&format=pjpg&auto=webp&s=127c74c12ab80437aa56c638d7ad49a612e55f4e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gohan Beast">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/b0/72/f4b0724b1cd4e6bce148f7957a795d42.jpg' alt='Gohan Beast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/b0/72/f4b0724b1cd4e6bce148f7957a795d42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Super Hero HD Gohan Beast Digital Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/dragon-ball-super-super-hero-hd-gohan-beast-digital-art_bWtmaG2UmZqaraWkpJRoZWdorWdqZm4.jpg' alt='Dragon Ball Super Super Hero HD Gohan Beast Digital Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3023">
+                                <meta itemprop="height" content="2519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/dragon-ball-super-super-hero-hd-gohan-beast-digital-art_bWtmaG2UmZqaraWkpJRoZWdorWdqZm4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gohan Evolution!! Wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/14hyowshg2871.png?auto=webp&s=f5516186f96092a6e056e02e40a1cd74977446d8' alt='Gohan Evolution!! Wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/14hyowshg2871.png?auto=webp&s=f5516186f96092a6e056e02e40a1cd74977446d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gohan wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/229/987/HD-wallpaper-gohan-dragon-ball-z-thumbnail.jpg' alt='HD gohan wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/229/987/HD-wallpaper-gohan-dragon-ball-z-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Gohan ideas | dragon ball art goku, anime dragon ball goku ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6e/2e/28/6e2e2818f78831976c6736caed6b16fb.jpg' alt='22 Gohan ideas | dragon ball art goku, anime dragon ball goku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6e/2e/28/6e2e2818f78831976c6736caed6b16fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

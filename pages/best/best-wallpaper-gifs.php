@@ -1,0 +1,129 @@
+<title>Top Wallpaper GIFs for Your Device</title>
+                    <meta name="description" content="Find the perfect wallpaper GIFs to liven up your screens! Explore our collection of stunning and vibrant animated wallpapers that add flair to your device. Ideal for personalizing your phone or laptop, these eye-catching visuals offer a fresh look every time you glance at your screen. Download your favorites today!">
+                    <meta name="keywords" content="best wallpaper gifs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-wallpaper-gifs">
+                            <span itemprop="name">best wallpaper gifs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Wallpaper GIFs for Your Device</h1>
+                <p>Discover the best wallpaper GIFs to enhance your phone or desktop background! From mesmerizing animations to stunning nature scenes, these dynamic wallpapers bring life to your screens. Transform your device with eye-catching visuals that reflect your personality. Explore a collection of vibrant and captivating GIFs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/origin/f2/f2decdef72706578a92f98dda1276cd8.gif' alt='Wallpaper GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/origin/f2/f2decdef72706578a92f98dda1276cd8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIF - Wallpaper - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' alt='Wallpaper GIF - Wallpaper - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/44/db/93/44db938c4d86a7ea3ae51a511304a117.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/origin/4e/4efdb1ab76077f1d23339169374480ff_w200.gif' alt='Wallpaper GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/origin/4e/4efdb1ab76077f1d23339169374480ff_w200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uwwte8wps4h91.gif' alt='My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uwwte8wps4h91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated GIF's for use in wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0bb6dqsiab451.gif' alt='Animated GIF's for use in wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0bb6dqsiab451.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Wallpapers That Move GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/guN9EPfYC3EAAAAM/rubiks-cube.gif' alt='Cool Wallpapers That Move GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/guN9EPfYC3EAAAAM/rubiks-cube.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper wallpapers GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/g1Ie.gif' alt='Wallpaper wallpapers GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/g1Ie.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/tdC6N1RKNp4swre2JY/200w.gif?cid=6c09b952rxe0yo1jpnj93vu24r273y9cq4l412a1kvhqqtpu&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='4k Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/tdC6N1RKNp4swre2JY/200w.gif?cid=6c09b952rxe0yo1jpnj93vu24r273y9cq4l412a1kvhqqtpu&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif wallpaper hotsell hd">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2510496.gif' alt='Gif wallpaper hotsell hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cala" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2510496.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 100 Best Anime Live Wallpapers of All Time | Wallpaper Engine ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/5-26-2022/NMSmJK.gif' alt='Top 100 Best Anime Live Wallpapers of All Time | Wallpaper Engine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/5-26-2022/NMSmJK.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

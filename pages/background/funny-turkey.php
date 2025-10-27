@@ -1,0 +1,129 @@
+<title>Hilarious Turkey Moments: Gobbles of Laughter</title>
+                    <meta name="description" content="Discover the funny side of turkeys! From hilarious antics to goofy gobbles, this lighthearted guide showcases the comical charm of these feathered friends. Perfect for a laugh before your Thanksgiving feast!">
+                    <meta name="keywords" content="funny turkey">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-turkey">
+                            <span itemprop="name">funny turkey</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious Turkey Moments: Gobbles of Laughter</h1>
+                <p>Ever seen a turkey attempting yoga? Imagine a turkey in a downward dog position, flapping its wings and wobbling its wattle! These silly birds are not just for Thanksgiving; they can be hilarious! From goofy gobbles to amusing waddles, let’s celebrate the funny side of turkeys! They’re not just dinner; they’re comedy in feathers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67,000+ Turkey Funny Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/139877753/photo/eat-ham-turkey.jpg?s=612x612&w=0&k=20&c=jpvwlEmnipIjBBmRwiTBC-dwsmti-C2OwD1FDWYCpvs=' alt='67,000+ Turkey Funny Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/139877753/photo/eat-ham-turkey.jpg?s=612x612&w=0&k=20&c=jpvwlEmnipIjBBmRwiTBC-dwsmti-C2OwD1FDWYCpvs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Funny Images – Browse 52,131 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/87/06/90/360_F_287069085_cSzPLAoux5MSAeETX4Pwhdxa5gxrbqf4.jpg' alt='Turkey Funny Images – Browse 52,131 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/87/06/90/360_F_287069085_cSzPLAoux5MSAeETX4Pwhdxa5gxrbqf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,400+ Turkey Bird Funny Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1054963184/vector/funny-turkey-ready-for-celebration-vector-cartoon.jpg?s=612x612&w=0&k=20&c=BormFxohz9LtjCtav9Lbvx7h5mu-ThUn4xAYccFuj6s=' alt='5,400+ Turkey Bird Funny Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1054963184/vector/funny-turkey-ready-for-celebration-vector-cartoon.jpg?s=612x612&w=0&k=20&c=BormFxohz9LtjCtav9Lbvx7h5mu-ThUn4xAYccFuj6s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Call Me Png | Turkey Hunting Png | Turkey Hunting ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41732322/r/il/167748/5729796615/il_570xN.5729796615_oddr.jpg' alt='Turkey Call Me Png | Turkey Hunting Png | Turkey Hunting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41732322/r/il/167748/5729796615/il_570xN.5729796615_oddr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Turkey Funny Fake Cat Meow Meow | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4326387996.2598/fposter,small,wall_texture,product,750x1000.jpg' alt='Thanksgiving Turkey Funny Fake Cat Meow Meow | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4326387996.2598/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="funny turkey - Sierra Wave: Eastern Sierra News - The Community's News">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/sierrawave.net/wp-content/uploads/2020/11/funny-turkey.jpg' alt='funny turkey - Sierra Wave: Eastern Sierra News - The Community's News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sierra Wave" />
+                                </span>
+                                <a href='https://i0.wp.com/sierrawave.net/wp-content/uploads/2020/11/funny-turkey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Turkey 01 3ft - StoneyKins Yard Art Patterns">
+                                <img itemprop="contentUrl url" src='https://www.stoneykins.com/yardart/product_images/j/339/Funny_Turkey_3ft-01__74792_zoom.png' alt='Funny Turkey 01 3ft - StoneyKins Yard Art Patterns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StoneyKins" />
+                                </span>
+                                <a href='https://www.stoneykins.com/yardart/product_images/j/339/Funny_Turkey_3ft-01__74792_zoom.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Mind-Blowing Turkey Facts You Definitely Didn't Know — Best Life">
+                                <img itemprop="contentUrl url" src='https://bestlifeonline.com/media-library/turkey-farm.jpg?id=53399860&width=1245&height=700&quality=90&coordinates=0%2C110%2C0%2C111' alt='23 Mind-Blowing Turkey Facts You Definitely Didn't Know — Best Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Life" />
+                                </span>
+                                <a href='https://bestlifeonline.com/media-library/turkey-farm.jpg?id=53399860&width=1245&height=700&quality=90&coordinates=0%2C110%2C0%2C111' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Go Pluck Yourself Funny Turkey Sassy Thanksgiving Sticker">
+                                <img itemprop="contentUrl url" src='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1045806235W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/go-pluck-yourself-funny-turkey-sassy-thanksgiving-sticker.jpg' alt='Go Pluck Yourself Funny Turkey Sassy Thanksgiving Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spreadshirt" />
+                                </span>
+                                <a href='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1045806235W8333H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/go-pluck-yourself-funny-turkey-sassy-thanksgiving-sticker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turkey Funny Images – Browse 52,131 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/23/65/84/360_F_223658464_UqqRVrHipCH6JdmxbGd3apPjuw5zOWej.jpg' alt='Turkey Funny Images – Browse 52,131 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/23/65/84/360_F_223658464_UqqRVrHipCH6JdmxbGd3apPjuw5zOWej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

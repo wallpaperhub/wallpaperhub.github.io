@@ -1,0 +1,129 @@
+<title>Explore Unique Indie Wallpaper Designs</title>
+                    <meta name="description" content="Discover a stunning collection of indie wallpaper that adds character to your home. With unique patterns and artistic styles, our wallpapers let you express your creativity and personalize your space effortlessly. Transform any room with our inspiring designs today!">
+                    <meta name="keywords" content="indie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indie-wallpaper">
+                            <span itemprop="name">indie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Unique Indie Wallpaper Designs</h1>
+                <p>Indie wallpaper brings a unique and artistic flair to your spaces, featuring designs that celebrate individuality and creativity. From vibrant patterns to minimalistic aesthetics, these wallpapers allow you to express your personality and transform your environment. Perfect for any room, indie wallpaper inspires and rejuvenates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Kid Aesthetic Collage Heart Frog Smiley Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/indie-kid-aesthetic-collage-heart-frog-smiley-eavw1xq7qf645t5e.jpg' alt='Indie Kid Aesthetic Collage Heart Frog Smiley Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/indie-kid-aesthetic-collage-heart-frog-smiley-eavw1xq7qf645t5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="indie wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/77/3a/6c/773a6c87b326fc567dec5d8bdbec8696.jpg' alt='indie wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/77/3a/6c/773a6c87b326fc567dec5d8bdbec8696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Indie Aesthetic Wallpaper Ideas (2022 List)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/df/ec/fcdfec5884eb61f4a80c511cb284fbe7.jpg' alt='30+ Indie Aesthetic Wallpaper Ideas (2022 List)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/df/ec/fcdfec5884eb61f4a80c511cb284fbe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Indie Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/indie-iphone-537fjrd6akndlq7u.jpg' alt='100+] Indie Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/indie-iphone-537fjrd6akndlq7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-flat-groovy-psychedelic-pattern-design_23-2149088277.jpg' alt='Indie Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-flat-groovy-psychedelic-pattern-design_23-2149088277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Aesthetic Desktop Wallpaper by franzhere on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5fac2d5-4dad-4187-a2ae-40603c99b8db/dg2mshl-cb86ef13-1973-40cb-ae42-b7a796e0e9d4.jpg/v1/fill/w_1192,h_670,q_70,strp/indie_aesthetic_desktop_wallpaper_by_franzhere_dg2mshl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTVmYWMyZDUtNGRhZC00MTg3LWEyYWUtNDA2MDNjOTliOGRiXC9kZzJtc2hsLWNiODZlZjEzLTE5NzMtNDBjYi1hZTQyLWI3YTc5NmUwZTlkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.z64wKekFI-iKEa7ywMced0_iy45HIg1CMailMVr5Iok' alt='Indie Aesthetic Desktop Wallpaper by franzhere on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5fac2d5-4dad-4187-a2ae-40603c99b8db/dg2mshl-cb86ef13-1973-40cb-ae42-b7a796e0e9d4.jpg/v1/fill/w_1192,h_670,q_70,strp/indie_aesthetic_desktop_wallpaper_by_franzhere_dg2mshl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTVmYWMyZDUtNGRhZC00MTg3LWEyYWUtNDA2MDNjOTliOGRiXC9kZzJtc2hsLWNiODZlZjEzLTE5NzMtNDBjYi1hZTQyLWI3YTc5NmUwZTlkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.z64wKekFI-iKEa7ywMced0_iy45HIg1CMailMVr5Iok' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="chaotic indie wallpaper 4 u Outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/outfits/ce5c4ccb-70b6-47fa-9364-1ee0db35cb8b.jpeg' alt='chaotic indie wallpaper 4 u Outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="705">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/outfits/ce5c4ccb-70b6-47fa-9364-1ee0db35cb8b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cavetown Indie Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vibrant-random-collage-indie-phone-o50t16zn4uqwoc9y.webp' alt='Cavetown Indie Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vibrant-random-collage-indie-phone-o50t16zn4uqwoc9y.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Art Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/5/6/2169463-2037x2832-phone-hd-indie-art-background-photo.jpg' alt='Indie Art Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2037">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/5/6/2169463-2037x2832-phone-hd-indie-art-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="indie wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/60/cd/ee/60cdee1076f57affcaf592836e1cb8ee.jpg' alt='indie wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/60/cd/ee/60cdee1076f57affcaf592836e1cb8ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discovering Kay Flock: The Bronx's Rising Drill Star</title>
+                    <meta name="description" content="Explore the world of Kay Flock, the Bronx drill rapper making waves with his authentic lyrics and captivating sound. Dive into his music, influences, and the impact he's having on the NYC hip-hop scene. Stay updated on his latest releases and discover why he's becoming a must-listen artist.">
+                    <meta name="keywords" content="kay flock">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kay-flock">
+                            <span itemprop="name">kay flock</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Kay Flock: The Bronx's Rising Drill Star</h1>
+                <p>Kay Flock is an emerging drill rapper known for his raw lyrics and captivating flow. Hailing from the Bronx, he gained recognition for tracks like "Go Shordy" and "Latino." His sound embodies the energy of New York City's underground scene, appealing to fans with his street storytelling and authentic vibe. Keeping it real, Kay Flock represents the new wave of hip-hop artists.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock on TIDAL">
+                                <img itemprop="contentUrl url" src='https://resources.tidal.com/images/70e91a38/e519/44b7/b354/1357ea293882/750x750.jpg' alt='Kay Flock on TIDAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TIDAL" />
+                                </span>
+                                <a href='https://resources.tidal.com/images/70e91a38/e519/44b7/b354/1357ea293882/750x750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock: albums, songs, playlists | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/artist/b0a9e45a309cb7cf6583b6f8ec974abf/1900x1900-000000-80-0-0.jpg' alt='Kay Flock: albums, songs, playlists | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/artist/b0a9e45a309cb7cf6583b6f8ec974abf/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kay_Flock_in_2021.png/220px-Kay_Flock_in_2021.png' alt='Kay Flock - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kay_Flock_in_2021.png/220px-Kay_Flock_in_2021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Kay Flock- Top Shotta (Unreleased) by Jay in drill ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-aeczoX1aZ2DqLtWy-ozo6PQ-t500x500.jpg' alt='Listen to Kay Flock- Top Shotta (Unreleased) by Jay in drill ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-aeczoX1aZ2DqLtWy-ozo6PQ-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen to Kay Flock - Dealership (Official Audio) by Yñç Çhøpper ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-nPQ0cIyaPUqOQrAr-VJh47w-t500x500.jpg' alt='Listen to Kay Flock - Dealership (Official Audio) by Yñç Çhøpper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-nPQ0cIyaPUqOQrAr-VJh47w-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock Is NYC's Next Music Star and Here's Why - KAZI Magazine">
+                                <img itemprop="contentUrl url" src='https://kazimagazine.com/wp-content/uploads/2021/09/IMG_2970-829x1024.jpg' alt='Kay Flock Is NYC's Next Music Star and Here's Why - KAZI Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="829">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KAZI Magazine" />
+                                </span>
+                                <a href='https://kazimagazine.com/wp-content/uploads/2021/09/IMG_2970-829x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/83/78/4683786b063ce378cfbe1e4d6690b703.jpg' alt='Kay Flock Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/83/78/4683786b063ce378cfbe1e4d6690b703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock | Official Site">
+                                <img itemprop="contentUrl url" src='https://www.kayflockmusic.com/files/2021/11/fb-social-share-compressed.jpg' alt='Kay Flock | Official Site'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.kayflockmusic.com" />
+                                </span>
+                                <a href='https://www.kayflockmusic.com/files/2021/11/fb-social-share-compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a9/Kay_Flock_in_2021.png' alt='Kay Flock - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a9/Kay_Flock_in_2021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kay Flock (Rapper) Wallpapers (6 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/e/e/2823284-2000x2000-samsung-hd-kay-flock-rapper-background-image.jpg' alt='Kay Flock (Rapper) Wallpapers (6 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/e/e/2823284-2000x2000-samsung-hd-kay-flock-rapper-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

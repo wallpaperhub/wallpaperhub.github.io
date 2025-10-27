@@ -1,0 +1,129 @@
+<title>Where is Sidney Crosby From? Discover His Roots</title>
+                    <meta name="description" content="Explore the origins of Sidney Crosby, the iconic NHL player from Cole Harbour, Nova Scotia. Learn about his early life, influences, and journey to becoming a hockey legend with the Pittsburgh Penguins. Discover how his Canadian upbringing has shaped his career and legacy in the sport.">
+                    <meta name="keywords" content="where is sidney crosby from">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-sidney-crosby-from">
+                            <span itemprop="name">where is sidney crosby from</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Where is Sidney Crosby From? Discover His Roots</h1>
+                <p>Sidney Crosby, the renowned NHL star, hails from Cole Harbour, Nova Scotia, Canada. Born on August 7, 1987, he rose through the ranks of youth hockey before making his mark in the NHL with the Pittsburgh Penguins. His Canadian roots and upbringing in this vibrant community have significantly shaped his career and passion for the sport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Sidney_Crosby_2019-01-06_1.jpg' alt='Sidney Crosby - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3682">
+                                <meta itemprop="height" content="3312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ae/Sidney_Crosby_2019-01-06_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby Biography - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114.png' alt='Sidney Crosby Biography - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3114.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f6/Sidney_Crosby_2013-02-02.JPG' alt='Sidney Crosby - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2131">
+                                <meta itemprop="height" content="3081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f6/Sidney_Crosby_2013-02-02.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby - Stats, Contract, Salary & More">
+                                <img itemprop="contentUrl url" src='https://files.eliteprospects.com/layout/players/87-crosby,-sidney-(125)-ep.jpg' alt='Sidney Crosby - Stats, Contract, Salary & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Prospects" />
+                                </span>
+                                <a href='https://files.eliteprospects.com/layout/players/87-crosby,-sidney-(125)-ep.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby | NHL Hockey Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nhl-hockey/images/9/99/Sidney_Crosby_.jpg/revision/latest?cb=20190706003825' alt='Sidney Crosby | NHL Hockey Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL Hockey Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nhl-hockey/images/9/99/Sidney_Crosby_.jpg/revision/latest?cb=20190706003825' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby - NHL News & Rumors | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nhl/headshots/2460.vresize.350.350.medium.35.png' alt='Sidney Crosby - NHL News & Rumors | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nhl/headshots/2460.vresize.350.350.medium.35.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How An ‘Older’ Sidney Crosby Dominates The NHL">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tqkvQgOKQO0/maxresdefault.jpg' alt='How An ‘Older’ Sidney Crosby Dominates The NHL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tqkvQgOKQO0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby: Biography, Hockey Player, Facts, Background">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/sidney-crosby-507611-1-402.jpg' alt='Sidney Crosby: Biography, Hockey Player, Facts, Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/sidney-crosby-507611-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sidney Crosby shines in Canada's win over Sweden at 4 Nations Face ...">
+                                <img itemprop="contentUrl url" src='https://www.trentonian.com/wp-content/uploads/2025/02/AP25032064843605.jpg?w=525' alt='Sidney Crosby shines in Canada's win over Sweden at 4 Nations Face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="525">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trentonian" />
+                                </span>
+                                <a href='https://www.trentonian.com/wp-content/uploads/2025/02/AP25032064843605.jpg?w=525' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How old is Sidney Crosby? Age, career timeline for NHL star, from ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-02/Sidney%20Crosby%20021925.jpg?h=04bd78de&itok=ZT5VqeMl' alt='How old is Sidney Crosby? Age, career timeline for NHL star, from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-02/Sidney%20Crosby%20021925.jpg?h=04bd78de&itok=ZT5VqeMl' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Restraining Orders: Legal Implications</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="does a restraining order go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-restraining-order-go-on-your-record">
+                            <span itemprop="name">does a restraining order go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Restraining Orders: Legal Implications</h1>
+                <p>A restraining order does not automatically go on your criminal record. It is a civil court order aimed at protecting individuals from harassment or harm. However, it may be visible in certain background checks or legal documents. Understanding its implications is crucial for anyone involved in such legal matters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is a Restraining Order Public Record and Viewable by Anyone?">
+                                <img itemprop="contentUrl url" src='https://cdn-copkk.nitrocdn.com/YltYtAKgPcLedXEEgYFqpFzrZUtcEffn/assets/images/optimized/rev-efd1ec6/www.aerlawgroup.com/wp-content/uploads/2020/10/restrain.jpg' alt='Is a Restraining Order Public Record and Viewable by Anyone?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1694">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Rodriguez Law Group" />
+                                </span>
+                                <a href='https://cdn-copkk.nitrocdn.com/YltYtAKgPcLedXEEgYFqpFzrZUtcEffn/assets/images/optimized/rev-efd1ec6/www.aerlawgroup.com/wp-content/uploads/2020/10/restrain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00006.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Restraining Order do to Your Record? | Alameda County  Restraining Order Lawyer">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-IHV5JyX3Wk/maxresdefault.jpg' alt='What Does a Restraining Order do to Your Record? | Alameda County  Restraining Order Lawyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-IHV5JyX3Wk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violating a Restraining Order: Impact & Defense| Olen Firm">
+                                <img itemprop="contentUrl url" src='http://olenfirm.com/wp-content/uploads/2024/05/Restraining-order.jpg' alt='Violating a Restraining Order: Impact & Defense| Olen Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Criminal Defense Lawyer" />
+                                </span>
+                                <a href='http://olenfirm.com/wp-content/uploads/2024/05/Restraining-order.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00003.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Does a Restraining Order Go on Your Record in California?">
+                                <img itemprop="contentUrl url" src='https://www.orangecountyfamilylaw.com/wp-content/uploads/2023/03/does-a-restraining-order-go-on-your-record-in-california-1000x453.jpg' alt='2025 Does a Restraining Order Go on Your Record in California?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quinn & Dworakowski LLP" />
+                                </span>
+                                <a href='https://www.orangecountyfamilylaw.com/wp-content/uploads/2023/03/does-a-restraining-order-go-on-your-record-in-california-1000x453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Restraining Order Go on Your Record?">
+                                <img itemprop="contentUrl url" src='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00005.jpg' alt='Does a Restraining Order Go on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duncan Family Law" />
+                                </span>
+                                <a href='https://duncanfamilylaw.com/wp-content/uploads/2024/01/Restraining-orders-and-criminal-records-00005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No-Contact Restraining Orders In NYC | Yermanlaw.com">
+                                <img itemprop="contentUrl url" src='https://yermanlaw.com/wp-content/uploads/2019/09/No-Contact-Restraining-Orders.jpg.webp' alt='No-Contact Restraining Orders In NYC | Yermanlaw.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bruce Yerman" />
+                                </span>
+                                <a href='https://yermanlaw.com/wp-content/uploads/2019/09/No-Contact-Restraining-Orders.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Restraining Orders Public Record in NY? New York Restraining ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2021/10/Does-A-Restraining-Order-Go-On-Your-Record-500x312.png' alt='Are Restraining Orders Public Record in NY? New York Restraining ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2021/10/Does-A-Restraining-Order-Go-On-Your-Record-500x312.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can a Tulsa Restraining Order Come Off My Record? - Tulsa ...">
+                                <img itemprop="contentUrl url" src='https://www.tulsacriminalattorney.pro/oklahoma-criminal-law/2019/02/tulsa-restraining-order-come-off-record.jpg' alt='How Can a Tulsa Restraining Order Come Off My Record? - Tulsa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tulsa Criminal Attorney" />
+                                </span>
+                                <a href='https://www.tulsacriminalattorney.pro/oklahoma-criminal-law/2019/02/tulsa-restraining-order-come-off-record.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

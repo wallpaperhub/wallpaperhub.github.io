@@ -1,0 +1,129 @@
+<title>Stardust Background: Cosmic Inspiration for Your Projects</title>
+                    <meta name="description" content="Explore the enchanting world of stardust backgrounds! Perfect for digital art, wallpapers, and more, these cosmic designs bring mystery and beauty to any project. Elevate your visuals and spark creativity with stunning stardust imagery, ideal for mobile display.">
+                    <meta name="keywords" content="stardust background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stardust-background">
+                            <span itemprop="name">stardust background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stardust Background: Cosmic Inspiration for Your Projects</h1>
+                <p>Stardust background evokes a sense of the cosmos, filled with shimmering particles that symbolize the remnants of stars. This enchanting backdrop enhances various creative projects, from digital art to wallpapers, infusing them with mystery and wonder. Whether for soothing visuals or inspiring creativity, stardust captivates the imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Are All Made of Stardust - Florida Tech News">
+                                <img itemprop="contentUrl url" src='https://news.fit.edu/wp-content/uploads/2015/10/Pink-and-purple-stardust-wallpaper.jpg' alt='We Are All Made of Stardust - Florida Tech News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Tech News" />
+                                </span>
+                                <a href='https://news.fit.edu/wp-content/uploads/2015/10/Pink-and-purple-stardust-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stardust Black Background Stock Illustrations – 23,070 Stardust ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/golden-dust-stars-create-dazzling-spacelike-effect-black-background-concept-space-photography-stardust-310450450.jpg' alt='Stardust Black Background Stock Illustrations – 23,070 Stardust ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/golden-dust-stars-create-dazzling-spacelike-effect-black-background-concept-space-photography-stardust-310450450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stardust Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/8370325/thumb/1.jpg?ip=x480' alt='Stardust Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/8370325/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stardust Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-snowy-background_1048-9078.jpg' alt='Stardust Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-snowy-background_1048-9078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Space Background With Stardust And Stars. Deep Far Space ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/maximusnd/maximusnd1609/maximusnd160900636/63120864-beautiful-space-background-with-stardust-and-stars-deep-far-space-cosmic-glowing-colors-milky-way.jpg' alt='Beautiful Space Background With Stardust And Stars. Deep Far Space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/maximusnd/maximusnd1609/maximusnd160900636/63120864-beautiful-space-background-with-stardust-and-stars-deep-far-space-cosmic-glowing-colors-milky-way.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Stardust Stock Illustrations – 50,966 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/space-background-stardust-shining-stars-realistic-colorful-cosmos-nebula-milky-way-blue-galaxy-backdrop-145346657.jpg' alt='Background Stardust Stock Illustrations – 50,966 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/space-background-stardust-shining-stars-realistic-colorful-cosmos-nebula-milky-way-blue-galaxy-backdrop-145346657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Pink Stardust Background - 10594 - Dryicons">
+                                <img itemprop="contentUrl url" src='https://assets.dryicons.com/uploads/vector/preview/10594/large_1x_DD-Stardust-Background-60023-Preview.jpg' alt='Beautiful Pink Stardust Background - 10594 - Dryicons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DryIcons.com" />
+                                </span>
+                                <a href='https://assets.dryicons.com/uploads/vector/preview/10594/large_1x_DD-Stardust-Background-60023-Preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Are All Made of Stardust - Victoria the Celebrant">
+                                <img itemprop="contentUrl url" src='https://www.victoriathecelebrant.com/wp-content/uploads/we-are-all-made-from-stardust-galaxy-stars.jpg' alt='We Are All Made of Stardust - Victoria the Celebrant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Victoria the Celebrant" />
+                                </span>
+                                <a href='https://www.victoriathecelebrant.com/wp-content/uploads/we-are-all-made-from-stardust-galaxy-stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space background with stardust and shining stars. Realistic ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/46/99/62/1000_F_546996272_0aFFRA7lQreeYgDWkx6etYSf0xXc9Gmn.jpg' alt='Space background with stardust and shining stars. Realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/46/99/62/1000_F_546996272_0aFFRA7lQreeYgDWkx6etYSf0xXc9Gmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stardust Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201022/pngtree-galaxy-space-blue-background-with-stardust-image_429619.jpg' alt='Stardust Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201022/pngtree-galaxy-space-blue-background-with-stardust-image_429619.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

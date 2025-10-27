@@ -1,0 +1,129 @@
+<title>Stunning Doja Cat Wallpapers for Fans</title>
+                    <meta name="description" content="Discover an amazing collection of Doja Cat wallpapers! Perfect for fans who want to personalize their devices with vibrant, stylish images featuring the iconic artist. Explore & download now to celebrate her unique music & aesthetic!">
+                    <meta name="keywords" content="wallpaper doja cat">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/wallpaper-doja-cat">
+                            <span itemprop="name">wallpaper doja cat</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Doja Cat Wallpapers for Fans</h1>
+                <p>Explore the world of Doja Cat through vibrant wallpapers that capture her unique style and artistic flair. From vivid colors to stunning visuals, these wallpapers showcase her iconic persona and musical journey. Perfect for fans looking to add a touch of Doja Cat's magic to their screens! Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOJA CAT WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/91/9f/ab919fcbd27bf72a81a548dc8d9fe5e2.jpg' alt='DOJA CAT WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/91/9f/ab919fcbd27bf72a81a548dc8d9fe5e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/b/b/69393-1152x2048-phone-hd-doja-cat-wallpaper-photo.jpg' alt='Doja Cat Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/b/b/69393-1152x2048-phone-hd-doja-cat-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Poster 12x18inch (30x46cm) poster, perfect for any room ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Doja-Cat-Poster-12x18inch-30x46cm-poster-perfect-for-any-room-Frameless-art-Wall-Art-Gift_0338adf2-da2d-404a-9d67-a869182d6d6c.2edb624f3608eb6279c83d70b77d884f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Doja Cat Poster 12x18inch (30x46cm) poster, perfect for any room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Doja-Cat-Poster-12x18inch-30x46cm-poster-perfect-for-any-room-Frameless-art-Wall-Art-Gift_0338adf2-da2d-404a-9d67-a869182d6d6c.2edb624f3608eb6279c83d70b77d884f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1e/34/66/1e34661f3410cf7402e58860243658cf.jpg' alt='Doja Cat Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1e/34/66/1e34661f3410cf7402e58860243658cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Retro Doja Cat Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-doja-cat-dfoso0rz0gt9hri0.jpg' alt='Download Retro Doja Cat Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-doja-cat-dfoso0rz0gt9hri0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAOB Doja Cat Wallpaper Aesthetic Canvas Art Poster and Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71NcaRu6rYS._AC_UF894,1000_QL80_.jpg' alt='SAOB Doja Cat Wallpaper Aesthetic Canvas Art Poster and Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71NcaRu6rYS._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Loves Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/doja-cat-loves-pink-ondmfh789kwdfmpx.jpg' alt='Doja Cat Loves Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/doja-cat-loves-pink-ondmfh789kwdfmpx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat Wallpaper 4K, American rapper, Pink background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/doja-cat-american-3840x2160-9919.jpg' alt='Doja Cat Wallpaper 4K, American rapper, Pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/doja-cat-american-3840x2160-9919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja cat wallpaper : r/DojaCat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/doja-cat-wallpaper-v0-gnmhpt7qyr6b1.jpg?width=640&crop=smart&auto=webp&s=3e360be57a9a50344623730e7665ea39fa617005' alt='Doja cat wallpaper : r/DojaCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/doja-cat-wallpaper-v0-gnmhpt7qyr6b1.jpg?width=640&crop=smart&auto=webp&s=3e360be57a9a50344623730e7665ea39fa617005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doja Cat = WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/39/3e/9b393ef18699fd3ebdf0f42fc5c95dc0.jpg' alt='Doja Cat = WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/39/3e/9b393ef18699fd3ebdf0f42fc5c95dc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

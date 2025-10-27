@@ -1,0 +1,129 @@
+<title>Elegant Black and Rose Gold Backgrounds for Modern Design</title>
+                    <meta name="description" content="Discover stunning black and rose gold backgrounds that elevate your designs. Perfect for branding, invitations, and presentations, these elegant color pairings add sophistication and style to any project. Transform your visuals with this modern and chic aesthetic today!">
+                    <meta name="keywords" content="black and rose gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-rose-gold-background">
+                            <span itemprop="name">black and rose gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and Rose Gold Backgrounds for Modern Design</h1>
+                <p>A black and rose gold background creates a stunning visual contrast, perfect for adding elegance to any design. The deep, rich tones of black serve as a dramatic canvas for the warm, luxurious hues of rose gold. This combination is ideal for modern branding, chic invitations, or stylish presentations, offering sophistication and a touch of glamour.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="720+ Black Rose Gold Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360142811/vector/holiday-rose-gold-sparkling-glitter-scattered-on-black-background-vector.jpg?s=612x612&w=0&k=20&c=pZgvfiiAt31en49ZyH_pody4LH1Uq_DR7qO1WANskIg=' alt='720+ Black Rose Gold Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360142811/vector/holiday-rose-gold-sparkling-glitter-scattered-on-black-background-vector.jpg?s=612x612&w=0&k=20&c=pZgvfiiAt31en49ZyH_pody4LH1Uq_DR7qO1WANskIg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Mosaic Wallpaper Dark Black and Rose Gold Background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/364/296/non_2x/modern-mosaic-wallpaper-dark-black-and-rose-gold-background-texture-vector.jpg' alt='Modern Mosaic Wallpaper Dark Black and Rose Gold Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/364/296/non_2x/modern-mosaic-wallpaper-dark-black-and-rose-gold-background-texture-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gold Black Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-19237.jpg' alt='Pink Gold Black Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-19237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Rose Gold Glitter by Michelle Weaver | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4c/b7/8f/4cb78f2733f2c745feb1365d9454ce9b.jpg' alt='Black and Rose Gold Glitter by Michelle Weaver | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4c/b7/8f/4cb78f2733f2c745feb1365d9454ce9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Gradient black and rose gold background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-black-rose-gold-background_23-2151018595.jpg' alt='Free Vector | Gradient black and rose gold background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-black-rose-gold-background_23-2151018595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Sparkling rose gold glitter on black background. Vector,  26.7x40 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/04/73/77/91/1000_F_473779186_K0a1IO3PUtgtZT695Y6YhUvonbARoyo5.jpg' alt='Poster, Print Sparkling rose gold glitter on black background. Vector,  26.7x40 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/04/73/77/91/1000_F_473779186_K0a1IO3PUtgtZT695Y6YhUvonbARoyo5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Pink Gold Black Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1158394625/vector/vector-background-of-pink-glitter.jpg?s=612x612&w=0&k=20&c=2MeSVPD6F7ZY4_1mW80VdAsD06OXN7azvffmVd7IAOA=' alt='40+ Pink Gold Black Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1158394625/vector/vector-background-of-pink-glitter.jpg?s=612x612&w=0&k=20&c=2MeSVPD6F7ZY4_1mW80VdAsD06OXN7azvffmVd7IAOA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black,Gold & Rose Gold Wallpaper...By Artist Unknown...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/9c/f6/179cf68d0090cb5549a45e6664963985.jpg' alt='Black,Gold & Rose Gold Wallpaper...By Artist Unknown...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/9c/f6/179cf68d0090cb5549a45e6664963985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gold Black Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-black-rose-gold-background_52683-151689.jpg' alt='Pink Gold Black Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-black-rose-gold-background_52683-151689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Ipad Streaks Black Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rose-gold-ipad-streaks-black-background-23kaxhj8orbtkxqk.jpg' alt='Rose Gold Ipad Streaks Black Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rose-gold-ipad-streaks-black-background-23kaxhj8orbtkxqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

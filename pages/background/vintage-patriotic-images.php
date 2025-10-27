@@ -1,0 +1,129 @@
+<title>Explore Timeless Vintage Patriotic Images</title>
+                    <meta name="description" content="Discover a collection of vintage patriotic images that celebrate national pride and heritage. Perfect for history buffs or anyone seeking inspiration, these timeless visuals reflect the spirit of freedom and unity. Explore and share your favorites today!">
+                    <meta name="keywords" content="vintage patriotic images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-patriotic-images">
+                            <span itemprop="name">vintage patriotic images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Timeless Vintage Patriotic Images</h1>
+                <p>Vintage patriotic images evoke a sense of nostalgia and pride, capturing the spirit of freedom and unity through the years. From classic flags waving in the breeze to historical scenes celebrating national milestones, these timeless visuals inspire reflection on shared values and heritage, often bringing communities together.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="106 PATRIOTIC Vintage Images DOWNLOAD Victorian Postcards ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5123981/r/il/219f54/2332959758/il_570xN.2332959758_5up8.jpg' alt='106 PATRIOTIC Vintage Images DOWNLOAD Victorian Postcards ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5123981/r/il/219f54/2332959758/il_570xN.2332959758_5up8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Patriotic Pattern, 22 x 36, Vintage Postcard Pattern From Joan  Moshimer's Studio">
+                                <img itemprop="contentUrl url" src='https://wcushing.com/wp-content/uploads/2017/09/438118455_18312427579146018_6497493483476719693_n.jpg' alt='Vintage Patriotic Pattern, 22 x 36, Vintage Postcard Pattern From Joan  Moshimer's Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="W. Cushing & Co" />
+                                </span>
+                                <a href='https://wcushing.com/wp-content/uploads/2017/09/438118455_18312427579146018_6497493483476719693_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Patriotic Postcard US Flag Battleship Our Country Forever Unused">
+                                <img itemprop="contentUrl url" src='https://www.avidvintage.com/cdn/shop/products/Vintage_Patriotic_Postcard_US_Flag_Battleship_Our_Country_Forever_1.jpg?v=1572606121' alt='Vintage Patriotic Postcard US Flag Battleship Our Country Forever Unused'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avid Vintage - Vintage collectibles" />
+                                </span>
+                                <a href='https://www.avidvintage.com/cdn/shop/products/Vintage_Patriotic_Postcard_US_Flag_Battleship_Our_Country_Forever_1.jpg?v=1572606121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth of July Patriotic Flag Art, Vintage Mini Postcard Stickers, Memorial  Day, 4th of July Decoration, Antique Americana Card Making, 760">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5809153/r/il/2c1267/2313975252/il_fullxfull.2313975252_dsaq.jpg' alt='Fourth of July Patriotic Flag Art, Vintage Mini Postcard Stickers, Memorial  Day, 4th of July Decoration, Antique Americana Card Making, 760'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5809153/r/il/2c1267/2313975252/il_fullxfull.2313975252_dsaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="86 Happy 4th of July Images-(Patriotic!) - The Graphics Fairy">
+                                <img itemprop="contentUrl url" src='https://thegraphicsfairy.com/wp-content/uploads/2014/06/Vintage-Lady-Liberty-Clip-Art-GraphicsFairy1.jpg' alt='86 Happy 4th of July Images-(Patriotic!) - The Graphics Fairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1073">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Graphics Fairy" />
+                                </span>
+                                <a href='https://thegraphicsfairy.com/wp-content/uploads/2014/06/Vintage-Lady-Liberty-Clip-Art-GraphicsFairy1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VINTAGE PATRIOTIC IMAGES ON FABRIC">
+                                <img itemprop="contentUrl url" src='http://www.ezhomearts.com/uploads/1/5/9/0/15901052/s770328378127130438_p37_i3_w640.jpeg' alt='VINTAGE PATRIOTIC IMAGES ON FABRIC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Welcome to Home Arts" />
+                                </span>
+                                <a href='http://www.ezhomearts.com/uploads/1/5/9/0/15901052/s770328378127130438_p37_i3_w640.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Postcard Patriotic American Flag Eagle 1920">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wY0AAOSwCXJkX7M9/s-l1200.jpg' alt='Vintage Postcard Patriotic American Flag Eagle 1920'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="809">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wY0AAOSwCXJkX7M9/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4th of July Vintage Postcard Printables">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/fe/00/dcfe00575a4d7c14e35409cf86477811.jpg' alt='4th of July Vintage Postcard Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/fe/00/dcfe00575a4d7c14e35409cf86477811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Patriotic-B by Jean Plout">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/retro-patriotic-b-jean-plout.jpg' alt='Retro Patriotic-B by Jean Plout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plout Gallery - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/retro-patriotic-b-jean-plout.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CafePress Vintage Patriotic Militar Postcards (Package of 8), 6"x4" Printed  Note Card">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81TdI-VAbuL._AC_UF894,1000_QL80_.jpg' alt='CafePress Vintage Patriotic Militar Postcards (Package of 8), 6"x4" Printed  Note Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81TdI-VAbuL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

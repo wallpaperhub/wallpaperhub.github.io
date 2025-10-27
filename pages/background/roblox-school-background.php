@@ -1,0 +1,129 @@
+<title>Explore Roblox School Backgrounds: Create Your Virtual Learning Space</title>
+                    <meta name="description" content="Discover the exciting world of Roblox school backgrounds! Customize your virtual classroom and dive into interactive learning experiences. Perfect for creating unique adventures, these vibrant scenes transform your gameplay. Join the fun and enhance your Roblox experience today!">
+                    <meta name="keywords" content="roblox school background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/roblox-school-background">
+                            <span itemprop="name">roblox school background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Roblox School Backgrounds: Create Your Virtual Learning Space</h1>
+                <p>Roblox school backgrounds are vibrant scenes where players can immerse themselves in a digital learning environment. These backgrounds feature classrooms filled with interactive elements like chalkboards, desks, and lockers, allowing users to create their own school adventures. Customize your avatar and explore unique educational experiences while having fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a classroom I've made in early 2019 : r/roblox">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/twjca0r97do41.jpg' alt='Found a classroom I've made in early 2019 : r/roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1017">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/twjca0r97do41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with building/Feedback - Building Support - Developer Forum ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/a/4/2a432e74494149b70f3783809b59f7c5f9b35bc7.jpeg' alt='Help with building/Feedback - Building Support - Developer Forum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/a/4/2a432e74494149b70f3783809b59f7c5f9b35bc7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re-creating my school at the Roblox! : r/roblox">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nwy2dmtlg3781.png?width=640&crop=smart&auto=webp&s=c1c6e371c8f663b252de48af92e941b8375e7dc3' alt='Re-creating my school at the Roblox! : r/roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nwy2dmtlg3781.png?width=640&crop=smart&auto=webp&s=c1c6e371c8f663b252de48af92e941b8375e7dc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with building/Feedback - Building Support - Developer Forum ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/9/4/f94624939fc928c5ac54c83caf970078070321b2.jpeg' alt='Help with building/Feedback - Building Support - Developer Forum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1359">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/9/4/f94624939fc928c5ac54c83caf970078070321b2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quicktiger on X: "Here's what the new roblox school RP game I made ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ENkc526X0AEp09u.jpg' alt='quicktiger on X: "Here's what the new roblox school RP game I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ENkc526X0AEp09u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feedback on my Japanese High School showcase game! - Creations ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/d/d/2dd68b51e182d356a80d6e02569939486e6df332.jpeg' alt='Feedback on my Japanese High School showcase game! - Creations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/d/d/2dd68b51e182d356a80d6e02569939486e6df332.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feedback on my Japanese High School showcase game! - Creations ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/1/2/b/12b91f5ab62b296a3972b2c3ff1b9156a7ab78f9.jpeg' alt='Feedback on my Japanese High School showcase game! - Creations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/1/2/b/12b91f5ab62b296a3972b2c3ff1b9156a7ab78f9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School World | DREAM WORLD Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dream-world-roblox/images/4/4e/SchoolWorld.png/revision/latest?cb=20210129160608' alt='School World | DREAM WORLD Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="937">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DREAM WORLD Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dream-world-roblox/images/4/4e/SchoolWorld.png/revision/latest?cb=20210129160608' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="quicktiger on X: "Here's what the new roblox school RP game I made ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ENkc60jWkAA_uFB.jpg' alt='quicktiger on X: "Here's what the new roblox school RP game I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ENkc60jWkAA_uFB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low Poly Schoolhouse - Creations Feedback - Developer Forum | Roblox">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/8/7/f87ce2b7e4ba7229549232ee91f4f38e65a55f4d.png' alt='Low Poly Schoolhouse - Creations Feedback - Developer Forum | Roblox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/8/7/f87ce2b7e4ba7229549232ee91f4f38e65a55f4d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

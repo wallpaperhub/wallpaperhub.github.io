@@ -1,0 +1,129 @@
+<title>Explore the Vibrant City Aesthetic: A Visual Journey</title>
+                    <meta name="description" content="Discover the captivating city aesthetic, where architecture meets culture and urban life thrives. Explore vibrant street art, diverse neighborhoods, and the interplay of light and space that defines城市魅力. Join us on a visual journey through the heart of the city!">
+                    <meta name="keywords" content="city aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-aesthetic">
+                            <span itemprop="name">city aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Vibrant City Aesthetic: A Visual Journey</h1>
+                <p>City aesthetic captures the vibrant pulse of urban life, blending architecture, street art, and diverse cultures. It's about the interplay of light and shadow on skyscrapers, the rich textures of city streets, and the unique vibe of local neighborhoods. Discover how this aesthetic shapes our experiences and perceptions of urban environments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Aesthetic Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/39/2c/92392c1a567b7bd1d49defccefbc19d0.jpg' alt='City Aesthetic Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/39/2c/92392c1a567b7bd1d49defccefbc19d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ City Aesthetic Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1666700698946-fbf7baa0134a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' alt='1000+ City Aesthetic Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1666700698946-fbf7baa0134a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eSUyMGFlc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260 ・ﾟ✧* Aesthetics: Cities ideas | city aesthetic, night ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/6a/be/de6abe023312dc29739e93d64034996b.jpg' alt='260 ・ﾟ✧* Aesthetics: Cities ideas | city aesthetic, night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/6a/be/de6abe023312dc29739e93d64034996b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "A view of the glimmering City, At Night" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/night-city-aesthetic-9s584qvn5uk1ixgq.jpg' alt='Download "A view of the glimmering City, At Night" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/night-city-aesthetic-9s584qvn5uk1ixgq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Aesthetic · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/18506719/pexels-photo-18506719/free-photo-of-city-aesthetic.jpeg' alt='City Aesthetic · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/18506719/pexels-photo-18506719/free-photo-of-city-aesthetic.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic City With Road And Cars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-city-with-road-and-cars-ryiezwqohrgkdaoc.jpg' alt='Aesthetic City With Road And Cars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-city-with-road-and-cars-ryiezwqohrgkdaoc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpaper 4K, Aesthetic, Twilight, Evening">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/new-york-city-twilight-evening-city-lights-dark-night-pink-3840x2400-6089.jpg' alt='New York City Wallpaper 4K, Aesthetic, Twilight, Evening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/new-york-city-twilight-evening-city-lights-dark-night-pink-3840x2400-6089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic City' Poster">
+                                <img itemprop="contentUrl url" src='http://www.postersplug.com/cdn/shop/products/aesthetic-city-poster-238227.jpg?v=1692897326' alt='Aesthetic City' Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters Plugs!" />
+                                </span>
+                                <a href='http://www.postersplug.com/cdn/shop/products/aesthetic-city-poster-238227.jpg?v=1692897326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark city aesthetic by BraelynnSwan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/724ba174-57a6-43a6-9b48-bf9d4051b1dc/dfm9qqc-979bf7a8-48fa-436f-a567-33bac1bdd351.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyNGJhMTc0LTU3YTYtNDNhNi05YjQ4LWJmOWQ0MDUxYjFkY1wvZGZtOXFxYy05NzliZjdhOC00OGZhLTQzNmYtYTU2Ny0zM2JhYzFiZGQzNTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QSkrUo3_6effy6I7y7pUMhbFaRfu6x7A9I2WDahSyPY' alt='Dark city aesthetic by BraelynnSwan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/724ba174-57a6-43a6-9b48-bf9d4051b1dc/dfm9qqc-979bf7a8-48fa-436f-a567-33bac1bdd351.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyNGJhMTc0LTU3YTYtNDNhNi05YjQ4LWJmOWQ0MDUxYjFkY1wvZGZtOXFxYy05NzliZjdhOC00OGZhLTQzNmYtYTU2Ny0zM2JhYzFiZGQzNTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QSkrUo3_6effy6I7y7pUMhbFaRfu6x7A9I2WDahSyPY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairly new to CS, are there any ways to make a city with a kind of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mo8hvmu3a0c01.jpg' alt='Fairly new to CS, are there any ways to make a city with a kind of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mo8hvmu3a0c01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

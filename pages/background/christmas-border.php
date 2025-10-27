@@ -1,0 +1,129 @@
+<title>Charming Christmas Borders for Festive Decor</title>
+                    <meta name="description" content="Explore stunning Christmas borders to elevate your holiday decor! Perfect for cards, gifts, and more, these designs bring cheer and creativity to your celebrations. Discover how a festive border can make your Christmas projects uniquely beautiful!">
+                    <meta name="keywords" content="christmas border">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-border">
+                            <span itemprop="name">christmas border</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Christmas Borders for Festive Decor</h1>
+                <p>Decorate your holiday season with beautiful Christmas borders! These festive designs can enhance cards, gift wraps, or home decor, adding that special touch to your celebrations. From classic holly and snowflakes to modern geometric styles, a well-chosen border can make your Christmas projects stand out and spread joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unlined Christmas Border printable paper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20645139/r/il/92a1e0/3381699806/il_fullxfull.3381699806_iuvn.jpg' alt='Unlined Christmas Border printable paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20645139/r/il/92a1e0/3381699806/il_fullxfull.3381699806_iuvn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Christmas Border Stock Illustrations – 6,188 Victorian ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-border-victorian-santa-7512315.jpg' alt='Victorian Christmas Border Stock Illustrations – 6,188 Victorian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-border-victorian-santa-7512315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Designs: Christmas Border, Leopard Background, JOY - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26955841/r/il/32c68f/3545423235/il_fullxfull.3545423235_eu4l.jpg' alt='3 Designs: Christmas Border, Leopard Background, JOY - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26955841/r/il/32c68f/3545423235/il_fullxfull.3545423235_eu4l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Christmas page border templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF1-z65wDw/1/0/1131w/canva-white-and-green-playful-illustrative-christmas-page-border-dte9H7SK1UU.jpg' alt='Free customizable Christmas page border templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF1-z65wDw/1/0/1131w/canva-white-and-green-playful-illustrative-christmas-page-border-dte9H7SK1UU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Border Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20221229/original/pngtree-decorated-christmas-corner-png-image_8823945.png' alt='Christmas Border Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20221229/original/pngtree-decorated-christmas-corner-png-image_8823945.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,300+ Christmas Border Clipart Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1409350554/vector/christmas-floral-border-with-poinsettia-holly-berries-leaves.jpg?s=612x612&w=0&k=20&c=pOQyWUoQ0dvJP8mehn-rO7cD8D4-pagKj1JLzr7WuQ8=' alt='12,300+ Christmas Border Clipart Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1409350554/vector/christmas-floral-border-with-poinsettia-holly-berries-leaves.jpg?s=612x612&w=0&k=20&c=pOQyWUoQ0dvJP8mehn-rO7cD8D4-pagKj1JLzr7WuQ8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Border Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/christmas-frame-decoration-illustration_23-2151888492.jpg' alt='Christmas Border Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/christmas-frame-decoration-illustration_23-2151888492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Border Images – Browse 1,358,581 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/72/92/41/360_F_72924168_CjMkzyPCFOCwk1yqC6fmbe0MFBqDAFgD.jpg' alt='Christmas Border Images – Browse 1,358,581 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/72/92/41/360_F_72924168_CjMkzyPCFOCwk1yqC6fmbe0MFBqDAFgD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 FREE Christmas Borders and Frames - PrintableTemplates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/5a/06/665a06dca823793a9e29b5bbcba09779.jpg' alt='35 FREE Christmas Borders and Frames - PrintableTemplates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/5a/06/665a06dca823793a9e29b5bbcba09779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas border 2025 design">
+                                <img itemprop="contentUrl url" src='https://theincrementalmama.com/wp-content/uploads/Christmas-Border-Paper-free-printable-watercolor-holly-reds-light-791x1024.jpg' alt='Christmas border 2025 design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://theincrementalmama.com/wp-content/uploads/Christmas-Border-Paper-free-printable-watercolor-holly-reds-light-791x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

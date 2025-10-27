@@ -1,0 +1,129 @@
+<title>Colorful Happy Mother's Day Backgrounds for Your Celebration</title>
+                    <meta name="description" content="Discover vibrant and creative backgrounds for Happy Mother's Day celebrations. Perfect for cards and social media, our collection will help you express love and gratitude effectively. Browse our selection now to find the ideal design to honor moms everywhere!">
+                    <meta name="keywords" content="happy mother's day background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-mothers-day-background">
+                            <span itemprop="name">happy mother's day background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Happy Mother's Day Backgrounds for Your Celebration</h1>
+                <p>Happy Mother's Day! Celebrate this special occasion with a vibrant background that radiates love and gratitude. Choose designs featuring blooming flowers, soft pastels, or heartfelt quotes that express your appreciation. Whether it's for cards, social media, or decor, the perfect backdrop can enhance your celebrations and honor all mothers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,000+ Happy Mothers Day Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1447105417/vector/happy-mothers-day-text-vector-design-mothers-day-postcard-and-greeting-card-with-cherry.jpg?s=612x612&w=0&k=20&c=jkyX1RGHAY_XtOlRZ0QMqwfN4iebRCXatF0fAFWqcjU=' alt='47,000+ Happy Mothers Day Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1447105417/vector/happy-mothers-day-text-vector-design-mothers-day-postcard-and-greeting-card-with-cherry.jpg?s=612x612&w=0&k=20&c=jkyX1RGHAY_XtOlRZ0QMqwfN4iebRCXatF0fAFWqcjU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mothers Day Background" Images – Browse 5,636 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/98/50/82/360_F_498508272_1yqYlc2tYhz1xQrjga4erXuWwkVhhYxF.jpg' alt='Mothers Day Background" Images – Browse 5,636 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/98/50/82/360_F_498508272_1yqYlc2tYhz1xQrjga4erXuWwkVhhYxF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,734 Day Flower Happy Mothers Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-mothers-day-wooden-blocks-flower-top-border-white-wood-rustic-paper-background-89164799.jpg' alt='48,734 Day Flower Happy Mothers Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-mothers-day-wooden-blocks-flower-top-border-white-wood-rustic-paper-background-89164799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Background with Hearts Graphic by MicroTee ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/04/22/Happy-mothers-day-background-with-hearts-Graphics-65587594.jpg' alt='Happy Mothers Day Background with Hearts Graphic by MicroTee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/04/22/Happy-mothers-day-background-with-hearts-Graphics-65587594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy mothers day background hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2E94EA4/happy-mothers-day-chalkboard-heart-with-rustic-paper-flower-corner-border-over-a-wood-background-2E94EA4.jpg' alt='Happy mothers day background hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2E94EA4/happy-mothers-day-chalkboard-heart-with-rustic-paper-flower-corner-border-over-a-wood-background-2E94EA4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mothers Day Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/4d/b8/d64db859e66c6b7cce179965d7de862c.jpg' alt='Mothers Day Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/4d/b8/d64db859e66c6b7cce179965d7de862c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SJOLOON 7x5ft Mother's Day Backdrops Love Heart Photography Background  Purple and Pink Flowers Photo Background for Party Studio Props 11482">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61M+V4C6AVL._AC_UF894,1000_QL80_.jpg' alt='SJOLOON 7x5ft Mother's Day Backdrops Love Heart Photography Background  Purple and Pink Flowers Photo Background for Party Studio Props 11482'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61M+V4C6AVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Flowers Images – Browse 452,439 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/01/34/73/360_F_201347356_RPHkDaLog4oGSYX4oYwodZJFtZnjXyRp.jpg' alt='Happy Mothers Day Flowers Images – Browse 452,439 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/01/34/73/360_F_201347356_RPHkDaLog4oGSYX4oYwodZJFtZnjXyRp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Mothers Day Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/042/167/210/non_2x/happy-mother-s-day-banner-with-colorful-spring-flower-and-typography-lettering-on-yellow-background-mom-celebration-postcard-design-with-symbol-of-love-for-greeting-card-flyer-invitation-vector.jpg' alt='Happy Mothers Day Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/042/167/210/non_2x/happy-mother-s-day-banner-with-colorful-spring-flower-and-typography-lettering-on-yellow-background-mom-celebration-postcard-design-with-symbol-of-love-for-greeting-card-flyer-invitation-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,000+ Happy Mothers Day Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1481826791/vector/happy-mothers-day.jpg?s=612x612&w=0&k=20&c=ncbZVFX_zUOxJMh3fnoapTWYBRg8K7C6t5DTmQpcryM=' alt='47,000+ Happy Mothers Day Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1481826791/vector/happy-mothers-day.jpg?s=612x612&w=0&k=20&c=ncbZVFX_zUOxJMh3fnoapTWYBRg8K7C6t5DTmQpcryM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

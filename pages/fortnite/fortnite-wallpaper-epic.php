@@ -1,0 +1,129 @@
+<title>Epic Fortnite Wallpapers – Unleash Your Gaming Style!</title>
+                    <meta name="description" content="Explore a collection of epic Fortnite wallpapers that bring your favorite characters to life. Perfect for gamers looking to customize their screens with high-quality images. Get ready to boost your gaming vibe and show off your Fortnite fandom!">
+                    <meta name="keywords" content="fortnite wallpaper epic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/fortnite-wallpaper-epic">
+                            <span itemprop="name">fortnite wallpaper epic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Wallpapers – Unleash Your Gaming Style!</h1>
+                <p>Elevate your gaming experience with stunning Fortnite wallpapers! Discover vibrant art featuring your favorite characters and legendary scenes from the game. Perfect for personalizing your device and showcasing your Fortnite passion. Download high-quality wallpapers to keep your gaming spirit alive every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the game, game, character, characters, Chapter 2, Epic ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3840x2160/8/5b/battle-pass-chapter-2-season-8-battle-royale-epic-games-char.jpg' alt='Wallpaper the game, game, character, characters, Chapter 2, Epic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3840x2160/8/5b/battle-pass-chapter-2-season-8-battle-royale-epic-games-char.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Epic Fortnite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/epic-fortnite-8g15f5g6owxtmeln.jpg' alt='100+] Epic Fortnite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/epic-fortnite-8g15f5g6owxtmeln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/b/e/1162-1920x1080-desktop-1080p-fortnite-wallpaper-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/b/e/1162-1920x1080-desktop-1080p-fortnite-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic fortnite 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1080-fortnite-1920-x-1080-z86vzy41qlzfjv86.jpg' alt='Epic fortnite 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1080-fortnite-1920-x-1080-z86vzy41qlzfjv86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Epic Games, Fortnite, 2019, Season X for mobile and ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3840x2160/f/fa/fortnite-season-x-epic-games-2019.jpg' alt='Wallpaper Epic Games, Fortnite, 2019, Season X for mobile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3840x2160/f/fa/fortnite-season-x-epic-games-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[100+] Fortnite Ultra HD 4K Wallpapers Package Download">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/yN05QH12OPo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDS7XGL4b61UBUvIlKEYvm971Fmtg' alt='[100+] Fortnite Ultra HD 4K Wallpapers Package Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/yN05QH12OPo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDS7XGL4b61UBUvIlKEYvm971Fmtg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/1/d/1147-1920x1080-desktop-full-hd-fortnite-wallpaper-image.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/1/d/1147-1920x1080-desktop-full-hd-fortnite-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Epic Battle HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1355095.jpeg' alt='Fortnite Epic Battle HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1355095.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44 FORTNIGHT ideas | gaming wallpapers, best gaming wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/af/08/87/af0887c280b1d9d4473d83fa0a21a6b4.jpg' alt='44 FORTNIGHT ideas | gaming wallpapers, best gaming wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/af/08/87/af0887c280b1d9d4473d83fa0a21a6b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="740 Wallpaper Fortnite ideas | fortnite, wallpaper, epic games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/ff/83/32ff837d0a1f2d8ea7128be454460667.jpg' alt='740 Wallpaper Fortnite ideas | fortnite, wallpaper, epic games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/ff/83/32ff837d0a1f2d8ea7128be454460667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Parrots on White: Capture Their Vibrance</title>
+                    <meta name="description" content="Discover the beauty of parrots against a white background. Explore their vibrant colors, captivating features, and the artistry of photography. Perfect for bird lovers and enthusiasts, this topic showcases the stunning details of these magnificent creatures in striking contrast.">
+                    <meta name="keywords" content="parrot white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/parrot-white-background">
+                            <span itemprop="name">parrot white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Parrots on White: Capture Their Vibrance</h1>
+                <p>Parrots are vibrant and captivating birds known for their stunning plumage and ability to mimic sounds. Against a pristine white background, their colors pop, showcasing the brilliance of their feathers. This stark contrast highlights the intricate patterns and details of the parrot, making it an ideal subject for photography and artistic endeavors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A scarlet macaw parrot on white background PosterPrint - Item #  VARDPI2326268">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1528025/4119306/DPI2326268__54136.1541823668.jpg?c=2' alt='A scarlet macaw parrot on white background PosterPrint - Item #  VARDPI2326268'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterazzi" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1528025/4119306/DPI2326268__54136.1541823668.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bird Photos-conure bird isolated on white background 2">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/photo-conure-bird-isolated-on-white-background-2-61300.jpg' alt='Bird Photos-conure bird isolated on white background 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/photo-conure-bird-isolated-on-white-background-2-61300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaw Parrot isolated on white background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PJERFB/macaw-parrot-isolated-on-white-background-PJERFB.jpg' alt='Macaw Parrot isolated on white background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PJERFB/macaw-parrot-isolated-on-white-background-PJERFB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaw parrot isolated on white background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/44/39/31/1000_F_244393155_3gBaUL55LqSaZZsjGN20AhFLeqP2nsig.jpg' alt='Macaw parrot isolated on white background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/44/39/31/1000_F_244393155_3gBaUL55LqSaZZsjGN20AhFLeqP2nsig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parrot On White Images – Browse 253,133 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/26/04/13/360_F_726041324_mwWkdOkGBuq062SSvu1T3mU6dEESQoaR.jpg' alt='Parrot On White Images – Browse 253,133 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/26/04/13/360_F_726041324_mwWkdOkGBuq062SSvu1T3mU6dEESQoaR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37,400+ White Parrot Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/168663169/photo/green-winged-macaw-ara-chloropterus-in-front-of-white-background.jpg?s=612x612&w=0&k=20&c=sdACQL__chh03-na7KW3e7uGr-5arp2Tr3N6qoRnKS8=' alt='37,400+ White Parrot Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/168663169/photo/green-winged-macaw-ara-chloropterus-in-front-of-white-background.jpg?s=612x612&w=0&k=20&c=sdACQL__chh03-na7KW3e7uGr-5arp2Tr3N6qoRnKS8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parrot isolated on white background 22299582 Stock Photo at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/299/582/large_2x/parrot-isolated-on-white-background-photo.jpg' alt='Parrot isolated on white background 22299582 Stock Photo at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/299/582/large_2x/parrot-isolated-on-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Images Birds parrot Animals White background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/11/03/831103bd7d7123a45089b60da4638a7f.jpg' alt='Images Birds parrot Animals White background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/11/03/831103bd7d7123a45089b60da4638a7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White-background-for-green-parrot-face by pepo2010 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d35543f1-acc5-45a8-a38c-d3a5cab866c7/d8itj71-c2160421-1a25-46d0-ae1c-23c4db12871e.jpg/v1/fill/w_1000,h_800,q_75,strp/white_background_for_green_parrot_face_by_pepo2010_d8itj71-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZDM1NTQzZjEtYWNjNS00NWE4LWEzOGMtZDNhNWNhYjg2NmM3XC9kOGl0ajcxLWMyMTYwNDIxLTFhMjUtNDZkMC1hZTFjLTIzYzRkYjEyODcxZS5qcGciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.M1IYg33hFfR_rYUH1bMHTf6sWelk2XgWdmKdjS94gG0' alt='White-background-for-green-parrot-face by pepo2010 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d35543f1-acc5-45a8-a38c-d3a5cab866c7/d8itj71-c2160421-1a25-46d0-ae1c-23c4db12871e.jpg/v1/fill/w_1000,h_800,q_75,strp/white_background_for_green_parrot_face_by_pepo2010_d8itj71-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZDM1NTQzZjEtYWNjNS00NWE4LWEzOGMtZDNhNWNhYjg2NmM3XC9kOGl0ajcxLWMyMTYwNDIxLTFhMjUtNDZkMC1hZTFjLTIzYzRkYjEyODcxZS5qcGciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.M1IYg33hFfR_rYUH1bMHTf6sWelk2XgWdmKdjS94gG0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful parrot isolated in white background by Anek Suwannaphoom">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/colorful-parrot-isolated-in-white-background-anek-suwannaphoom.jpg' alt='Colorful parrot isolated in white background by Anek Suwannaphoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/colorful-parrot-isolated-in-white-background-anek-suwannaphoom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

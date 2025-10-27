@@ -1,0 +1,129 @@
+<title>Elevate Your Home with Stunning Royals Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of royals wallpaper for your home. Our collection features luxurious designs that add a regal touch to any room, making your interiors sophisticated and stylish. Transform your space effortlessly with our beautiful royals wallpaper selection!">
+                    <meta name="keywords" content="royals wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royals-wallpaper">
+                            <span itemprop="name">royals wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Home with Stunning Royals Wallpaper</h1>
+                <p>Transform your space with stunning royals wallpaper! Featuring elegant patterns inspired by regal aesthetics, these wallpapers bring a touch of sophistication to any room. Perfect for creating a timeless ambiance, they offer a bold statement piece or subtle elegance, ensuring your interiors reflect your personality with a royal flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royals Virtual Backgrounds | Kansas City Royals">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/dowtlwzk6dkb3aqtvsc4.jpg' alt='Royals Virtual Backgrounds | Kansas City Royals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2208">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/dowtlwzk6dkb3aqtvsc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kansas City Royals Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kansas-city-royals-q68yy191d5hd79yw.jpg' alt='100+] Kansas City Royals Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kansas-city-royals-q68yy191d5hd79yw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royals Virtual Backgrounds | Kansas City Royals">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/vx3bgogilaux0cbmvs61.jpg' alt='Royals Virtual Backgrounds | Kansas City Royals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2208">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/vx3bgogilaux0cbmvs61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Kansas City Royals wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Kansas-City-Royals-wallpaper-logo-geometric-desktop-MLB-2024.jpg' alt='2025 Kansas City Royals wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Kansas-City-Royals-wallpaper-logo-geometric-desktop-MLB-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Royals on X: "In case your lock screen needs a new ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FqtSXdTXsAI1O_M.jpg:large' alt='Kansas City Royals on X: "In case your lock screen needs a new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FqtSXdTXsAI1O_M.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="royals wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/57/d1/f657d15072743b3d5d938847d5f2d521.jpg' alt='royals wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/57/d1/f657d15072743b3d5d938847d5f2d521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Royals Starry Flag Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/kansas-city-royals-starry-flag-7kyx6u7fx4ixx85d.jpg' alt='Kansas City Royals Starry Flag Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/kansas-city-royals-starry-flag-7kyx6u7fx4ixx85d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Royals Abstract Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kansas-city-royals-abstract-art-0hkfvfwffew2var1.jpg' alt='Kansas City Royals Abstract Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kansas-city-royals-abstract-art-0hkfvfwffew2var1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas City Royals on X: "These wallpapers will make a fine ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FR6ucQIXIAAmtZU.jpg:large' alt='Kansas City Royals on X: "These wallpapers will make a fine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FR6ucQIXIAAmtZU.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper wallpaper, sport, logo, baseball, glitter, checkered ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2880x1800/0/65/wallpaper-sport-logo-baseball-glitter-checkered-mlb-kansas-c.jpg' alt='Wallpaper wallpaper, sport, logo, baseball, glitter, checkered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2880x1800/0/65/wallpaper-sport-logo-baseball-glitter-checkered-mlb-kansas-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

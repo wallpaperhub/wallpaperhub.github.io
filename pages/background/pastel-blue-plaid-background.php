@@ -1,0 +1,129 @@
+<title>Charming Pastel Blue Plaid Background for Your Designs</title>
+                    <meta name="description" content="Elevate your design projects with our beautiful pastel blue plaid background. Ideal for wallpapers, crafts, and stylish apparel, this soothing pattern combines elegance and versatility, perfect for any creative endeavor. Explore this enchanting design to add a calm aesthetic to your creations!">
+                    <meta name="keywords" content="pastel blue plaid background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-blue-plaid-background">
+                            <span itemprop="name">pastel blue plaid background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Blue Plaid Background for Your Designs</h1>
+                <p>Discover the serene beauty of a pastel blue plaid background. This soft, charming pattern adds a touch of warmth and tranquility to any design project. Perfect for digital wallpapers, scrapbook themes, or fashion designs, the pastel blue plaid evokes feelings of calm and style, making it a versatile choice for creatives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue pastel gingham, plaid, checkered pattern background, perfect ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/89/39/11/1000_F_489391141_RLvwDwtx8Mrh7prBm2HiKiL9Pyl07WmA.jpg' alt='blue pastel gingham, plaid, checkered pattern background, perfect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/89/39/11/1000_F_489391141_RLvwDwtx8Mrh7prBm2HiKiL9Pyl07WmA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G78395 Plaid Light Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/256728.jpg' alt='Galerie G78395 Plaid Light Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/256728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic pastel blue tartan, gingham, plaid, checkers, checkered ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/23/00/63/1000_F_523006386_q1Re7uVR8Wa8rZj1mndSAuOFQNRVQscY.jpg' alt='aesthetic pastel blue tartan, gingham, plaid, checkers, checkered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/23/00/63/1000_F_523006386_q1Re7uVR8Wa8rZj1mndSAuOFQNRVQscY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Blue Tartan Plaid Wallpaper, Light Pastel Baby Nursery, Cozy Farmhouse  Cottage Laundry, Shabby Country Kitchen - by the Yard AB31054 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/d05988/2936715759/il_1080xN.2936715759_9oqi.jpg' alt='Soft Blue Tartan Plaid Wallpaper, Light Pastel Baby Nursery, Cozy Farmhouse  Cottage Laundry, Shabby Country Kitchen - by the Yard AB31054 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/d05988/2936715759/il_1080xN.2936715759_9oqi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Beach House Picnic Plaid Wallpaper - Blue Oasis">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/MB31912.jpg?v=1602709886' alt='Seabrook Beach House Picnic Plaid Wallpaper - Blue Oasis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/MB31912.jpg?v=1602709886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diagonal Plaid Blue">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0022341_diagonal-plaid-blue-l.jpeg' alt='Diagonal Plaid Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0022341_diagonal-plaid-blue-l.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Aesthetic pastel blue checkerboard gingham plaid ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/aesthetic-pastel-blue-checkerboard-gingham-plaid-checkered-pattern-background-perfect-wallpaper_565280-569.jpg' alt='Premium Vector | Aesthetic pastel blue checkerboard gingham plaid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/aesthetic-pastel-blue-checkerboard-gingham-plaid-checkered-pattern-background-perfect-wallpaper_565280-569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,700+ Blue Plaid Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/951797778/vector/light-blue-gingham-seamless-pattern.jpg?s=612x612&w=0&k=20&c=zYzqDn06EQ74BRWOe8kdGi2j_daZnHyIB4OBSGzCBis=' alt='20,700+ Blue Plaid Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/951797778/vector/light-blue-gingham-seamless-pattern.jpg?s=612x612&w=0&k=20&c=zYzqDn06EQ74BRWOe8kdGi2j_daZnHyIB4OBSGzCBis=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake 311524475 Ester Light Blue Plaid Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210047.jpg' alt='Chesapeake 311524475 Ester Light Blue Plaid Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector cute pastel blue gingham checkers plaid aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/611/286/non_2x/cute-pastel-blue-gingham-checkers-plaid-aesthetic-checkerboard-pattern-wallpaper-illustration-free-vector.jpg' alt='Vector cute pastel blue gingham checkers plaid aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/611/286/non_2x/cute-pastel-blue-gingham-checkers-plaid-aesthetic-checkerboard-pattern-wallpaper-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

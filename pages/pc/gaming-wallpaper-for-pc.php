@@ -1,0 +1,129 @@
+<title>Ultimate Gaming Wallpapers for Your PC</title>
+                    <meta name="description" content="Discover a collection of high-quality gaming wallpapers for your PC. Enhance your desktop with stunning visuals featuring your favorite games and characters. Perfect for gamers looking to personalize their setup with unique and vibrant designs. Download today and transform your gaming experience!">
+                    <meta name="keywords" content="gaming wallpaper for pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/gaming-wallpaper-for-pc">
+                            <span itemprop="name">gaming wallpaper for pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Gaming Wallpapers for Your PC</h1>
+                <p>Transform your PC with stunning gaming wallpapers that elevate your desktop aesthetic. From breathtaking landscapes in open-world games to iconic hero visuals, our collection caters to every gamer’s taste. Choose the perfect wallpaper to reflect your gaming passion and enhance your setup with style and flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable gaming desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg' alt='Free customizable gaming desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd gaming wallpapers for 2025 pc">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' alt='Hd gaming wallpapers for 2025 pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' alt='100+] Purple Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some more "freestyle" gaming wallpapers with Sci-Fi and fantasy ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qaz520qmbdv61.jpg?width=640&crop=smart&auto=webp&s=0b50e7f3cd9f994ef78aab8627cba675b80a3901' alt='Some more "freestyle" gaming wallpapers with Sci-Fi and fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qaz520qmbdv61.jpg?width=640&crop=smart&auto=webp&s=0b50e7f3cd9f994ef78aab8627cba675b80a3901' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-gaming-jdc7028bqa3g20q3.jpg' alt='100+] Dark Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-gaming-jdc7028bqa3g20q3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pc Gaming Gamer Characters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pc-gaming-gamer-characters-ej7iowracrv0e6aj.jpg' alt='Pc Gaming Gamer Characters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pc-gaming-gamer-characters-ej7iowracrv0e6aj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A collection of 354 Gaming Wallpapers, all 1080p : r/gaming">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-q4j37b3gBaI7TkuOH2f1hfzT3031heAcghyV7Gr9TU.jpg?width=640&crop=smart&auto=webp&s=99263374317648b3ee5a569804a32d09a2586855' alt='A collection of 354 Gaming Wallpapers, all 1080p : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-q4j37b3gBaI7TkuOH2f1hfzT3031heAcghyV7Gr9TU.jpg?width=640&crop=smart&auto=webp&s=99263374317648b3ee5a569804a32d09a2586855' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pc Gaming Wallpapers High Definition">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/dd/82/75dd828d0b9cbd4adab6c9a652bd9dad.jpg' alt='Pc Gaming Wallpapers High Definition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/dd/82/75dd828d0b9cbd4adab6c9a652bd9dad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Gaming, Good Gaming, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/892/36/HD-wallpaper-windows-10-gaming-good-gaming.jpg' alt='Windows 10 Gaming, Good Gaming, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/892/36/HD-wallpaper-windows-10-gaming-good-gaming.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best gaming wallpapers for 2025 pc">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/232/507/HD-wallpaper-battlefield-game-ea-games-battlefield-4-games-pc-games-xbox-games-ps4-games-pc-games.jpg' alt='Best gaming wallpapers for 2025 pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/232/507/HD-wallpaper-battlefield-game-ea-games-battlefield-4-games-pc-games-xbox-games-ps4-games-pc-games.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

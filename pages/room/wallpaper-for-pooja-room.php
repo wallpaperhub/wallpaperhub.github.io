@@ -1,0 +1,129 @@
+<title>Elegant Wallpaper Ideas for Your Pooja Room</title>
+                    <meta name="description" content="Discover stunning wallpaper options for your pooja room that elevate its spiritual essence. From traditional patterns to modern designs, find the perfect wallpaper to create a peaceful and uplifting atmosphere. Explore our tips for selecting the right materials and colors that resonate with your faith.">
+                    <meta name="keywords" content="wallpaper for pooja room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-for-pooja-room">
+                            <span itemprop="name">wallpaper for pooja room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Wallpaper Ideas for Your Pooja Room</h1>
+                <p>Transform your pooja room with beautiful wallpapers that evoke serenity and spirituality. Opt for designs featuring traditional motifs, soothing colors, or nature-inspired themes to enhance the ambience. Choose durable materials that reflect your faith and add a touch of elegance, creating a sacred space for worship and meditation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temple Wallpaper, Divine Glow Beautiful Yellow Pichwai Design for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39029303/r/il/ed0c00/5142337115/il_fullxfull.5142337115_e0wm.jpg' alt='Temple Wallpaper, Divine Glow Beautiful Yellow Pichwai Design for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39029303/r/il/ed0c00/5142337115/il_fullxfull.5142337115_e0wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pushpanjali, 3D Divine White Floral Wallpaper for Serene Ambience ...">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2024/01/11173640/Pushpanjali-3D-Divine-White-Floral-Wallpaper-for-Serene-Ambience-M.jpg' alt='Pushpanjali, 3D Divine White Floral Wallpaper for Serene Ambience ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2024/01/11173640/Pushpanjali-3D-Divine-White-Floral-Wallpaper-for-Serene-Ambience-M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seating Area Sultan Tiles Modern Style Pooja Room Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcastle.com/wp-content/uploads/2023/09/1-1.jpg' alt='Seating Area Sultan Tiles Modern Style Pooja Room Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wallcastle.com" />
+                                </span>
+                                <a href='https://wallcastle.com/wp-content/uploads/2023/09/1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Wall Papers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3d/cb/c4/3dcbc4bd7aef4ec6d6fdd63b1233164d.jpg' alt='Stunning Wall Papers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3d/cb/c4/3dcbc4bd7aef4ec6d6fdd63b1233164d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall paper for pooja 2025 room">
+                                <img itemprop="contentUrl url" src='https://assets-news.housing.com/news/wp-content/uploads/2022/10/07151354/15-Diwali-wallpaper-designs-to-liven-up-your-home-this-festive-season-05.jpg' alt='Wall paper for pooja 2025 room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://assets-news.housing.com/news/wp-content/uploads/2022/10/07151354/15-Diwali-wallpaper-designs-to-liven-up-your-home-this-festive-season-05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Wallpaper Designs For Your Pooja Room | Alacritys">
+                                <img itemprop="contentUrl url" src='https://alacritys.in/wp-content/uploads/2024/08/1.PoojaRoomWallpaperwithMantrasandSlokas.jpeg' alt='Explore Wallpaper Designs For Your Pooja Room | Alacritys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alacritys" />
+                                </span>
+                                <a href='https://alacritys.in/wp-content/uploads/2024/08/1.PoojaRoomWallpaperwithMantrasandSlokas.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Your Old Pooja Room Need a Quick Makeover? Here Are 20+ Back ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/03/6b/71036bb5cb070767d508af78b8da5d4a.jpg' alt='Does Your Old Pooja Room Need a Quick Makeover? Here Are 20+ Back ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/03/6b/71036bb5cb070767d508af78b8da5d4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Pooja Room Designed For Spacious Layout With Golden Leafy ...">
+                                <img itemprop="contentUrl url" src='https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/jas-1657179080-NnXAg/puja-room-1657182773-7ewEb/1077295-puja-1658478902-17PJ3.png' alt='Modern Pooja Room Designed For Spacious Layout With Golden Leafy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livspace" />
+                                </span>
+                                <a href='https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/jas-1657179080-NnXAg/puja-room-1657182773-7ewEb/1077295-puja-1658478902-17PJ3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pooja Room Premium Wallpaper Buy Online | Morphico">
+                                <img itemprop="contentUrl url" src='https://www.morphico.com/images/83690522-thumb.jpg' alt='Pooja Room Premium Wallpaper Buy Online | Morphico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morphico" />
+                                </span>
+                                <a href='https://www.morphico.com/images/83690522-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Popular 3D Wallpaper for Pooja Room in 2025">
+                                <img itemprop="contentUrl url" src='https://www.nobroker.in/blog/wp-content/uploads/2024/08/krishna-wallpaper-for-pooja-room.webp' alt='15 Popular 3D Wallpaper for Pooja Room in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NoBroker" />
+                                </span>
+                                <a href='https://www.nobroker.in/blog/wp-content/uploads/2024/08/krishna-wallpaper-for-pooja-room.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

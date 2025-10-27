@@ -1,0 +1,129 @@
+<title>Stunning Dragon Ball Z Goku Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated selection of high-quality Dragon Ball Z Goku wallpapers that bring your favorite Saiyan to life. Perfect for fans, these stunning images will enhance your device's background with Goku's powerful presence and dynamic poses. Download now for a fresh, vibrant look!">
+                    <meta name="keywords" content="dragon ball z goku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/dragon-ball-z-goku-wallpaper">
+                            <span itemprop="name">dragon ball z goku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Ball Z Goku Wallpapers for Your Device</h1>
+                <p>Discover an epic collection of Dragon Ball Z Goku wallpapers to elevate your device’s look! From intense action scenes to serene moments, these HD wallpapers capture Goku's heroic spirit and vibrant energy. Customize your screen with stunning visuals that showcase Goku’s iconic transformations and memorable battles. Perfect for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SON GOKU Dragon Ball Z Woven Self-Adhesive Removable Wallpaper Modern Mural  M95">
+                                <img itemprop="contentUrl url" src='https://www.decalz.co/cdn/shop/products/M95Goku1-EX.jpg?v=1603368535' alt='SON GOKU Dragon Ball Z Woven Self-Adhesive Removable Wallpaper Modern Mural  M95'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz" />
+                                </span>
+                                <a href='https://www.decalz.co/cdn/shop/products/M95Goku1-EX.jpg?v=1603368535' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="      #dragon ball z. #dragon ball super wallpaper. #dragon ball z ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/20/55/32205548b05f77ea5001726188dce64e.jpg' alt='      #dragon ball z. #dragon ball super wallpaper. #dragon ball z ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/20/55/32205548b05f77ea5001726188dce64e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a good Goku wallpaper (iPhone) : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LIAna9k3hbhTMg74l0i4_cvnZb8THbvELWxEK7PQG8U.jpg?auto=webp&s=327287c9592be217ae3de1c85c425df8b800d633' alt='Here's a good Goku wallpaper (iPhone) : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LIAna9k3hbhTMg74l0i4_cvnZb8THbvELWxEK7PQG8U.jpg?auto=webp&s=327287c9592be217ae3de1c85c425df8b800d633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku HD Wallpaper - Dragon Ball Z Anime">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/610/thumb-1920-610757.jpg' alt='Goku HD Wallpaper - Dragon Ball Z Anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/610/thumb-1920-610757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Namek Super Saiyan Goku Wallpaper : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/laUOfoXWq5CCIJgjCCYw9PYz10Vt0GAUEwot8uxZRe4.jpg?width=640&crop=smart&auto=webp&s=7c2fbc7f2363cd9cb55f4e65e3eafe4a811d1651' alt='Namek Super Saiyan Goku Wallpaper : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/laUOfoXWq5CCIJgjCCYw9PYz10Vt0GAUEwot8uxZRe4.jpg?width=640&crop=smart&auto=webp&s=7c2fbc7f2363cd9cb55f4e65e3eafe4a811d1651' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Goku Woven Self-Adhesive Removable Wallpaper Modern Mural M149">
+                                <img itemprop="contentUrl url" src='https://www.decalz.co/cdn/shop/products/M149_Goku_Super-EX.jpg?v=1563797790' alt='Dragon Ball Z Goku Woven Self-Adhesive Removable Wallpaper Modern Mural M149'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz.co" />
+                                </span>
+                                <a href='https://www.decalz.co/cdn/shop/products/M149_Goku_Super-EX.jpg?v=1563797790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Goku cool 4k Hd Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/bc/a8/c1bca8fa9e853d749147531f2eb97342.jpg' alt='Dragon Ball Z Goku cool 4k Hd Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/bc/a8/c1bca8fa9e853d749147531f2eb97342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Goku Kamehameha Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dragon-ball-z-goku-kamehameha-e39b7q2766bfwzx0.jpg' alt='Dragon Ball Z Goku Kamehameha Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dragon-ball-z-goku-kamehameha-e39b7q2766bfwzx0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku New Dragon Ball Z Art Wallpaper, HD Anime 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/goku-new-dragon-ball-z-art_bGZqa26UmZqaraWkpJRnaWVlrWZoamU.jpg' alt='Goku New Dragon Ball Z Art Wallpaper, HD Anime 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/goku-new-dragon-ball-z-art_bGZqa26UmZqaraWkpJRnaWVlrWZoamU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dragon Ball Super Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' alt='200+] Dragon Ball Super Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

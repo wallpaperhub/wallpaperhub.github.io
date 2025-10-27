@@ -1,0 +1,129 @@
+<title>Stunning World of Warcraft Phone Wallpapers</title>
+                    <meta name="description" content="Discover the ultimate collection of World of Warcraft phone wallpapers. Perfect for fans, our wallpapers showcase iconic characters and breathtaking scenes from the game. Download high-quality, captivating designs optimized for your mobile device. Elevate your screen with the magic of Azeroth today!">
+                    <meta name="keywords" content="world of warcraft phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/world-of-warcraft-phone-wallpaper">
+                            <span itemprop="name">world of warcraft phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning World of Warcraft Phone Wallpapers</h1>
+                <p>Transform your device with stunning World of Warcraft phone wallpapers. Explore a variety of breathtaking designs featuring iconic characters, epic landscapes, and action-packed scenes from Azeroth. Whether you're a proud Alliance or Horde member, these wallpapers will let you carry your passion for WoW wherever you go. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Created a phone wallpaper of the view from The Vindicaar : r/wow">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6nnxekbce3jz.jpg' alt='Created a phone wallpaper of the view from The Vindicaar : r/wow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2472">
+                                <meta itemprop="height" content="4394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6nnxekbce3jz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Great Battle for Azeroth Mobile Wallpapers : r/wow">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/HYHGYezcO1UJTOT0vWFCrVVhfCGK6JpeB5CObNfB3hQ.jpg?auto=webp&s=a80db2da42db03d7cd0cdf9d27ced7db796ec2a1' alt='100+ Great Battle for Azeroth Mobile Wallpapers : r/wow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/HYHGYezcO1UJTOT0vWFCrVVhfCGK6JpeB5CObNfB3hQ.jpg?auto=webp&s=a80db2da42db03d7cd0cdf9d27ced7db796ec2a1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 World of Warcraft phone wallpapers ideas | world of warcraft ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/9d/ca/7c/9dca7c1cc026b4ed2950717a0fe21c5d.jpg' alt='21 World of Warcraft phone wallpapers ideas | world of warcraft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/9d/ca/7c/9dca7c1cc026b4ed2950717a0fe21c5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Of Warcraft 4k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3392657.jpg' alt='World Of Warcraft 4k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3392657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 awesome Warcraft wallpapers for your phone : r/wow">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/5nspWOeSelrRviY6sIIDDFb6STKvROjvCIQMBs8n1oo.jpg?width=1080&crop=smart&auto=webp&s=df8ee9b24bda2114765d1c46288e09a37977898e' alt='25 awesome Warcraft wallpapers for your phone : r/wow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/5nspWOeSelrRviY6sIIDDFb6STKvROjvCIQMBs8n1oo.jpg?width=1080&crop=smart&auto=webp&s=df8ee9b24bda2114765d1c46288e09a37977898e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World of Warcraft Battle for Azeroth 4K Ultra HD Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/de/27/4fde27651a1cfa81471e65656c5f048b.jpg' alt='World of Warcraft Battle for Azeroth 4K Ultra HD Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/de/27/4fde27651a1cfa81471e65656c5f048b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Of Warcraft Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/627/627968.jpg' alt='World Of Warcraft Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/627/627968.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horde (WOW) Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/b/f/2130422-1500x2192-samsung-hd-horde-wow-wallpaper.jpg' alt='Horde (WOW) Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/b/f/2130422-1500x2192-samsung-hd-horde-wow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World of warcraft, clans, game, wow, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/314/133/HD-wallpaper-world-of-warcraft-clans-game-wow.jpg' alt='World of warcraft, clans, game, wow, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/314/133/HD-wallpaper-world-of-warcraft-clans-game-wow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Of Warcraft: Wrath Of The Lich King Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/970/970781.jpg' alt='World Of Warcraft: Wrath Of The Lich King Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/970/970781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

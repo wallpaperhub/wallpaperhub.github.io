@@ -1,0 +1,129 @@
+<title>How to Address Employment Date Discrepancies Effectively</title>
+                    <meta name="description" content="Learn how to effectively explain employment date discrepancies during job applications. Discover tips on maintaining transparency and providing clear explanations to potential employers for a smoother hiring process.">
+                    <meta name="keywords" content="how to explain employment date discrepancy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-explain-employment-date-discrepancy">
+                            <span itemprop="name">how to explain employment date discrepancy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Address Employment Date Discrepancies Effectively</h1>
+                <p>When addressing an employment date discrepancy, transparency is key. Start by acknowledging the difference and provide a clear explanation, such as overlapping jobs or site closure. Ensure to present supporting documentation if available. Conclude by expressing commitment to honesty and the importance of clear communication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Identify Discrepancies in a Candidate's Job Application">
+                                <img itemprop="contentUrl url" src='https://www.hrdirectapps.com/blog/wp-content/uploads/2019/04/Large-Gap-1.png' alt='How to Identify Discrepancies in a Candidate's Job Application'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HRdirect Smart Apps" />
+                                </span>
+                                <a href='https://www.hrdirectapps.com/blog/wp-content/uploads/2019/04/Large-Gap-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Explain Employment Discrepancies">
+                                <img itemprop="contentUrl url" src='https://careerclimb.com/wp-content/uploads/2022/02/Depositphotos_36128579_L-1.jpg' alt='How To Explain Employment Discrepancies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Career Climb" />
+                                </span>
+                                <a href='https://careerclimb.com/wp-content/uploads/2022/02/Depositphotos_36128579_L-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Employment Gap Explanation Letter Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/374547/Explanation-Letter-To-Employee-Template-edit-online.png' alt='Free Employment Gap Explanation Letter Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/374547/Explanation-Letter-To-Employee-Template-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Explain Employment Date Discrepancy? [Clarifying Your Work ...">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2024/02/how-to-explain-employment-date-discrepancy.jpg' alt='How to Explain Employment Date Discrepancy? [Clarifying Your Work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2024/02/how-to-explain-employment-date-discrepancy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discrepancy Letter Sample - Fill Online, Printable, Fillable, Blank ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/405/924/405924542/large.png' alt='Discrepancy Letter Sample - Fill Online, Printable, Fillable, Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/405/924/405924542/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Employment Gap Explanation Letter Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/439287/Workplace-Explanation-Letter-Template-edit-online.png' alt='Free Employment Gap Explanation Letter Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/439287/Workplace-Explanation-Letter-Template-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Explain Employment Date Discrepancy? [Clarifying Your Work ...">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2024/02/Understanding-Employment-Date-Discrepancies.jpg' alt='How to Explain Employment Date Discrepancy? [Clarifying Your Work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2024/02/Understanding-Employment-Date-Discrepancies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discrepancies in Employment History Checks">
+                                <img itemprop="contentUrl url" src='https://gcheck.com/wp-content/uploads/2024/04/Understanding-Common-Employment-Verification-Errors-visual-selection-842x1024.webp' alt='Discrepancies in Employment History Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="842">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCheck" />
+                                </span>
+                                <a href='https://gcheck.com/wp-content/uploads/2024/04/Understanding-Common-Employment-Verification-Errors-visual-selection-842x1024.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lying About Employment Dates on a Resume: What To Do When You've ...">
+                                <img itemprop="contentUrl url" src='https://resumeworded.com/blog/content/images/size/w350/2023/02/pasted-image-0-2.png' alt='Lying About Employment Dates on a Resume: What To Do When You've ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume Worded" />
+                                </span>
+                                <a href='https://resumeworded.com/blog/content/images/size/w350/2023/02/pasted-image-0-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Explain Employment Date Discrepancy? [Clarifying Your Work ...">
+                                <img itemprop="contentUrl url" src='https://skillsforchange.com/wp-content/uploads/2024/02/Aftermath-of-Employment-Date-Discrepancies.jpg' alt='How to Explain Employment Date Discrepancy? [Clarifying Your Work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkillsForChange.com" />
+                                </span>
+                                <a href='https://skillsforchange.com/wp-content/uploads/2024/02/Aftermath-of-Employment-Date-Discrepancies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

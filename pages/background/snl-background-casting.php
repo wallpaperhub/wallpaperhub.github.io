@@ -1,0 +1,129 @@
+<title>SNL Background Casting: What You Need to Know</title>
+                    <meta name="description" content="Discover the ins and outs of SNL background casting. Learn how to get involved in one of TV's most iconic shows and understand the importance of background performers in creating unforgettable sketches. Perfect for aspiring actors and fans alike!">
+                    <meta name="keywords" content="snl background casting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/snl-background-casting">
+                            <span itemprop="name">snl background casting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>SNL Background Casting: What You Need to Know</h1>
+                <p>SNL background casting is a crucial aspect of bringing the show's iconic sketches to life. It involves selecting diverse and talented individuals who enhance scenes with their presence. Whether it's a backdrop for a skit or participating in crowd scenes, background performers play an essential role in creating the vibrant atmosphere that SNL is famous for.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Cast on 'Saturday Night Live' | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57994/large_thumb%403x.jpg' alt='How to Get Cast on 'Saturday Night Live' | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57994/large_thumb%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Comedian Reflects on Their 2019 SNL Audition">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/11b/553/4bff6101f1f2ac1aa2d01d704ba1d8b909-19-snl-set.rhorizontal.w700.jpg' alt='A Comedian Reflects on Their 2019 SNL Audition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/11b/553/4bff6101f1f2ac1aa2d01d704ba1d8b909-19-snl-set.rhorizontal.w700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Cast as a Background Actor on 'Saturday Night Live ...">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57008/article_full%401x.jpg' alt='How to Get Cast as a Background Actor on 'Saturday Night Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57008/article_full%401x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Cast on 'Saturday Night Live' | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/55599/article_aligned%402x.jpg' alt='How to Get Cast on 'Saturday Night Live' | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/55599/article_aligned%402x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NOW CASTING: PAID BACKGROUND ROLES FOR SNL FILM in Charlotte, NC ...">
+                                <img itemprop="contentUrl url" src='https://barbizonusacastings.com/wp-content/uploads/2022/07/please-dont-destroy-768x432-1.jpg?w=768' alt='NOW CASTING: PAID BACKGROUND ROLES FOR SNL FILM in Charlotte, NC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barbizon USA Placement" />
+                                </span>
+                                <a href='https://barbizonusacastings.com/wp-content/uploads/2022/07/please-dont-destroy-768x432-1.jpg?w=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now Casting: 'Saturday Night Live' Needs Talent | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/52149/article_full%401x.jpg' alt='Now Casting: 'Saturday Night Live' Needs Talent | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/52149/article_full%401x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the first 'SNL': Fact vs. fiction in 'Saturday Night' - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/5216cd6/2147483647/strip/true/crop/4000x6000+0+0/resize/1200x1800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2b%2Fa0%2F92099ee9433298ea771d43c461f0%2Fsaturday-night-df-04945.jpg' alt='Inside the first 'SNL': Fact vs. fiction in 'Saturday Night' - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/5216cd6/2147483647/strip/true/crop/4000x6000+0+0/resize/1200x1800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2b%2Fa0%2F92099ee9433298ea771d43c461f0%2Fsaturday-night-df-04945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now Casting: 'Saturday Night Live' Needs Talent | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/51275/article_full%403x.jpg' alt='Now Casting: 'Saturday Night Live' Needs Talent | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2370">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/51275/article_full%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2B Scene - Hudson Valley, NY - Casting: Kids Submissions SNL is ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=128489999475815' alt='2B Scene - Hudson Valley, NY - Casting: Kids Submissions SNL is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=128489999475815' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Cast on 'Saturday Night Live' | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57997/article_aligned%402x.jpg' alt='How to Get Cast on 'Saturday Night Live' | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57997/article_aligned%402x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Robert Downey Jr.: Hollywood Icon and Comeback King</title>
+                    <meta name="description" content="Explore the extraordinary journey of Robert Downey Jr., from rising star to Hollywood icon. Discover his iconic roles, struggles, and inspiring comeback that solidified his place as one of the most talented actors of our generation. Dive into his remarkable story now!">
+                    <meta name="keywords" content="robert downey jr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/robert-downey-jr">
+                            <span itemprop="name">robert downey jr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Robert Downey Jr.: Hollywood Icon and Comeback King</h1>
+                <p>Robert Downey Jr. is an acclaimed American actor known for his versatility and charm. Rising to fame in the '80s, he captivated audiences with his roles in films like "Iron Man" and "Sherlock Holmes." Despite personal struggles, including substance abuse, he made a remarkable comeback, becoming one of Hollywood's highest-paid actors and beloved figures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_FMjpg_UX1000_.jpg' alt='Robert Downey Jr. - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_Downey_Jr._2014_Comic-Con.jpg/1200px-Robert_Downey_Jr._2014_Comic-Con.jpg' alt='Robert Downey Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_Downey_Jr._2014_Comic-Con.jpg/1200px-Robert_Downey_Jr._2014_Comic-Con.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Barbara Film Fest: Robert Downey Jr. Set for Highest Honor">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2023/11/GettyImages-803015182-H-2023.jpg?w=1296&h=730&crop=1' alt='Santa Barbara Film Fest: Robert Downey Jr. Set for Highest Honor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2023/11/GettyImages-803015182-H-2023.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. - California Museum">
+                                <img itemprop="contentUrl url" src='https://californiamuseum.org/wp-content/uploads/robertdowneyjr_cahalloffameinductee.png' alt='Robert Downey Jr. - California Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Museum" />
+                                </span>
+                                <a href='https://californiamuseum.org/wp-content/uploads/robertdowneyjr_cahalloffameinductee.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/iYBJuxcNM1Kt5-HodRFwq5ysASI=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/67369_v9_bd.jpg' alt='Robert Downey Jr. | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="248">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/iYBJuxcNM1Kt5-HodRFwq5ysASI=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/67369_v9_bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel President Fought Board to Cast Robert Downey Jr. as Iron Man">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/06/MCDIRMA_EC014.jpg' alt='Marvel President Fought Board to Cast Robert Downey Jr. as Iron Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4368">
+                                <meta itemprop="height" content="2912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/06/MCDIRMA_EC014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. | 20th Century Studios Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/20thcenturyfox/images/a/a7/Robert.jpg/revision/latest?cb=20220117143156' alt='Robert Downey Jr. | 20th Century Studios Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="20th Century Studios Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/20thcenturyfox/images/a/a7/Robert.jpg/revision/latest?cb=20220117143156' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. to make his Broadway debut: 'Hopefully I'll ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/robert-downey-jr-gty-jef-240507_1715110904586_hpMain_16x9_1600.jpg' alt='Robert Downey Jr. to make his Broadway debut: 'Hopefully I'll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/robert-downey-jr-gty-jef-240507_1715110904586_hpMain_16x9_1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey, Jr. | Biography, Movies, Iron Man, Tropic Thunder ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/99/254199-050-98CF4E04/Robert-Downey-JR-UK-premier-Oppenheimer-movie-July-2023.jpg' alt='Robert Downey, Jr. | Biography, Movies, Iron Man, Tropic Thunder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1127">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/99/254199-050-98CF4E04/Robert-Downey-JR-UK-premier-Oppenheimer-movie-July-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robert Downey Jr. - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZGJhMjFlZTAtNWFjOC00YjJmLThlNWItYjg2YThjZWRiMjQxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg' alt='Robert Downey Jr. - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZGJhMjFlZTAtNWFjOC00YjJmLThlNWItYjg2YThjZWRiMjQxXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

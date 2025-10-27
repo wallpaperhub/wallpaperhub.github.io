@@ -1,0 +1,129 @@
+<title>Stunning Omori Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of beautiful Omori wallpapers to enhance your device's look. Perfect for fans, these high-quality images capture the essence of the game. Personalize your screens with captivating visuals that bring Omori's enchanting world to life!">
+                    <meta name="keywords" content="omori wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/omori-wallpaper">
+                            <span itemprop="name">omori wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Omori Wallpapers for Your Device</h1>
+                <p>Discover the captivating world of Omori with stunning wallpapers that bring your favorite characters and scenes to life. Perfect for fans of the indie game, these high-quality wallpapers feature vibrant colors and unique art styles that enhance your device's aesthetic. Personalize your screens with enchanting visuals from Omori!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody have any good OMORI computer wallpapers? : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y6j9eouwn6xc1.jpeg' alt='Anybody have any good OMORI computer wallpapers? : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y6j9eouwn6xc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-cntzdmwky4xa1.jpg?width=1125&format=pjpg&auto=webp&s=1944a993a37b55931b89a0f4f5f9d1180d6806ba' alt='Omori phone wallpapers I made (: <3 (free use!!) : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/omori-phone-wallpapers-i-made-3-free-use-v0-cntzdmwky4xa1.jpg?width=1125&format=pjpg&auto=webp&s=1944a993a37b55931b89a0f4f5f9d1180d6806ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Omori Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/omori-efybo1bx9ewuif99.jpg' alt='200+] Omori Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/omori-efybo1bx9ewuif99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori Wallpaper Update : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/omori-wallpaper-update-v0-0vvs9bz1rpzb1.jpg?auto=webp&s=aeeadc1485e4eb1608bf672171b45b994b3e4353' alt='Omori Wallpaper Update : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/omori-wallpaper-update-v0-0vvs9bz1rpzb1.jpg?auto=webp&s=aeeadc1485e4eb1608bf672171b45b994b3e4353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omori wallpaper For Phone! <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/40/a1/9e40a14adb9567858934db9db5112959.jpg' alt='Omori wallpaper For Phone! <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/40/a1/9e40a14adb9567858934db9db5112959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@BunnnYui's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/ext_tw_video_thumb/1634202202033082372/pu/img/l3d2BAyKs2OeMonM?format=jpg&name=4096x4096' alt='@BunnnYui's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/ext_tw_video_thumb/1634202202033082372/pu/img/l3d2BAyKs2OeMonM?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨Omori Wallpaper ✨ You can have it in my stories . . . Tags ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2610458709451843642' alt='✨Omori Wallpaper ✨ You can have it in my stories . . . Tags ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2610458709451843642' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody have any good OMORI computer wallpapers? : r/OMORI">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/anybody-have-any-good-omori-computer-wallpapers-v0-4vhdtjlzn6xc1.jpeg?width=2560&format=pjpg&auto=webp&s=ea53be78e0ec96a7263b3dfdbb5582a304fc11f8' alt='Anybody have any good OMORI computer wallpapers? : r/OMORI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/anybody-have-any-good-omori-computer-wallpapers-v0-4vhdtjlzn6xc1.jpeg?width=2560&format=pjpg&auto=webp&s=ea53be78e0ec96a7263b3dfdbb5582a304fc11f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Omori Wallpaper - EnWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c7/32/05/c73205d62d8b7b78828dd3e2793ca95a.jpg' alt='Background Omori Wallpaper - EnWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c7/32/05/c73205d62d8b7b78828dd3e2793ca95a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OMORI by OMOCAT » OMORI RELEASE DATE + BACKER REWARDS UPDATE ...">
+                                <img itemprop="contentUrl url" src='https://i.kickstarter.com/assets/011/564/243/fe08249a3130825629831c018799d110_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1463684536&width=1552&sig=R8kCC%2By%2FcxRd37gwrePWSQjkVbws65ncQOOlXdA7aFY%3D' alt='OMORI by OMOCAT » OMORI RELEASE DATE + BACKER REWARDS UPDATE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1552">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kickstarter" />
+                                </span>
+                                <a href='https://i.kickstarter.com/assets/011/564/243/fe08249a3130825629831c018799d110_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1463684536&width=1552&sig=R8kCC%2By%2FcxRd37gwrePWSQjkVbws65ncQOOlXdA7aFY%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

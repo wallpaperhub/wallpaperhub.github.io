@@ -1,0 +1,129 @@
+<title>Epic Street Fighter GIFs to Energize Your Day</title>
+                    <meta name="description" content="Discover amazing Street Fighter GIFs featuring your favorite characters in action! Perfect for sharing with friends or displaying your love for the game, these animated gems bring excitement and nostalgia to any conversation. Explore these dynamic clips today!">
+                    <meta name="keywords" content="street fighter gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/street-fighter-gif">
+                            <span itemprop="name">street fighter gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Street Fighter GIFs to Energize Your Day</h1>
+                <p>Street Fighter GIFs capture the dynamic and exciting moves of iconic characters like Ryu and Chun-Li. These animated clips showcase epic battles, signature combos, and memorable moments, making them perfect for fans and gamers alike. Whether for sharing on social media or enhancing your own gaming experience, Street Fighter GIFs bring nostalgia and fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/7ywpENs4MoQko/200w.gif?cid=6c09b95284j38frx1yeq2vhnviw4k9fti3trz8xxnneayu6j&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Street Fighter GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/7ywpENs4MoQko/200w.gif?cid=6c09b95284j38frx1yeq2vhnviw4k9fti3trz8xxnneayu6j&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter Alpha 2 (1996)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c7/9f/de/c79fde2e0145ddec8b7d341b1215bc92.gif' alt='Street Fighter Alpha 2 (1996)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c7/9f/de/c79fde2e0145ddec8b7d341b1215bc92.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter Ryu GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/Tki7sWHDoepb2/200w.gif?cid=6c09b952go0gfm632rw7g21lkkw0yggldnnhconl8v6wlf7e&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Street Fighter Ryu GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/Tki7sWHDoepb2/200w.gif?cid=6c09b952go0gfm632rw7g21lkkw0yggldnnhconl8v6wlf7e&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/FBUuWtevfpIAAAAM/street-fighter-uppercut.gif' alt='Street Fighter GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/FBUuWtevfpIAAAAM/street-fighter-uppercut.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/06/icegif-1062.gif' alt='Street Fighter Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/06/icegif-1062.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryu Shoryuken Street Fight Animation GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/uSisFomUKmXGU/200w.gif?cid=6c09b952uqqmsoljpibffj8ymfqmg39qzn2mx458v9bg5egs&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Ryu Shoryuken Street Fight Animation GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/uSisFomUKmXGU/200w.gif?cid=6c09b952uqqmsoljpibffj8ymfqmg39qzn2mx458v9bg5egs&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter V GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/wEeUz0u91oLKO6LRfu/giphy.gif' alt='Street Fighter V GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/wEeUz0u91oLKO6LRfu/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryu Shoryuken Street Fight Animation GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/px6X1e8dWxdsc/giphy.gif?cid=6c09b952uqqmsoljpibffj8ymfqmg39qzn2mx458v9bg5egs&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Ryu Shoryuken Street Fight Animation GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/px6X1e8dWxdsc/giphy.gif?cid=6c09b952uqqmsoljpibffj8ymfqmg39qzn2mx458v9bg5egs&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Street Fighter Ii GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/FBsWOhbuAItK8/200w.gif?cid=6c09b95246lz6mayffmjoor4abvh22w87nhjkvggz35c1t6l&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Super Street Fighter Ii GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/FBsWOhbuAItK8/200w.gif?cid=6c09b95246lz6mayffmjoor4abvh22w87nhjkvggz35c1t6l&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Fighter Ryu GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/YwR8wm7KknBok/200w.gif?cid=6c09b952go0gfm632rw7g21lkkw0yggldnnhconl8v6wlf7e&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Street Fighter Ryu GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/YwR8wm7KknBok/200w.gif?cid=6c09b952go0gfm632rw7g21lkkw0yggldnnhconl8v6wlf7e&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

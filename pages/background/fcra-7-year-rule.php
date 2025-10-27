@@ -1,0 +1,129 @@
+<title>Understanding the FCRA 7 Year Rule: What You Need to Know</title>
+                    <meta name="description" content="Discover the FCRA 7 Year Rule that governs how long negative information can appear on your credit report. Learn how this impacts your credit score and financial decisions in just a few minutes!">
+                    <meta name="keywords" content="fcra 7 year rule">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fcra-7-year-rule">
+                            <span itemprop="name">fcra 7 year rule</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the FCRA 7 Year Rule: What You Need to Know</h1>
+                <p>The FCRA 7 year rule refers to the Fair Credit Reporting Act stipulation that most negative information, such as bankruptcies, judgments, and late payments, can remain on an individual's credit report for seven years. This timeframe aims to protect consumers while allowing credit agencies to accurately reflect financial responsibility over time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/What-Is-the-_7-Year-Rule_-for-Background-Checks_-visual-selection.png' alt='Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/What-Is-the-_7-Year-Rule_-for-Background-Checks_-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Truth(s) About Seven-Year Criminal Background Checks - Imperative">
+                                <img itemprop="contentUrl url" src='http://www.imperativeinfo.com/wp-content/uploads/2018/12/Seven-Year-Rule.jpg' alt='The Truth(s) About Seven-Year Criminal Background Checks - Imperative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperative Information Group" />
+                                </span>
+                                <a href='http://www.imperativeinfo.com/wp-content/uploads/2018/12/Seven-Year-Rule.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Legal-Aspects-of-Misdemeanors-on-Background-Checks-visual-selection.png' alt='Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Legal-Aspects-of-Misdemeanors-on-Background-Checks-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks and the seven year rule - Clean Slate Virginia">
+                                <img itemprop="contentUrl url" src='https://cleanslatevirginia.com/wp-content/uploads/2024/03/seven-year-rule.png' alt='Background checks and the seven year rule - Clean Slate Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clean Slate Virginia" />
+                                </span>
+                                <a href='https://cleanslatevirginia.com/wp-content/uploads/2024/03/seven-year-rule.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Factors-Influencing-Whether-Misdemeanors-Show-Up-After-7-Years-visual-selection.png' alt='Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Factors-Influencing-Whether-Misdemeanors-Show-Up-After-7-Years-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reviewing the 7-Year Lookback Rule in Employment Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://preemploymentdirectory.com/wp-content/uploads/2023/10/7-years.png' alt='Reviewing the 7-Year Lookback Rule in Employment Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='https://preemploymentdirectory.com/wp-content/uploads/2023/10/7-years.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fair Credit Reporting Act - FasterCapital">
+                                <img itemprop="contentUrl url" src='https://fastercapital.com/i/Credit-bureau-regulations-Navigating-Credit-Bureau-Regulations--A-Guide-for-Entrepreneurs--Fair-Credit-Reporting-Act---FCRA--.webp' alt='The Fair Credit Reporting Act - FasterCapital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FasterCapital" />
+                                </span>
+                                <a href='https://fastercapital.com/i/Credit-bureau-regulations-Navigating-Credit-Bureau-Regulations--A-Guide-for-Entrepreneurs--Fair-Credit-Reporting-Act---FCRA--.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Mustafar: The Fiery Planet of Star Wars</title>
+                    <meta name="description" content="Explore Mustafar, the iconic volcanic planet from Star Wars. Known for its fierce landscapes and pivotal battles, this location shapes the saga's narrative. Learn more about its role in the epic struggle between good and evil. Perfect for fans and new explorers alike!">
+                    <meta name="keywords" content="mustafar background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mustafar-background">
+                            <span itemprop="name">mustafar background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Mustafar: The Fiery Planet of Star Wars</h1>
+                <p>Mustafar, a volcanic planet in the Star Wars universe, is characterized by its fiery lava rivers and treacherous terrain. Known for its role in the epic duel between Anakin Skywalker and Obi-Wan Kenobi, Mustafar embodies the conflict between light and dark. Its hostile environment mirrors the emotional turmoil of the characters involved.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustafar | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/databank_mustafar_01_169_5b470758.jpeg?region=0%2C0%2C1560%2C878' alt='Mustafar | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/databank_mustafar_01_169_5b470758.jpeg?region=0%2C0%2C1560%2C878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustafar | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/5f60bbf3414ddf0001687bf4-image_f155a53d.jpeg?region=0,0,1536,864' alt='Mustafar | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/5f60bbf3414ddf0001687bf4-image_f155a53d.jpeg?region=0,0,1536,864' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustafar">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/30/7a/59307a1cf0228a1cccb10db3d015c693.jpg' alt='Mustafar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/30/7a/59307a1cf0228a1cccb10db3d015c693.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fiery lava flows on the planet Mustafar Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mustafar-1920-x-1080-wallpaper-9rdb94alvu48jql1.jpg' alt='Download Fiery lava flows on the planet Mustafar Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mustafar-1920-x-1080-wallpaper-9rdb94alvu48jql1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duel on Mustafar by InnoYou on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/3a/16/023a164be4aba665d3eb698e4004f2cf.jpg' alt='Duel on Mustafar by InnoYou on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/3a/16/023a164be4aba665d3eb698e4004f2cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustafar in Star Wars is a lot like Morrowind : r/Morrowind">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a91rlgh3bxy51.jpg?width=640&crop=smart&auto=webp&s=2f42caa877da6a67393d162fe1039e98baf1f307' alt='Mustafar in Star Wars is a lot like Morrowind : r/Morrowind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a91rlgh3bxy51.jpg?width=640&crop=smart&auto=webp&s=2f42caa877da6a67393d162fe1039e98baf1f307' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Fiery Landscape of Mustafar Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mustafar-903-x-1350-wallpaper-5o51mzo5wv4ldo3r.jpg' alt='Download The Fiery Landscape of Mustafar Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="903">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mustafar-903-x-1350-wallpaper-5o51mzo5wv4ldo3r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Planet Flytrough - Star Wars Mustafar 3D Animation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DyEwZtJKI3g/maxresdefault.jpg' alt='Lava Planet Flytrough - Star Wars Mustafar 3D Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DyEwZtJKI3g/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/14/59/f3/1459f323a25778b7148f8c75def08f6f.jpg' alt='Star Wars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/14/59/f3/1459f323a25778b7148f8c75def08f6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SWCC 2019: 5 Things We Learned at the ILMxLAB Panel | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/7d/6d/4b7d6d5d814a6328b1c73fd6280be453.jpg' alt='SWCC 2019: 5 Things We Learned at the ILMxLAB Panel | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/7d/6d/4b7d6d5d814a6328b1c73fd6280be453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

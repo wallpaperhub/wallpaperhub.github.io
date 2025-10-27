@@ -1,0 +1,129 @@
+<title>Charming Pastel Glitter Backgrounds for Stunning Visuals</title>
+                    <meta name="description" content="Discover the magic of pastel glitter backgrounds! Perfect for adding a whimsical touch to your designs, these stunning pastel hues combined with glimmering sparkles will elevate your visuals. Ideal for social media, invitations, and more, create captivating content that shines with elegance and charm!">
+                    <meta name="keywords" content="pastel glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-glitter-background">
+                            <span itemprop="name">pastel glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Glitter Backgrounds for Stunning Visuals</h1>
+                <p>Pastel glitter backgrounds offer a whimsical and dreamy aesthetic perfect for any project. These soft hues blend beautifully, radiating an enchanting sparkle that captivates the eye. Ideal for digital designs, celebrations, or social media graphics, pastel glitter backgrounds add a touch of elegance and playfulness, making any creation stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Watercolor Glitter Seamless Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/fece86/5103031846/il_570xN.5103031846_nwqp.jpg' alt='Pastel Watercolor Glitter Seamless Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/fece86/5103031846/il_570xN.5103031846_nwqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Background Images – Browse 335,878 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/22/19/73/360_F_222197340_IkKDO374VoMZ2IzxnTr520EIuWdSZXBi.jpg' alt='Pastel Glitter Background Images – Browse 335,878 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/22/19/73/360_F_222197340_IkKDO374VoMZ2IzxnTr520EIuWdSZXBi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/406/881/small/fantasy-watercolor-illustration-with-rainbow-pastel-sky-with-stars-abstract-unicorn-cosmic-backdrop-cartoon-girlie-illustration-vector.jpg' alt='Pastel Glitter Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/406/881/small/fantasy-watercolor-illustration-with-rainbow-pastel-sky-with-stars-abstract-unicorn-cosmic-backdrop-cartoon-girlie-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pastel-watercolour-background-with-glittery-gold-stars-confetti-2203_1048-18566.jpg' alt='Pastel Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pastel-watercolour-background-with-glittery-gold-stars-confetti-2203_1048-18566.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | Pastel color glitter / background material">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/b0/b03d170bce402706b8efb4e96db01f79_t.jpeg' alt='Free Photos | Pastel color glitter / background material'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/b0/b03d170bce402706b8efb4e96db01f79_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Background Images – Browse 335,878 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/61/33/02/360_F_461330204_DqOBVsUEg3JVNsWF7OVL2ENQwXGEf7ds.jpg' alt='Pastel Glitter Background Images – Browse 335,878 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/61/33/02/360_F_461330204_DqOBVsUEg3JVNsWF7OVL2ENQwXGEf7ds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Rainbow Glitter Background · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/05/Pastel-Rainbow-Glitter-Background-56352206-1.png' alt='Pastel Rainbow Glitter Background · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/05/Pastel-Rainbow-Glitter-Background-56352206-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Glitter Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-blue-pastel-shimmery-dreamy-pattern-wallpaper_53876-115661.jpg' alt='Pastel Glitter Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-blue-pastel-shimmery-dreamy-pattern-wallpaper_53876-115661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Pastel Rainbow - Watercolor Glitter Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3b/ea/87/3bea871f6123c113a49ddc03939ed146.jpg' alt='Sparkling Pastel Rainbow - Watercolor Glitter Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3b/ea/87/3bea871f6123c113a49ddc03939ed146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Pastel Glitter Background Vector Art, Icons, and Graphics ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/219/509/non_2x/rainbow-pastel-background-unicorn-sky-with-glittering-sky-candy-galaxy-with-watercolor-light-texture-girly-cute-magic-wallpaper-holographic-abstract-illustration-vector.jpg' alt='Page 2 | Pastel Glitter Background Vector Art, Icons, and Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/219/509/non_2x/rainbow-pastel-background-unicorn-sky-with-glittering-sky-candy-galaxy-with-watercolor-light-texture-girly-cute-magic-wallpaper-holographic-abstract-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

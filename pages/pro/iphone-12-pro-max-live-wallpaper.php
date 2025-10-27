@@ -1,0 +1,129 @@
+<title>Stunning Live Wallpapers for iPhone 12 Pro Max</title>
+                    <meta name="description" content="Discover the best live wallpapers for your iPhone 12 Pro Max! Explore our collection of vibrant animations and stunning visuals that enhance your device's aesthetics. Perfect for personalizing your phone and making a bold statement. Download now for an immersive experience!">
+                    <meta name="keywords" content="iphone 12 pro max live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro">
+                            <span itemprop="name">Pro</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro/iphone-12-pro-max-live-wallpaper">
+                            <span itemprop="name">iphone 12 pro max live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Wallpapers for iPhone 12 Pro Max</h1>
+                <p>Upgrade your iPhone 12 Pro Max with stunning live wallpapers that bring your screen to life. Choose from mesmerizing animations, dynamic nature scenes, and creative designs that reflect your personality. Transform your device into a visual masterpiece with live wallpapers that pulse and flow with your movements.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="live wallpapers – Unicorn Apps">
+                                <img itemprop="contentUrl url" src='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpapers-Black-750x1624.jpg' alt='live wallpapers – Unicorn Apps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unicorn Apps" />
+                                </span>
+                                <a href='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpapers-Black-750x1624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro Live Wallpapers – Unicorn Apps">
+                                <img itemprop="contentUrl url" src='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpaper.jpg' alt='iPhone 12 Pro Live Wallpapers – Unicorn Apps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unicorn Apps" />
+                                </span>
+                                <a href='https://www.unicornapps.com/wp-content/uploads/iPhone-12-Pro-Live-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro – Resonance Silver (Light) – LIVE Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/1742.Resonance_Silver_Dark-390w-844h@3xiphone.mov-00m00s00-4F7FBE0A-66C4-482E-931C-2C18C125A051.jpg' alt='iPhone 12 Pro – Resonance Silver (Light) – LIVE Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/1742.Resonance_Silver_Dark-390w-844h@3xiphone.mov-00m00s00-4F7FBE0A-66C4-482E-931C-2C18C125A051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro LIVE wallpapers on older iPhone   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JKYD3JJ4KwY/maxresdefault.jpg' alt='iPhone 12 Pro LIVE wallpapers on older iPhone   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JKYD3JJ4KwY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 (Pro) Live Wallpapers - Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/58/3d/9d583d5cb2d5212057bb6e6ada7ecc74.jpg' alt='iPhone 12 (Pro) Live Wallpapers - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/58/3d/9d583d5cb2d5212057bb6e6ada7ecc74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone 12 Pro Live Wallpapers [4K] (Free)">
+                                <img itemprop="contentUrl url" src='https://www.ytechb.com/wp-content/uploads/2020/10/Here-are-all-the-iPhone-12-Pro-Live-Wallpapers.jpg' alt='Download iPhone 12 Pro Live Wallpapers [4K] (Free)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YTECHB" />
+                                </span>
+                                <a href='https://www.ytechb.com/wp-content/uploads/2020/10/Here-are-all-the-iPhone-12-Pro-Live-Wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This tweak provides jailbreakers with the new iPhone 12 Pro wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/10/98F716FC-2A66-484E-9777-7AC917BA3993.jpeg' alt='This tweak provides jailbreakers with the new iPhone 12 Pro wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="2263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/10/98F716FC-2A66-484E-9777-7AC917BA3993.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Each to their own but does anyone else think iPhone 12 Pro (top ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hfdj2ibyda981.jpg?width=1080&crop=smart&auto=webp&s=a405d506e49015f8e71b1b084ece1795c4fd5e29' alt='Each to their own but does anyone else think iPhone 12 Pro (top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hfdj2ibyda981.jpg?width=1080&crop=smart&auto=webp&s=a405d506e49015f8e71b1b084ece1795c4fd5e29' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro Max Wallpaper [Video] | Galaxy wallpaper, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/0c/f8/890cf87120d2d1bf3888eb0158ebfd8f.jpg' alt='iPhone 12 Pro Max Wallpaper [Video] | Galaxy wallpaper, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/0c/f8/890cf87120d2d1bf3888eb0158ebfd8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 12 Pro Max Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-12-pro-max-hknmpjtf3rmp9egv.jpg' alt='100+] Iphone 12 Pro Max Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-12-pro-max-hknmpjtf3rmp9egv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

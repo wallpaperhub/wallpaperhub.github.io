@@ -1,0 +1,129 @@
+<title>How Far Back Do Military Base Background Checks Go?</title>
+                    <meta name="description" content="Discover the extent of military base background checks. Learn how far back these checks typically cover and their importance in safeguarding military installations. Get informed about what to expect during the security clearance process!">
+                    <meta name="keywords" content="how far back does a military base background check go">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-far-back-does-a-military-base-background-check-go">
+                            <span itemprop="name">how far back does a military base background check go</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Far Back Do Military Base Background Checks Go?</h1>
+                <p>Military base background checks typically investigate criminal history, employment records, and other relevant information for the past 7 to 10 years. The exact duration may vary depending on the specific base and the level of clearance required. It's essential for ensuring the safety and security of military personnel and their operations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does A Military Base Background Check Go? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wcGckkBqfak/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAK5lq-Lt8JYx0rbMVo-M3i3S2-Ew' alt='How Far Back Does A Military Base Background Check Go? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wcGckkBqfak/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAK5lq-Lt8JYx0rbMVo-M3i3S2-Ew' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does A Military Base Background Check Go ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UBCKzy6GT0Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPXikMRPeKr-cI-Tc-x_wTtZc-9A' alt='How Far Back Does A Military Base Background Check Go ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UBCKzy6GT0Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPXikMRPeKr-cI-Tc-x_wTtZc-9A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Security Policy to Tighten Gate Restrictions | Military.com">
+                                <img itemprop="contentUrl url" src='https://images01.military.com/sites/default/files/styles/full/public/media/news/service/2014/08/army-base-check-600.jpg' alt='New Security Policy to Tighten Gate Restrictions | Military.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Military.com" />
+                                </span>
+                                <a href='https://images01.military.com/sites/default/files/styles/full/public/media/news/service/2014/08/army-base-check-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military Background Check: Disqualifiers That Go Far Back (Years ...">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Military-Background-Check-Featured-Image.png' alt='Military Background Check: Disqualifiers That Go Far Back (Years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/06/Military-Background-Check-Featured-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Military Background Check: What a US Army Background Check Shows?">
+                                <img itemprop="contentUrl url" src='https://www.addictivetips.com/app/uploads/2019/01/military-background-check-2-soldier.jpg' alt='Military Background Check: What a US Army Background Check Shows?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AddictiveTips" />
+                                </span>
+                                <a href='https://www.addictivetips.com/app/uploads/2019/01/military-background-check-2-soldier.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Charges Disqualify You From The Military? Find Out ...">
+                                <img itemprop="contentUrl url" src='https://wp-media.servicememberscivilreliefact.com/2023/06/20081045/men-in-green-and-brown-camouflage-uniform.jpg' alt='What Charges Disqualify You From The Military? Find Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Servicemembers Civil Relief Act Centralized Verification Service" />
+                                </span>
+                                <a href='https://wp-media.servicememberscivilreliefact.com/2023/06/20081045/men-in-green-and-brown-camouflage-uniform.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Mitratech">
+                                <img itemprop="contentUrl url" src='https://mitratech.com/wp-content/uploads/Mitratech-HRC_Blog_How-Far-Back-Does-a-Background-Check-Go_Social.png' alt='How Far Back Does a Background Check Go? | Mitratech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitratech" />
+                                </span>
+                                <a href='https://mitratech.com/wp-content/uploads/Mitratech-HRC_Blog_How-Far-Back-Does-a-Background-Check-Go_Social.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Military Background Check Take?">
+                                <img itemprop="contentUrl url" src='https://www.thesoldiersproject.org/wp-content/uploads/2021/07/how-long-does-a-military-background-check-take.jpg' alt='How Long Does a Military Background Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Soldiers Project" />
+                                </span>
+                                <a href='https://www.thesoldiersproject.org/wp-content/uploads/2021/07/how-long-does-a-military-background-check-take.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

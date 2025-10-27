@@ -1,0 +1,129 @@
+<title>"Vibrant Red, White & Blue Backgrounds for Every Occasion"</title>
+                    <meta name="description" content="Discover stunning red, white, and blue backgrounds perfect for patriotic events, graphics, and more. Elevate your designs with these vibrant colors that capture national pride and spirit. Ideal for July 4th celebrations and other occasions!">
+                    <meta name="keywords" content="red white blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-white-blue-background">
+                            <span itemprop="name">red white blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Vibrant Red, White & Blue Backgrounds for Every Occasion"</h1>
+                <p>A red, white, and blue background evokes feelings of patriotism and pride, often associated with national flags and celebrations. This vibrant color scheme can be used in various designs, from graphics to event decor, enhancing visual impact. Perfect for July 4th themes or any celebration honoring national spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Red White And Blue Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1151008300/vector/patriotic-background.jpg?s=612x612&w=0&k=20&c=HTTjsrrbONYCXdyQf_0coOMCKnlBojzuFj0xJScLRlI=' alt='5,900+ Red White And Blue Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1151008300/vector/patriotic-background.jpg?s=612x612&w=0&k=20&c=HTTjsrrbONYCXdyQf_0coOMCKnlBojzuFj0xJScLRlI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Background Images – Browse 5,194,741 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/93/27/64/360_F_393276476_8BD7iHBKUpDDJBZtd237TdxKpwmdx5Uw.jpg' alt='Red White And Blue Background Images – Browse 5,194,741 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/93/27/64/360_F_393276476_8BD7iHBKUpDDJBZtd237TdxKpwmdx5Uw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Background Images – Browse 5,194,741 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/57/97/47/360_F_357974786_TlMHbgtviy9FPx1NjNAupKjFib0TI73c.jpg' alt='Red White And Blue Background Images – Browse 5,194,741 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/57/97/47/360_F_357974786_TlMHbgtviy9FPx1NjNAupKjFib0TI73c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Red White Blue Background Stock Illustrations – 156,076 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sunburst-background-blue-red-white-retro-vintage-design-background-banner-concept-sunburst-background-blue-red-white-166198150.jpg' alt='Vintage Red White Blue Background Stock Illustrations – 156,076 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sunburst-background-blue-red-white-retro-vintage-design-background-banner-concept-sunburst-background-blue-red-white-166198150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/425/292/small_2x/triangle-geometric-red-blue-and-white-abstract-background-free-vector.jpg' alt='Red White Blue Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/425/292/small_2x/triangle-geometric-red-blue-and-white-abstract-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-white-blue-border-frame-blank-background_1106493-530367.jpg?semt=ais_hybrid' alt='Red White Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-white-blue-border-frame-blank-background_1106493-530367.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Background Images – Browse 5,210,561 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/03/68/47/360_F_203684740_TPSiUeZz4AbOrbk6VoDQAIG9lUSrYbUr.jpg' alt='Red White Blue Background Images – Browse 5,210,561 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/03/68/47/360_F_203684740_TPSiUeZz4AbOrbk6VoDQAIG9lUSrYbUr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/241/859/non_2x/white-blue-red-geometric-background-concept-free-vector.jpg' alt='Red White Blue Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/241/859/non_2x/white-blue-red-geometric-background-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="259,600+ Red White Blue Abstract Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/680789648/photo/patriotic-red-white-and-blue-explosion-background.jpg?s=612x612&w=0&k=20&c=r3cvnufK-Ef36URlrIkunHjcIn3c-ZAaypWtVeYqJzQ=' alt='259,600+ Red White Blue Abstract Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/680789648/photo/patriotic-red-white-and-blue-explosion-background.jpg?s=612x612&w=0&k=20&c=r3cvnufK-Ef36URlrIkunHjcIn3c-ZAaypWtVeYqJzQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Red White And Blue Background Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/65/83/126583b1d1b536fb77f337f9b6620f30.jpg' alt='10 Best Red White And Blue Background Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/65/83/126583b1d1b536fb77f337f9b6620f30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

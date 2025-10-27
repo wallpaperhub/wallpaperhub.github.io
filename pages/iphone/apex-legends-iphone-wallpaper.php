@@ -1,0 +1,129 @@
+<title>Apex Legends iPhone Wallpaper: Stunning Backgrounds for Gamers</title>
+                    <meta name="description" content="Discover the ultimate Apex Legends iPhone wallpaper collection! Choose from high-quality backgrounds featuring your favorite Legends and dynamic gameplay scenes. Perfect for personalizing your mobile device while showcasing your love for the game. Download now and elevate your screen with vibrant imagery!">
+                    <meta name="keywords" content="apex legends iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/apex-legends-iphone-wallpaper">
+                            <span itemprop="name">apex legends iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Apex Legends iPhone Wallpaper: Stunning Backgrounds for Gamers</h1>
+                <p>Apex Legends iPhone wallpapers bring the vibrant characters and dynamic action of the game to your mobile screen. Choose from an array of stunning backgrounds featuring your favorite Legends, weaponry, and landscapes. Personalize your device with high-quality imagery that captures the essence of Apex Legends. Download and enhance your gameplay experience on the go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I need an Apex Legends wallpaper (hd) preferably for the iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d14o4fdl50v31.png' alt='I need an Apex Legends wallpaper (hd) preferably for the iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d14o4fdl50v31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Octane iPhone Wallpaper. Let me know what legend you want next ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/an-octane-iphone-wallpaper-let-me-know-what-legend-you-want-v0-4w094k8rmek81.jpg?auto=webp&s=7fbd71261658d9b058749ed8365e93a54b4d8556' alt='An Octane iPhone Wallpaper. Let me know what legend you want next ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/an-octane-iphone-wallpaper-let-me-know-what-legend-you-want-v0-4w094k8rmek81.jpg?auto=webp&s=7fbd71261658d9b058749ed8365e93a54b4d8556' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Apex Legends Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/apex-legends-phone-5mon3xo27wo2dkpx.jpg' alt='100+] Apex Legends Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/apex-legends-phone-5mon3xo27wo2dkpx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="apex legends 4k iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/65/c3/9465c3ac699a9f2c72f2c0d50bc8121e.jpg' alt='apex legends 4k iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/65/c3/9465c3ac699a9f2c72f2c0d50bc8121e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An iPhone Wallpaper for my fellow Path mains : r/apexlegends">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/an-iphone-wallpaper-for-my-fellow-path-mains-v0-qy15im3omfi81.jpg?width=640&crop=smart&auto=webp&s=e2a67ea4a642ed99d38d64dd20cdbf04571d1b63' alt='An iPhone Wallpaper for my fellow Path mains : r/apexlegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/an-iphone-wallpaper-for-my-fellow-path-mains-v0-qy15im3omfi81.jpg?width=640&crop=smart&auto=webp&s=e2a67ea4a642ed99d38d64dd20cdbf04571d1b63' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apex legends phone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/990/990491.jpg' alt='Apex legends phone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/990/990491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apex Legends, Pathfinder, 4K, #96 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/44/04/73/4404731656bd2e460407c8c2aad53142.jpg' alt='Apex Legends, Pathfinder, 4K, #96 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/44/04/73/4404731656bd2e460407c8c2aad53142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apex Legends Iphone Wraith Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/apex-legends-iphone-wraith-dv1kr0xqczs34jxf.jpg' alt='Apex Legends Iphone Wraith Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/apex-legends-iphone-wraith-dv1kr0xqczs34jxf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Characters Of Apex Legends Apex Legends, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/80/777/HD-wallpaper-apex-legends-game-fictional-character-heroes-legend-thumbnail.jpg' alt='All Characters Of Apex Legends Apex Legends, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/80/777/HD-wallpaper-apex-legends-game-fictional-character-heroes-legend-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apex Legends Valkyrie Wallpaper iPhone Phone 4K #3641f">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/apex-legends-valkyrie-364@1@f-phone-4k.jpg' alt='Apex Legends Valkyrie Wallpaper iPhone Phone 4K #3641f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/apex-legends-valkyrie-364@1@f-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

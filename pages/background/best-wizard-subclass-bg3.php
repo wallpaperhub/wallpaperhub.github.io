@@ -1,0 +1,129 @@
+<title>Best Wizard Subclass in Baldur's Gate 3</title>
+                    <meta name="description" content="Discover the top wizard subclass in Baldur's Gate 3! Explore the strengths of Divination, Evocation, and more to find your ideal magical playstyle. Whether you seek damage or support, our guide helps you choose the perfect wizard path for your adventure!">
+                    <meta name="keywords" content="best wizard subclass bg3">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-wizard-subclass-bg3">
+                            <span itemprop="name">best wizard subclass bg3</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Wizard Subclass in Baldur's Gate 3</h1>
+                <p>In Baldur's Gate 3, the best wizard subclass varies by playstyle, but many players favor the Divination wizard for its ability to manipulate fate through Portent. Others might prefer the Evocation wizard for explosive damage, or the Abjuration wizard for exceptional defense. Choose based on your desired role in the party!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Subclass Features : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wizard-subclass-features-v0-nmd90shjvyfb1.jpg?width=767&format=pjpg&auto=webp&s=d4a02f3ff47124efbeeb4acab6e4754fb7c6a7c7' alt='Wizard Subclass Features : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wizard-subclass-features-v0-nmd90shjvyfb1.jpg?width=767&format=pjpg&auto=webp&s=d4a02f3ff47124efbeeb4acab6e4754fb7c6a7c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ULTIMATE Wizards Sub Class Tier List - Baldur's Gate 3 - September 2023">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/d1efN8LVjmE/maxresdefault.jpg' alt='ULTIMATE Wizards Sub Class Tier List - Baldur's Gate 3 - September 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/d1efN8LVjmE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Subclasses (New on Wizards) : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wizard-subclasses-new-on-wizards-v0-i2sey9fn5urc1.jpeg?auto=webp&s=1b35638cfc2a18f29c1c3f105676cd915e65939a' alt='Wizard Subclasses (New on Wizards) : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4624">
+                                <meta itemprop="height" content="2604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wizard-subclasses-new-on-wizards-v0-i2sey9fn5urc1.jpeg?auto=webp&s=1b35638cfc2a18f29c1c3f105676cd915e65939a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Baldur's Gate 3 Evocation Wizard Build Guide - Deltia's Gaming">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/08/BG3-Evocation-Subclass-Wizard.jpg' alt='Best Baldur's Gate 3 Evocation Wizard Build Guide - Deltia's Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="527">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/08/BG3-Evocation-Subclass-Wizard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Wizard Multiclass Build">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-player-selecting-noble-background-for-wizard-sorcerer-multiclass-build-with-drow-half-elf.jpg' alt='Baldur's Gate 3: Best Wizard Multiclass Build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/baldur-s-gate-3-player-selecting-noble-background-for-wizard-sorcerer-multiclass-build-with-drow-half-elf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Builds For Gale In Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/11/20231110231533_1-1.jpg' alt='Best Builds For Gale In Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/11/20231110231533_1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Wizard Class Build">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/20230727170725_1.jpg' alt='Baldur's Gate 3: Best Wizard Class Build'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/20230727170725_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Subclasses, Ranked">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/baldur-s-gate-3-gold-dwarf-as-a-cleric-in-character-creation.jpg' alt='Baldur's Gate 3: Best Subclasses, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/baldur-s-gate-3-gold-dwarf-as-a-cleric-in-character-creation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard - Baldur's Gate III Guide - IGN">
+                                <img itemprop="contentUrl url" src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/0e/Wizard_Features.png' alt='Wizard - Baldur's Gate III Guide - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://oyster.ignimgs.com/mediawiki/apis.ign.com/baldurs-gate-3/0/0e/Wizard_Features.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3: Best Wizard subclass in BG3">
+                                <img itemprop="contentUrl url" src='https://dotesports.com/wp-content/uploads/2023/08/illusion-wizard-subclass-bg3.jpg' alt='Baldur's Gate 3: Best Wizard subclass in BG3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dot Esports" />
+                                </span>
+                                <a href='https://dotesports.com/wp-content/uploads/2023/08/illusion-wizard-subclass-bg3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

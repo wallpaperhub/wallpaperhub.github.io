@@ -1,0 +1,129 @@
+<title>Metro Last Light Wallpapers: Stunning HD Backgrounds</title>
+                    <meta name="description" content="Explore a curated selection of Metro Last Light wallpapers to elevate your device's background. Find high-quality images that capture the game's eerie beauty and intense atmosphere. Perfect for fans of the series looking to immerse themselves in its captivating world!">
+                    <meta name="keywords" content="metro last light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metro-last-light-wallpaper">
+                            <span itemprop="name">metro last light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Metro Last Light Wallpapers: Stunning HD Backgrounds</h1>
+                <p>Discover stunning Metro Last Light wallpapers that immerse you in the haunting yet beautiful post-apocalyptic world. Featuring iconic scenes, characters, and breathtaking landscapes, our collection will enhance your desktop or mobile device. Dive into the atmosphere of survival, darkness, and hope with each striking image.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Metro: Last Light HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/519/thumb-1920-519661.jpg' alt='Download Video Game Metro: Last Light HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/519/thumb-1920-519661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro: Last Light Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/6/7/1826625-1920x1080-desktop-1080p-metro-last-light-wallpaper-image.jpg' alt='Metro: Last Light Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/6/7/1826625-1920x1080-desktop-1080p-metro-last-light-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro: Last Light HD Wallpaper - A Dark Journey Awaits">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/248/248621.jpg' alt='Metro: Last Light HD Wallpaper - A Dark Journey Awaits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/248/248621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro: Last Light wallpaper 01 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/wallpapers_slechte_compressie/wallpaper_metro_last_light_01_1920x1080.jpg' alt='Metro: Last Light wallpaper 01 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/wallpapers_slechte_compressie/wallpaper_metro_last_light_01_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="metro last light redux, metro redux, metro Wallpaper, HD Games 4K ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/bf/52/ccbf5216495447001110156a92ad433f.jpg' alt='metro last light redux, metro redux, metro Wallpaper, HD Games 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/bf/52/ccbf5216495447001110156a92ad433f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD metro last light wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/122/974/HD-wallpaper-metro-last-light.jpg' alt='HD metro last light wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/122/974/HD-wallpaper-metro-last-light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Metro Last Light Redux" wallpapers for mobile phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/c0/c0b15ea356497ea0bcb28f45611807d8.jpeg' alt='Download "Metro Last Light Redux" wallpapers for mobile phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/c0/c0b15ea356497ea0bcb28f45611807d8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro: Last Light wallpaper 04 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_metro_last_light_04_1920x1080.jpg' alt='Metro: Last Light wallpaper 04 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_metro_last_light_04_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro Last Light Corner Title Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/metro-last-light-corner-title-l7ervhjdwyahfs6f.jpg' alt='Metro Last Light Corner Title Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/metro-last-light-corner-title-l7ervhjdwyahfs6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro: Last Light Review | TheSixthAxis">
+                                <img itemprop="contentUrl url" src='https://www.thesixthaxis.com/wp-content/uploads/2013/06/metro-sunrise.jpg' alt='Metro: Last Light Review | TheSixthAxis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheSixthAxis" />
+                                </span>
+                                <a href='https://www.thesixthaxis.com/wp-content/uploads/2013/06/metro-sunrise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Capture the Fun: Laser Background School Photos</title>
+                    <meta name="description" content="Discover vibrant laser background school photos that bring excitement to capturing memories. Perfect for creating standout portraits, these unique designs ensure your child’s school photo is unforgettable. Explore fun options now for a colorful keepsake!">
+                    <meta name="keywords" content="laser background school photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/laser-background-school-photo">
+                            <span itemprop="name">laser background school photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capture the Fun: Laser Background School Photos</h1>
+                <p>Laser background school photos add a fun and vibrant touch to your child's portrait. These unique backgrounds, featuring colorful laser designs, create exciting visuals that stand out. Perfect for capturing memories, they bring a dynamic flair, ensuring your child's school photo is anything but ordinary. Choose a laser background for an unforgettable keepsake!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Lasers, {No Filters}: School {Photos} and Your Parents' Denial ...">
+                                <img itemprop="contentUrl url" src='https://www.thepromptmag.com/wp-content/uploads/2021/08/No-Lasers-No-Filters-School-Pictures-and-Your-Parents-Denial-of-Fun.jpeg' alt='No Lasers, {No Filters}: School {Photos} and Your Parents' Denial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Prompt Magazine" />
+                                </span>
+                                <a href='https://www.thepromptmag.com/wp-content/uploads/2021/08/No-Lasers-No-Filters-School-Pictures-and-Your-Parents-Denial-of-Fun.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Photo Laser Background">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/CP814High_600x.jpg?v=1681748416' alt='School Photo Laser Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/CP814High_600x.jpg?v=1681748416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you didn't use this laser background for school pictures I feel ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/04i6nv3kegrz.jpg?width=640&crop=smart&auto=webp&s=fddb244e6d2e49a230682b707f5f32c7d922fa19' alt='If you didn't use this laser background for school pictures I feel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/04i6nv3kegrz.jpg?width=640&crop=smart&auto=webp&s=fddb244e6d2e49a230682b707f5f32c7d922fa19' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laser backdrop for school pictures. I was very disappointed to ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/74OWqvdWoOyngDx6UgpfjNkbbI_Yj71Pl5__pRWYYJA.jpg?auto=webp&s=3146c0716e732d24fb3c72112860a66822b09558' alt='Laser backdrop for school pictures. I was very disappointed to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/74OWqvdWoOyngDx6UgpfjNkbbI_Yj71Pl5__pRWYYJA.jpg?auto=webp&s=3146c0716e732d24fb3c72112860a66822b09558' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Petitions High School to Include Photo of Him Holding a ...">
+                                <img itemprop="contentUrl url" src='https://laughingsquid.com/wp-content/uploads/2014/09/Cat-Yearbook.jpg' alt='Student Petitions High School to Include Photo of Him Holding a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laughing Squid" />
+                                </span>
+                                <a href='https://laughingsquid.com/wp-content/uploads/2014/09/Cat-Yearbook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did you get the laser background for your school photos? Swipe ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3224362196410266502' alt='Did you get the laser background for your school photos? Swipe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3224362196410266502' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="laser background vintage school picture background Stock ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/01/66/43/1000_F_301664310_WAeSrlzGDxeGcx4NEhSmN4Kx4QouqwQC.jpg' alt='laser background vintage school picture background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/01/66/43/1000_F_301664310_WAeSrlzGDxeGcx4NEhSmN4Kx4QouqwQC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early 90s school picture background : r/nostalgia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/izcc0y9yar701.jpg' alt='Early 90s school picture background : r/nostalgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/izcc0y9yar701.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did you get the laser background for your school photos? Swipe ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3224362196485644626' alt='Did you get the laser background for your school photos? Swipe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3224362196485644626' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Portrait Laser Beams Digital Photo Booth, 960px X 1280px ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20742613/r/il/78a98f/3786016661/il_fullxfull.3786016661_ezuw.jpg' alt='80s Retro Portrait Laser Beams Digital Photo Booth, 960px X 1280px ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20742613/r/il/78a98f/3786016661/il_fullxfull.3786016661_ezuw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

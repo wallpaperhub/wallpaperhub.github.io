@@ -1,0 +1,129 @@
+<title>Discovering the Depths of Cobe: A Unique Artistic Journey</title>
+                    <meta name="description" content="Explore the captivating world of Cobe, an artistic concept that invites deeper interpretation and meaning across different media. Uncover how this expressive style enriches your understanding of art and literature with layers of symbolism and creativity.">
+                    <meta name="keywords" content="cobe">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cobe">
+                            <span itemprop="name">cobe</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Depths of Cobe: A Unique Artistic Journey</h1>
+                <p>Cobe refers to a unique form of artistic expression involving layers of meaning and interpretation. It can be found in various media, including visual arts and literature, where symbolism plays a significant role. This concept challenges the observer to delve deeper, fostering a richer understanding of the creative message behind the work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COBE - NASA Science">
+                                <img itemprop="contentUrl url" src='https://www.nasa.gov/wp-content/uploads/2013/06/403322main-cobeallsky-full.jpg' alt='COBE - NASA Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://www.nasa.gov/wp-content/uploads/2013/06/403322main-cobeallsky-full.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COBE - NASA Science">
+                                <img itemprop="contentUrl url" src='https://science.nasa.gov/wp-content/uploads/2023/06/990295-cobe-sat2000.png' alt='COBE - NASA Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1862">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://science.nasa.gov/wp-content/uploads/2023/06/990295-cobe-sat2000.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Academy Case Study: COBE | APPEL Knowledge Services">
+                                <img itemprop="contentUrl url" src='https://appel.nasa.gov/wp-content/uploads/2010/02/COBE_Satellite.jpg' alt='Academy Case Study: COBE | APPEL Knowledge Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="nasa appel" />
+                                </span>
+                                <a href='https://appel.nasa.gov/wp-content/uploads/2010/02/COBE_Satellite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LAMBDA - Cosmic Background Explorer">
+                                <img itemprop="contentUrl url" src='https://lambda.gsfc.nasa.gov/product/cobe/cobe_images/020597COBE_OV.jpg' alt='LAMBDA - Cosmic Background Explorer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nasa Lambda" />
+                                </span>
+                                <a href='https://lambda.gsfc.nasa.gov/product/cobe/cobe_images/020597COBE_OV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Explorer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cosmic_Background_Explorer_spacecraft_model.png/800px-Cosmic_Background_Explorer_spacecraft_model.png' alt='Cosmic Background Explorer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cosmic_Background_Explorer_spacecraft_model.png/800px-Cosmic_Background_Explorer_spacecraft_model.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LAMBDA - Cosmic Background Explorer">
+                                <img itemprop="contentUrl url" src='https://lambda.gsfc.nasa.gov/product/cobe/more_images/cobeslide01.jpg' alt='LAMBDA - Cosmic Background Explorer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LAMBDA - Cosmic Background Explorer" />
+                                </span>
+                                <a href='https://lambda.gsfc.nasa.gov/product/cobe/more_images/cobeslide01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Explorer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/COBEDiagram.jpg/220px-COBEDiagram.jpg' alt='Cosmic Background Explorer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/COBEDiagram.jpg/220px-COBEDiagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Explorer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmic_Background_Explorer_spacecraft_model.png' alt='Cosmic Background Explorer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmic_Background_Explorer_spacecraft_model.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Background Explorer (COBE) | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/49/21249-050-218F9B57/views-universe-satellite-Cosmic-Background-Explorer-artifact.jpg' alt='Cosmic Background Explorer (COBE) | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1546">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/49/21249-050-218F9B57/views-universe-satellite-Cosmic-Background-Explorer-artifact.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobe (architectural firm) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/2b/Cobe_architetcs_logo%2C_March_2020.svg' alt='Cobe (architectural firm) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/2b/Cobe_architetcs_logo%2C_March_2020.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

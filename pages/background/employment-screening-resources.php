@@ -1,0 +1,129 @@
+<title>Essential Employment Screening Resources for Smart Hiring</title>
+                    <meta name="description" content="Discover top employment screening resources that help businesses make informed hiring decisions. From background checks to skill assessments, learn how these tools enhance workplace safety and candidate trustworthiness. Optimize your hiring process with reliable screening methods. Perfect for efficient HR management!">
+                    <meta name="keywords" content="employment screening resources">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/employment-screening-resources">
+                            <span itemprop="name">employment screening resources</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Employment Screening Resources for Smart Hiring</h1>
+                <p>Employment screening resources are essential tools for businesses seeking to validate candidate qualifications and ensure workplace safety. These resources include background checks, reference checks, credit histories, and skill assessments. By leveraging these tools, employers can make informed hiring decisions and reduce potential risks associated with new employees.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources (ESR) CEO Lester Rosen Receives ...">
+                                <img itemprop="contentUrl url" src='https://mma.prnewswire.com/media/1001640/Employment_Screening_Resources_Logo.jpg?p=twitter' alt='Employment Screening Resources (ESR) CEO Lester Rosen Receives ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://mma.prnewswire.com/media/1001640/Employment_Screening_Resources_Logo.jpg?p=twitter' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ClearStar acquires Employment Screening Resources to secure its ...">
+                                <img itemprop="contentUrl url" src='https://www.clearstar.net/wp-content/uploads/2021/12/Microblog-ESR.jpg' alt='ClearStar acquires Employment Screening Resources to secure its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearStar" />
+                                </span>
+                                <a href='https://www.clearstar.net/wp-content/uploads/2021/12/Microblog-ESR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources (ESR) | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C510BAQHqEp1zV9mcGg/company-logo_200_200/company-logo_200_200/0/1631392275545?e=2147483647&v=beta&t=FxrUId5IgdSWlzqhgCwqgLHCE8JG2Dccu3OGSrbJnFQ' alt='Employment Screening Resources (ESR) | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C510BAQHqEp1zV9mcGg/company-logo_200_200/company-logo_200_200/0/1631392275545?e=2147483647&v=beta&t=FxrUId5IgdSWlzqhgCwqgLHCE8JG2Dccu3OGSrbJnFQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find a Background Screening Company: NORTHERN CALIFORNIA ...">
+                                <img itemprop="contentUrl url" src='http://preemploymentdirectory.com/wp-content/uploads/2013/06/ESR-LOGO-HIGH-RES-300x83.png' alt='Find a Background Screening Company: NORTHERN CALIFORNIA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="83">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='http://preemploymentdirectory.com/wp-content/uploads/2013/06/ESR-LOGO-HIGH-RES-300x83.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources Company Profile 2025: Valuation ...">
+                                <img itemprop="contentUrl url" src='https://image.pitchbook.com/AHT8xXpF92RerFsjkU5MVTxm0LW1586865973943_200x200' alt='Employment Screening Resources Company Profile 2025: Valuation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PitchBook" />
+                                </span>
+                                <a href='https://image.pitchbook.com/AHT8xXpF92RerFsjkU5MVTxm0LW1586865973943_200x200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources® Provides Background Screening that ...">
+                                <img itemprop="contentUrl url" src='https://www.badcredit.org/wp-content/uploads/ESR-2.jpg?1' alt='Employment Screening Resources® Provides Background Screening that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1247">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BadCredit.org" />
+                                </span>
+                                <a href='https://www.badcredit.org/wp-content/uploads/ESR-2.jpg?1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources (ESR) Named a Top Pre-Employment ...">
+                                <img itemprop="contentUrl url" src='https://cdn.nwe.io/files/x/4e/a3/332a0a0531999d91af5d86ead3d8.png' alt='Employment Screening Resources (ESR) Named a Top Pre-Employment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newswire.com" />
+                                </span>
+                                <a href='https://cdn.nwe.io/files/x/4e/a3/332a0a0531999d91af5d86ead3d8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources List Now Available">
+                                <img itemprop="contentUrl url" src='https://www.hremploymentscreening.com/images/employment-screening-resources.jpg' alt='Employment Screening Resources List Now Available'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening solutions for HR Professionals" />
+                                </span>
+                                <a href='https://www.hremploymentscreening.com/images/employment-screening-resources.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Screening Resources (ESR)—Background Check Firm">
+                                <img itemprop="contentUrl url" src='https://preemploymentdirectory.com/wp-content/uploads/2019/11/esr15.jpg' alt='Employment Screening Resources (ESR)—Background Check Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreemploymentDirectory.com" />
+                                </span>
+                                <a href='https://preemploymentdirectory.com/wp-content/uploads/2019/11/esr15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applicant Report">
+                                <img itemprop="contentUrl url" src='https://esrcheck.com/app/_media/Report/Report-Logo.png' alt='Applicant Report'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1883">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening Resources" />
+                                </span>
+                                <a href='https://esrcheck.com/app/_media/Report/Report-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

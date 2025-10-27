@@ -1,0 +1,129 @@
+<title>Thomas Jefferson PNG Images for History Projects</title>
+                    <meta name="description" content="Explore a selection of Thomas Jefferson PNG images, perfect for educational materials, presentations, and history-related projects. Discover high-quality graphics that capture the essence of one of America's Founding Fathers and enhance your work with visual representations of his legacy.">
+                    <meta name="keywords" content="thomas jefferson png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thomas-jefferson-png">
+                            <span itemprop="name">thomas jefferson png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thomas Jefferson PNG Images for History Projects</h1>
+                <p>Thomas Jefferson was a pivotal figure in American history, known as the principal author of the Declaration of Independence. His legacy includes advocacy for democracy, education, and religious freedom. PNG images of Jefferson are valuable for educational resources, presentations, and historical projects, showcasing his influence on the founding of the United States.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/218/29/png-clipart-man-portrait-painting-thomas-jefferson-people-history-thumbnail.png' alt='Thomas Jefferson png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/218/29/png-clipart-man-portrait-painting-thomas-jefferson-people-history-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Thomas Jefferson, President, United States Of America ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2020/03/02/20/11/thomas-jefferson-4896816_640.png' alt='Download Thomas Jefferson, President, United States Of America ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2020/03/02/20/11/thomas-jefferson-4896816_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Thomas Jefferson, President, America. Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2013/07/12/18/36/thomas-jefferson-153568_1280.png' alt='Download Thomas Jefferson, President, America. Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2013/07/12/18/36/thomas-jefferson-153568_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson PNG - PlusPNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/93/b5/b393b544f1768ab5f1d1fc3002b2a623.jpg' alt='Thomas Jefferson PNG - PlusPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/93/b5/b393b544f1768ab5f1d1fc3002b2a623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:NSRW Thomas Jefferson.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/NSRW_Thomas_Jefferson.png' alt='File:NSRW Thomas Jefferson.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/NSRW_Thomas_Jefferson.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Thomas Jefferson.PNG - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Thomas_Jefferson.PNG' alt='File:Thomas Jefferson.PNG - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6e/Thomas_Jefferson.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zN19hZXN0aGV0aWNfY29sb3JfcGVuY2lsX2lsbHVzdHJhdGlvbl9vZl90aG9tYV8zNGJjOWE0Yi1mMTllLTQyMDctODY5Zi04MDQwOWQwYTU1MDQucG5n.png' alt='Thomas Jefferson Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zN19hZXN0aGV0aWNfY29sb3JfcGVuY2lsX2lsbHVzdHJhdGlvbl9vZl90aG9tYV8zNGJjOWE0Yi1mMTllLTQyMDctODY5Zi04MDQwOWQwYTU1MDQucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Thomas Jefferson portrait on two dollar bill.png - Wikimedia ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thomas_Jefferson_portrait_on_two_dollar_bill.png/619px-Thomas_Jefferson_portrait_on_two_dollar_bill.png' alt='File:Thomas Jefferson portrait on two dollar bill.png - Wikimedia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thomas_Jefferson_portrait_on_two_dollar_bill.png/619px-Thomas_Jefferson_portrait_on_two_dollar_bill.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson - Circle Sticker Decal 3 Inch - USA US American President">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/k5kAAOSwHyNjrP8V/s-l1200.png' alt='Thomas Jefferson - Circle Sticker Decal 3 Inch - USA US American President'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/k5kAAOSwHyNjrP8V/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Thomas-Jefferson-PNG.png' alt='Thomas Jefferson PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Thomas-Jefferson-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

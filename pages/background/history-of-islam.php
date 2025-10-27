@@ -1,0 +1,129 @@
+<title>Explore the Rich History of Islam</title>
+                    <meta name="description" content="Discover the fascinating history of Islam, from its inception in the 7th century to its global influence today. Learn about key events, figures, and the cultural impact that shaped the faith and its followers. Ideal for anyone interested in understanding Islam’s past and present.">
+                    <meta name="keywords" content="history of islam">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-islam">
+                            <span itemprop="name">history of islam</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of Islam</h1>
+                <p>Islam, founded in the 7th century by the Prophet Muhammad in Mecca, swiftly spread across the Arabian Peninsula. Key events include the hijra (migration) to Medina, the establishment of a vast caliphate, and significant cultural advancements during the Golden Age. The faith is now practiced by over a billion people worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Illustrated History of Islam: The story of Islamic religion, culture and  civilization, from the time of the Prophet to the modern day, shown in ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JIB1UAGFL.jpg' alt='An Illustrated History of Islam: The story of Islamic religion, culture and  civilization, from the time of the Prophet to the modern day, shown in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1527">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JIB1UAGFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Birth of Islam - The Metropolitan Museum of Art">
+                                <img itemprop="contentUrl url" src='https://collectionapi.metmuseum.org/api/collection/v1/iiif/451392/1513178/main-image' alt='The Birth of Islam - The Metropolitan Museum of Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="930">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Metropolitan Museum of Art" />
+                                </span>
+                                <a href='https://collectionapi.metmuseum.org/api/collection/v1/iiif/451392/1513178/main-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins of Islam and the Arabo-Muslim Empire - The map as History">
+                                <img itemprop="contentUrl url" src='https://www.the-map-as-history.com/images/series/JPUvJue6gGjMZD4FT9lHbfwiMM9y3Ezf7pbJjkZO.png' alt='Origins of Islam and the Arabo-Muslim Empire - The map as History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="261">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The map as history" />
+                                </span>
+                                <a href='https://www.the-map-as-history.com/images/series/JPUvJue6gGjMZD4FT9lHbfwiMM9y3Ezf7pbJjkZO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Birth of Islam - The Metropolitan Museum of Art">
+                                <img itemprop="contentUrl url" src='https://collectionapi.metmuseum.org/api/collection/v1/iiif/448692/1556558/main-image' alt='The Birth of Islam - The Metropolitan Museum of Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Metropolitan Museum of Art" />
+                                </span>
+                                <a href='https://collectionapi.metmuseum.org/api/collection/v1/iiif/448692/1556558/main-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Oxford History of Islam">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91L4gvYj-0L._AC_UF1000,1000_QL80_.jpg' alt='The Oxford History of Islam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="757">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91L4gvYj-0L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Islam. Before Islam, the Arabian Peninsula was ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1073/0*kcCg-qBk3rAbfKXA.jpg' alt='A Brief History of Islam. Before Islam, the Arabian Peninsula was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1073">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Richard Lawson Singley - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1073/0*kcCg-qBk3rAbfKXA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History of Islam: The Second Largest Religion in Today's World ...">
+                                <img itemprop="contentUrl url" src='https://www.ancient-origins.net/sites/default/files/field/image/History-of-Islam.jpg' alt='A History of Islam: The Second Largest Religion in Today's World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1177">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ancient Origins" />
+                                </span>
+                                <a href='https://www.ancient-origins.net/sites/default/files/field/image/History-of-Islam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Islam (Volume One) by Akbar Shah Khan Najeebabadi ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634629968i/59412142.jpg' alt='The History of Islam (Volume One) by Akbar Shah Khan Najeebabadi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634629968i/59412142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Erasing Race: Problems with our Islamic History - MuslimMatters.org">
+                                <img itemprop="contentUrl url" src='https://c7c8edde.rocketcdn.me/wp-content/uploads/sonni-ali-1.jpg' alt='Erasing Race: Problems with our Islamic History - MuslimMatters.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MuslimMatters.org" />
+                                </span>
+                                <a href='https://c7c8edde.rocketcdn.me/wp-content/uploads/sonni-ali-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Islam - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/80/Islam_branches_and_schools..png' alt='Islam - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/80/Islam_branches_and_schools..png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

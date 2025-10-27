@@ -1,0 +1,129 @@
+<title>Adorable Oogie Boogie Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of cute Oogie Boogie wallpapers that bring charm and personality to your screens. Perfect for fans of "The Nightmare Before Christmas," these vibrant designs are optimized for mobile devices, providing a playful touch to your daily tech. Download now and enjoy Oogie Boogie's whimsy everywhere you go!">
+                    <meta name="keywords" content="cute oogie boogie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-oogie-boogie-wallpaper">
+                            <span itemprop="name">cute oogie boogie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Oogie Boogie Wallpapers for Your Device</h1>
+                <p>Transform your device with adorable Oogie Boogie wallpapers that showcase his playful spirit from "The Nightmare Before Christmas." These cute designs bring a touch of whimsy, perfect for fans of all ages. Enjoy the vibrant colors and charming details that make Oogie Boogie a delightful addition to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oogie Boogie Wallpapers - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/30/27/99/302799350574233d9a33872e770cf33d.jpg' alt='Oogie Boogie Wallpapers - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/30/27/99/302799350574233d9a33872e770cf33d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oogie Boogie Wallpapers - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e1/fc/71/e1fc710f730e7b798e1edd56bb89a780.jpg' alt='Oogie Boogie Wallpapers - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e1/fc/71/e1fc710f730e7b798e1edd56bb89a780.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Oogie Boogie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/oogie-boogie-ncd77lv2wlm6dvur.jpg' alt='100+] Oogie Boogie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/oogie-boogie-ncd77lv2wlm6dvur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "The eccentric Oogie Boogie!" Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/oogie-boogie-qw8v4j7bpi6btxvb.jpg' alt='Download "The eccentric Oogie Boogie!" Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1573">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/oogie-boogie-qw8v4j7bpi6btxvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/47/eb/4b47eb559c74583f0ddadca19548ccec.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/47/eb/4b47eb559c74583f0ddadca19548ccec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oogie Boogie Wallpaper Collection: 4K Aesthetic and High Resolution">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7211368419181153582&location=0&aid=1988' alt='Oogie Boogie Wallpaper Collection: 4K Aesthetic and High Resolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1012">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7211368419181153582&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Jack Skellington & Oogie Boogie from The Nightmare ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/668/668513.jpg' alt='HD Wallpaper of Jack Skellington & Oogie Boogie from The Nightmare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/668/668513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Oogie Boogie What Have We Hear Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/oogie-boogie-0grp9htjnco7mm1j.jpg' alt='Download Oogie Boogie What Have We Hear Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="797">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/oogie-boogie-0grp9htjnco7mm1j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oogie Boogie by BlackPengu1n on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/95/8a/3b958a6b893a8e2190f7465d6b2e4e03.jpg' alt='Oogie Boogie by BlackPengu1n on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/95/8a/3b958a6b893a8e2190f7465d6b2e4e03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD oogie boogie wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/811/649/HD-wallpaper-oogie-boogie-christmas-nbc-nighmare-before-christmas-nightmare.jpg' alt='HD oogie boogie wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/811/649/HD-wallpaper-oogie-boogie-christmas-nbc-nighmare-before-christmas-nightmare.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

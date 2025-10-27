@@ -1,0 +1,129 @@
+<title>Mushroom Wallpaper for Phones – Nature's Whimsy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="mushroom wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mushroom-wallpaper-phone">
+                            <span itemprop="name">mushroom wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mushroom Wallpaper for Phones – Nature's Whimsy</h1>
+                <p>Transform your phone screen with enchanting mushroom wallpaper! Featuring vibrant colors and intricate designs, these wallpapers bring a touch of nature's magic to your device. Perfect for nature lovers and those seeking a whimsical aesthetic, mushroom wallpaper adds an artistic flair that stands out on any phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mushroom Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' alt='100+] Mushroom Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mushroom-phone-yftmdzzl5ywpnk4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Mushroom - Phone Wallpaper by RinsDoll on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3be0312f-b3a0-4f52-b1dd-664a86585155/dij6few-e7174f85-57dc-441d-9027-1105dd56311f.jpg/v1/fill/w_1280,h_2276,q_75,strp/cosmic_mushroom___phone_wallpaper_by_rinsdoll_dij6few-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzNiZTAzMTJmLWIzYTAtNGY1Mi1iMWRkLTY2NGE4NjU4NTE1NVwvZGlqNmZldy1lNzE3NGY4NS01N2RjLTQ0MWQtOTAyNy0xMTA1ZGQ1NjMxMWYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bkkJcS8GTl1NM8G1X-pCzwJ8ZbXfw9uD-cx5YjtnA1A' alt='Cosmic Mushroom - Phone Wallpaper by RinsDoll on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3be0312f-b3a0-4f52-b1dd-664a86585155/dij6few-e7174f85-57dc-441d-9027-1105dd56311f.jpg/v1/fill/w_1280,h_2276,q_75,strp/cosmic_mushroom___phone_wallpaper_by_rinsdoll_dij6few-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzNiZTAzMTJmLWIzYTAtNGY1Mi1iMWRkLTY2NGE4NjU4NTE1NVwvZGlqNmZldy1lNzE3NGY4NS01N2RjLTQ0MWQtOTAyNy0xMTA1ZGQ1NjMxMWYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bkkJcS8GTl1NM8G1X-pCzwJ8ZbXfw9uD-cx5YjtnA1A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom wallpaper Cute aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/d9/41/cad941e1996359df88135042c40804c4.jpg' alt='Mushroom wallpaper Cute aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/d9/41/cad941e1996359df88135042c40804c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red mushroom, green, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/619/299/HD-wallpaper-red-mushroom-green.jpg' alt='Red mushroom, green, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/619/299/HD-wallpaper-red-mushroom-green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/39/20/6739201040edb511ffbf031244055826.jpg' alt='Mushroom wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/39/20/6739201040edb511ffbf031244055826.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Vintage Mushroom Phone Wallpapers - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35440366/r/il/a6bbf1/3985897569/il_570xN.3985897569_8uh2.jpg' alt='8 Vintage Mushroom Phone Wallpapers - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35440366/r/il/a6bbf1/3985897569/il_570xN.3985897569_8uh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/991/991481.jpg' alt='Mushroom Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1488">
+                                <meta itemprop="height" content="2266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/991/991481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download “Experience Nature on the Go with the Mushroom Phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mushroom-phone-1900-x-2366-8v59euoqnzpl03bz.jpg' alt='Download “Experience Nature on the Go with the Mushroom Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mushroom-phone-1900-x-2366-8v59euoqnzpl03bz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushrooms, art, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/447/660/HD-wallpaper-mushrooms-art.jpg' alt='Mushrooms, art, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/447/660/HD-wallpaper-mushrooms-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Plants Illustration Futuristic Alien Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/6b/a2/ab6ba2e7e99d50b369ea09362ed61b27.jpg' alt='Mushroom Plants Illustration Futuristic Alien Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/6b/a2/ab6ba2e7e99d50b369ea09362ed61b27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Black and White Banana Leaf Wallpaper for Modern Decor</title>
+                    <meta name="description" content="Enhance your home with trendy black and white banana leaf wallpaper. Perfect for adding a stylish touch to any room, this design offers a modern, tropical vibe that complements any decor while making a bold statement. Ideal for both accent walls and full-room transformations. Discover your new favorite wallpaper today!">
+                    <meta name="keywords" content="black and white banana leaf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-banana-leaf-wallpaper">
+                            <span itemprop="name">black and white banana leaf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black and White Banana Leaf Wallpaper for Modern Decor</h1>
+                <p>Transform your space with stunning black and white banana leaf wallpaper. This chic design brings a touch of tropical elegance to any room, serving as a bold backdrop or an eye-catching accent. Perfect for modern interiors, it's versatile and adds depth, texture, and a stylish vibe without overwhelming your decor. Explore the beauty of monochrome nature today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BW3971 Black & White Resource Library Banana Leaf Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/BW3971_YWDE40BananaLeaf_ORG.jpg?v=1696431517&width=1445' alt='BW3971 Black & White Resource Library Banana Leaf Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/BW3971_YWDE40BananaLeaf_ORG.jpg?v=1696431517&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York PSW1037RL Banana Leaf White Black Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/220279.jpg' alt='York PSW1037RL Banana Leaf White Black Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/220279.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Banana Leaves Wallpaper CC254">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/zoom_a37306b8-8637-4a22-81c7-1fae6754e938_1024x1024.jpg?v=1689783719' alt='Black & White Banana Leaves Wallpaper CC254'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/zoom_a37306b8-8637-4a22-81c7-1fae6754e938_1024x1024.jpg?v=1689783719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor / Black  and White Banana Leaf Wallpaper Tropical boho Wallpaper - B097">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/B097_04.png?v=1720457634&width=416' alt='Wallpaper Peel and Stick Wallpaper Removable Wallpaper Home Decor / Black  and White Banana Leaf Wallpaper Tropical boho Wallpaper - B097'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/B097_04.png?v=1720457634&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Resource Library Banana Leaf Wallpaper - Black & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/BW3971.jpg?v=1696431517' alt='Black & White Resource Library Banana Leaf Wallpaper - Black & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/BW3971.jpg?v=1696431517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Banana Leaves Removable Mural Banana Leaves Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14967869/r/il/86aca8/2607928019/il_fullxfull.2607928019_oe2t.jpg' alt='Black White Banana Leaves Removable Mural Banana Leaves Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14967869/r/il/86aca8/2607928019/il_fullxfull.2607928019_oe2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 3D Wallpaper Seamless Banana Leaf Black White Drawing line Art  Self Adhesive Bedroom Living Room Dormitory Decor Wall Mural Stick and Peel  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712esWS5BrL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: 3D Wallpaper Seamless Banana Leaf Black White Drawing line Art  Self Adhesive Bedroom Living Room Dormitory Decor Wall Mural Stick and Peel  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712esWS5BrL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Leaf Wallpaper Tropical Banana Leaves Wall Mural Wallpaper for Bedroom  Living Room TV Background Wall Covering(Not Peel n' Stick)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81BFJgVW2hL._AC_UF894,1000_QL80_.jpg' alt='Grey Leaf Wallpaper Tropical Banana Leaves Wall Mural Wallpaper for Bedroom  Living Room TV Background Wall Covering(Not Peel n' Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81BFJgVW2hL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banana Leaf Wallpaper in Mono">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Banana-Leaf_Mono_ILW274478_Thumbnail_WEB.webp?v=1705592829' alt='Banana Leaf Wallpaper in Mono'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Banana-Leaf_Mono_ILW274478_Thumbnail_WEB.webp?v=1705592829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSW1037RL Banana Leaf Peel & Stick Wallpaper - Black & White – US ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/PSW1037RL-banana-leaf-peel-and-stick-wallpaper-2.jpg?v=1620881610&width=1946' alt='PSW1037RL Banana Leaf Peel & Stick Wallpaper - Black & White – US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/PSW1037RL-banana-leaf-peel-and-stick-wallpaper-2.jpg?v=1620881610&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

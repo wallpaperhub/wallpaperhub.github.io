@@ -1,0 +1,129 @@
+<title>Yami Kawaii Wallpaper: Embrace Cute & Dark Aesthetics</title>
+                    <meta name="description" content="Explore our stunning collection of Yami Kawaii wallpaper, combining cute and dark elements to enhance your device's look. Perfect for fans of unique aesthetics, find the ideal wallpaper that resonates with your personality in just a few taps!">
+                    <meta name="keywords" content="yami kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yami-kawaii-wallpaper">
+                            <span itemprop="name">yami kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Yami Kawaii Wallpaper: Embrace Cute & Dark Aesthetics</h1>
+                <p>Discover the enchanting world of Yami Kawaii wallpaper, where cuteness meets darkness! These wallpapers blend pastel hues with adorable yet eerie characters, creating a unique aesthetic perfect for your device. Transform your phone or computer screen into a captivating space that reflects your inner feelings and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yami Kawaii">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f9/70/ce/f970ce30fac7e48e9228db2ac5a8e5dc.jpg' alt='Yami Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f9/70/ce/f970ce30fac7e48e9228db2ac5a8e5dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Feel the Emotions of Yami Kawaii Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yami-kawaii-yu17fvvls0w5oo15.jpg' alt='Download Feel the Emotions of Yami Kawaii Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yami-kawaii-yu17fvvls0w5oo15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Image Yami Kawaii, an aesthetic of dark fashion and cute ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yami-kawaii-1080-x-2031-80nxthgmgbtmdxtv.jpg' alt='Download Image Yami Kawaii, an aesthetic of dark fashion and cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yami-kawaii-1080-x-2031-80nxthgmgbtmdxtv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Experience the Cutest Version of Yami Kawaii Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yami-kawaii-x6wrjrvt9rhjzdpm.jpg' alt='Download Experience the Cutest Version of Yami Kawaii Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yami-kawaii-x6wrjrvt9rhjzdpm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yami Kawaii Wallpapers - Wallpaper Cave 5F7">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e1/ab/30/e1ab3005b5a783489766e110d819f774.jpg' alt='Yami Kawaii Wallpapers - Wallpaper Cave 5F7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e1/ab/30/e1ab3005b5a783489766e110d819f774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yami-Kawaii-Pattern-Kawaii-wallpaper-Creepy-cute-Goth-.jpg ...">
+                                <img itemprop="contentUrl url" src='https://static.myfigurecollection.net/upload/pictures/2023/04/08/3539031.jpeg' alt='Yami-Kawaii-Pattern-Kawaii-wallpaper-Creepy-cute-Goth-.jpg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyFigureCollection" />
+                                </span>
+                                <a href='https://static.myfigurecollection.net/upload/pictures/2023/04/08/3539031.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Brighten your day and explore the playful world of Yami ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yami-kawaii-rlxitxxaer4jmk1r.jpg' alt='Download "Brighten your day and explore the playful world of Yami ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yami-kawaii-rlxitxxaer4jmk1r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yami Kawaii Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5183088.jpg' alt='Yami Kawaii Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="1904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5183088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Yami Kawaii Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1976653277/display_1500/stock-vector-pink-suffering-character-seamless-pattern-in-yami-kawaii-style-isolated-on-blue-background-1976653277.jpg' alt='17 Yami Kawaii Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1976653277/display_1500/stock-vector-pink-suffering-character-seamless-pattern-in-yami-kawaii-style-isolated-on-blue-background-1976653277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yami Kawaii | Aesthetics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/aesthetics/images/4/49/Yamikawaii_art.jpg/revision/latest?cb=20220720012438' alt='Yami Kawaii | Aesthetics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aesthetics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/aesthetics/images/4/49/Yamikawaii_art.jpg/revision/latest?cb=20220720012438' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cute Stars & Moon Wallpaper: Adorable Designs for Dreamy Spaces</title>
+                    <meta name="description" content="Discover charming stars and moon wallpaper to infuse your room with whimsy! Perfect for kids and adults alike, our collection offers delightful patterns that create a peaceful, dreamy ambiance. Elevate your decor effortlessly with adorable designs that evoke the beauty of the night sky!">
+                    <meta name="keywords" content="cute stars and moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-stars-and-moon-wallpaper">
+                            <span itemprop="name">cute stars and moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Stars & Moon Wallpaper: Adorable Designs for Dreamy Spaces</h1>
+                <p>Transform your space with adorably designed stars and moon wallpapers that bring a whimsical touch to any room. Featuring soothing colors and delightful patterns, these wallpapers create a dreamy atmosphere perfect for nurseries, kids’ rooms, or any cozy corner. Embrace the night sky’s charm with our cute designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Moon, Star, Neon. Royalty-Free Stock Illustration Image ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/04/10/19/50/moon-3308563_1280.png' alt='Download Moon, Star, Neon. Royalty-Free Stock Illustration Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/04/10/19/50/moon-3308563_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/2b/89/a22b890adb1367f5d9143baafb56564b.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/2b/89/a22b890adb1367f5d9143baafb56564b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon And Stars Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/de/69/dede69ebeb0a6289dad261bbfc428f72.jpg' alt='Moon And Stars Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/de/69/dede69ebeb0a6289dad261bbfc428f72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star and moon, cute, kawaii, pastel, pretty, purple, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/228/712/HD-wallpaper-star-and-moon-cute-kawaii-pastel-pretty-purple-thumbnail.jpg' alt='Star and moon, cute, kawaii, pastel, pretty, purple, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/228/712/HD-wallpaper-star-and-moon-cute-kawaii-pastel-pretty-purple-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Stars Backgrounds & Wallpapers - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-moon-wallpaper-artwork-suyasuyabi427-kawaii-hoshi-438x503.jpg' alt='Cute Stars Backgrounds & Wallpapers - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2023/11/kirby-moon-wallpaper-artwork-suyasuyabi427-kawaii-hoshi-438x503.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Stars And Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-black-stars-and-moon-qfks5eui16z4a610.jpg' alt='Cute Black Stars And Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-black-stars-and-moon-qfks5eui16z4a610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Blue And Pink Starry Sky With Stars And Moons Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-moon-phhagjo1a8mqj42f.jpg' alt='Download A Blue And Pink Starry Sky With Stars And Moons Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-moon-phhagjo1a8mqj42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="790 Best Moon and stars wallpaper ideas | moon and stars wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fe/df/f7/fedff782aa7026a95f28e40850f9862e.jpg' alt='790 Best Moon and stars wallpaper ideas | moon and stars wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fe/df/f7/fedff782aa7026a95f28e40850f9862e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Night Background Moon Clouds And Shining Stars On Blue Sky ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365244971/vector/moon-and-star-holding-garland-of-stars-in-cosmos.jpg?s=612x612&w=0&k=20&c=1wRHawcpNSoGSlEjivj7rP7TGi6yWnJeCw6yRnVeWhI=' alt='1,400+ Night Background Moon Clouds And Shining Stars On Blue Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365244971/vector/moon-and-star-holding-garland-of-stars-in-cosmos.jpg?s=612x612&w=0&k=20&c=1wRHawcpNSoGSlEjivj7rP7TGi6yWnJeCw6yRnVeWhI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Star Moon Background, Desktop Wallpaper, Wallpaper, Star ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-cute-star-moon-background-picture-image_1331182.jpg' alt='Cute Star Moon Background, Desktop Wallpaper, Wallpaper, Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-cute-star-moon-background-picture-image_1331182.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

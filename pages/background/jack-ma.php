@@ -1,0 +1,129 @@
+<title>Jack Ma: The Visionary Behind Alibaba's Success</title>
+                    <meta name="description" content="Discover the inspiring journey of Jack Ma, Alibaba's co-founder. From teaching to transforming e-commerce, learn how his vision and resilience shaped a global powerhouse. Explore insights into his entrepreneurial spirit and the impact of his work on millions around the world.">
+                    <meta name="keywords" content="jack ma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jack-ma">
+                            <span itemprop="name">jack ma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jack Ma: The Visionary Behind Alibaba's Success</h1>
+                <p>Jack Ma, co-founder of Alibaba Group, is a prominent Chinese entrepreneur known for revolutionizing e-commerce in Asia. His journey from a humble teacher to a billionaire showcases his relentless spirit and innovation. Despite challenges, Ma emphasizes resilience and the importance of dreaming big, inspiring millions worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/605e22fe6df966b3fcbd3e15/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds' alt='Jack Ma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/605e22fe6df966b3fcbd3e15/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg' alt='Jack Ma - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma Isn't Back | WIRED">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/648a3401e416fd283a85c398/master/w_2560%2Cc_limit/Jack-Ma-Never-Left-Business-1277469753.jpg' alt='Jack Ma Isn't Back | WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/648a3401e416fd283a85c398/master/w_2560%2Cc_limit/Jack-Ma-Never-Left-Business-1277469753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma Biography: Success Story of Alibaba CEO">
+                                <img itemprop="contentUrl url" src='https://www.vyapaarjagat.com/wp-content/uploads/2020/04/Jack-Ma.jpg' alt='Jack Ma Biography: Success Story of Alibaba CEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vyapaar Jagat" />
+                                </span>
+                                <a href='https://www.vyapaarjagat.com/wp-content/uploads/2020/04/Jack-Ma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma (@JackMa) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1239337249788985344/kCtYRfmZ_400x400.jpg' alt='Jack Ma (@JackMa) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1239337249788985344/kCtYRfmZ_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma's Top 9 Rules For Success | Why You Should Listen To Your ...">
+                                <img itemprop="contentUrl url" src='https://danlok.com/wp-content/uploads/2019/03/Jack-Ma-9-Rules-for-Success-V2.jpg' alt='Jack Ma's Top 9 Rules For Success | Why You Should Listen To Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dan Lok" />
+                                </span>
+                                <a href='https://danlok.com/wp-content/uploads/2019/03/Jack-Ma-9-Rules-for-Success-V2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma Biography: Birth, Childhood, Education, Philanthropy ...">
+                                <img itemprop="contentUrl url" src='https://img.jagranjosh.com/imported/images/E/GK/jack-ma-biography.jpg' alt='Jack Ma Biography: Birth, Childhood, Education, Philanthropy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jagran Josh" />
+                                </span>
+                                <a href='https://img.jagranjosh.com/imported/images/E/GK/jack-ma-biography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Jack Ma Overcame His 7 Biggest Failures | Entrepreneur">
+                                <img itemprop="contentUrl url" src='https://assets.entrepreneur.com/content/3x2/2000/20160531122350-GettyImages-523647436.jpeg' alt='How Jack Ma Overcame His 7 Biggest Failures | Entrepreneur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entrepreneur" />
+                                </span>
+                                <a href='https://assets.entrepreneur.com/content/3x2/2000/20160531122350-GettyImages-523647436.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Ma: Alibaba founder seen in China after long absence">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/91BA/production/_129160373_c101e5fedac273898f1088230ab766de576d4a500_0_5568_31321000x563.jpg' alt='Jack Ma: Alibaba founder seen in China after long absence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/91BA/production/_129160373_c101e5fedac273898f1088230ab766de576d4a500_0_5568_31321000x563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alibaba's Jack Ma To Retire To Focus on Philanthropy">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2018/09/jack-ma.jpg' alt='Alibaba's Jack Ma To Retire To Focus on Philanthropy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3362">
+                                <meta itemprop="height" content="2424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2018/09/jack-ma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

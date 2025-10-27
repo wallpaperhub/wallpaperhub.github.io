@@ -1,0 +1,129 @@
+<title>Stunning Flower Wallpaper for Modern Aesthetics</title>
+                    <meta name="description" content="Discover our exquisite collection of flower wallpapers, designed to elevate your home decor. With vibrant colors and unique patterns, create a serene and stylish atmosphere in any room. Perfect for any living space, our floral designs offer both beauty and tranquility for your walls. Shop now!">
+                    <meta name="keywords" content="aesthetic:3gvevbhxmga= flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic3gvevbhxmga-flower-wallpaper">
+                            <span itemprop="name">aesthetic:3gvevbhxmga= flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Wallpaper for Modern Aesthetics</h1>
+                <p>Transform your space with our stunning flower wallpaper collection. Featuring vibrant colors and intricate designs, these wallpapers bring life and elegance to any room. Perfect for creating a tranquil aesthetic, they turn your walls into a floral paradise. Elevate your home decor effortlessly with our exquisite floral prints!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d wallpapers - floral aesthetic , mobile wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/77/59/e377592a4393fbb1b854f7825b3b2f69.jpg' alt='3d wallpapers - floral aesthetic , mobile wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/77/59/e377592a4393fbb1b854f7825b3b2f69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download High Definition Aesthetic Magnolia Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/high-definition-aesthetic-magnolia-flower-2u8o1ziqdib5wcxz.jpg' alt='Download High Definition Aesthetic Magnolia Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/high-definition-aesthetic-magnolia-flower-2u8o1ziqdib5wcxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Aesthetic Flower Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/3b/00/fc3b00291e638412d218ba8df906e604.jpg' alt='Awesome Aesthetic Flower Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/3b/00/fc3b00291e638412d218ba8df906e604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring bougainvillea flowers aesthetic iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/57/17/cb5717100bf54261eca49fd38cb1ce0e.jpg' alt='spring bougainvillea flowers aesthetic iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/57/17/cb5717100bf54261eca49fd38cb1ce0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Magenta Flowers Image Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pretty-magenta-flowers-image-1wtg192yojiiw5x1.jpg' alt='Pretty Magenta Flowers Image Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pretty-magenta-flowers-image-1wtg192yojiiw5x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="54 Flower Aesthetic Wallpaper ideas | flower aesthetic, flower ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/95/3b/de/953bde8313136c8b16c99648851aba40.jpg' alt='54 Flower Aesthetic Wallpaper ideas | flower aesthetic, flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/95/3b/de/953bde8313136c8b16c99648851aba40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Aesthetic Bougainvillea Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/violet-aesthetic-bougainvillea-flowers-489ou6n1vv8fh4us.jpg' alt='Violet Aesthetic Bougainvillea Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/violet-aesthetic-bougainvillea-flowers-489ou6n1vv8fh4us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best Flower aesthetic ideas | flower aesthetic, flower ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5f/96/49/5f964935094ae176b33ec1dc486c664b.jpg' alt='290 Best Flower aesthetic ideas | flower aesthetic, flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5f/96/49/5f964935094ae176b33ec1dc486c664b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36 Elegant Flower Wallpapers You Need to Save - SooPush">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/18/25/04/1825048b3213449d0f3261eec8406015.jpg' alt='36 Elegant Flower Wallpapers You Need to Save - SooPush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/18/25/04/1825048b3213449d0f3261eec8406015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2903-25838 | Blue Bell, Orla Rose Floral - A Street Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/2903-25838.jpg?v=1664258418' alt='2903-25838 | Blue Bell, Orla Rose Floral - A Street Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/2903-25838.jpg?v=1664258418' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

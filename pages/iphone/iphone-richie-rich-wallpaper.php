@@ -1,0 +1,129 @@
+<title>Luxury iPhone Wallpapers: Richie Rich Collection</title>
+                    <meta name="description" content="Discover the exclusive Richie Rich iPhone wallpapers that bring a touch of luxury to your device. Choose from high-quality designs that embody wealth and style, perfect for showcasing your personality. Download the perfect wallpaper today for a unique, opulent look!">
+                    <meta name="keywords" content="iphone richie rich wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-richie-rich-wallpaper">
+                            <span itemprop="name">iphone richie rich wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxury iPhone Wallpapers: Richie Rich Collection</h1>
+                <p>Transform your iPhone into a symbol of luxury with our exclusive Richie Rich wallpapers. These vibrant designs capture the charm of wealth and extravagance, featuring high-quality images that showcase opulence. Whether you love classic styles or modern aesthetics, find the perfect wallpaper to reflect your personality and elevate your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/24/c4/cb24c4911b8c78a60ec935e9c9f2fe4f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/24/c4/cb24c4911b8c78a60ec935e9c9f2fe4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/cb/5d/19cb5d411280da278ba0d8e75d63b05c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/cb/5d/19cb5d411280da278ba0d8e75d63b05c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie rich">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1c/3e/75/1c3e7557395753f1b66901531db46673.jpg' alt='Richie rich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1c/3e/75/1c3e7557395753f1b66901531db46673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich. Works hard get that money Painting by Nenikas Art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/ca/09/1cca0998cae9ce03904ac7475697ff43.jpg' alt='Richie Rich. Works hard get that money Painting by Nenikas Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/ca/09/1cca0998cae9ce03904ac7475697ff43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich Wallpaper In High Quality | myphonewalls | Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/bb/d8/bbbbd8fac86d61bbd4e316a8c47c44f9.jpg' alt='Richie Rich Wallpaper In High Quality | myphonewalls | Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/bb/d8/bbbbd8fac86d61bbd4e316a8c47c44f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich - Bank Night Deposits (120x90 cm)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/b3/6b/71b36b83ee8d1e2d1cfa25a8212c5d29.jpg' alt='Richie Rich - Bank Night Deposits (120x90 cm)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/b3/6b/71b36b83ee8d1e2d1cfa25a8212c5d29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/45/58/7d45582bfc46026a272b11d9448e92f1.jpg' alt='Richie Rich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/45/58/7d45582bfc46026a272b11d9448e92f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich wallpaper by morningstarmike - Download on ZEDGE™ | b15c">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=VEgHUTNp4vgO_Spz3oRvsrXyOyfvPqxEYbgbt8mGGyIlyWYo-fPPxoOOeCBR2uPBYc4DGFdm_OILfWjiC445phyqRJGq3tzxmKnauLM9sGzhjvkpFnI4zefOZqX30tPWodWfHeHQXN6MYGvmCBdgzTKXUzGPSx1hciZFc0rGFZjGFlJSiaQyZKIjQx3lL_Me_1Vqg85FHGxblWw5Jvykjuk-gQY7ouVeYGkbmelI_kgfpb4nnh8Bjwwngk4' alt='Richie Rich wallpaper by morningstarmike - Download on ZEDGE™ | b15c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=VEgHUTNp4vgO_Spz3oRvsrXyOyfvPqxEYbgbt8mGGyIlyWYo-fPPxoOOeCBR2uPBYc4DGFdm_OILfWjiC445phyqRJGq3tzxmKnauLM9sGzhjvkpFnI4zefOZqX30tPWodWfHeHQXN6MYGvmCBdgzTKXUzGPSx1hciZFc0rGFZjGFlJSiaQyZKIjQx3lL_Me_1Vqg85FHGxblWw5Jvykjuk-gQY7ouVeYGkbmelI_kgfpb4nnh8Bjwwngk4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Richie Rich iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14323974.jpg' alt='Richie Rich iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14323974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ｍｏｎｅｙ   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/a6/55/fca655b227221f8dc31efb0153776b4b.jpg' alt='Ｍｏｎｅｙ   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/a6/55/fca655b227221f8dc31efb0153776b4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

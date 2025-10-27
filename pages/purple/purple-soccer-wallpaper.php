@@ -1,0 +1,129 @@
+<title>Vibrant Purple Soccer Wallpaper for Fans</title>
+                    <meta name="description" content="Explore our vibrant purple soccer wallpaper collection, perfect for every soccer enthusiast. Elevate your space with designs that showcase your love for the game while adding a chic flair. Ideal for home, office, or fan zones. Shop now and bring your passion to life with our stunning wallpapers!">
+                    <meta name="keywords" content="purple soccer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-soccer-wallpaper">
+                            <span itemprop="name">purple soccer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Soccer Wallpaper for Fans</h1>
+                <p>Transform your space with stunning purple soccer wallpaper! This vibrant design captures the passion of the game while adding a unique, stylish touch to any room. Perfect for fans, players, or anyone looking to spruce up their walls. Discover the beauty and energy of soccer in a striking purple palette.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1197266053/photo/soccer-ball-on-in-amazing-blue-and-purple-space-background-concept-of-advertising-football.jpg?s=612x612&w=0&k=20&c=Ea7t3mqUPDqNLuaq_hS_vaIALQCORegT-O49gw6lTVM=' alt='1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1197266053/photo/soccer-ball-on-in-amazing-blue-and-purple-space-background-concept-of-advertising-football.jpg?s=612x612&w=0&k=20&c=Ea7t3mqUPDqNLuaq_hS_vaIALQCORegT-O49gw6lTVM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Soccer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/capturing-passion-football_1285008-10056.jpg?semt=ais_hybrid' alt='Purple Soccer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/capturing-passion-football_1285008-10056.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Soccer Images – Browse 14,002 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/36/13/68/360_F_736136825_LZ1nOwTgstTC2UXU38I3l8BXGxrDzzS2.jpg' alt='Purple Soccer Images – Browse 14,002 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/36/13/68/360_F_736136825_LZ1nOwTgstTC2UXU38I3l8BXGxrDzzS2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Purple Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/creative-artwork-male-soccer-football-260nw-2168168545.jpg' alt='Soccer Purple Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="693">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/creative-artwork-male-soccer-football-260nw-2168168545.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1396888708/photo/soccer-ball-with-connection-dots-and-plexus-lines-metaverse-abstract-technology-concept.jpg?s=612x612&w=0&k=20&c=x4myEtLtAnUnWQZxhvoqjZJmTqvVwTh3_F9kWl6e2gw=' alt='1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1396888708/photo/soccer-ball-with-connection-dots-and-plexus-lines-metaverse-abstract-technology-concept.jpg?s=612x612&w=0&k=20&c=x4myEtLtAnUnWQZxhvoqjZJmTqvVwTh3_F9kWl6e2gw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Football Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-67343.jpg?semt=ais_hybrid' alt='Purple Football Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-67343.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Soccer ⚽️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/57/8c/06578c9d207b4b1a7f0caa2e4df1b2f9.jpg' alt='Pin on Soccer ⚽️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/57/8c/06578c9d207b4b1a7f0caa2e4df1b2f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,674 Purple Soccer Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/soccer-ball-purple-pink-background-concept-advertising-football-competition-blue-green-ink-water-white-fantastic-168129689.jpg' alt='1,674 Purple Soccer Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/soccer-ball-purple-pink-background-concept-advertising-football-competition-blue-green-ink-water-white-fantastic-168129689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2156906168/photo/a-stylized-purple-soccer-ball-on-a-purple-background.jpg?s=612x612&w=0&k=20&c=rU40bXSrE81qenT7U10iDfQqHpMvqLz6LUeoPK5fcps=' alt='1,700+ Purple Soccer Ball Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2156906168/photo/a-stylized-purple-soccer-ball-on-a-purple-background.jpg?s=612x612&w=0&k=20&c=rU40bXSrE81qenT7U10iDfQqHpMvqLz6LUeoPK5fcps=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixelTabs: The best source of AI-Images, Templates and HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/47/30/304730620b70cafba34c2e9d6e677d69.jpg' alt='PixelTabs: The best source of AI-Images, Templates and HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/47/30/304730620b70cafba34c2e9d6e677d69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

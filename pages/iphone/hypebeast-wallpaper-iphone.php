@@ -1,0 +1,129 @@
+<title>Hypebeast iPhone Wallpaper Collection</title>
+                    <meta name="description" content="Explore our curated collection of hypebeast wallpapers for iPhone. Transform your device with stylish designs that reflect the latest streetwear trends and urban culture. Ideal for anyone looking to express their individuality and stay ahead in fashion. Download your favorites today!">
+                    <meta name="keywords" content="hypebeast wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hypebeast-wallpaper-iphone">
+                            <span itemprop="name">hypebeast wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hypebeast iPhone Wallpaper Collection</h1>
+                <p>Elevate your iPhone aesthetic with exclusive hypebeast wallpapers! Discover a range of trendy designs featuring iconic streetwear brands, urban art, and vibrant colors that resonate with contemporary culture. Perfect for fashion enthusiasts and trendsetters aiming to showcase their unique style and personality through their device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hypebeast Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-art-work-hypebeast-off-white-6fbby3no8x8hj0vd.jpg' alt='100+] Hypebeast Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-art-work-hypebeast-off-white-6fbby3no8x8hj0vd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hypebeast BAPE Cave iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/2c/86/032c86db95ce63405ae2af11739eb717.jpg' alt='Hypebeast BAPE Cave iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/2c/86/032c86db95ce63405ae2af11739eb717.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My wallpaper, if anyone has any like hypebeast themes or ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-wallpaper-if-anyone-has-any-like-hypebeast-themes-or-v0-03xof7mp9otb1.jpg?width=1290&format=pjpg&auto=webp&s=86acf71e66a7de73882fa094b2799d0156852849' alt='My wallpaper, if anyone has any like hypebeast themes or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-wallpaper-if-anyone-has-any-like-hypebeast-themes-or-v0-03xof7mp9otb1.jpg?width=1290&format=pjpg&auto=webp&s=86acf71e66a7de73882fa094b2799d0156852849' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="820 Hypebeast Wallpapers ideas | hypebeast wallpaper, supreme ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/99/71/1f/99711fb90d3798fc4e74faa0c9aa31b8.jpg' alt='820 Hypebeast Wallpapers ideas | hypebeast wallpaper, supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/99/71/1f/99711fb90d3798fc4e74faa0c9aa31b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Lime, black, hype, hypebeast, iphone, logo, minimal, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/23/201/HD-wallpaper-nike-lime-black-hype-hypebeast-iphone-logo-minimal.jpg' alt='Nike Lime, black, hype, hypebeast, iphone, logo, minimal, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/23/201/HD-wallpaper-nike-lime-black-hype-hypebeast-iphone-logo-minimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Hypebeast wallpaper ideas | hypebeast wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/22/9c/c4/229cc4f9407e35d61932d190d165b6ee.jpg' alt='12 Hypebeast wallpaper ideas | hypebeast wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/22/9c/c4/229cc4f9407e35d61932d190d165b6ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Hypebeast Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-hypebeast-8xqvtnajt0uylf4k.jpg' alt='Aesthetic Hypebeast Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-hypebeast-8xqvtnajt0uylf4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hypebeast Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-fan-art-hypebeast-z4wuc2wvg7n93v1w.jpg' alt='100+] Hypebeast Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-fan-art-hypebeast-z4wuc2wvg7n93v1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Hypebeast Supreme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-hypebeast-supreme-rbd1zlra45sf3ewm.jpg' alt='Cool Hypebeast Supreme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-hypebeast-supreme-rbd1zlra45sf3ewm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="93 Best hypebeast wallpaper ideas | hypebeast wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/aa/d9/77/aad977d5253bc42ba0600d95701c06ad.jpg' alt='93 Best hypebeast wallpaper ideas | hypebeast wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/aa/d9/77/aad977d5253bc42ba0600d95701c06ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

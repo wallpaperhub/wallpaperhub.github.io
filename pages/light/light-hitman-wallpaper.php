@@ -1,0 +1,129 @@
+<title>Striking Light Hitman Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore captivating light hitman wallpapers to elevate your device's look. Choose from a variety of sleek, artistic designs that embody mystery and style. Perfect for adding a unique touch, these wallpapers are ideal for anyone wanting to make a bold statement on their screens. Download now and transform your background!">
+                    <meta name="keywords" content="light hitman wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-hitman-wallpaper">
+                            <span itemprop="name">light hitman wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Striking Light Hitman Wallpapers for Your Device</h1>
+                <p>Discover the edgy aesthetic of light hitman wallpapers, perfect for adding a touch of intrigue to your device! These wallpapers blend sleek graphics with a mysterious vibe, making your screens come alive. From minimalist designs to vibrant illustrations, find the perfect background that complements your style and speaks to your inner assassin.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum">
+                                <img itemprop="contentUrl url" src='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/2X/3/39ffc51a448bf56a2bc4633be55ebdfdcf54101a.jpeg' alt='Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitman Forum" />
+                                </span>
+                                <a href='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/2X/3/39ffc51a448bf56a2bc4633be55ebdfdcf54101a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game, Hitman 3, Light, Neon, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/524/672/HD-wallpaper-video-game-hitman-3-light-neon.jpg' alt='Video Game, Hitman 3, Light, Neon, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/524/672/HD-wallpaper-video-game-hitman-3-light-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum">
+                                <img itemprop="contentUrl url" src='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/b/9/b9e37924bd27a6af762354c904094505bea591e0.jpeg' alt='Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitman Forum" />
+                                </span>
+                                <a href='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/b/9/b9e37924bd27a6af762354c904094505bea591e0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum">
+                                <img itemprop="contentUrl url" src='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/3/3/33f27663d05859d5872759ace6db7269abfb4a5f.jpeg' alt='Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitman Forum" />
+                                </span>
+                                <a href='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/3/3/33f27663d05859d5872759ace6db7269abfb4a5f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hitman Phone Agent 47 Neon Lights Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hitman-phone-djc2cev7oq4mc58n.jpg' alt='Download Hitman Phone Agent 47 Neon Lights Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hitman-phone-djc2cev7oq4mc58n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum">
+                                <img itemprop="contentUrl url" src='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/4/d/4d02be67d29c60d817c3e60745783cc486216dbe.jpeg' alt='Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitman Forum" />
+                                </span>
+                                <a href='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/4/d/4d02be67d29c60d817c3e60745783cc486216dbe.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper light, weapons, hitman for mobile and desktop, section ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/d/a7/hitman-svet-oruzhie.webp' alt='Wallpaper light, weapons, hitman for mobile and desktop, section ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/d/a7/hitman-svet-oruzhie.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Man In A Suit Is Holding A Light | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hd-hitman-2-background-hmwebmz5hp99kvio.jpg' alt='Download A Man In A Suit Is Holding A Light | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hd-hitman-2-background-hmwebmz5hp99kvio.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum">
+                                <img itemprop="contentUrl url" src='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/4/b/4b4d2543e48939903b23ff005f26091d12891568.jpeg' alt='Hitman 3 Wallpapers - Hitman: World of Assassination - Hitman Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitman Forum" />
+                                </span>
+                                <a href='https://hitmanforum-v6-s3-uploads.s3.dualstack.us-west-1.amazonaws.com/original/3X/4/b/4b4d2543e48939903b23ff005f26091d12891568.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hitman With American Flag Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/hitman-with-american-flag-lights-xqzg72xarq1kgfts.jpg' alt='Hitman With American Flag Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/hitman-with-american-flag-lights-xqzg72xarq1kgfts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

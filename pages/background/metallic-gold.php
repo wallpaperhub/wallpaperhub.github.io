@@ -1,0 +1,129 @@
+<title>Metallic Gold: The Ultimate Symbol of Luxury and Elegance</title>
+                    <meta name="description" content="Discover the allure of metallic gold! From stunning jewelry to high-tech applications, explore how this treasured metal symbolizes wealth and sophistication. Learn why metallic gold continues to captivate and inspire in various industries and cultures.">
+                    <meta name="keywords" content="metallic gold">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metallic-gold">
+                            <span itemprop="name">metallic gold</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Metallic Gold: The Ultimate Symbol of Luxury and Elegance</h1>
+                <p>Metallic gold is a lustrous and highly coveted substance known for its rich color and malleability. Revered throughout history, it symbolizes wealth and luxury. Used in jewelry, electronics, and art, metallic gold's unique properties make it a timeless choice. Its ability to resist tarnish further enhances its appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Images – Browse 1,927,541 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg' alt='Metallic Gold Images – Browse 1,927,541 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/61/96/08/360_F_361960870_UW7evqdYC5VQloEmRJA3clZGQLq5Zauu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold - 92 - International Coatings">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-3uewkq06zr/images/stencil/1280x1280/products/327/561/metallic_gold__99673.1501614605.png?c=2' alt='Metallic Gold - 92 - International Coatings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Coatings" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-3uewkq06zr/images/stencil/1280x1280/products/327/561/metallic_gold__99673.1501614605.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Images – Browse 1,927,541 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/42/30/96/360_F_142309603_Gd1gk6PYoXThgZUN5oRFZDGsD5Aid8oj.jpg' alt='Metallic Gold Images – Browse 1,927,541 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/42/30/96/360_F_142309603_Gd1gk6PYoXThgZUN5oRFZDGsD5Aid8oj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/946/048/non_2x/gold-color-gradient-background-for-metallic-abstract-graphic-design-element-vector.jpg' alt='Metallic Gold Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1741">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/946/048/non_2x/gold-color-gradient-background-for-metallic-abstract-graphic-design-element-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Blazer Heavy Duty Commercial Faux Leather Vinyl Fabric - Sold  By The Yard - 54"">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10045541/r/il/86387e/1482381825/il_fullxfull.1482381825_5u85.jpg' alt='Metallic Gold Blazer Heavy Duty Commercial Faux Leather Vinyl Fabric - Sold  By The Yard - 54"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10045541/r/il/86387e/1482381825/il_fullxfull.1482381825_5u85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,833,400+ Gold Metallic Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1455549467/photo/golden-background-abstract-light-gold-metal-gradient-vector-blurred-illustration.jpg?s=612x612&w=0&k=20&c=nW8V-l0tkGHbCAYouq3GzWofqCW0H7Hxyvlq1seWWuQ=' alt='2,833,400+ Gold Metallic Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1455549467/photo/golden-background-abstract-light-gold-metal-gradient-vector-blurred-illustration.jpg?s=612x612&w=0&k=20&c=nW8V-l0tkGHbCAYouq3GzWofqCW0H7Hxyvlq1seWWuQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Texture Stock Illustrations – 142,020 Metallic Gold ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gold-foil-texture-background-grunge-golden-metallic-material-co-concept-luxury-packaging-paper-leaf-102855473.jpg' alt='Metallic Gold Texture Stock Illustrations – 142,020 Metallic Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gold-foil-texture-background-grunge-golden-metallic-material-co-concept-luxury-packaging-paper-leaf-102855473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Gold Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/946/046/small_2x/gold-color-gradient-background-for-metallic-abstract-graphic-design-element-vector.jpg' alt='Metallic Gold Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/946/046/small_2x/gold-color-gradient-background-for-metallic-abstract-graphic-design-element-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallic Foil Digital Papers, Gold metallic background By ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/800_3536496_fr4abujsjki1impqdew0pfso65v8jfgri3f0940t_metallic-foil-digital-papers-gold-metallic-background.jpg' alt='Metallic Foil Digital Papers, Gold metallic background By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/800_3536496_fr4abujsjki1impqdew0pfso65v8jfgri3f0940t_metallic-foil-digital-papers-gold-metallic-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Coolnail Shiny Punk Style Metallic Gold Color Press on ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/611sQ3upzbL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Coolnail Shiny Punk Style Metallic Gold Color Press on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/611sQ3upzbL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

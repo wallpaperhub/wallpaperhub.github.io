@@ -1,0 +1,129 @@
+<title>Top Freddie Prinze Jr. Movies You Can't Miss</title>
+                    <meta name="description" content="Explore the best movies featuring Freddie Prinze Jr. from romantic comedies to classic thrillers. Discover iconic films like "She's All That" and "I Know What You Did Last Summer" that showcased his talent and charm, making him a beloved figure in the 90s and 2000s film scene.">
+                    <meta name="keywords" content="movies with freddie prinze jr">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movies-with-freddie-prinze-jr">
+                            <span itemprop="name">movies with freddie prinze jr</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Freddie Prinze Jr. Movies You Can't Miss</h1>
+                <p>Freddie Prinze Jr. is known for his charm and versatility in various films. Iconic hits include "She's All That," where he plays a popular high schooler who bets on transforming an unpopular girl. Other notable performances are in "I Know What You Did Last Summer," a thrilling slasher, and the engaging comedy "Summer Catch." His roles have captured hearts and defined a memorable era in teen cinema.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddie Prinze Jr. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/cf/Freddie_Prinze%2C_Jr._%2827600088526%29_%28cropped%29.jpg' alt='Freddie Prinze Jr. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/cf/Freddie_Prinze%2C_Jr._%2827600088526%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Freddie Prinze Jr. Triple Feature [DVD] : Robert ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61HOOjRAFeL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Freddie Prinze Jr. Triple Feature [DVD] : Robert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61HOOjRAFeL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="She's All That (1999) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOGUyZTFiOTEtN2Y1Ny00NDFhLWEyMTMtZmE0MzNjODE3MzAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='She's All That (1999) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOGUyZTFiOTEtN2Y1Ny00NDFhLWEyMTMtZmE0MzNjODE3MzAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Down to You">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51iqgAaLOQL._AC_UF894,1000_QL80_.jpg' alt='Down to You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51iqgAaLOQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddie Prinze Jr. | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/70589_v9_bb.jpg' alt='Freddie Prinze Jr. | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/70589_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddie Prinze Jr explains why he was 'so angry' to be asked to ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2022/11/25/19/Collage%20Maker-25-Nov-2022-11.35-AM.jpg' alt='Freddie Prinze Jr explains why he was 'so angry' to be asked to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2022/11/25/19/Collage%20Maker-25-Nov-2022-11.35-AM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddie Prinze Jr. movie reviews & film summaries | Roger Ebert">
+                                <img itemprop="contentUrl url" src='https://www.rogerebert.com/wp-content/uploads/2024/03/Shes-All-That.jpg' alt='Freddie Prinze Jr. movie reviews & film summaries | Roger Ebert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roger Ebert" />
+                                </span>
+                                <a href='https://www.rogerebert.com/wp-content/uploads/2024/03/Shes-All-That.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Freddie Prinze Jr. Movies and Shows, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/Scooby-Doo-2.jpg' alt='Best Freddie Prinze Jr. Movies and Shows, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MovieWeb" />
+                                </span>
+                                <a href='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/Scooby-Doo-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Down to You (2000) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzE3MDg2M2QtMGM3Yi00NjIyLWI0NGQtMjViMzIwMDFkOTQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg' alt='Down to You (2000) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzE3MDg2M2QtMGM3Yi00NjIyLWI0NGQtMjViMzIwMDFkOTQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddie Prinze Jr. Has 'Regret' Over Playing Fred in Scooby-Doo">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/SocVLpxpQ1Mx1EzSbQijEgXbXc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x169:736x171)/freddie-prinze-jr-scooby-doo-031823-split-02ba6a2615bd4933ac918b82e7b86ed8.jpg' alt='Freddie Prinze Jr. Has 'Regret' Over Playing Fred in Scooby-Doo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/SocVLpxpQ1Mx1EzSbQijEgXbXc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(734x169:736x171)/freddie-prinze-jr-scooby-doo-031823-split-02ba6a2615bd4933ac918b82e7b86ed8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

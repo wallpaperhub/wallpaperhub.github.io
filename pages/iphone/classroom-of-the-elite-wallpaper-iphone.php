@@ -1,0 +1,129 @@
+<title>Top Classroom of the Elite iPhone Wallpapers - Download Now!</title>
+                    <meta name="description" content="Discover the best "Classroom of the Elite" wallpapers for your iPhone! Download unique designs that showcase your favorite characters and add a touch of anime excitement to your device. Perfect for fans seeking to personalize their screens effortlessly. Upgrade your wallpaper game today!">
+                    <meta name="keywords" content="classroom of the elite wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/classroom-of-the-elite-wallpaper-iphone">
+                            <span itemprop="name">classroom of the elite wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Classroom of the Elite iPhone Wallpapers - Download Now!</h1>
+                <p>Transform your iPhone with stunning "Classroom of the Elite" wallpapers! Explore a range of captivating designs featuring your favorite characters and moments from the series. Perfect for fans looking to personalize their devices and showcase their love for this thrilling anime. Download now and elevate your screen aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom of the elite Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/92/d0/d792d0894f7dc2fc4b6c2a0ca71e76a0.jpg' alt='Classroom of the elite Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/92/d0/d792d0894f7dc2fc4b6c2a0ca71e76a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD classroom of elite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/693/69/HD-wallpaper-ayanokoji-classroom-of-the-elite-thumbnail.jpg' alt='HD classroom of elite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/693/69/HD-wallpaper-ayanokoji-classroom-of-the-elite-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime/Classroom Of The Elite (750x1334) Wallpaper ID: 726860 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/8c/d0/a88cd01a4cb29f248b899ad654534a14.jpg' alt='Anime/Classroom Of The Elite (750x1334) Wallpaper ID: 726860 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/8c/d0/a88cd01a4cb29f248b899ad654534a14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD classroom of elite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/358/417/HD-wallpaper-kiyotaka-ayanokouji-anime-classroom-classroom-of-the-elite-elite-of-otaku-the.jpg' alt='HD classroom of elite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/358/417/HD-wallpaper-kiyotaka-ayanokouji-anime-classroom-classroom-of-the-elite-elite-of-otaku-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom of the Elite Characters 4K Wallpaper iPhone HD Phone #6321h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/classroom-of-the-elite-characters-632@1@h-phone-4k.jpg' alt='Classroom of the Elite Characters 4K Wallpaper iPhone HD Phone #6321h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/classroom-of-the-elite-characters-632@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="here's some cote wallpapers for you (not mine) : r/ClassroomOfTheElite">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/duj2uu0uh4961.jpg' alt='here's some cote wallpapers for you (not mine) : r/ClassroomOfTheElite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/duj2uu0uh4961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD classroom of elite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/608/764/HD-wallpaper-ayanokoji-classroom-of-elite-thumbnail.jpg' alt='HD classroom of elite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/608/764/HD-wallpaper-ayanokoji-classroom-of-elite-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Classroom Of The Elite Pfp Ideas Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/classroom-of-the-elite-pfp-ideas-innfbbhc4ubwp8sd.jpg' alt='Download Classroom Of The Elite Pfp Ideas Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/classroom-of-the-elite-pfp-ideas-innfbbhc4ubwp8sd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom of the Elite Characters 4K Wallpaper iPhone HD Phone #6391h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/classroom-of-the-elite-characters-639@1@h-phone-4k.jpg' alt='Classroom of the Elite Characters 4K Wallpaper iPhone HD Phone #6391h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/classroom-of-the-elite-characters-639@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom Of The Elite Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/976/976175.jpg' alt='Classroom Of The Elite Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1228">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/976/976175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Rita Ora: The Rising Star of Pop & Fashion</title>
+                    <meta name="description" content="Explore the world of Rita Ora, the British pop sensation known for her catchy hits and stunning style. Discover her journey in music, fashion, and film, and stay updated on her latest projects and collaborations. Join us as we celebrate this multifaceted artist's influence in the entertainment industry!">
+                    <meta name="keywords" content="rita ora">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rita-ora">
+                            <span itemprop="name">rita ora</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rita Ora: The Rising Star of Pop & Fashion</h1>
+                <p>Rita Ora is a talented British singer, songwriter, and actress known for her infectious pop hits and dynamic performances. Bursting onto the scene with her debut single "R.I.P," she quickly captivated audiences worldwide. Beyond music, Rita is also recognized for her fashion-forward style and vibrant personality, making her a prominent figure in entertainment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bf/Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg' alt='Rita Ora - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1714">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bf/Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTY1NzA4NDgwN15BMl5BanBnXkFtZTcwOTUyODM0Nw@@._V1_.jpg' alt='Rita Ora - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1340">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTY1NzA4NDgwN15BMl5BanBnXkFtZTcwOTUyODM0Nw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebc872d3c0c5491a40c98d0c44' alt='Rita Ora | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebc872d3c0c5491a40c98d0c44' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora Wore a Sheer Corseted Look to the Met Gala 2023 — See ...">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/645049895c5eb1872929efc3/3:2/w_3999,h_2666,c_limit/1486912870' alt='Rita Ora Wore a Sheer Corseted Look to the Met Gala 2023 — See ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3999">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/645049895c5eb1872929efc3/3:2/w_3999,h_2666,c_limit/1486912870' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora Was Unrecognizable At The 2024 Fashion Awards">
+                                <img itemprop="contentUrl url" src='https://www.glam.com/img/gallery/rita-ora-was-unrecognizable-at-the-2024-fashion-awards-reinforced-2025s-hottest-haircuts/intro-1733249596.jpg' alt='Rita Ora Was Unrecognizable At The 2024 Fashion Awards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glam" />
+                                </span>
+                                <a href='https://www.glam.com/img/gallery/rita-ora-was-unrecognizable-at-the-2024-fashion-awards-reinforced-2025s-hottest-haircuts/intro-1733249596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/679282_v9_bc.jpg' alt='Rita Ora | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/679282_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oscars: Rita Ora to Perform “Grateful”">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2014/04/rita_ora_mtv_movie_awards_a_p.jpg?w=2000&h=1126&crop=1' alt='Oscars: Rita Ora to Perform “Grateful”'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2014/04/rita_ora_mtv_movie_awards_a_p.jpg?w=2000&h=1126&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Billboard Music Awards 2017: Rita Ora Test-Drives a Faux Bob on ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/59222a0ecc21482bc9fa2f82/master/w_2560%2Cc_limit/00-lede-rita-ora.jpg' alt='Billboard Music Awards 2017: Rita Ora Test-Drives a Faux Bob on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/59222a0ecc21482bc9fa2f82/master/w_2560%2Cc_limit/00-lede-rita-ora.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora Debuts a Dramatic New Haircut at the Fashion Awards 2024">
+                                <img itemprop="contentUrl url" src='https://www.sheknows.com/wp-content/uploads/2024/12/rita-ora-fashion-awards-2024.jpg' alt='Rita Ora Debuts a Dramatic New Haircut at the Fashion Awards 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SheKnows" />
+                                </span>
+                                <a href='https://www.sheknows.com/wp-content/uploads/2024/12/rita-ora-fashion-awards-2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rita Ora and Taika Waititi Make Their Romance Red-Carpet Official">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/202173/rs_1200x1200-210803124054-1200-Rita-Ora-Taika-Waititi--mp.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' alt='Rita Ora and Taika Waititi Make Their Romance Red-Carpet Official'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/202173/rs_1200x1200-210803124054-1200-Rita-Ora-Taika-Waititi--mp.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

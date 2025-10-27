@@ -1,0 +1,129 @@
+<title>Revitalize Your Bathroom with Stylish Green Wallpaper</title>
+                    <meta name="description" content="Transform your bathroom with stunning green wallpaper that adds a refreshing touch. Discover a range of hues to suit any décor style and turn your space into a tranquil oasis. Perfect for enhancing ambiance and visual appeal, explore the best green wallpaper options today!">
+                    <meta name="keywords" content="bathroom wallpaper green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/bathroom-wallpaper-green">
+                            <span itemprop="name">bathroom wallpaper green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Bathroom with Stylish Green Wallpaper</h1>
+                <p>Enhance your bathroom's atmosphere with vibrant green wallpaper. Ideal for creating a fresh, calming space, green wallpaper brings nature indoors and pairs beautifully with various fixtures. From soft pastels to deep emerald shades, there’s a perfect option for every style. Elevate your bathroom’s elegance and enjoy a serene retreat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' alt='Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2242">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PREPASTE Matte WALLPAPER Caroline Green Large Neutral Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8124481/r/il/83cb94/3519498435/il_570xN.3519498435_72dz.jpg' alt='PREPASTE Matte WALLPAPER Caroline Green Large Neutral Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8124481/r/il/83cb94/3519498435/il_570xN.3519498435_72dz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Vintage Floral Wallpaper Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81umpTDNkoL._AC_UF350,350_QL80_.jpg' alt='Simon&Siff Vintage Floral Wallpaper Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81umpTDNkoL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Art Nouveau Wallpaper Peel and Stick and Traditional Wallpaper  - C281">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C281_02.png?v=1735316741&width=1946' alt='Green Floral Art Nouveau Wallpaper Peel and Stick and Traditional Wallpaper  - C281'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C281_02.png?v=1735316741&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Willow Removable Wallpaper Peel and Stick Self-adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/willow-removable-wallpaper-peel-and-stick-self-adhesive-wallpaper-573652.png?v=1718902434' alt='Willow Removable Wallpaper Peel and Stick Self-adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="1338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/willow-removable-wallpaper-peel-and-stick-self-adhesive-wallpaper-573652.png?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lines Boho Wallpaper CC278 – CostaCover">
+                                <img itemprop="contentUrl url" src='http://costacover.com/cdn/shop/products/02_104bd16a-f381-4b70-9585-4ad6d1c0c56a.jpg?v=1676669436' alt='Green Lines Boho Wallpaper CC278 – CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='http://costacover.com/cdn/shop/products/02_104bd16a-f381-4b70-9585-4ad6d1c0c56a.jpg?v=1676669436' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wandervine - Sage Green Botanical Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/Wandervine_SageGreen_Bathroom_WarmWood_Sink.jpg?v=1731422643&width=1080' alt='Wandervine - Sage Green Botanical Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/Wandervine_SageGreen_Bathroom_WarmWood_Sink.jpg?v=1731422643&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zurich Metallic Wallpaper in Emerald and Metallic Gold – I Love ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/Zurich_Green_ILW50561_0125_Updated.webp?crop=center&height=850&v=1729161798&width=850' alt='Zurich Metallic Wallpaper in Emerald and Metallic Gold – I Love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/Zurich_Green_ILW50561_0125_Updated.webp?crop=center&height=850&v=1729161798&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Beige Prism Wallpaper CC303">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/01_c9253ec5-7ba2-42fa-8575-4d8c67449a0d_1080x.jpg?v=1701796906' alt='Green Beige Prism Wallpaper CC303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/01_c9253ec5-7ba2-42fa-8575-4d8c67449a0d_1080x.jpg?v=1701796906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Curling Leaves Tropical Wallpaper R9008">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/SageCurlingLeavesTropicalWallpaperR9008.1.jpg?v=1736259590&width=1200' alt='Sage Curling Leaves Tropical Wallpaper R9008'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/SageCurlingLeavesTropicalWallpaperR9008.1.jpg?v=1736259590&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

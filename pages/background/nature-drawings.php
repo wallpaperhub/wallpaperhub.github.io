@@ -1,0 +1,129 @@
+<title>Stunning Nature Drawings: Celebrate the Beauty of the Outdoors</title>
+                    <meta name="description" content="Discover the beauty of nature through captivating drawings that highlight landscapes, plants, and wildlife. Appreciate artistry that promotes environmental awareness and inspires admiration for the natural world in just a few strokes. Perfect for art lovers and nature enthusiasts alike!">
+                    <meta name="keywords" content="nature drawings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nature-drawings">
+                            <span itemprop="name">nature drawings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nature Drawings: Celebrate the Beauty of the Outdoors</h1>
+                <p>Nature drawings capture the essence of the natural world, showcasing landscapes, flora, and fauna through a unique artistic lens. These artworks not only celebrate the beauty of nature but also raise awareness about environmental conservation. From detailed sketches to vibrant paintings, nature drawing invites viewers to appreciate the intricate details of the ecosystem.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape scenery drawing by pencil easy ways // Pencil drawing nature easy  //">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TK50ck4ZeCg/maxresdefault.jpg' alt='Landscape scenery drawing by pencil easy ways // Pencil drawing nature easy  //'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TK50ck4ZeCg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Pencil Landscape Drawing - Happy Family Art">
+                                <img itemprop="contentUrl url" src='https://www.happyfamilyart.com/wp-content/uploads/2014/10/CPLandscape52.jpg' alt='Color Pencil Landscape Drawing - Happy Family Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happy Family Art" />
+                                </span>
+                                <a href='https://www.happyfamilyart.com/wp-content/uploads/2014/10/CPLandscape52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature scenery drawing for beginners / easy and step by step - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9VJJSCVH_Wk/sddefault.jpg' alt='Nature scenery drawing for beginners / easy and step by step - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9VJJSCVH_Wk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Close-Up Photographs Of Wild Animals In Their Natural ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/73/95/64/7395646e7929c363d82727c9e70cb453.jpg' alt='35 Close-Up Photographs Of Wild Animals In Their Natural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/73/95/64/7395646e7929c363d82727c9e70cb453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Drawings for Kids - 3-Minute Drawings | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=597161186173444' alt='Nature Drawings for Kids - 3-Minute Drawings | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=597161186173444' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Scenery Drawing - How To Draw Beautiful Nature Scenery - Oil Pastel  Drawing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/R8XwRPqYZ2o/maxresdefault.jpg' alt='Easy Scenery Drawing - How To Draw Beautiful Nature Scenery - Oil Pastel  Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/R8XwRPqYZ2o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencil Drawing Tutorial | Beautiful Scenery Drawing Techniques ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/99/29/b999297f218fceac3765f6e328d5c7c2.jpg' alt='Pencil Drawing Tutorial | Beautiful Scenery Drawing Techniques ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/99/29/b999297f218fceac3765f6e328d5c7c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Joy of Drawing Nature — Nature Journaling Week">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e3e89d8f6716e2a49dc1faf/026e04b9-34e9-4f96-99c0-b168a21e9f8a/some+drawings+of+2021.jpg' alt='The Joy of Drawing Nature — Nature Journaling Week'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Journaling Week" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e3e89d8f6716e2a49dc1faf/026e04b9-34e9-4f96-99c0-b168a21e9f8a/some+drawings+of+2021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature drawing with 2025 colour">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b9/71/f5/b971f5eed5e6c9a13fe4b97562ea6b8c.jpg' alt='Nature drawing with 2025 colour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b9/71/f5/b971f5eed5e6c9a13fe4b97562ea6b8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nature drawing Archives - INESE'S ART STUDIO">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/inesepogagallery.com/wp-content/uploads/I12-MG_6974-2-draw-buildings.jpg?ssl=1' alt='nature drawing Archives - INESE'S ART STUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1562">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="inese's art studio" />
+                                </span>
+                                <a href='https://i0.wp.com/inesepogagallery.com/wp-content/uploads/I12-MG_6974-2-draw-buildings.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

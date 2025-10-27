@@ -1,0 +1,129 @@
+<title>Doraemon: The Timeless Cat from the Future</title>
+                    <meta name="description" content="Explore the enchanting world of Doraemon, the futuristic cat who captivates hearts. Discover his adventures with Nobita, showcasing friendship, creativity, and life lessons through iconic gadgets. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="doraemon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/doraemon-background">
+                            <span itemprop="name">doraemon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Doraemon: The Timeless Cat from the Future</h1>
+                <p>Doraemon is a beloved robotic cat from the future, created by Fujiko F. Fujio. With his signature blue color, large round face, and magical pocket filled with futuristic gadgets, he helps his friend Nobita Nobi navigate life’s challenges. The stories promote friendship, imagination, and the importance of doing good deeds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/053/034/non_2x/blue-cat-flying-with-his-gadget-in-the-sky-background-free-vector.jpg' alt='Doraemon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/053/034/non_2x/blue-cat-flying-with-his-gadget-in-the-sky-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/992/445/small/blue-cat-robot-flying-over-the-garden-free-vector.jpg' alt='Doraemon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/992/445/small/blue-cat-robot-flying-over-the-garden-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/023/601/603/small/cute-robot-cat-background-free-vector.jpg' alt='Doraemon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/023/601/603/small/cute-robot-cat-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon wallpaper by BryaannT - Download on ZEDGE™ | 0fed">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d8/62/a9/d862a94588eeb43a6d4090727511687e.jpg' alt='Doraemon wallpaper by BryaannT - Download on ZEDGE™ | 0fed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d8/62/a9/d862a94588eeb43a6d4090727511687e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captivating Doraemon Iphone Digital Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/captivating-doraemon-iphone-digital-art-jkr87ywwzbv8dpg6.jpg' alt='Captivating Doraemon Iphone Digital Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/captivating-doraemon-iphone-digital-art-jkr87ywwzbv8dpg6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/225/382/small/cute-blue-cat-background-free-vector.jpg' alt='Doraemon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/225/382/small/cute-blue-cat-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Official Free Doraemon Wallpapers From Doraemon Channel ...">
+                                <img itemprop="contentUrl url" src='https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2020/04/1d50261738140f730962cf8f1d66b3e8.jpg' alt='Download Official Free Doraemon Wallpapers From Doraemon Channel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="moshi moshi nippon" />
+                                </span>
+                                <a href='https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2020/04/1d50261738140f730962cf8f1d66b3e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Doraemon, Cartoon, Background. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2021/04/13/07/54/doraemon-6174954_1280.jpg' alt='Download Doraemon, Cartoon, Background. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2021/04/13/07/54/doraemon-6174954_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: doraemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/ca/d7/b6cad7f3c7c7f0c791eae9b9cf9621b2.jpg' alt='HD wallpaper: doraemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/ca/d7/b6cad7f3c7c7f0c791eae9b9cf9621b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doraemon Wallpaper 4K, TV series, Yellow background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/doraemon-tv-series-3440x1440-13864.png' alt='Doraemon Wallpaper 4K, TV series, Yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/doraemon-tv-series-3440x1440-13864.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

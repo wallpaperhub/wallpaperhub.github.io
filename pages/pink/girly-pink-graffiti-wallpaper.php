@@ -1,0 +1,129 @@
+<title>Vibrant Girly Pink Graffiti Wallpaper for a Playful Space</title>
+                    <meta name="description" content="Discover our stunning girly pink graffiti wallpaper, perfect for adding a touch of fun and style to any room. Its unique blend of bold art and feminine hues creates an inspiring atmosphere. Easy to install and perfect for all ages, this wallpaper is sure to make a statement in your home!">
+                    <meta name="keywords" content="girly pink graffiti wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/girly-pink-graffiti-wallpaper">
+                            <span itemprop="name">girly pink graffiti wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Girly Pink Graffiti Wallpaper for a Playful Space</h1>
+                <p>Transform your space with girly pink graffiti wallpaper! This vibrant design adds a playful touch, making it perfect for bedrooms, nurseries, or creative studios. The fusion of edgy graffiti art with feminine colors creates a unique ambiance that celebrates individuality. Easy to apply, this wallpaper brings life and personality to any wall!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Brick Wall - Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64849/graffiti-brick-wall-pink.jpg?h=699&q=85' alt='Graffiti Brick Wall - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64849/graffiti-brick-wall-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="graffiti phone wallpapers | Graffiti wallpaper iphone, Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/26/87/e12687549a063b7eb8e72e9f8b858b3d.jpg' alt='graffiti phone wallpapers | Graffiti wallpaper iphone, Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/26/87/e12687549a063b7eb8e72e9f8b858b3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Graffiti Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-seamless-fashion-pattern-girl-260nw-2059524194.jpg' alt='Pink Graffiti Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-seamless-fashion-pattern-girl-260nw-2059524194.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Graffiti Airbrush Pink Airbrushed Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1937071522/vector/pink-graffiti-freestyle-art-spraypaint-background.jpg?s=612x612&w=0&k=20&c=_M-VIWwcbMLH0exisZ_yYGLuagyev6q8AeBzjwPdHkU=' alt='200+ Graffiti Airbrush Pink Airbrushed Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1937071522/vector/pink-graffiti-freestyle-art-spraypaint-background.jpg?s=612x612&w=0&k=20&c=_M-VIWwcbMLH0exisZ_yYGLuagyev6q8AeBzjwPdHkU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Art Poetry - Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/67940/street-art-poetry-pink.jpg?h=699&q=85' alt='Street Art Poetry - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/67940/street-art-poetry-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Pink Graffiti Wallpaper Glitter Spray Paint Embossed ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81eASClX9BL._AC_UF894,1000_QL80_.jpg' alt='Girls Pink Graffiti Wallpaper Glitter Spray Paint Embossed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81eASClX9BL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Graffiti Wall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/05/d8/3705d8f82363d3797624af598d43b974.jpg' alt='Pink Graffiti Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/05/d8/3705d8f82363d3797624af598d43b974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,900+ Pink Graffiti Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/852944612/vector/graffiti-seamless-pattern-with-girlish-style-doodles.jpg?s=612x612&w=0&k=20&c=IIgHXCokWHXcXcmA0ddHaGQvuD5k0kePBknfGIjrZ-4=' alt='3,900+ Pink Graffiti Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/852944612/vector/graffiti-seamless-pattern-with-girlish-style-doodles.jpg?s=612x612&w=0&k=20&c=IIgHXCokWHXcXcmA0ddHaGQvuD5k0kePBknfGIjrZ-4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Grey Graffiti Style Modern Name Wallpaper Mural Bedroom Playroom Games  Room Feature Wall Mural Decor Fit With Standard Wallpaper Paste">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29318579/r/il/c0f407/3378606710/il_570xN.3378606710_ast7.jpg' alt='Pink Grey Graffiti Style Modern Name Wallpaper Mural Bedroom Playroom Games  Room Feature Wall Mural Decor Fit With Standard Wallpaper Paste'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29318579/r/il/c0f407/3378606710/il_570xN.3378606710_ast7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Graffiti">
+                                <img itemprop="contentUrl url" src='https://liquidconcepts.com/wp-content/uploads/2023/04/Graffiti-Pink-WR.jpg' alt='Pink Graffiti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liquid Concepts" />
+                                </span>
+                                <a href='https://liquidconcepts.com/wp-content/uploads/2023/04/Graffiti-Pink-WR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ryan Reynolds: The Multifaceted Star of Hollywood</title>
+                    <meta name="description" content="Explore the life and career of Ryan Reynolds, the charismatic actor behind iconic roles in Hollywood. From action-packed adventures to romantic comedies, discover what makes him a beloved figure in film and beyond. Dive into his journey as an actor, producer, and entrepreneur.">
+                    <meta name="keywords" content="ryan reynolds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ryan-reynolds">
+                            <span itemprop="name">ryan reynolds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ryan Reynolds: The Multifaceted Star of Hollywood</h1>
+                <p>Ryan Reynolds is a Canadian actor and producer, celebrated for his roles in films like "Deadpool," "The Proposal," and "Detective Pikachu." Known for his charm and wit, Reynolds combines action with comedy, earning him a massive fanbase. Beyond acting, he is an entrepreneur and philanthropist, making him a versatile star.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg' alt='Ryan Reynolds - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1761">
+                                <meta itemprop="height" content="2641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzRiNDhiMDQtYWZkMS00ZjU5LTg5NzUtOTc4NzE2Yzc0ZWUwXkEyXkFqcGc@._V1_.jpg' alt='Ryan Reynolds - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2034">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzRiNDhiMDQtYWZkMS00ZjU5LTg5NzUtOTc4NzE2Yzc0ZWUwXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds | Biography, Movies, Wife, Soccer Team, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/85/205685-050-24677990/Ryan-Reynolds-2011.jpg' alt='Ryan Reynolds | Biography, Movies, Wife, Soccer Team, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/85/205685-050-24677990/Ryan-Reynolds-2011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MNTN Is Selling Ryan Reynolds' Agency Maximum Effort, SEC Filing Shows">
+                                <img itemprop="contentUrl url" src='https://www.adweek.com/wp-content/uploads/2024/09/ryan-reynolds-mntn-ipo-2024.jpg?w=640&h=360&crop=1' alt='MNTN Is Selling Ryan Reynolds' Agency Maximum Effort, SEC Filing Shows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adweek" />
+                                </span>
+                                <a href='https://www.adweek.com/wp-content/uploads/2024/09/ryan-reynolds-mntn-ipo-2024.jpg?w=640&h=360&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds (Actor)">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/02/Ryan-Reynolds.jpg?w=1024' alt='Ryan Reynolds (Actor)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/02/Ryan-Reynolds.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds Signs First-Look Film Deal at Paramount">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2020/08/ryan-reynolds.jpg' alt='Ryan Reynolds Signs First-Look Film Deal at Paramount'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2020/08/ryan-reynolds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds on Boy Band Film, Viral Ads & No More Solo Deadpool ...">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2024/12/35fea_producer-MAIN-003_GA_210518_295-1-SPLASH-2024.jpg?w=2000&h=1126&crop=1' alt='Ryan Reynolds on Boy Band Film, Viral Ads & No More Solo Deadpool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2024/12/35fea_producer-MAIN-003_GA_210518_295-1-SPLASH-2024.jpg?w=2000&h=1126&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Ryan Reynolds' Hairstyle - Men's Journal">
+                                <img itemprop="contentUrl url" src='https://www.mensjournal.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MjExNDk3NTc4NDEwMjg4Mjg3/ryan-reynolds-hairstyle-main.png' alt='How to Get Ryan Reynolds' Hairstyle - Men's Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Journal" />
+                                </span>
+                                <a href='https://www.mensjournal.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MjExNDk3NTc4NDEwMjg4Mjg3/ryan-reynolds-hairstyle-main.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb9e47c072d213643ba9e59a6f' alt='Ryan Reynolds Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb9e47c072d213643ba9e59a6f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan Reynolds | The Fast and the Furious Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fastandfurious/images/6/61/Ryan_Reynolds.jpg/revision/latest?cb=20230210104841' alt='Ryan Reynolds | The Fast and the Furious Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fast and the Furious Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fastandfurious/images/6/61/Ryan_Reynolds.jpg/revision/latest?cb=20230210104841' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

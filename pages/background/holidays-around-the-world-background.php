@@ -1,0 +1,129 @@
+<title>Celebrate Global Holidays: A Cultural Journey</title>
+                    <meta name="description" content="Discover the rich tapestry of holidays around the world! Explore diverse traditions, cultural significance, and unique celebrations from various regions. Join us in appreciating the global festivities that bring people together and enhance our understanding of different cultures. Perfect for curious minds and travel enthusiasts!">
+                    <meta name="keywords" content="holidays around the world background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/holidays-around-the-world-background">
+                            <span itemprop="name">holidays around the world background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Global Holidays: A Cultural Journey</h1>
+                <p>Holidays around the world reflect diverse cultures and traditions. Each celebration holds unique significance, from Diwali lights in India to the festive spirit of Christmas in the West. Understanding these customs not only enriches our knowledge but also fosters appreciation for global diversity. Explore the beautiful tapestry of global festivities!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Holidays Around the World - Little Passports">
+                                <img itemprop="contentUrl url" src='https://www.littlepassports.com/wp-content/uploads/2022/04/Holidays-around-the-world-Little-Passports.jpg' alt='17 Holidays Around the World - Little Passports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Passports" />
+                                </span>
+                                <a href='https://www.littlepassports.com/wp-content/uploads/2022/04/Holidays-around-the-world-Little-Passports.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,600+ Christmas Around The World Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1186759469/vector/christmas-tree-on-planet-earth.jpg?s=612x612&w=0&k=20&c=1Poo13AZyPX5DnDYZIlOI8nCRoqlN3AC6CtNazJFnMo=' alt='9,600+ Christmas Around The World Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1186759469/vector/christmas-tree-on-planet-earth.jpg?s=612x612&w=0&k=20&c=1Poo13AZyPX5DnDYZIlOI8nCRoqlN3AC6CtNazJFnMo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Traditions Around The World - Kids Read Now">
+                                <img itemprop="contentUrl url" src='https://kidsreadnow.org/wp-content/uploads/2016/12/World-Holidays.webp' alt='Holiday Traditions Around The World - Kids Read Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1343">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids Read Now" />
+                                </span>
+                                <a href='https://kidsreadnow.org/wp-content/uploads/2016/12/World-Holidays.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,600+ Christmas Around The World Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/612032126/vector/christmas-around-the-world.jpg?s=612x612&w=0&k=20&c=EGfn0gaaH597sCY3b-kU6k0PMmymt_fh4Fsnt9txJvo=' alt='9,600+ Christmas Around The World Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/612032126/vector/christmas-around-the-world.jpg?s=612x612&w=0&k=20&c=EGfn0gaaH597sCY3b-kU6k0PMmymt_fh4Fsnt9txJvo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holidays Around The World Fabric, Wallpaper and Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8211391/p/f/m/hScv_lAvt11jW5VUNrrNWJaBJnMD7IOZC0ahL9rxiTbi0e1IUJk/Merry%20Christmas.jpg' alt='Holidays Around The World Fabric, Wallpaper and Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8211391/p/f/m/hScv_lAvt11jW5VUNrrNWJaBJnMD7IOZC0ahL9rxiTbi0e1IUJk/Merry%20Christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn More About Holidays Around The World With Infobase - Infobase">
+                                <img itemprop="contentUrl url" src='https://infobase.com/wp-content/uploads/Blog_LearnMoreaboutHolidays_122123-1.jpg' alt='Learn More About Holidays Around The World With Infobase - Infobase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Infobase" />
+                                </span>
+                                <a href='https://infobase.com/wp-content/uploads/Blog_LearnMoreaboutHolidays_122123-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holidays Around World Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/lots-elves-earth-christmas-night_1308-405.jpg' alt='Holidays Around World Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/lots-elves-earth-christmas-night_1308-405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holidays around the world Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/4428871/17016/v/450/depositphotos_170160300-stock-illustration-holiday-word-in-shape-of.jpg' alt='Holidays around the world Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/4428871/17016/v/450/depositphotos_170160300-stock-illustration-holiday-word-in-shape-of.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135,600+ Christmas Around The World Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/494639694/photo/christmas-and-new-year.jpg?s=612x612&w=0&k=20&c=6WcgYqDr-ie5IDmKk9JHjEM5_heYHh0JaUqgJSJsI30=' alt='135,600+ Christmas Around The World Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/494639694/photo/christmas-and-new-year.jpg?s=612x612&w=0&k=20&c=6WcgYqDr-ie5IDmKk9JHjEM5_heYHh0JaUqgJSJsI30=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holidays Around the World - Holland Museum">
+                                <img itemprop="contentUrl url" src='https://hollandmuseum.org/wp-content/uploads/2021/09/Holidays-around-the-world-web-feature-700x400-3.jpg' alt='Holidays Around the World - Holland Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Holland Museum" />
+                                </span>
+                                <a href='https://hollandmuseum.org/wp-content/uploads/2021/09/Holidays-around-the-world-web-feature-700x400-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

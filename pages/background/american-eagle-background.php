@@ -1,0 +1,129 @@
+<title>American Eagle Background: A Brief Overview</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="american eagle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/american-eagle-background">
+                            <span itemprop="name">american eagle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>American Eagle Background: A Brief Overview</h1>
+                <p>American Eagle Outfitters is a well-known American retail company focused on casual wear, particularly jeans and t-shirts, targeting young adults. Founded in 1977 by brothers Jerry and Mark Silverman, the brand emphasized inclusivity and comfort, evolving into a key player in the youth fashion industry. Its distinctive marketing combines Americana themes with a relatable, youthful spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Bald Eagle American Flag Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/532961103/photo/patriotic-north-american-bald-eagle-on-american-flag.jpg?s=612x612&w=0&k=20&c=p1Njuv4RMWxdmSX99ZpOpUaPNJ7ysB9dBti9qFh3bBw=' alt='1,000+ Bald Eagle American Flag Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/532961103/photo/patriotic-north-american-bald-eagle-on-american-flag.jpg?s=612x612&w=0&k=20&c=p1Njuv4RMWxdmSX99ZpOpUaPNJ7ysB9dBti9qFh3bBw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Bald Eagle American Flag Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1324363228/photo/eagle-with-american-flag-flies-in-freedom-at-sunset-vintage-toned.jpg?s=612x612&w=0&k=20&c=vqLSJfdyMQ85UqQ6lyEvZnKOjIsGp8sqjXjgbJ77lpU=' alt='1,000+ Bald Eagle American Flag Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1324363228/photo/eagle-with-american-flag-flies-in-freedom-at-sunset-vintage-toned.jpg?s=612x612&w=0&k=20&c=vqLSJfdyMQ85UqQ6lyEvZnKOjIsGp8sqjXjgbJ77lpU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84 American Eagle ideas | eagle, bald eagle, american eagle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a1/61/ca/a161ca2e27284cbd4ed6c622d3f23cd8.jpg' alt='84 American Eagle ideas | eagle, bald eagle, american eagle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a1/61/ca/a161ca2e27284cbd4ed6c622d3f23cd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bald Eagle Flag Images – Browse 34,989 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/76/46/03/360_F_676460325_6WP7xFx1LK9hOlRjmMGzJveW19jMLaUS.jpg' alt='Bald Eagle Flag Images – Browse 34,989 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="933">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/76/46/03/360_F_676460325_6WP7xFx1LK9hOlRjmMGzJveW19jMLaUS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the American Bald Eagle Became the Nation's Emblem">
+                                <img itemprop="contentUrl url" src='http://theflagshirt.com/cdn/shop/articles/eagle_1_1200x1200.jpg?v=1619704967' alt='How the American Bald Eagle Became the Nation's Emblem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Flag Shirt" />
+                                </span>
+                                <a href='http://theflagshirt.com/cdn/shop/articles/eagle_1_1200x1200.jpg?v=1619704967' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patriotic American Eagle with United States Flag Background Wreath  Sign-Round-Sublimation-Aluminum-Attachment-Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39602425/r/il/32cbb4/4798874550/il_570xN.4798874550_8g1v.jpg' alt='Patriotic American Eagle with United States Flag Background Wreath  Sign-Round-Sublimation-Aluminum-Attachment-Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39602425/r/il/32cbb4/4798874550/il_570xN.4798874550_8g1v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Eagle Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/27/2b/39272b6ac188c13e73bd27e8a566f6d7.jpg' alt='American Eagle Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/27/2b/39272b6ac188c13e73bd27e8a566f6d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Eagle Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42545_WP-01.jpg' alt='American Eagle Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/9df78eab33525d08d6e5fb8d27136e95/W/S/WS-42545_WP-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bald eagle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/1200px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg' alt='Bald eagle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/1200px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Bald Eagle (Haliaeetus leucocephalus) in the background ...">
+                                <img itemprop="contentUrl url" src='https://www.captivatingthinking.com/wp-content/uploads/2020/02/Bald-Eagle.jpg' alt='American Bald Eagle (Haliaeetus leucocephalus) in the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2484">
+                                <meta itemprop="height" content="1207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CIC Services" />
+                                </span>
+                                <a href='https://www.captivatingthinking.com/wp-content/uploads/2020/02/Bald-Eagle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

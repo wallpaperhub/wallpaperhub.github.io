@@ -1,0 +1,129 @@
+<title>Heavy Duty Backdrop Stand for Professional Use</title>
+                    <meta name="description" content="Discover the ultimate heavy-duty backdrop stand designed for photographers and event planners. Built for stability and versatility, this stand ensures your backdrops stay secure, making it perfect for any shoot or event. Upgrade your setup with ease and confidence!">
+                    <meta name="keywords" content="heavy duty backdrop stand">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heavy-duty-backdrop-stand">
+                            <span itemprop="name">heavy duty backdrop stand</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heavy Duty Backdrop Stand for Professional Use</h1>
+                <p>A heavy-duty backdrop stand is essential for photographers, videographers, and event planners looking for stability and versatility. Built from sturdy materials, it provides reliable support for various backdrops, ensuring your setup remains intact during shoots and events. Perfect for both indoor and outdoor use, it enhances your visual presentation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Balsa Circle 10 feet x 10 feet Heavy Duty Backdrop Stand Kit  with Steel Base - Wedding Background Support System for Photography : ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41icFpPhfcL.jpg' alt='Amazon.com: Balsa Circle 10 feet x 10 feet Heavy Duty Backdrop Stand Kit  with Steel Base - Wedding Background Support System for Photography : ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41icFpPhfcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Hecis 12x12Ft Double Crossbar Pipe and Drape Backdrop Stand,  7-12' Tall x 7-12' Wide Adjustable Pipe and Drape Stand, Heavy Duty  Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/511sarnSpjL.jpg' alt='Amazon.com : Hecis 12x12Ft Double Crossbar Pipe and Drape Backdrop Stand,  7-12' Tall x 7-12' Wide Adjustable Pipe and Drape Stand, Heavy Duty  Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/511sarnSpjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10ft Metal DIY Adjustable Heavy Duty Pipe and Drape Stand ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1552/7691/files/festive-arch-with-flowers-and-curtains.jpg?v=1738748038' alt='10ft Metal DIY Adjustable Heavy Duty Pipe and Drape Stand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eFavormart" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1552/7691/files/festive-arch-with-flowers-and-curtains.jpg?v=1738748038' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Photo Backdrop Stand - Heavy Duty Banner Holder Adjustable  Photography Poster Stand - Height Up to 8x8 ft for Trade Show, Photo Booth,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61uF-eHUm0L.jpg' alt='Amazon.com : Photo Backdrop Stand - Heavy Duty Banner Holder Adjustable  Photography Poster Stand - Height Up to 8x8 ft for Trade Show, Photo Booth,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61uF-eHUm0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SVOPES 120 in. x 120 in. Backdrop Stand, Arbor Heavy Duty Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4138a7fd-4c80-4e36-a63d-1fdd1cda717f/svn/black-svopes-arbors-ssbjzsjl10fta18erv0-svo1017-c3_600.jpg' alt='SVOPES 120 in. x 120 in. Backdrop Stand, Arbor Heavy Duty Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4138a7fd-4c80-4e36-a63d-1fdd1cda717f/svn/black-svopes-arbors-ssbjzsjl10fta18erv0-svo1017-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pipe and Drape Backdrop Stand Kit 8ft x 10ft, Heavy Duty Wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/QNwAAOSw9GxnB2eT/s-l1200.jpg' alt='Pipe and Drape Backdrop Stand Kit 8ft x 10ft, Heavy Duty Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/QNwAAOSw9GxnB2eT/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShowMaven Backdrop Stand, 8x10 ft Adjustable Photo Backdrop Stand Kit,  Heavy Duty Backdrop Stand with Steel Base for Photography, Photo Video  Studio, ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/ShowMaven-Backdrop-Stand-8x10-ft-Adjustable-Photo-Stand-Kit-Heavy-Duty-Steel-Base-Photography-Video-Studio-Birthday-Parties-Wedding-Black_8a2d02f4-17ad-4841-b7ce-abb72fe1c496.fc9896948321323aaa0a97328642f089.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' alt='ShowMaven Backdrop Stand, 8x10 ft Adjustable Photo Backdrop Stand Kit,  Heavy Duty Backdrop Stand with Steel Base for Photography, Photo Video  Studio, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Business" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/ShowMaven-Backdrop-Stand-8x10-ft-Adjustable-Photo-Stand-Kit-Heavy-Duty-Steel-Base-Photography-Video-Studio-Birthday-Parties-Wedding-Black_8a2d02f4-17ad-4841-b7ce-abb72fe1c496.fc9896948321323aaa0a97328642f089.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="【Air Cushioned】Heavy Duty Backdrop Stand">
+                                <img itemprop="contentUrl url" src='https://www.emartus.com/cdn/shop/products/61lHOsBkahL._AC_SL1500.jpg?v=1690336525&width=1500' alt='【Air Cushioned】Heavy Duty Backdrop Stand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EMART" />
+                                </span>
+                                <a href='https://www.emartus.com/cdn/shop/products/61lHOsBkahL._AC_SL1500.jpg?v=1690336525&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10x10 Heavy Duty Adjustable Backdrop Stand Kit - CV Linens™">
+                                <img itemprop="contentUrl url" src='https://www.cvlinens.com/cdn/shop/products/pastel-birthday_8fdaf10e-e70f-4d21-aa3f-dfea3ede8a75.jpg?v=1695140292' alt='10x10 Heavy Duty Adjustable Backdrop Stand Kit - CV Linens™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CV Linens" />
+                                </span>
+                                <a href='https://www.cvlinens.com/cdn/shop/products/pastel-birthday_8fdaf10e-e70f-4d21-aa3f-dfea3ede8a75.jpg?v=1695140292' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10ft X 10ft Adjustable Heavy Duty Backdrop Stand, Solid Durable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7020907/r/il/b18769/5639296734/il_570xN.5639296734_a972.jpg' alt='10ft X 10ft Adjustable Heavy Duty Backdrop Stand, Solid Durable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7020907/r/il/b18769/5639296734/il_570xN.5639296734_a972.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

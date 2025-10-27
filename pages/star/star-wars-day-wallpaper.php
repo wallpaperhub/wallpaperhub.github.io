@@ -1,0 +1,129 @@
+<title>Star Wars Day Wallpapers: Epic Designs for Every Fan</title>
+                    <meta name="description" content="Explore stunning Star Wars Day wallpapers that bring your favorite characters and worlds to life! Perfect for fans, immerse yourself in a galaxy far, far away with designs that showcase the magic of the Star Wars universe. Download now to celebrate May the 4th in style!">
+                    <meta name="keywords" content="star wars day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-day-wallpaper">
+                            <span itemprop="name">star wars day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Day Wallpapers: Epic Designs for Every Fan</h1>
+                <p>Celebrate Star Wars Day with captivating wallpapers that transport you to a galaxy far, far away! From iconic characters like Luke Skywalker and Princess Leia to epic starships and breathtaking landscapes, these stunning designs are perfect for any fan. Download your favorite wallpaper today and show off your love for the Force!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Star Wars May the 4th Wallpapers Have Landed! - Disney Parks Blog">
+                                <img itemprop="contentUrl url" src='https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/05/MS346367468364822.jpg' alt='New Star Wars May the 4th Wallpapers Have Landed! - Disney Parks Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/05/MS346367468364822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="May the 4th (Star Wars Day) Wallpapers (14 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/9/6/983460-3840x2160-desktop-4k-may-the-4th-star-wars-day-background.jpg' alt='May the 4th (Star Wars Day) Wallpapers (14 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/9/6/983460-3840x2160-desktop-4k-may-the-4th-star-wars-day-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2020 Star Wars Day at Sea Digital Wallpapers • The Disney Cruise ...">
+                                <img itemprop="contentUrl url" src='https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2020/01/SWDAS_2020_1579x2890.jpg' alt='2020 Star Wars Day at Sea Digital Wallpapers • The Disney Cruise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="2890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Disney Cruise Line Blog" />
+                                </span>
+                                <a href='https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2020/01/SWDAS_2020_1579x2890.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Day Poster, Keane Ip">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/8d/2f/4b8d2fb72608218ed1e94e8805f8fc03.jpg' alt='Star Wars Day Poster, Keane Ip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/8d/2f/4b8d2fb72608218ed1e94e8805f8fc03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted 2022's Star Wars Celebration poster into a Mobile ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/converted-2022s-star-wars-celebration-poster-into-a-mobile-v0-754tv4urk7s81.png?width=640&crop=smart&auto=webp&s=db31ce7356d31aeea3ad93a5fb1f7f821204651a' alt='Converted 2022's Star Wars Celebration poster into a Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/converted-2022s-star-wars-celebration-poster-into-a-mobile-v0-754tv4urk7s81.png?width=640&crop=smart&auto=webp&s=db31ce7356d31aeea3ad93a5fb1f7f821204651a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Star Wars Wallpapers to Celebrate May the 4th - Disney Parks Blog">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/04/24_DX_MayThe4th_WALLPAPER_BLOG_HDR_v1_jm.jpg' alt='New Star Wars Wallpapers to Celebrate May the 4th - Disney Parks Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/04/24_DX_MayThe4th_WALLPAPER_BLOG_HDR_v1_jm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Day HD Wallpaper: May the 4th Be With You">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/114/1145118.jpg' alt='Star Wars Day HD Wallpaper: May the 4th Be With You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/114/1145118.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feel the Force: With New May the 4th Digital Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mickeyblog.com/wp-content/uploads/2023/05/Zoom-Background-1024x578.png' alt='Feel the Force: With New May the 4th Digital Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MickeyBlog.com" />
+                                </span>
+                                <a href='https://mickeyblog.com/wp-content/uploads/2023/05/Zoom-Background-1024x578.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Life Day! : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/m5xp1XrllrUEzbbIXzOuZZ6kRNUllDzdzjl2JjgB96I.jpg?auto=webp&s=05ff92e2dd9ebf9fc50d5523556c2a6d8ca8f6a4' alt='Happy Life Day! : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/m5xp1XrllrUEzbbIXzOuZZ6kRNUllDzdzjl2JjgB96I.jpg?auto=webp&s=05ff92e2dd9ebf9fc50d5523556c2a6d8ca8f6a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Day May The 4th Be With You, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/708/903/HD-wallpaper-star-wars-day-may-the-4th-be-with-you.jpg' alt='Star Wars Day May The 4th Be With You, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/708/903/HD-wallpaper-star-wars-day-may-the-4th-be-with-you.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

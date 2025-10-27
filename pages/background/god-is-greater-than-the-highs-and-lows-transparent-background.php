@@ -1,0 +1,129 @@
+<title>God is Greater Than the Highs and Lows</title>
+                    <meta name="description" content="Discover the uplifting truth that God surpasses life's ups and downs. Find strength in faith and resilience through challenges and triumphs. Embrace the message that no matter the circumstances, divine love remains constant and supportive. A perfect reminder for life's journey!">
+                    <meta name="keywords" content="god is greater than the highs and lows transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/god-is-greater-than-the-highs-and-lows-transparent-background">
+                            <span itemprop="name">god is greater than the highs and lows transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>God is Greater Than the Highs and Lows</h1>
+                <p>Embrace the powerful message that "God is greater than the highs and lows." Life's moments can fluctuate, but this truth offers unwavering hope and strength. Understand that faith elevates us above challenges and celebrates our victories. Let this reminder inspire resilience and keep your spirit anchored in love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater than the Highs and Lows SVG and PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22618794/r/il/13a78c/3628494942/il_fullxfull.3628494942_m71s.jpg' alt='God is Greater than the Highs and Lows SVG and PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2099">
+                                <meta itemprop="height" content="2099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22618794/r/il/13a78c/3628494942/il_fullxfull.3628494942_m71s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater than the Highs and Lows SVG Vector File and PNG Transparent  Background Clip Art Sublimation Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26950043/r/il/5ea9f8/4688763727/il_570xN.4688763727_g0oq.jpg' alt='God is Greater than the Highs and Lows SVG Vector File and PNG Transparent  Background Clip Art Sublimation Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26950043/r/il/5ea9f8/4688763727/il_570xN.4688763727_g0oq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater than the Highs and Lows SVG Vector File and PNG Transparent  Background Clip Art Sublimation Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26950043/r/il/5591fb/4640518946/il_570xN.4640518946_iw0p.jpg' alt='God is Greater than the Highs and Lows SVG Vector File and PNG Transparent  Background Clip Art Sublimation Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26950043/r/il/5591fb/4640518946/il_570xN.4640518946_iw0p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Is Greater Than Highs and Lows SVG Vector">
+                                <img itemprop="contentUrl url" src='https://www.premiumsvg.com/wimg_thumb/god-is-greater-than-highs-and-lows-svg-vector.webp' alt='God Is Greater Than Highs and Lows SVG Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Premium Svg" />
+                                </span>
+                                <a href='https://www.premiumsvg.com/wimg_thumb/god-is-greater-than-highs-and-lows-svg-vector.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is greater than the highs and lows svg, god saying with mountain  clipart, christian saying cricut cut and print file png, svg, dxf, eps">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12773587/r/il/7255de/3324753868/il_fullxfull.3324753868_pgr4.jpg' alt='God is greater than the highs and lows svg, god saying with mountain  clipart, christian saying cricut cut and print file png, svg, dxf, eps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12773587/r/il/7255de/3324753868/il_fullxfull.3324753868_pgr4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Is Greater Symbol (SVG png) God is Greater than the Highs and Lows">
+                                <img itemprop="contentUrl url" src='https://www.donvitodesign.store/wp-content/uploads/2021/03/Image-God-is-Greater-Highs-Lows-Symbol-svg-Religious.jpg' alt='God Is Greater Symbol (SVG png) God is Greater than the Highs and Lows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Don Vito Design Store" />
+                                </span>
+                                <a href='https://www.donvitodesign.store/wp-content/uploads/2021/03/Image-God-is-Greater-Highs-Lows-Symbol-svg-Religious.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater Than the Highs and Lows Graphic by SVG DEN ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/03/God-is-Greater-Than-the-Highs-and-Lows-Graphics-56112925-1-1-580x368.png' alt='God is Greater Than the Highs and Lows Graphic by SVG DEN ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/03/God-is-Greater-Than-the-Highs-and-Lows-Graphics-56112925-1-1-580x368.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater Than the Highs and Lows SVG - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19528267/r/il/4294aa/2269553020/il_570xN.2269553020_cnqy.jpg' alt='God is Greater Than the Highs and Lows SVG - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19528267/r/il/4294aa/2269553020/il_570xN.2269553020_cnqy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Greater- Black Print - Variety Color of Shirts - p31 Fitness">
+                                <img itemprop="contentUrl url" src='https://www.p31fitness.com/wp-content/uploads/2020/02/0202-God-is-greater-than.png' alt='God is Greater- Black Print - Variety Color of Shirts - p31 Fitness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4167">
+                                <meta itemprop="height" content="4167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="p31 Fitness" />
+                                </span>
+                                <a href='https://www.p31fitness.com/wp-content/uploads/2020/02/0202-God-is-greater-than.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Is Greater Than The Highs And Lows Png, PNG Files For Sublimation  Printing, God Is Greater Png, Christian Png, Hand Drawn Png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21297478/r/il/3045ad/3355680255/il_340x270.3355680255_o7kf.jpg' alt='God Is Greater Than The Highs And Lows Png, PNG Files For Sublimation  Printing, God Is Greater Png, Christian Png, Hand Drawn Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21297478/r/il/3045ad/3355680255/il_340x270.3355680255_o7kf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Earth Wallpapers for iPhone Lock Screen: Stunning Planet Views</title>
+                    <meta name="description" content="Enhance your iPhone's lock screen experience with breathtaking Earth wallpapers. Discover stunning images that transform your device, showcasing the beauty of our planet. Ideal for anyone looking to add a touch of nature and inspiration to their daily routine. Optimize your device's aesthetic effortlessly!">
+                    <meta name="keywords" content="lock screen iphone earth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-iphone-earth-wallpaper">
+                            <span itemprop="name">lock screen iphone earth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Earth Wallpapers for iPhone Lock Screen: Stunning Planet Views</h1>
+                <p>Transform your iPhone's lock screen with stunning Earth wallpapers! From breathtaking satellite views to colorful landscapes, these wallpapers offer a unique glimpse of our planet. Refresh your device with vibrant imagery, making it as beautiful as the world we live in. Stand out and inspire your daily routine with Earth-themed designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Mobile Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/earth-mobile-lock-screen-2e90qb06m0udlb1t.jpg' alt='Earth Mobile Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/earth-mobile-lock-screen-2e90qb06m0udlb1t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy lockscreen on iOS 16 not only shows you the city you are ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/v94jax3f4mn91.jpg' alt='Astronomy lockscreen on iOS 16 not only shows you the city you are ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/v94jax3f4mn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Earth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-earth-q86r3gxiwm928cpj.jpg' alt='100+] Iphone Earth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="1534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-earth-q86r3gxiwm928cpj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Question about the Astronomy Lock Screen and wallpaper : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fec4etushq5c1.jpeg' alt='Question about the Astronomy Lock Screen and wallpaper : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fec4etushq5c1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where to find original iPhone earth wallpaper (retina ...">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/attachments/earth-jpg.346609/' alt='Where to find original iPhone earth wallpaper (retina ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/attachments/earth-jpg.346609/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astronomy (Earth) Wallpaper Day Night Tra… - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/cb4a4b0c-21ee-466f-a60d-c917a792108d' alt='Astronomy (Earth) Wallpaper Day Night Tra… - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/cb4a4b0c-21ee-466f-a60d-c917a792108d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Earth - 2748 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='http://gsmintro.net/user/images/wallpaper_images/2014/02/22/www.mobilesmspk.net_earth_2748.jpg' alt='Download Free Mobile Phone Wallpaper Earth - 2748 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='http://gsmintro.net/user/images/wallpaper_images/2014/02/22/www.mobilesmspk.net_earth_2748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Earth Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/d7/49/c9d749641239b654461cdc80dbfe7a91.jpg' alt='iPhone Earth Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/d7/49/c9d749641239b654461cdc80dbfe7a91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16: The MacStories Review - MacStories - Part 3">
+                                <img itemprop="contentUrl url" src='https://cdn.macstories.net/image-1661806441691.png' alt='iOS 16: The MacStories Review - MacStories - Part 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1937">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacStories" />
+                                </span>
+                                <a href='https://cdn.macstories.net/image-1661806441691.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Always on display Wallpaper HD 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5a/73/29/5a7329ab863df629925cf18d49bcfb56.jpg' alt='Earth Always on display Wallpaper HD 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5a/73/29/5a7329ab863df629925cf18d49bcfb56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

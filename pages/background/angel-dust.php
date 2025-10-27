@@ -1,0 +1,129 @@
+<title>Understanding Angel Dust: Effects and Risks</title>
+                    <meta name="description" content="Explore the world of angel dust (PCP) – its effects, risks, and dangers. Learn about this dissociative drug's impact on perception and health. Stay informed to make safe choices and understand its implications.">
+                    <meta name="keywords" content="angel dust">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/angel-dust">
+                            <span itemprop="name">angel dust</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Angel Dust: Effects and Risks</h1>
+                <p>Angel dust, also known as PCP (phencyclidine), is a dissociative anesthetic that alters perceptions of reality, leading to hallucinations. Initially developed for medical use, it has gained notoriety as a recreational drug. Users may experience a sense of detachment and distorted sensory perceptions, posing significant health risks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/7/7a/New_Angel_Render.png/revision/latest?cb=20240411113427' alt='Angel Dust | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/7/7a/New_Angel_Render.png/revision/latest?cb=20240411113427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/f/ff/Addict_Angel_Pole_2.png/revision/latest/scale-to-width-down/985?cb=20200727220920' alt='Angel Dust | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="985">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/f/ff/Addict_Angel_Pole_2.png/revision/latest/scale-to-width-down/985?cb=20200727220920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust (Hazbin Hotel) | VS Battles Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/vsbattles/images/4/4a/Angel_Dust_Render.png/revision/latest?cb=20240208080810' alt='Angel Dust (Hazbin Hotel) | VS Battles Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VS Battles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/vsbattles/images/4/4a/Angel_Dust_Render.png/revision/latest?cb=20240208080810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust (Hazbin Hotel) - NamuWiki">
+                                <img itemprop="contentUrl url" src='https://i.namu.wiki/i/VaTvG2ENzhkO049Q2icRouVCIdVSESklaYWoijUVDy9i-y17CXjFo8KaPOUmeVOOTc__RRK8bkvmXvmi2oylAw.webp' alt='Angel Dust (Hazbin Hotel) - NamuWiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Namuwiki:main door" />
+                                </span>
+                                <a href='https://i.namu.wiki/i/VaTvG2ENzhkO049Q2icRouVCIdVSESklaYWoijUVDy9i-y17CXjFo8KaPOUmeVOOTc__RRK8bkvmXvmi2oylAw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                    | Wiki | Hazbin Hotel (official) Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/8942/8aa44234d95cff8bbb26d6cf7cd3d4205bcc1051r1-735-736v2_hq.jpg' alt='                    | Wiki | Hazbin Hotel (official) Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/8942/8aa44234d95cff8bbb26d6cf7cd3d4205bcc1051r1-735-736v2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust | Disney Versus Non-Disney Villains Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/villainstournament/images/3/33/Angel_Dust.jpg/revision/latest?cb=20211104013511' alt='Angel Dust | Disney Versus Non-Disney Villains Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Versus Non-Disney Villains Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/villainstournament/images/3/33/Angel_Dust.jpg/revision/latest?cb=20211104013511' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angel Dust | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/6/6e/Angel_Dust_Full_Demon_Form.png/revision/latest?cb=20220712185708' alt='Angel Dust | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel: Journey to the Light Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/6/6e/Angel_Dust_Full_Demon_Form.png/revision/latest?cb=20220712185708' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel x Youtooz - Angel Dust Vinyl Figure *PRE-ORDER*">
+                                <img itemprop="contentUrl url" src='https://sharkrobot.com/cdn/shop/files/YoutoozFigure-AngelDustFront.png?v=1724949724' alt='Hazbin Hotel x Youtooz - Angel Dust Vinyl Figure *PRE-ORDER*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shark Robot" />
+                                </span>
+                                <a href='https://sharkrobot.com/cdn/shop/files/YoutoozFigure-AngelDustFront.png?v=1724949724' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's How Angel Dust Died In Hazbin Hotel | The Direct">
+                                <img itemprop="contentUrl url" src='https://images.thedirect.com/media/photos/angeldust.jpg' alt='Here's How Angel Dust Died In Hazbin Hotel | The Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Direct" />
+                                </span>
+                                <a href='https://images.thedirect.com/media/photos/angeldust.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel Angel Dust Valentine Inspired Standee">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTU2MFgxNTg4/z/LXkAAOSwlhdmB5aP/$_12.JPG?set_id=880000500F' alt='Hazbin Hotel Angel Dust Valentine Inspired Standee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTU2MFgxNTg4/z/LXkAAOSwlhdmB5aP/$_12.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

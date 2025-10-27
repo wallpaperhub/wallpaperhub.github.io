@@ -1,0 +1,129 @@
+<title>Enhance Your Brand with Stunning Social Media Icons Background</title>
+                    <meta name="description" content="Discover how a captivating social media icons background can transform your online presence. Learn tips for choosing the right colors and designs to make your icons pop and engage your audience effectively.">
+                    <meta name="keywords" content="social media icons background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/social-media-icons-background">
+                            <span itemprop="name">social media icons background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Brand with Stunning Social Media Icons Background</h1>
+                <p>Social media icons background plays a crucial role in enhancing the visual appeal of your online presence. A well-designed backdrop can elevate the impact of your social media icons, making them stand out and drawing user attention. Consider using complementary colors and patterns to create a cohesive look that resonates with your brand identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background social media icons Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/82/80/background-social-media-icons-vector-30498280.jpg' alt='Background social media icons Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/82/80/background-social-media-icons-vector-30498280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,000+ Social Media Icon Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1125908844/vector/vector-set-of-design-templates-and-elements-for-social-media-in-trendy-linear-style-seamless.jpg?s=612x612&w=0&k=20&c=yLQoNEO8B1bvVxpodT3CG-fXRzspaZDy1QYqtLxhA8k=' alt='9,000+ Social Media Icon Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1125908844/vector/vector-set-of-design-templates-and-elements-for-social-media-in-trendy-linear-style-seamless.jpg?s=612x612&w=0&k=20&c=yLQoNEO8B1bvVxpodT3CG-fXRzspaZDy1QYqtLxhA8k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Background of famous social media icons">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/background-famous-social-media-icons_250994-1377.jpg' alt='Premium Photo | Background of famous social media icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/background-famous-social-media-icons_250994-1377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Network Background - 4k Loopable Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1133235400/video/social-media-network-background-4k-loopable.jpg?s=640x640&k=20&c=zrON7fvjLy7GkCKgkInLD2ftE5NPJb4lpfcH2aLia4A=' alt='Social Media Network Background - 4k Loopable Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1133235400/video/social-media-network-background-4k-loopable.jpg?s=640x640&k=20&c=zrON7fvjLy7GkCKgkInLD2ftE5NPJb4lpfcH2aLia4A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Social media icons background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/social-media-icons-background_23-2147511281.jpg' alt='Free Vector | Social media icons background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/social-media-icons-background_23-2147511281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Images – Browse 6,177,873 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/89/32/80/360_F_389328016_ak3iUrk15slWfEZdYL96O6eKTUyImDeC.jpg' alt='Social Media Images – Browse 6,177,873 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/89/32/80/360_F_389328016_ak3iUrk15slWfEZdYL96O6eKTUyImDeC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,000+ Social Media Icon Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/949436542/vector/get-more-likes-red-and-blue-icons-falling-seo-concept-design-elements-for-social-network.jpg?s=612x612&w=0&k=20&c=LnBnU2HOYXW_LgP3-AyCKJu08Zp_deEyEd-mOppAjN8=' alt='9,000+ Social Media Icon Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/949436542/vector/get-more-likes-red-and-blue-icons-falling-seo-concept-design-elements-for-social-network.jpg?s=612x612&w=0&k=20&c=LnBnU2HOYXW_LgP3-AyCKJu08Zp_deEyEd-mOppAjN8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A group of different social media logos photo – Free Digital image ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1683721003111-070bcc053d8b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A group of different social media logos photo – Free Digital image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1683721003111-070bcc053d8b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social network background with media icons Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/18/41/social-network-background-with-media-icons-vector-1291841.jpg' alt='Social network background with media icons Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/18/41/social-network-background-with-media-icons-vector-1291841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Social Networks Icons Background, Motion Graphics | VideoHive">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/246215107/Light_Social_Networks_Icons_Screen.jpg' alt='Light Social Networks Icons Background, Motion Graphics | VideoHive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VideoHive" />
+                                </span>
+                                <a href='https://s3.envato.com/files/246215107/Light_Social_Networks_Icons_Screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

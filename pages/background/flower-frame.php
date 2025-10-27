@@ -1,0 +1,129 @@
+<title>Stunning Flower Frames: Capture Memories in Nature's Beauty</title>
+                    <meta name="description" content="Discover the perfect flower frame to showcase your favorite memories. Our beautifully crafted designs add a touch of nature's charm to any space. Explore our collection for unique gifts or personalize your own floral masterpiece. Celebrate life's moments with the elegance of flower frames!">
+                    <meta name="keywords" content="flower frame">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-frame">
+                            <span itemprop="name">flower frame</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Frames: Capture Memories in Nature's Beauty</h1>
+                <p>A flower frame beautifully blends nature's elegance with artistry, providing a stunning backdrop for cherished memories. Perfect for home decor or gifts, these frames enhance any photo with vibrant blooms and a touch of whimsy. Craft your own floral masterpiece or choose from unique designs to celebrate life's special moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Frame Images – Browse 5,355,032 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/44/44/02/360_F_444440214_qzfvtJhGcLe1FHJk8saQBHhnkdE5P3AT.jpg' alt='Flower Frame Images – Browse 5,355,032 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/44/44/02/360_F_444440214_qzfvtJhGcLe1FHJk8saQBHhnkdE5P3AT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral frame PNG transparent image download, size: 900x1286px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/floral_frame_PNG218.png' alt='Floral frame PNG transparent image download, size: 900x1286px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/floral_frame_PNG218.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Frame PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220425/ourmid/pngtree-rectangle-floral-frame-flower-for-wedding-invitation-border-png-image_4555831.png' alt='Flower Frame PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220425/ourmid/pngtree-rectangle-floral-frame-flower-for-wedding-invitation-border-png-image_4555831.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Wood - 16x20 | Pressed Bouquet Frame">
+                                <img itemprop="contentUrl url" src='https://pressedbouquetshop.com/cdn/shop/files/Pressed-LytlePhotographyCompany_121of202_1.jpg?v=1713375292&width=2000' alt='White Wood - 16x20 | Pressed Bouquet Frame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pressed Bouquet Shop" />
+                                </span>
+                                <a href='https://pressedbouquetshop.com/cdn/shop/files/Pressed-LytlePhotographyCompany_121of202_1.jpg?v=1713375292&width=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Frame Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/beautiful-minimalist-floral-frame-border-vector-illustration_1253202-171096.jpg' alt='Flower Frame Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/beautiful-minimalist-floral-frame-border-vector-illustration_1253202-171096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Portrait Floral Frame">
+                                <img itemprop="contentUrl url" src='http://viviansflowermarkets.com/cdn/shop/products/Portrait-Floral-Frames-_225.jpg?v=1674095850' alt='Pink Portrait Floral Frame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian's Flower Market" />
+                                </span>
+                                <a href='http://viviansflowermarkets.com/cdn/shop/products/Portrait-Floral-Frames-_225.jpg?v=1674095850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Photo Frame Stock Illustrations – 450,294 Flowers Photo ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flowers-frame-art-print-png-transparent-religious-funeral-christian-banner-340418983.jpg' alt='Flowers Photo Frame Stock Illustrations – 450,294 Flowers Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flowers-frame-art-print-png-transparent-religious-funeral-christian-banner-340418983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flower Frame Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/690/856/small_2x/pink-floral-frame-on-a-white-background.jpg' alt='Pink Flower Frame Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/690/856/small_2x/pink-floral-frame-on-a-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Frame Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3965.jpg' alt='Floral Frame Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3965.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Frame Graphic by Fstock · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/14/Flower-Frame-Graphics-57610173-1.jpg' alt='Flower Frame Graphic by Fstock · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/14/Flower-Frame-Graphics-57610173-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

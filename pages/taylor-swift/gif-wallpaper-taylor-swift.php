@@ -1,0 +1,129 @@
+<title>Eye-Catching Taylor Swift GIF Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Taylor Swift GIF wallpapers to liven up your mobile device! Perfect for fans, these animated backgrounds offer a fun way to express your love for her music and style. Explore unique designs and personalize your screen today!">
+                    <meta name="keywords" content="gif wallpaper taylor swift">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/gif-wallpaper-taylor-swift">
+                            <span itemprop="name">gif wallpaper taylor swift</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Taylor Swift GIF Wallpapers for Your Phone</h1>
+                <p>Transform your phone's screen with stunning Taylor Swift GIF wallpapers! Whether you're a devoted fan or just appreciate her art, these animated backgrounds bring her vibrant energy and style to life. Perfect for showcasing your love for Swift's music and personality. Find a selection that resonates with you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 Taylor Swift GIF ideas | taylor swift, swift, taylor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8b/f1/a6/8bf1a6eda870b7e4df62b90297f9118b.gif' alt='87 Taylor Swift GIF ideas | taylor swift, swift, taylor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8b/f1/a6/8bf1a6eda870b7e4df62b90297f9118b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film Smile GIF by Taylor Swift - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/5O0NJ5MOVdLKjor2Z5/giphy.gif?cid=6c09b952ddreknsvge5xdz571k6ktyvjbzbd4r1qdrnm7asa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Film Smile GIF by Taylor Swift - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/5O0NJ5MOVdLKjor2Z5/giphy.gif?cid=6c09b952ddreknsvge5xdz571k6ktyvjbzbd4r1qdrnm7asa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/03/taylor-swift-icegif-7.gif' alt='Taylor Swift Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/03/taylor-swift-icegif-7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Gifs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/56/a0/df/56a0df9557ecc7fdb56acd34aac8c18a.gif' alt='Taylor Swift Gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/56/a0/df/56a0df9557ecc7fdb56acd34aac8c18a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/04/icegif-167.gif' alt='Taylor Swift Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/04/icegif-167.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift-RM-06-17-23 - Free animated GIF - PicMix">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/pic/normal/3/5/3/6/11176353_32bc1.gif' alt='Taylor Swift-RM-06-17-23 - Free animated GIF - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/pic/normal/3/5/3/6/11176353_32bc1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Music GIF">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/269/26901.gif' alt='Taylor Swift Music GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/269/26901.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift GIF by Espelho - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/EKFI8alyFYHbmMGnCQ/giphy.gif?cid=6c09b952jlo9okz3rr91uxsxin0ro8c8wdjx864svz77a7wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Taylor Swift GIF by Espelho - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/EKFI8alyFYHbmMGnCQ/giphy.gif?cid=6c09b952jlo9okz3rr91uxsxin0ro8c8wdjx864svz77a7wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift GIF by Espelho - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/qDjVJrxTLVAneWD8pn/giphy.gif?cid=6c09b952qasz5eqdzu6pdofq645ys9emtztsva5fxsyjligp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Taylor Swift GIF by Espelho - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/qDjVJrxTLVAneWD8pn/giphy.gif?cid=6c09b952qasz5eqdzu6pdofq645ys9emtztsva5fxsyjligp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift GIF by Espelho - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/vQCKGSEBdJEIXibTb1/200.gif?cid=6c09b952khm564is7g2d7mua27nkyc5h7iiw0uyejwgthq7n&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' alt='Taylor Swift GIF by Espelho - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="366">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/vQCKGSEBdJEIXibTb1/200.gif?cid=6c09b952khm564is7g2d7mua27nkyc5h7iiw0uyejwgthq7n&ep=v1_internal_gif_by_id&rid=200.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

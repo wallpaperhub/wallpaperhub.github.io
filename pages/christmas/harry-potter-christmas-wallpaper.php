@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Christmas Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover enchanting Harry Potter Christmas wallpapers to bring a touch of magic to your screens this holiday season. Perfect for fans, these designs feature beloved characters and festive scenes. Download now to celebrate Christmas in true wizarding style!">
+                    <meta name="keywords" content="harry potter christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/harry-potter-christmas-wallpaper">
+                            <span itemprop="name">harry potter christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Christmas Wallpapers for Your Devices</h1>
+                <p>Transform your device this holiday season with enchanting Harry Potter Christmas wallpapers! Featuring beloved characters and magical scenes decorated for the festive season, these wallpapers will add a touch of wizarding charm to your screens. Perfect for all Potterheads looking to celebrate Christmas in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas at Hogwarts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/cc/a7/f8cca71d142e7bf3849f09b560937316.jpg' alt='Christmas at Hogwarts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/cc/a7/f8cca71d142e7bf3849f09b560937316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Harry Potter Wallpapers [27+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/436/wallpaper-harry-potter-christmas-1920x1080.jpg' alt='Christmas Harry Potter Wallpapers [27+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/436/wallpaper-harry-potter-christmas-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Christmas aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/7c/8d/277c8d95cf75c4d94e35ce3f6d601580.jpg' alt='Harry Potter Christmas aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/7c/8d/277c8d95cf75c4d94e35ce3f6d601580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antwoorden aan @jasmijn089 Harry Potter wallpaper!! #harrypotter #hp  #hogwarts #christmas #livewallpaper #wallpaper #hpwallpaper #fyp  #goldentrio #ron">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7042683295712201989&location=0&aid=1988' alt='Antwoorden aan @jasmijn089 Harry Potter wallpaper!! #harrypotter #hp  #hogwarts #christmas #livewallpaper #wallpaper #hpwallpaper #fyp  #goldentrio #ron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1248">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7042683295712201989&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HarryPotter Christmas backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/6c/5a/6d6c5aa9080685b24404c924b441a439.jpg' alt='HarryPotter Christmas backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1062">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/6c/5a/6d6c5aa9080685b24404c924b441a439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="harry potter wallpaper christmas on Threads">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCHTx1DRocY/1/image.jpg' alt='harry potter wallpaper christmas on Threads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCHTx1DRocY/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas at Hogwarts    #harr | Gallery posted by Samantha ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/owaegtDAAIKAFBDxdSfEbTeVj6461ariHECwyE~tplv-tej9nj120t-origin.webp' alt='Christmas at Hogwarts    #harr | Gallery posted by Samantha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/owaegtDAAIKAFBDxdSfEbTeVj6461ariHECwyE~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Harry Potter Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/harry-potter-christmas-dtr3sp14a6swe94a.jpg' alt='100+] Harry Potter Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/harry-potter-christmas-dtr3sp14a6swe94a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="December Harry Potter Christmas Phone Wallpapers – @emmastudies on ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/4bcdec7f6f298a42a6bd74aabc5c5b08/tumblr_pj7om266Am1u280k8o2_1280.jpg' alt='December Harry Potter Christmas Phone Wallpapers – @emmastudies on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/4bcdec7f6f298a42a6bd74aabc5c5b08/tumblr_pj7om266Am1u280k8o2_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas at Hogwarts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/34/3b/25/343b255ab4c1f5aa3a9b8f62ed7fc97c.jpg' alt='Christmas at Hogwarts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/34/3b/25/343b255ab4c1f5aa3a9b8f62ed7fc97c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

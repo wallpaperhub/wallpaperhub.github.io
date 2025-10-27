@@ -1,0 +1,129 @@
+<title>Wacky Wednesday: Unleash Your Midweek Fun!</title>
+                    <meta name="description" content="Discover the joy of Wacky Wednesday! Inject creativity into your week with fun themes, quirky activities, and exciting challenges. Join the movement to brighten up your midweek and embrace the unexpected. Perfect for all ages—let's make Wednesdays wacky and wonderful!">
+                    <meta name="keywords" content="wacky wednesday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wacky-wednesday-background">
+                            <span itemprop="name">wacky wednesday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wacky Wednesday: Unleash Your Midweek Fun!</h1>
+                <p>Wacky Wednesday brings a splash of creativity to your week! Join in the fun with quirky themes, offbeat activities, and lively decor that energizes your midweek routine. Embrace the unexpected—whether it’s wearing mismatched socks or hosting zany challenges, Wacky Wednesday is all about breaking the monotony and adding joy to your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday (dr. Seuss) Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16727463/r/il/bc8d53/3833595797/il_fullxfull.3833595797_if01.jpg' alt='Wacky Wednesday (dr. Seuss) Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16727463/r/il/bc8d53/3833595797/il_fullxfull.3833595797_if01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4979689934.4398/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Wacky Wednesday | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4979689934.4398/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COUNT ALL THE WACKY THINGS | EDUCATIONAL | WACKY WEDNESDAY BOOK by DR SEUSS  | KIDS BOOKS READ ALOUD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b653k3-_wIM/maxresdefault.jpg' alt='COUNT ALL THE WACKY THINGS | EDUCATIONAL | WACKY WEDNESDAY BOOK by DR SEUSS  | KIDS BOOKS READ ALOUD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b653k3-_wIM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday Design - Wacky Wednesday Colorful Design ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190629/cxt/kisspng-clip-art-wacky-wednesday-portable-network-graphics-spartan-spectacular-wacky-wednesday-5d16e445319887.6618459015617813172032.jpg' alt='Wacky Wednesday Design - Wacky Wednesday Colorful Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190629/cxt/kisspng-clip-art-wacky-wednesday-portable-network-graphics-spartan-spectacular-wacky-wednesday-5d16e445319887.6618459015617813172032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Seuss Week: Wacky Wednesday — Generation Next">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56fad9e91d07c0c393d88496/1545849707756-Q0Q5WVHXJ6M3LV1N7E0F/wacky-wednesday-website-event.png' alt='Dr. Seuss Week: Wacky Wednesday — Generation Next'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Generation Next" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56fad9e91d07c0c393d88496/1545849707756-Q0Q5WVHXJ6M3LV1N7E0F/wacky-wednesday-website-event.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday Googly Eyes Silly Comic Style Kids Greeting Card">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/wacky-wednesday-googly-eyes-silly-comic-style-kids-noirty-designs-transparent.png' alt='Wacky Wednesday Googly Eyes Silly Comic Style Kids Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/wacky-wednesday-googly-eyes-silly-comic-style-kids-noirty-designs-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wacky Wednesday Graphic | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/wacky-wednesday-graphic-c9v5b6gnwxsviqdg.jpg' alt='Download Wacky Wednesday Graphic | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1121">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/wacky-wednesday-graphic-c9v5b6gnwxsviqdg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday (book) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/0/05/Wacky_Wednesday_book_cover.jpg' alt='Wacky Wednesday (book) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/0/05/Wacky_Wednesday_book_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday SVG PNG Cutting Printable Files – creativeusarts">
+                                <img itemprop="contentUrl url" src='https://creativeusart.com/cdn/shop/products/WackyWednesday01.jpg?v=1617904478' alt='Wacky Wednesday SVG PNG Cutting Printable Files – creativeusarts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="creativeusarts" />
+                                </span>
+                                <a href='https://creativeusart.com/cdn/shop/products/WackyWednesday01.jpg?v=1617904478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wacky Wednesday SVG PNG, Wednesday Svg, Dr. Seuss Png, SVG Files Silhouette  Cricut, Print Sublimation Design">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26887796/r/il/f39288/5794234382/il_570xN.5794234382_4nla.jpg' alt='Wacky Wednesday SVG PNG, Wednesday Svg, Dr. Seuss Png, SVG Files Silhouette  Cricut, Print Sublimation Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26887796/r/il/f39288/5794234382/il_570xN.5794234382_4nla.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

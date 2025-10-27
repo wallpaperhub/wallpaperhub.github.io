@@ -1,0 +1,129 @@
+<title>Tom Brady's Super Bowl Legacy: A Champion's Journey</title>
+                    <meta name="description" content="Explore the remarkable Super Bowl journey of Tom Brady, the NFL's greatest quarterback. Discover his record-breaking performances, iconic moments, and the legacy that has redefined sports. Join us in celebrating a champion who transformed football history and inspired millions.">
+                    <meta name="keywords" content="tom brady super bowl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tom-brady-super-bowl">
+                            <span itemprop="name">tom brady super bowl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tom Brady's Super Bowl Legacy: A Champion's Journey</h1>
+                <p>Tom Brady, renowned as one of the greatest quarterbacks in NFL history, has made an unforgettable mark on the Super Bowl stage. With seven titles, countless records, and remarkable performances, his leadership and skill have redefined the game. Brady's legacy is not just in the wins, but in the moments that captured the hearts of fans everywhere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bucs rout Chiefs to win Super Bowl LV, Tom Brady wins seventh championship">
+                                <img itemprop="contentUrl url" src='https://media.tegna-media.com/assets/KENS/images/14bd0eb5-4c95-4b41-b77b-938d5e3b3bed/14bd0eb5-4c95-4b41-b77b-938d5e3b3bed_1920x1080.png' alt='Bucs rout Chiefs to win Super Bowl LV, Tom Brady wins seventh championship'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="localmemphis.com" />
+                                </span>
+                                <a href='https://media.tegna-media.com/assets/KENS/images/14bd0eb5-4c95-4b41-b77b-938d5e3b3bed/14bd0eb5-4c95-4b41-b77b-938d5e3b3bed_1920x1080.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pats QB Tom Brady Wins 3rd Super Bowl MVP Award In 28-24 Win ...">
+                                <img itemprop="contentUrl url" src='https://wordpress.wbur.org/wp-content/uploads/2015/02/brady-trophy-1000x811.jpg' alt='Pats QB Tom Brady Wins 3rd Super Bowl MVP Award In 28-24 Win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WBUR" />
+                                </span>
+                                <a href='https://wordpress.wbur.org/wp-content/uploads/2015/02/brady-trophy-1000x811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How many Super Bowls has Tom Brady won? Wins, losses, games, record">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2025/02/04/USAT/78222848007-usatsi-15544795.jpg' alt='How many Super Bowls has Tom Brady won? Wins, losses, games, record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1722">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2025/02/04/USAT/78222848007-usatsi-15544795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Bowl LIX solidifies Tom Brady was never ready for Fox's top ...">
+                                <img itemprop="contentUrl url" src='https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/02/USATSI_25378768_168384754_lowres-scaled-e1739149654866-832x447.jpg' alt='Super Bowl LIX solidifies Tom Brady was never ready for Fox's top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="832">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Awful Announcing" />
+                                </span>
+                                <a href='https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/02/USATSI_25378768_168384754_lowres-scaled-e1739149654866-832x447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Bowl 55: Tom Brady vows return after 5th MVP trophy - Yahoo ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/a0v5AS_BAg.0pUVurM4HZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/3b8528d0-69bd-11eb-8fb9-e77615cc7808' alt='Super Bowl 55: Tom Brady vows return after 5th MVP trophy - Yahoo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Sports" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/a0v5AS_BAg.0pUVurM4HZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/3b8528d0-69bd-11eb-8fb9-e77615cc7808' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confusion reigns following conflicting reports that legendary ...">
+                                <img itemprop="contentUrl url" src='https://image.cnbcfm.com/api/v1/image/106836961-16127911552021-02-08t120040z_1470926115_15544815_rtrmadp_0_football-nfl.jpeg?v=1617903333' alt='Confusion reigns following conflicting reports that legendary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3281">
+                                <meta itemprop="height" content="2187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNBC" />
+                                </span>
+                                <a href='https://image.cnbcfm.com/api/v1/image/106836961-16127911552021-02-08t120040z_1470926115_15544815_rtrmadp_0_football-nfl.jpeg?v=1617903333' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady picks up 7th Super Bowl championship and he's not going ...">
+                                <img itemprop="contentUrl url" src='https://cst.brightspotcdn.com/dims4/default/0e57664/2147483647/strip/true/crop/3363x2242+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FJyC-NfPUwIGEkPfgs0Ry28iffis%3D%2F0x0%3A3363x2242%2F3363x2242%2Ffilters%3Afocal%281571x800%3A1572x801%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F22288692%2FAP21039133644772.jpg' alt='Tom Brady picks up 7th Super Bowl championship and he's not going ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chicago Sun-Times" />
+                                </span>
+                                <a href='https://cst.brightspotcdn.com/dims4/default/0e57664/2147483647/strip/true/crop/3363x2242+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FJyC-NfPUwIGEkPfgs0Ry28iffis%3D%2F0x0%3A3363x2242%2F3363x2242%2Ffilters%3Afocal%281571x800%3A1572x801%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F22288692%2FAP21039133644772.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England Patriots QB Tom Brady MVP of Super Bowl XLIX">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/-mm-/c0197cb1c0d37e8e39b9168bda0b672595a4e274/c=0-53-3600-2087/local/-/media/2015/02/01/Phoenix/Phoenix/635584302346952519-tom-brady.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' alt='New England Patriots QB Tom Brady MVP of Super Bowl XLIX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/-mm-/c0197cb1c0d37e8e39b9168bda0b672595a4e274/c=0-53-3600-2087/local/-/media/2015/02/01/Phoenix/Phoenix/635584302346952519-tom-brady.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New England's Brady wins 3rd Super Bowl MVP award">
+                                <img itemprop="contentUrl url" src='https://www.gadsdentimes.com/gcdn/authoring/2015/02/01/NTGT/ghows-DA-8e9bcd46-8be3-4e49-b266-4eec5f388cf8-a6524465.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' alt='New England's Brady wins 3rd Super Bowl MVP award'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gadsden Times" />
+                                </span>
+                                <a href='https://www.gadsdentimes.com/gcdn/authoring/2015/02/01/NTGT/ghows-DA-8e9bcd46-8be3-4e49-b266-4eec5f388cf8-a6524465.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom Brady announces second retirement: How many Super Bowls did he ...">
+                                <img itemprop="contentUrl url" src='https://images.daznservices.com/di/library/DAZN_News/43/40/tombrady-sb51_mwz3k0o72plu1ao20mwwz4jck.jpg?t=-413256658' alt='Tom Brady announces second retirement: How many Super Bowls did he ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DAZN" />
+                                </span>
+                                <a href='https://images.daznservices.com/di/library/DAZN_News/43/40/tombrady-sb51_mwz3k0o72plu1ao20mwwz4jck.jpg?t=-413256658' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

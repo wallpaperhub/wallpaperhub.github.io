@@ -1,0 +1,129 @@
+<title>Stunning Sunrise Pictures: Experience Nature's Morning Glory</title>
+                    <meta name="description" content="Discover stunning sunrise pictures that showcase the beauty of nature at dawn. From vibrant colors to serene landscapes, each image inspires a sense of wonder. Perfect for anyone looking to appreciate the magic of a new day!">
+                    <meta name="keywords" content="sunrise pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunrise-pictures">
+                            <span itemprop="name">sunrise pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sunrise Pictures: Experience Nature's Morning Glory</h1>
+                <p>Sunrise pictures capture the breathtaking moments where night transitions to day. The warm hues of orange, pink, and gold fill the sky, creating a magnificent backdrop for nature's awakening. Each image tells a story of new beginnings, inspiring viewers and reminding us of the beauty that greets us every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise photos from around the world | Velvet Escape">
+                                <img itemprop="contentUrl url" src='https://velvetescape.com/wp-content/uploads/2011/11/dawid-zawila-G3rw6Y02D0-unsplash.jpg' alt='Sunrise photos from around the world | Velvet Escape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Velvet Escape" />
+                                </span>
+                                <a href='https://velvetescape.com/wp-content/uploads/2011/11/dawid-zawila-G3rw6Y02D0-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise Images – Browse 36,422,211 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/25/89/88/360_F_125898822_j4n2We3BIvgplgdv6j36FjI8FNI9PnIy.jpg' alt='Sunrise Images – Browse 36,422,211 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/25/89/88/360_F_125898822_j4n2We3BIvgplgdv6j36FjI8FNI9PnIy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,286,800+ Beautiful Sunrise Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1381637603/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=w64j3fW8C96CfYo3kbi386rs_sHH_6BGe8lAAAFS-y4=' alt='1,286,800+ Beautiful Sunrise Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1381637603/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=w64j3fW8C96CfYo3kbi386rs_sHH_6BGe8lAAAFS-y4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise Photos, Download The BEST Free Sunrise Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/163255/sunrise-sun-morgenrot-skies-163255.jpeg?cs=srgb&dl=pexels-pixabay-163255.jpg&fm=jpg' alt='Sunrise Photos, Download The BEST Free Sunrise Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5030">
+                                <meta itemprop="height" content="2840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/163255/sunrise-sun-morgenrot-skies-163255.jpeg?cs=srgb&dl=pexels-pixabay-163255.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,358,800+ Sunrise Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/151694830/photo/sun-above-the-horizon.jpg?s=612x612&w=0&k=20&c=gU9Ki-_9cmJKgv3fAC3jvQtz6huI-4hxHsp9goTUH1U=' alt='2,358,800+ Sunrise Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/151694830/photo/sun-above-the-horizon.jpg?s=612x612&w=0&k=20&c=gU9Ki-_9cmJKgv3fAC3jvQtz6huI-4hxHsp9goTUH1U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Take Epic Sunrise Photos with a Zoom Lens">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/09/epic-sunrise-photos-fog.jpg?resize=1500%2C1001&ssl=1' alt='How to Take Epic Sunrise Photos with a Zoom Lens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Photography School" />
+                                </span>
+                                <a href='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/09/epic-sunrise-photos-fog.jpg?resize=1500%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise, Sunset | Stacy Corwin">
+                                <img itemprop="contentUrl url" src='https://stacycorwin.com/wp-content/uploads/2018/12/sunrise-sunset.jpg' alt='Sunrise, Sunset | Stacy Corwin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stacy Corwin" />
+                                </span>
+                                <a href='https://stacycorwin.com/wp-content/uploads/2018/12/sunrise-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,400+ Sunrise Over Water Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1205289672/photo/majestic-bright-sunrise-over-ocean.jpg?s=612x612&w=0&k=20&c=sG7YEXKCLRu0Rn5FpIEgbefuKkeNO1wuV634C9ZMyuU=' alt='45,400+ Sunrise Over Water Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1205289672/photo/majestic-bright-sunrise-over-ocean.jpg?s=612x612&w=0&k=20&c=sG7YEXKCLRu0Rn5FpIEgbefuKkeNO1wuV634C9ZMyuU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunrise On Ocean hot Waves">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/21/06/48/1000_F_121064813_5CONOqmYSLyCLJlkRn3FsUl8733cg2qc.jpg' alt='Sunrise On Ocean hot Waves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CXO Fund" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/21/06/48/1000_F_121064813_5CONOqmYSLyCLJlkRn3FsUl8733cg2qc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunrise mountain view Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/7/9/e/79ea7fa0-e580-45c1-82b4-adc4436b035e_large/sunrise-mountain-view-stockcake.jpg' alt='Free Sunrise mountain view Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/7/9/e/79ea7fa0-e580-45c1-82b4-adc4436b035e_large/sunrise-mountain-view-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

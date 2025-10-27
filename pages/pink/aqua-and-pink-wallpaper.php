@@ -1,0 +1,129 @@
+<title>Aqua & Pink Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aqua and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/aqua-and-pink-wallpaper">
+                            <span itemprop="name">aqua and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aqua & Pink Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with stunning aqua and pink wallpaper! This vibrant combination adds a whimsical touch to any room, creating a fresh and inviting atmosphere. Perfect for nurseries, bedrooms, or accent walls, it harmonizes with various decor styles. Embrace the beauty of these complementary colors and elevate your interior design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper: Pink & Aqua Floral">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-removable-wallpaper-pink-aqua-floral-vine-and-glory-8281348472932.jpg?v=1619757517' alt='Removable Wallpaper: Pink & Aqua Floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-removable-wallpaper-pink-aqua-floral-vine-and-glory-8281348472932.jpg?v=1619757517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Aqua">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/64418/abstract-aqua.jpg?h=699&q=85' alt='Abstract Aqua'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/64418/abstract-aqua.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aqua Color Gradient Desktop Wallpaper Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/pink-aqua-color-gradient-desktop-260nw-2182494625.jpg' alt='Pink Aqua Color Gradient Desktop Wallpaper Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/pink-aqua-color-gradient-desktop-260nw-2182494625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="watercolor background with brushed aqua marine, light coral and ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/76/54/56/1000_F_276545614_OWcOIMgRaaN0ixnexedvJ8Z6B87uZ9Lo.jpg' alt='watercolor background with brushed aqua marine, light coral and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/76/54/56/1000_F_276545614_OWcOIMgRaaN0ixnexedvJ8Z6B87uZ9Lo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Aqua Ombre Mural - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233198-825-auto?width=825&height=auto&aspect=true' alt='Pink And Aqua Ombre Mural - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233198-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper: Pink & Aqua Floral">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-removable-wallpaper-pink-aqua-floral-vine-and-glory-8281349226596.jpg?v=1619757517' alt='Removable Wallpaper: Pink & Aqua Floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-removable-wallpaper-pink-aqua-floral-vine-and-glory-8281349226596.jpg?v=1619757517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Aqua Pink Gr Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8008142/p/f/m/Wz3ES62EcXgOzfA-oHqpNh_zxloN2Sg2ByYb3sCUXml9YFGVGKTYnpgJ/Watercolour%20%232%20-%20pink%20and%20aqua.jpg' alt='Watercolor Aqua Pink Gr Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8008142/p/f/m/Wz3ES62EcXgOzfA-oHqpNh_zxloN2Sg2ByYb3sCUXml9YFGVGKTYnpgJ/Watercolour%20%232%20-%20pink%20and%20aqua.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aqua And Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9772597/p/f/m/OZ4LoHFTUfUqSR16fLkqmtRxuxIXfTlvS3WU4hgPGRhfb48rym45YFG_/Leopard%20Parade%20%20Hot%20Pink%20on%20Turquoise.jpg' alt='Aqua And Hot Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9772597/p/f/m/OZ4LoHFTUfUqSR16fLkqmtRxuxIXfTlvS3WU4hgPGRhfb48rym45YFG_/Leopard%20Parade%20%20Hot%20Pink%20on%20Turquoise.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aqua Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' alt='Pink Aqua Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-green-background-design_23-2150303046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,944 Aqua Pink Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/layout-colorful-gradient-vector-background-600nw-1728522439.jpg' alt='100,944 Aqua Pink Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/layout-colorful-gradient-vector-background-600nw-1728522439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

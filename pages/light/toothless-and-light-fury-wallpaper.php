@@ -1,0 +1,129 @@
+<title>Toothless & Light Fury Wallpapers – Stunning Designs for Fans</title>
+                    <meta name="description" content="Discover captivating Toothless and Light Fury wallpapers for your devices! Perfect for fans of "How to Train Your Dragon," our collection features vibrant designs that showcase these beloved characters. Download your favorites and bring the magic of their friendship to your screen today!">
+                    <meta name="keywords" content="toothless and light fury wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/toothless-and-light-fury-wallpaper">
+                            <span itemprop="name">toothless and light fury wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Toothless & Light Fury Wallpapers – Stunning Designs for Fans</h1>
+                <p>Explore the enchanting world of "Toothless and Light Fury" with our stunning wallpapers! These vibrant designs bring your favorite dragons from "How to Train Your Dragon" to life on your device. Perfect for fans, these wallpapers will brighten your screen and showcase the bond between Toothless and the Light Fury in captivating detail. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless and Light Fury in 4K - How to Train Your Dragon: The ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/999/999571.jpg' alt='Toothless and Light Fury in 4K - How to Train Your Dragon: The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="2295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/999/999571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 950x1534 toothless and light fury, romantic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/950x1534/263dfe/toothless-and-light-fury-romantic-love-dragons.jpg' alt='Download wallpaper 950x1534 toothless and light fury, romantic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/950x1534/263dfe/toothless-and-light-fury-romantic-love-dragons.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless and light fury, dragons, moon, artwork, 950x1534 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/7b/f6/d67bf6fc2331300d0f4da3e849773dc0.jpg' alt='Toothless and light fury, dragons, moon, artwork, 950x1534 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/7b/f6/d67bf6fc2331300d0f4da3e849773dc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless and light fury♡⃛">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/9a/ec/a89aecdd76b983c94b122aa59cea85b7.jpg' alt='Toothless and light fury♡⃛'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/9a/ec/a89aecdd76b983c94b122aa59cea85b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Toothless/Light Fury phone wallpaper for all your phone ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/5a7826a1e0550b7b03c071c2e33797dc/tumblr_po760uB7M21sm6j1po1_1280.pnj' alt='A Toothless/Light Fury phone wallpaper for all your phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/5a7826a1e0550b7b03c071c2e33797dc/tumblr_po760uB7M21sm6j1po1_1280.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless With His Girlfirend Night Fury, how-to-train-your-dragon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/126/452/HD-wallpaper-toothless-with-his-girlfirend-night-fury-how-to-train-your-dragon-the-hidden-world-how-to-train-your-dragon-3-how-to-train-your-dragon-movies-2019-movies-animated-movies-light-fury-night-fury.jpg' alt='Toothless With His Girlfirend Night Fury, how-to-train-your-dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/126/452/HD-wallpaper-toothless-with-his-girlfirend-night-fury-how-to-train-your-dragon-the-hidden-world-how-to-train-your-dragon-3-how-to-train-your-dragon-movies-2019-movies-animated-movies-light-fury-night-fury.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Toothless (How To Train Your Dragon) Night Fury Dragon ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/114/1143834.jpg' alt='Download Toothless (How To Train Your Dragon) Night Fury Dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4158">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/114/1143834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/2a/90/682a90832f0d74dc6c3530ca4695b6fd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/2a/90/682a90832f0d74dc6c3530ca4695b6fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Toothless And Light Fury Best Dragon Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/toothless-and-light-fury-best-dragon-i8kykhsh3mz38qol.jpg' alt='Download Toothless And Light Fury Best Dragon Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/toothless-and-light-fury-best-dragon-i8kykhsh3mz38qol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toothless and light fury dragons moon artwork wallpaper - /s ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1366x768/8662cc/toothless-and-light-fury-artwork-4k.jpg' alt='Toothless and light fury dragons moon artwork wallpaper - /s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Window-Managers" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1366x768/8662cc/toothless-and-light-fury-artwork-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

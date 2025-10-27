@@ -1,0 +1,129 @@
+<title>Apostille Services in California: Your Guide to Document Authentication</title>
+                    <meta name="description" content="Discover efficient apostille services in California for hassle-free document authentication. Ensure your documents are recognized internationally without complications. Learn about the steps needed to properly apostille your certificates and official papers today!">
+                    <meta name="keywords" content="apostille california">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/apostille-california">
+                            <span itemprop="name">apostille california</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Apostille Services in California: Your Guide to Document Authentication</h1>
+                <p>California apostille services simplify the process of authenticating documents for use abroad. An apostille certifies the origin of a public document, ensuring its legality in countries that are part of the Hague Convention. Whether you need to apostille birth certificates, marriage licenses, or business documents, it's crucial to follow the state's specific guidelines to ensure a smooth and efficient process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get an Apostille in California">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/80832f_b16cb096def44c3c9c09c49ce3d0a33c~mv2.jpg/v1/fill/w_568,h_736,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_b16cb096def44c3c9c09c49ce3d0a33c~mv2.jpg' alt='How to Get an Apostille in California'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office Of Parviz Malakouti" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/80832f_b16cb096def44c3c9c09c49ce3d0a33c~mv2.jpg/v1/fill/w_568,h_736,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80832f_b16cb096def44c3c9c09c49ce3d0a33c~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apostille US - California I">
+                                <img itemprop="contentUrl url" src='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Apostille-US-California.jpg' alt='Apostille US - California I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tranlanguage" />
+                                </span>
+                                <a href='https://www.tranlanguage.com/wp-content/uploads/Tranlanguage-Apostille-US-California.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Authentication Certificate (Apostille) - Sacramento Secretary of ...">
+                                <img itemprop="contentUrl url" src='https://sacramentosecretaryofstatefilingservice.com/wp-content/uploads/2019/04/california-apostille1.png' alt='Authentication Certificate (Apostille) - Sacramento Secretary of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sacramento Secretary of State Filing Service" />
+                                </span>
+                                <a href='https://sacramentosecretaryofstatefilingservice.com/wp-content/uploads/2019/04/california-apostille1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Example of California Apostille – Apostille Services">
+                                <img itemprop="contentUrl url" src='https://www.apostilleservices.com/wp-content/uploads/2023/04/Example-of-California-Apostille.jpg' alt='Example of California Apostille – Apostille Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostille Services" />
+                                </span>
+                                <a href='https://www.apostilleservices.com/wp-content/uploads/2023/04/Example-of-California-Apostille.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Apostille Example">
+                                <img itemprop="contentUrl url" src='https://internationalapostille.com/wp-content/uploads/2018/03/California-Apostille-Example.jpg' alt='California Apostille Example'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Apostille" />
+                                </span>
+                                <a href='https://internationalapostille.com/wp-content/uploads/2018/03/California-Apostille-Example.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Definition of an Apostille - Dash Mobile Notary">
+                                <img itemprop="contentUrl url" src='http://www.dashmobilenotary.com/uploads/4/6/4/8/46481515/editor/sample-apostille.png?1642360162' alt='Definition of an Apostille - Dash Mobile Notary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="161">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dash Mobile Notary" />
+                                </span>
+                                <a href='http://www.dashmobilenotary.com/uploads/4/6/4/8/46481515/editor/sample-apostille.png?1642360162' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apostille Services in Fresno CA | Across Town Notary">
+                                <img itemprop="contentUrl url" src='https://www.acrosstownnotary.com/wp-content/uploads/california-apostille-2020-sample.jpg' alt='Apostille Services in Fresno CA | Across Town Notary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Across Town Notary" />
+                                </span>
+                                <a href='https://www.acrosstownnotary.com/wp-content/uploads/california-apostille-2020-sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Complete Guide to Apostille Services in Los Angeles">
+                                <img itemprop="contentUrl url" src='https://apostilla.com/wp-content/uploads/2023/10/Apostille-Services-in-Los-Angeles.webp' alt='A Complete Guide to Apostille Services in Los Angeles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostilla.com" />
+                                </span>
+                                <a href='https://apostilla.com/wp-content/uploads/2023/10/Apostille-Services-in-Los-Angeles.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample California Apostille | This image is an example of a … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/8249/8646343622_bb782eb536_z.jpg' alt='Sample California Apostille | This image is an example of a … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/8249/8646343622_bb782eb536_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="California Apostille Services | Rocklin Notary Public">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/596120e672af6554d01812ce/9917705e-32a9-476e-a2a6-4624641e97c0/Apostille+image.jpg' alt='California Apostille Services | Rocklin Notary Public'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocklin Notary Public" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/596120e672af6554d01812ce/9917705e-32a9-476e-a2a6-4624641e97c0/Apostille+image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

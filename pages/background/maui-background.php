@@ -1,0 +1,129 @@
+<title>Maui Background: Explore the Island's Rich History and Natural Beauty</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="maui background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maui-background">
+                            <span itemprop="name">maui background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maui Background: Explore the Island's Rich History and Natural Beauty</h1>
+                <p>Maui, known as the "Valley Isle," is the second-largest Hawaiian island, famous for its stunning landscapes, lush rainforests, and vibrant marine life. The island features iconic attractions like Haleakalā National Park and the scenic Road to Hana, making it a top destination for adventure seekers and nature lovers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Maui Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1669748157617-a3a83cc8ea23?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWF1aXxlbnwwfHwwfHx8MA%3D%3D' alt='500+ Maui Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1669748157617-a3a83cc8ea23?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWF1aXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="530+ Kaanapali Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/543044222/photo/kaanapali-beach-and-resort-hotels-on-maui-hawaii.jpg?s=612x612&w=0&k=20&c=4SrVin9te092sWSIPcsN_8NsCwWN7K5GC31wTzYP0_g=' alt='530+ Kaanapali Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/543044222/photo/kaanapali-beach-and-resort-hotels-on-maui-hawaii.jpg?s=612x612&w=0&k=20&c=4SrVin9te092sWSIPcsN_8NsCwWN7K5GC31wTzYP0_g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,100+ Maui Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1196861791/photo/makena-secret-beach-at-sunset-in-maui-hi.jpg?s=612x612&w=0&k=20&c=cv_xN84Uc5d43rxIPwMvFOJSPV98L23cjq2sDj8pdTM=' alt='20,100+ Maui Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1196861791/photo/makena-secret-beach-at-sunset-in-maui-hi.jpg?s=612x612&w=0&k=20&c=cv_xN84Uc5d43rxIPwMvFOJSPV98L23cjq2sDj8pdTM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Maui | Sail Maui">
+                                <img itemprop="contentUrl url" src='https://sailmaui.com/wp-content/uploads/sites/7468/2024/08/History-of-Maui-1080x438-1.jpg?w=700&h=700&zoom=2' alt='The History of Maui | Sail Maui'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sail Maui" />
+                                </span>
+                                <a href='https://sailmaui.com/wp-content/uploads/sites/7468/2024/08/History-of-Maui-1080x438-1.jpg?w=700&h=700&zoom=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visiting Maui Virtually: A Photo Series of 10 Breathtaking Maui Sights">
+                                <img itemprop="contentUrl url" src='https://www.islandsothebysrealty.com/uploads/agent-1/Blog/Maui%20sunset-min.jpg' alt='Visiting Maui Virtually: A Photo Series of 10 Breathtaking Maui Sights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Island Sotheby's International Realty" />
+                                </span>
+                                <a href='https://www.islandsothebysrealty.com/uploads/agent-1/Blog/Maui%20sunset-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="44,400+ Maui Hawaii Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165863613/photo/maui-coastline-hawaii-islands.jpg?s=612x612&w=0&k=20&c=Ve52OPhH8T9s2bVkMsVd-pClJKav54y_6eD-IsBkgyI=' alt='44,400+ Maui Hawaii Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165863613/photo/maui-coastline-hawaii-islands.jpg?s=612x612&w=0&k=20&c=Ve52OPhH8T9s2bVkMsVd-pClJKav54y_6eD-IsBkgyI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui Secret Beach">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/D/P/DPX-0001975991.jpg' alt='Maui Secret Beach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/D/P/DPX-0001975991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,265 Maui Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/hawaii-background-photo-260nw-1169919292.jpg' alt='32,265 Maui Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/hawaii-background-photo-260nw-1169919292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maui Images – Browse 76,417 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/36/86/02/360_F_136860247_EZEktYTsrwGsIoMa1TdDXd5ImD8lmOYr.jpg' alt='Maui Images – Browse 76,417 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/36/86/02/360_F_136860247_EZEktYTsrwGsIoMa1TdDXd5ImD8lmOYr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50-megapixel ultra-high-res stock photo license: Maui Beach at Kihei by Jim  Tarpo">
+                                <img itemprop="contentUrl url" src='https://vastphotos.com/files/uploads/photos/11655/high-resolution-hawaii-beach-photo-l.jpg?v=20230915094740' alt='50-megapixel ultra-high-res stock photo license: Maui Beach at Kihei by Jim  Tarpo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VAST Photos" />
+                                </span>
+                                <a href='https://vastphotos.com/files/uploads/photos/11655/high-resolution-hawaii-beach-photo-l.jpg?v=20230915094740' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

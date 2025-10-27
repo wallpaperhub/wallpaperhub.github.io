@@ -1,0 +1,129 @@
+<title>Stunning Moon Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover breathtaking moon wallpapers for your phone. Elevate your device's look with captivating lunar designs that reflect your love for the night sky. Download now for a cosmic touch to your mobile experience! Perfect for stargazers and moon enthusiasts alike.">
+                    <meta name="keywords" content="moon wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/moon-wallpaper-phone">
+                            <span itemprop="name">moon wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moon Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning moon wallpapers that capture the beauty of our celestial neighbor. From serene night skies to vibrant lunar phases, these wallpapers offer a captivating aesthetic for your device. Perfect for anyone who loves astronomy or simply enjoys a touch of cosmic charm in their everyday life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moon Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/moon-phone-5k6xu0g3q5kqm7ef.jpg' alt='100+] Moon Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/moon-phone-5k6xu0g3q5kqm7ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If anyone wants a phone wallpaper, here's a photo of the moon I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/if-anyone-wants-a-phone-wallpaper-heres-a-photo-of-the-moon-v0-yq7hywsexftb1.png?auto=webp&s=08ca9000a95b19f1cf6917969bc7a2f224474b30' alt='If anyone wants a phone wallpaper, here's a photo of the moon I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/if-anyone-wants-a-phone-wallpaper-heres-a-photo-of-the-moon-v0-yq7hywsexftb1.png?auto=webp&s=08ca9000a95b19f1cf6917969bc7a2f224474b30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Best HD Moon Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/bd/aa/f0bdaa292abf9318526a342a41e078ea.jpg' alt='32 Best HD Moon Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/bd/aa/f0bdaa292abf9318526a342a41e078ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Stacked 10,000 Images to Create My Sharpest Yet HDR Moon Photo ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-stacked-10-000-images-to-create-my-sharpest-yet-hdr-moon-v0-fhwzy8v624td1.jpeg?auto=webp&s=a6c32e050daf36d8ab0c0ec8db72e472757fc837' alt='I Stacked 10,000 Images to Create My Sharpest Yet HDR Moon Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2348">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-stacked-10-000-images-to-create-my-sharpest-yet-hdr-moon-v0-fhwzy8v624td1.jpeg?auto=webp&s=a6c32e050daf36d8ab0c0ec8db72e472757fc837' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phone Varieties Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/moon-phone-varieties-n4a209i7cv27s620.jpg' alt='Moon Phone Varieties Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/moon-phone-varieties-n4a209i7cv27s620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFd5-UzGYY/1/0/900w/canva-moon-and-stars-minimalist-phone-wallpaper-uQUjznCnF2g.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFd5-UzGYY/1/0/900w/canva-moon-and-stars-minimalist-phone-wallpaper-uQUjznCnF2g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD blue moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/323/583/HD-wallpaper-blue-moon-full-moon-sky.jpg' alt='HD blue moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/323/583/HD-wallpaper-blue-moon-full-moon-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/a/f/172994-2160x3840-iphone-4k-moonlight-wallpaper-image.jpg' alt='Moonlight Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/a/f/172994-2160x3840-iphone-4k-moonlight-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE5GmCLhR0/1/0/900w/canva-black-moon-phases-phone-wallpaper-bDhQ2JgzjlQ.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE5GmCLhR0/1/0/900w/canva-black-moon-phases-phone-wallpaper-bDhQ2JgzjlQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Moon" wallpapers for mobile phone, free "Moon" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/90/90430a55ac6a4d27e2c04f76ac746b17.jpeg' alt='Download "Moon" wallpapers for mobile phone, free "Moon" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/90/90430a55ac6a4d27e2c04f76ac746b17.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

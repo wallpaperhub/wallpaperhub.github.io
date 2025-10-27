@@ -1,0 +1,129 @@
+<title>Vibrant Gum Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover a collection of vibrant gum clipart, perfect for elevating your design projects. Ideal for educators, bloggers, or anyone looking to add a fun, colorful touch. Browse and download high-quality images that will make your work stand out!">
+                    <meta name="keywords" content="gum clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gum-clipart">
+                            <span itemprop="name">gum clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gum Clipart for Creative Projects</h1>
+                <p>Gum clipart is a fun and versatile graphic resource ideal for various projects. Whether you're designing a poster, creating educational materials, or adding flair to your blog, these images can enhance your creative expression. Available in different styles and colors, gum clipart adds a playful touch to any design, making it engaging and relatable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gum Stock Illustrations – 42,182 Gum Stock Illustrations, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/illustration-g-font-gum-cute-education-53937384.jpg' alt='Gum Stock Illustrations – 42,182 Gum Stock Illustrations, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/illustration-g-font-gum-cute-education-53937384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubble gum - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/1795242/bubble-gum-clipart-xl.png' alt='Bubble gum - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/1795242/bubble-gum-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | gum">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/c2/c200a6a13d66e652260dbd6f35ce0f90_t.jpeg' alt='Free Vectors | gum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/c2/c200a6a13d66e652260dbd6f35ce0f90_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110+ Bubble Gum Machine Clipart Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1226782056/vector/cartoon-gumball-machine.jpg?s=612x612&w=0&k=20&c=hUbSQca9uVgk6i87VlntFXLoiUrgGe1FFfYdgCN8JNc=' alt='110+ Bubble Gum Machine Clipart Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1226782056/vector/cartoon-gumball-machine.jpg?s=612x612&w=0&k=20&c=hUbSQca9uVgk6i87VlntFXLoiUrgGe1FFfYdgCN8JNc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Pack Of Gum Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1332289033/vector/pink-bubble-gum-pack.jpg?s=612x612&w=0&k=20&c=FYT_fLzQthp7oqIdsWIPPOHLgsgBVtFQ4io97UUjJbk=' alt='1,900+ Pack Of Gum Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1332289033/vector/pink-bubble-gum-pack.jpg?s=612x612&w=0&k=20&c=FYT_fLzQthp7oqIdsWIPPOHLgsgBVtFQ4io97UUjJbk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gum Clipart Stock Photos and Pictures - 2,310 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/freehand-drawn-cartoon-chewing-gum-260nw-350935727.jpg' alt='Gum Clipart Stock Photos and Pictures - 2,310 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/freehand-drawn-cartoon-chewing-gum-260nw-350935727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BUBBLE GUM CLIPART GRAPHICS- Commercial & Personal Use">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/BUBBLE-GUM-CLIPART-GRAPHICS-Commercial-Personal-Use-1640719-1656583810/original-1640719-4.jpg' alt='BUBBLE GUM CLIPART GRAPHICS- Commercial & Personal Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/BUBBLE-GUM-CLIPART-GRAPHICS-Commercial-Personal-Use-1640719-1656583810/original-1640719-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Clipart Of Bubble Gum | Free Images at Clker.com - vector ...">
+                                <img itemprop="contentUrl url" src='https://www.clker.com/cliparts/4/c/8/9/1516338809790481168free-clipart-of-bubble-gum.hi.png' alt='Free Clipart Of Bubble Gum | Free Images at Clker.com - vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='https://www.clker.com/cliparts/4/c/8/9/1516338809790481168free-clipart-of-bubble-gum.hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gum Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220302/ourmid/pngtree-illustration-of-a-green-bubble-gum-box-on-transparent-background-png-image_4471091.png' alt='Gum Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220302/ourmid/pngtree-illustration-of-a-green-bubble-gum-box-on-transparent-background-png-image_4471091.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chewing bubble gum in pink package. 20884917 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/884/917/non_2x/chewing-bubble-gum-in-pink-package-vector.jpg' alt='Chewing bubble gum in pink package. 20884917 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/884/917/non_2x/chewing-bubble-gum-in-pink-package-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

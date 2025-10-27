@@ -1,0 +1,129 @@
+<title>Charming Shamrock Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover delightful shamrock wallpaper to enhance your interior decor. Ideal for festive occasions or a fresh look year-round, our collection features lively designs that bring joy and luck into your space. Perfect for accent walls or full room transformations, explore styles that fit your taste and elevate your ambiance!">
+                    <meta name="keywords" content="shamrock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shamrock-wallpaper">
+                            <span itemprop="name">shamrock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Shamrock Wallpaper for Your Home</h1>
+                <p>Transform your space with charming shamrock wallpaper! Perfect for celebrating St. Patrick's Day or adding a touch of nature-inspired style to your home. With vibrant greens and playful patterns, shamrock wallpaper creates an uplifting atmosphere in any room. Ideal for accents or entire walls, it brings luck and cheer to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irish Shamrock Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/d/6/754440-2560x1600-desktop-hd-irish-shamrock-wallpaper.jpg' alt='Irish Shamrock Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/d/6/754440-2560x1600-desktop-hd-irish-shamrock-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signature Shamrock Wallpaper– Liza Pruitt">
+                                <img itemprop="contentUrl url" src='https://www.lizapruitt.com/cdn/shop/products/signature-shamrock-wallpaper-406934_640x640.jpg?v=1708230669' alt='Signature Shamrock Wallpaper– Liza Pruitt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liza Pruitt" />
+                                </span>
+                                <a href='https://www.lizapruitt.com/cdn/shop/products/signature-shamrock-wallpaper-406934_640x640.jpg?v=1708230669' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock Wallpaper Stock Illustrations – 13,954 Shamrock Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-minimalist-shamrock-wallpaper-subtle-green-clover-design-st-patricks-day-celebrations-beyond-celebrate-patrick-353867727.jpg' alt='Shamrock Wallpaper Stock Illustrations – 13,954 Shamrock Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-minimalist-shamrock-wallpaper-subtle-green-clover-design-st-patricks-day-celebrations-beyond-celebrate-patrick-353867727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/f9/a7/6af9a7fe3e7e4bc0aa5cf049af2ce65d.jpg' alt='Shamrock wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/f9/a7/6af9a7fe3e7e4bc0aa5cf049af2ce65d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock Background Images – Browse 294,457 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/29/45/79/360_F_1129457956_1uArllVLA0LdjtDifETnufwTSsmrybcu.jpg' alt='Shamrock Background Images – Browse 294,457 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/29/45/79/360_F_1129457956_1uArllVLA0LdjtDifETnufwTSsmrybcu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock Wallpaper Vector Images (over 4,800)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/85/88/clover-leaves-seamless-pattern-shamrock-vector-49798588.jpg' alt='Shamrock Wallpaper Vector Images (over 4,800)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/85/88/clover-leaves-seamless-pattern-shamrock-vector-49798588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock Background" Images – Browse 1,598 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/94/69/25/360_F_1094692563_BPk6w0jGvpJ1DZqTgZxC5kwDHzFF7gtO.jpg' alt='Shamrock Background" Images – Browse 1,598 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/94/69/25/360_F_1094692563_BPk6w0jGvpJ1DZqTgZxC5kwDHzFF7gtO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Shamrock Stock Illustrations – 13,975 Wallpaper Shamrock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/clover-leaves-seamless-pattern-st-patrick-s-day-green-background-shamrock-wallpaper-clover-leaves-seamless-pattern-st-patrick-s-110731497.jpg' alt='Wallpaper Shamrock Stock Illustrations – 13,975 Wallpaper Shamrock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/clover-leaves-seamless-pattern-st-patrick-s-day-green-background-shamrock-wallpaper-clover-leaves-seamless-pattern-st-patrick-s-110731497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download St Patricks Day Shamrock Pattern Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/st-patricks-day-shamrock-pattern-b3kxjeiz6wddav3t.jpg' alt='Download St Patricks Day Shamrock Pattern Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/st-patricks-day-shamrock-pattern-b3kxjeiz6wddav3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Shamrock Art St Patrick's Day Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/green-aesthetic-shamrock-art-st-patrick-s-day-qocvu8uc2vpo7pz4.jpg' alt='Green Aesthetic Shamrock Art St Patrick's Day Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/green-aesthetic-shamrock-art-st-patrick-s-day-qocvu8uc2vpo7pz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

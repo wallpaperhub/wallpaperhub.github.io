@@ -1,0 +1,129 @@
+<title>Unveiling Witchcraft: Mysteries & Practices</title>
+                    <meta name="description" content="Explore the fascinating world of witchcraft! Discover its ancient roots, mystical practices, and the powerful connection to nature. Unravel the myths and realities behind spells and rituals, and learn how this intriguing craft continues to inspire and captivate minds today.">
+                    <meta name="keywords" content="witchcraft">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/witchcraft">
+                            <span itemprop="name">witchcraft</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling Witchcraft: Mysteries & Practices</h1>
+                <p>Witchcraft is a practice steeped in ancient traditions and mystical beliefs, often associated with spell-casting, herbalism, and rituals. It draws from nature and the elements, aiming to harness energy for healing or divination. Throughout history, it has sparked intrigue and controversy, reflecting the balance between fear and fascination in society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft: A Handbook of Magic Spells and Potions (Volume 1 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1hr2nm8zwL.jpg' alt='Witchcraft: A Handbook of Magic Spells and Potions (Volume 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1hr2nm8zwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Witchcraft | Book by Rebecca Beyer | Official Publisher Page ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982185626/wild-witchcraft-9781982185626_hr.jpg' alt='Wild Witchcraft | Book by Rebecca Beyer | Official Publisher Page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982185626/wild-witchcraft-9781982185626_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thames & Hudson USA - Book - A History of Witchcraft: Sorcerers ...">
+                                <img itemprop="contentUrl url" src='https://cdn2.wwnorton.com/wwnproducts/T&H/5/8/9780500297285/9780500297285_300.jpg' alt='Thames & Hudson USA - Book - A History of Witchcraft: Sorcerers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thames & Hudson USA" />
+                                </span>
+                                <a href='https://cdn2.wwnorton.com/wwnproducts/T&H/5/8/9780500297285/9780500297285_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wyspell Large Witchcraft Kit 65 PCS - Witch Altar ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1VWjWimftL.jpg' alt='Amazon.com: Wyspell Large Witchcraft Kit 65 PCS - Witch Altar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1VWjWimftL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft | Definition, History, Trials, Witch Hunts, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/26868-004-776269B3/Witches-Sabbath-canvas-Francisco-de-Goya-Lazaro-1798.jpg' alt='Witchcraft | Definition, History, Trials, Witch Hunts, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="205">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/26868-004-776269B3/Witches-Sabbath-canvas-Francisco-de-Goya-Lazaro-1798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft (2020) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTFlYzc1YzItNzU1MS00YjU4LTg1MWQtYWU5NTU5NjdjZDg4XkEyXkFqcGc@._V1_.jpg' alt='Witchcraft (2020) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTFlYzc1YzItNzU1MS00YjU4LTg1MWQtYWU5NTU5NjdjZDg4XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft: A Graphic History by Lindsay Squire, Lisa Salsi ...">
+                                <img itemprop="contentUrl url" src='https://cloud.firebrandtech.com/api/v2/image/111/9780711295254/CoverArtHigh/XL' alt='Witchcraft: A Graphic History by Lindsay Squire, Lisa Salsi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Quarto Group" />
+                                </span>
+                                <a href='https://cloud.firebrandtech.com/api/v2/image/111/9780711295254/CoverArtHigh/XL' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witches | World of Witchcraft Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/witchcraft-world/images/9/99/Witches.jpg/revision/latest?cb=20230714045210' alt='Witches | World of Witchcraft Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Witchcraft Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/witchcraft-world/images/9/99/Witches.jpg/revision/latest?cb=20230714045210' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WITCHCRAFT FOR BEGINNERS: A Basic Guide For Modern Witches To Find Their  Own Path And Start Practicing To Learn Spells And Magic Rituals Using ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Zei1RHHCL._AC_UF1000,1000_QL80_.jpg' alt='WITCHCRAFT FOR BEGINNERS: A Basic Guide For Modern Witches To Find Their  Own Path And Start Practicing To Learn Spells And Magic Rituals Using ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Zei1RHHCL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchcraft: The History Behind It">
+                                <img itemprop="contentUrl url" src='https://akcdn.detik.net.id/api/wm/2022/10/28/witchcraft-1_169.png' alt='Witchcraft: The History Behind It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CXO Media" />
+                                </span>
+                                <a href='https://akcdn.detik.net.id/api/wm/2022/10/28/witchcraft-1_169.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

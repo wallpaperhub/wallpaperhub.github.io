@@ -1,0 +1,129 @@
+<title>Stylish iPad VSCO Preppy Wallpapers for Trendy Aesthetics</title>
+                    <meta name="description" content="Explore a collection of iPad VSCO preppy wallpapers that enhance your device's style. Perfect for trendy aesthetics, these wallpapers offer a fresh and vibrant look that embodies the preppy vibe. Ideal for anyone looking to personalize their iPad with fashionable designs!">
+                    <meta name="keywords" content="ipad vsco preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/ipad-vsco-preppy-wallpaper">
+                            <span itemprop="name">ipad vsco preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish iPad VSCO Preppy Wallpapers for Trendy Aesthetics</h1>
+                <p>Discover the perfect blend of style and aesthetic with iPad VSCO preppy wallpapers. These chic designs elevate your device's look, showcasing vibrant colors and trendy patterns that resonate with the preppy vibe. Whether you prefer pastel hues or bold prints, find wallpaper options that express your unique personality. Upgrade your iPad today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute vsco wallpaper for iPhone background.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/06/02/0606024214b08d508639d983d68ae32c.jpg' alt='cute vsco wallpaper for iPhone background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/06/02/0606024214b08d508639d983d68ae32c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Preppy Vsco Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-preppy-vsco-yq2czrb5u2wloycb.jpg' alt='Pink Preppy Vsco Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-preppy-vsco-yq2czrb5u2wloycb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vsco wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/a6/0a/73a60a13abdab15a9594d657f12ecb78.jpg' alt='vsco wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/a6/0a/73a60a13abdab15a9594d657f12ecb78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vsco wallpaper by aesthicswallpapers on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5b8d669-68a7-402b-b71a-03c919ae7b12/dfijg72-5fbd9361-9d38-447c-b1be-c011d5d31eda.jpg/v1/fill/w_564,h_1002,q_75,strp/vsco_wallpaper_by_aesthicswallpapers_dfijg72-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMiIsInBhdGgiOiJcL2ZcL2M1YjhkNjY5LTY4YTctNDAyYi1iNzFhLTAzYzkxOWFlN2IxMlwvZGZpamc3Mi01ZmJkOTM2MS05ZDM4LTQ0N2MtYjFiZS1jMDExZDVkMzFlZGEuanBnIiwid2lkdGgiOiI8PTU2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Q8hfhks18XmwOowyoS-kr0EpXbE7prpzJYs07zF7vJc' alt='vsco wallpaper by aesthicswallpapers on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5b8d669-68a7-402b-b71a-03c919ae7b12/dfijg72-5fbd9361-9d38-447c-b1be-c011d5d31eda.jpg/v1/fill/w_564,h_1002,q_75,strp/vsco_wallpaper_by_aesthicswallpapers_dfijg72-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMiIsInBhdGgiOiJcL2ZcL2M1YjhkNjY5LTY4YTctNDAyYi1iNzFhLTAzYzkxOWFlN2IxMlwvZGZpamc3Mi01ZmJkOTM2MS05ZDM4LTQ0N2MtYjFiZS1jMDExZDVkMzFlZGEuanBnIiwid2lkdGgiOiI8PTU2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Q8hfhks18XmwOowyoS-kr0EpXbE7prpzJYs07zF7vJc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Vsco Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-stars-over-colorful-background-aesthetic-vsco-ikt4bdsir57kabgh.jpg' alt='100+] Aesthetic Vsco Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1767">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-stars-over-colorful-background-aesthetic-vsco-ikt4bdsir57kabgh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ig//McKenna.steinau vsco//mckennaaaa">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/4e/64/494e649c188277134fa6c35684956ad7.jpg' alt='ig//McKenna.steinau vsco//mckennaaaa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/4e/64/494e649c188277134fa6c35684956ad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad VSCO Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5912566.jpg' alt='iPad VSCO Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5912566.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Vsco Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/you-re-doing-great-aesthetic-vsco-hjcbvd905k4knjvo.jpg' alt='100+] Aesthetic Vsco Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/you-re-doing-great-aesthetic-vsco-hjcbvd905k4knjvo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80+ Orange and Teal VSCO Aesthetic Photo Collage Kit (download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26685079/r/il/1be920/2813534461/il_fullxfull.2813534461_j7hd.jpg' alt='80+ Orange and Teal VSCO Aesthetic Photo Collage Kit (download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26685079/r/il/1be920/2813534461/il_fullxfull.2813534461_j7hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VSCO Preppy Wallpapers Neat HD on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/f4/b0/40f4b02f-f0bb-7532-669c-84314fdbec75/ee37ee94-2114-4e98-8455-b9cb9ba18547_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-08-12_at_23.20.03.png/643x0w.jpg' alt='VSCO Preppy Wallpapers Neat HD on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/f4/b0/40f4b02f-f0bb-7532-669c-84314fdbec75/ee37ee94-2114-4e98-8455-b9cb9ba18547_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-08-12_at_23.20.03.png/643x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

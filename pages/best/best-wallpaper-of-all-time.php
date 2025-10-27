@@ -1,0 +1,129 @@
+<title>The Ultimate Best Wallpaper Guide</title>
+                    <meta name="description" content="Explore the best wallpapers of all time! Find classic and modern designs that elevate your home decor. Discover patterns, textures, and colors that suit any style, ensuring your space feels cozy and inviting. Transform your interiors today!">
+                    <meta name="keywords" content="best wallpaper of all time">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-wallpaper-of-all-time">
+                            <span itemprop="name">best wallpaper of all time</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Ultimate Best Wallpaper Guide</h1>
+                <p>Discover the best wallpaper of all time that transforms your space! From classic damasks to modern geometric patterns, the perfect wallpaper enhances your home's aesthetic. Dive into a world of colors, textures, and styles that evoke emotions and set the mood. Elevate your interior design with timeless wallpaper choices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All-Time Best Wallpapers on Wallpaper Engine — Wallpaper Engine Space">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1609959391058-Z8ZR2WU02Y7BSTVISRV0/Spaceman' alt='All-Time Best Wallpapers on Wallpaper Engine — Wallpaper Engine Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1355">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1609959391058-Z8ZR2WU02Y7BSTVISRV0/Spaceman' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Best Ever Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iron-man-best-ever-desktop-cq2auu2djov0pi06.jpg' alt='100+] Best Ever Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iron-man-best-ever-desktop-cq2auu2djov0pi06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greatest Of All Time Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4643582.jpg' alt='Greatest Of All Time Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="964">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4643582.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Cool Wallpaper Photos · 100% Free Download · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2156881/pexels-photo-2156881.jpeg?cs=srgb&dl=pexels-anniroenkae-2156881.jpg&fm=jpg' alt='100,000+ Best Cool Wallpaper Photos · 100% Free Download · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3997">
+                                <meta itemprop="height" content="3001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2156881/pexels-photo-2156881.jpeg?cs=srgb&dl=pexels-anniroenkae-2156881.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10 Best Wallpapers of All Time | HardWi®ed: [Refresh]">
+                                <img itemprop="contentUrl url" src='https://hxwf5.wordpress.com/wp-content/uploads/2012/08/bliss.jpg' alt='The 10 Best Wallpapers of All Time | HardWi®ed: [Refresh]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HardWi®ed - WordPress.com" />
+                                </span>
+                                <a href='https://hxwf5.wordpress.com/wp-content/uploads/2012/08/bliss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="800 Best Wallpapers Ever ideas | r wallpaper, hd wallpaper, indie ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6d/85/55/6d8555c881bfc3f59d147e93c3bc032f.png' alt='800 Best Wallpapers Ever ideas | r wallpaper, hd wallpaper, indie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6d/85/55/6d8555c881bfc3f59d147e93c3bc032f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD all time best wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-breaking-bad-all-time-best-show-thumbnail.jpg' alt='HD all time best wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-breaking-bad-all-time-best-show-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' alt='Top 5 Most Memorable iOS Wallpapers of All Time – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2017/06/26150332/ios-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My 26 All Time Best Wallpapers! : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-26-all-time-best-wallpapers-v0-cd6tvl2cd96a1.jpg?auto=webp&s=0c0a39f097bff99a41203f5ced66388228cef1a6' alt='My 26 All Time Best Wallpapers! : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3963">
+                                <meta itemprop="height" content="5944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-26-all-time-best-wallpapers-v0-cd6tvl2cd96a1.jpg?auto=webp&s=0c0a39f097bff99a41203f5ced66388228cef1a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Most Aesthetic Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f4/96/52/f4965204da77ef93bbeaa57eb1eaf8f4.jpg' alt='11 Most Aesthetic Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f4/96/52/f4965204da77ef93bbeaa57eb1eaf8f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

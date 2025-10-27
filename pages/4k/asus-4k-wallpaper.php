@@ -1,0 +1,129 @@
+<title>Stunning ASUS 4K Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover a collection of exquisite ASUS 4K wallpapers designed to elevate your screen's aesthetic. Enjoy vibrant images and exquisite details that refresh your desktop and enhance your viewing experience effortlessly. Perfect for gamers, artists, and anyone who loves stunning visuals!">
+                    <meta name="keywords" content="asus 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/asus-4k-wallpaper">
+                            <span itemprop="name">asus 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning ASUS 4K Wallpapers for Your Desktop</h1>
+                <p>Transform your screen with stunning ASUS 4K wallpaper that enhances your desktop experience. These high-resolution images bring vibrancy and detail, showcasing breathtaking landscapes, captivating abstract designs, and immersive gaming visuals. Spice up your digital environment with exceptional clarity and depth that only 4K can offer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513879295556.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513879295556.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1539690389456.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - ASUS" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1539690389456.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513879186914.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513879186914.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513879516480.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513879516480.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513882457293.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513882457293.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asus Rog 4k Gaming Logo With Red Lightning Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/asus-rog-4k-gaming-logo-with-red-lightning-oi7tj28ea57qkgks.jpg' alt='Asus Rog 4k Gaming Logo With Red Lightning Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/asus-rog-4k-gaming-logo-with-red-lightning-oi7tj28ea57qkgks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Republic Of Gamers, 4k, logo, ASUS, art, RoG ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/20/f6/2420f6a23729e7fa4554e63e1d34dd4f.jpg' alt='Download wallpapers Republic Of Gamers, 4k, logo, ASUS, art, RoG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/20/f6/2420f6a23729e7fa4554e63e1d34dd4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513879333445.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513879333445.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asus Wallpaper 4K Pc Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/42/86/5842863f24bd4c5b17b99ec3d4f04c76.jpg' alt='Asus Wallpaper 4K Pc Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/42/86/5842863f24bd4c5b17b99ec3d4f04c76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG - Republic of Gamers｜Global | For Those Who Dare">
+                                <img itemprop="contentUrl url" src='https://dlcdnrog.asus.com/rog/media/1513879776658.webp' alt='ROG - Republic of Gamers｜Global | For Those Who Dare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROG - Republic of Gamers｜Global | For Those Who Dare" />
+                                </span>
+                                <a href='https://dlcdnrog.asus.com/rog/media/1513879776658.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

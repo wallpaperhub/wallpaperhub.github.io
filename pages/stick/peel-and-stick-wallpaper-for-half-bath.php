@@ -1,0 +1,129 @@
+<title>Stylish Peel and Stick Wallpaper Ideas for Your Half Bath</title>
+                    <meta name="description" content="Elevate your half bath with trendy peel and stick wallpaper! Discover quick, easy, and removable designs that enhance your space. Perfect for renters and DIY enthusiasts, get inspired to refresh your bathroom decor today!">
+                    <meta name="keywords" content="peel and stick wallpaper for half bath">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-for-half-bath">
+                            <span itemprop="name">peel and stick wallpaper for half bath</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Peel and Stick Wallpaper Ideas for Your Half Bath</h1>
+                <p>Transform your half bath effortlessly with peel and stick wallpaper! This innovative solution provides a stylish update without the mess of traditional wallpaper. Choose from a range of designs to complement your decor. Quick to apply and easy to remove, it’s perfect for adding a pop of personality to small spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everlee Floral - Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://ourlocalwallpaperstudio.com/cdn/shop/products/unnamed_8.jpg?v=1673639254' alt='Everlee Floral - Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Local Wallpaper Studio" />
+                                </span>
+                                <a href='http://ourlocalwallpaperstudio.com/cdn/shop/products/unnamed_8.jpg?v=1673639254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/668b6d/4536896482/il_fullxfull.4536896482_9tjg.jpg' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="1630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/668b6d/4536896482/il_fullxfull.4536896482_9tjg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' alt='DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Aesthetic Abode" />
+                                </span>
+                                <a href='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua Tree Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/joshua-tree-peel-and-stick-wallpaper-595402.png?v=1694697736' alt='Joshua Tree Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/joshua-tree-peel-and-stick-wallpaper-595402.png?v=1694697736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper for Powder Bathroom — Breezing Through">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/62bc9ba57f25dc2904d7a62b/4b8f22ef-be23-407a-b37f-a609fa8a02ee/QQ4_kdiw.jpeg' alt='Peel & Stick Wallpaper for Powder Bathroom — Breezing Through'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2268">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Breezing Through" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/62bc9ba57f25dc2904d7a62b/4b8f22ef-be23-407a-b37f-a609fa8a02ee/QQ4_kdiw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper: Powder Room Picks - Emily A. Clark">
+                                <img itemprop="contentUrl url" src='https://emilyaclark.com/wp-content/uploads/2018/09/powder-room-wallpaper-peel-and-stick-picks.jpg' alt='Peel & Stick Wallpaper: Powder Room Picks - Emily A. Clark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily A. Clark" />
+                                </span>
+                                <a href='https://emilyaclark.com/wp-content/uploads/2018/09/powder-room-wallpaper-peel-and-stick-picks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before and after- powder room with peel and stick wallpaper - A ...">
+                                <img itemprop="contentUrl url" src='https://alifeunfolding.com/wp-content/uploads/2023/10/Small-powder-room-1024x671.png' alt='Before and after- powder room with peel and stick wallpaper - A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Life Unfolding" />
+                                </span>
+                                <a href='https://alifeunfolding.com/wp-content/uploads/2023/10/Small-powder-room-1024x671.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearthstone Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/hearthstone-wallpaper-peel-stick-333335.png?v=1666799081' alt='Hearthstone Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/hearthstone-wallpaper-peel-stick-333335.png?v=1666799081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elevate Your Bathroom Décor with Stylish Wallpaper Prints ...">
+                                <img itemprop="contentUrl url" src='https://cdn-yotpo-images-production.yotpo.com/instagram/4/18066451060444504/medium.jpg' alt='Elevate Your Bathroom Décor with Stylish Wallpaper Prints ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://cdn-yotpo-images-production.yotpo.com/instagram/4/18066451060444504/medium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larkspur Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/larkspur-peel-and-stick-wallpaper-101569.png?v=1679667126' alt='Larkspur Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/larkspur-peel-and-stick-wallpaper-101569.png?v=1679667126' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

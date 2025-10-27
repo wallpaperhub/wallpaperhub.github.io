@@ -1,0 +1,129 @@
+<title>Glow Party Invitation Template: Customize Your Neon Celebration</title>
+                    <meta name="description" content="Discover a vibrant Glow Party Invitation Template that's easy to customize. Perfect for your next celebration, this eye-catching design will set the tone for a memorable night under the black lights. Get ready to shine and party with friends!">
+                    <meta name="keywords" content="glow party invitation template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/glow-party-invitation-template">
+                            <span itemprop="name">glow party invitation template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glow Party Invitation Template: Customize Your Neon Celebration</h1>
+                <p>Get ready for an unforgettable night with our Glow Party Invitation Template! Perfect for birthdays or any celebration, simply customize it with your details. Bright neon colors and funky fonts will set the vibe for an energetic glow party! Invite your friends to shine under the black lights and let the fun begin!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Glow Party Invitations template">
+                                <img itemprop="contentUrl url" src='https://www.simonemadeit.com/wp-content/uploads/edd/2016/09/Glow-Invitations-Birthday-Party-editable-printable-template.png' alt='Neon Glow Party Invitations template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SIMONEmadeit Parties" />
+                                </span>
+                                <a href='https://www.simonemadeit.com/wp-content/uploads/edd/2016/09/Glow-Invitations-Birthday-Party-editable-printable-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Glow Disco Party Invitation Neon Glow Dance Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9811996/r/il/b014be/5923215967/il_fullxfull.5923215967_hfn0.jpg' alt='Editable Glow Disco Party Invitation Neon Glow Dance Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9811996/r/il/b014be/5923215967/il_fullxfull.5923215967_hfn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Glow Party Theme Invitation, Glow invitation, Neon invitation, Glow  party, Neon Birthday, Glow party Invitation">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6161911/r/il/bc097e/1449864174/il_fullxfull.1449864174_p0fa.jpg' alt='Neon Glow Party Theme Invitation, Glow invitation, Neon invitation, Glow  party, Neon Birthday, Glow party Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6161911/r/il/bc097e/1449864174/il_fullxfull.1449864174_p0fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon glow party - birthday invitation Card, Printable, Personalized,  Digital & Evites - Greetings Island">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/birthday/previews/neon-glow-party-27622.jpeg?auto=format,compress' alt='Neon glow party - birthday invitation Card, Printable, Personalized,  Digital & Evites - Greetings Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/birthday/previews/neon-glow-party-27622.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Glow Party Birthday Invitation, Glow Gender Neutral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26260327/r/il/818c20/5695634898/il_fullxfull.5695634898_3vnx.jpg' alt='Editable Glow Party Birthday Invitation, Glow Gender Neutral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26260327/r/il/818c20/5695634898/il_fullxfull.5695634898_3vnx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow birthday party invitation Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-birthday-party-invitation-design-template-df045b36d7814645aa3cbbd2216a82ee_screen.jpg?ts=1636999302' alt='Glow birthday party invitation Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/glow-birthday-party-invitation-design-template-df045b36d7814645aa3cbbd2216a82ee_screen.jpg?ts=1636999302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Glow Birthday Party Ticket Invite Template | Neon Glow Invitation">
+                                <img itemprop="contentUrl url" src='https://www.simonemadeit.com/wp-content/uploads/edd/2019/05/Neon-Glow-Birthday-Ticket-Invitation-warm-colors-printable-template.png' alt='Neon Glow Birthday Party Ticket Invite Template | Neon Glow Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SIMONEmadeit Parties" />
+                                </span>
+                                <a href='https://www.simonemadeit.com/wp-content/uploads/edd/2019/05/Neon-Glow-Birthday-Ticket-Invitation-warm-colors-printable-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Glow - Birthday Invitation Template (Free) | Greetings Island">
+                                <img itemprop="contentUrl url" src='https://images.greetingsisland.com/images/invitations/birthday/previews/neon-glow-27621.jpeg?auto=format,compress' alt='Neon Glow - Birthday Invitation Template (Free) | Greetings Island'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greetings Island" />
+                                </span>
+                                <a href='https://images.greetingsisland.com/images/invitations/birthday/previews/neon-glow-27621.jpeg?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Glow Birthday Invitation Glow Party Invite Neon Glow In ...">
+                                <img itemprop="contentUrl url" src='https://www.designmypartystudio.com/cdn/shop/files/il_fullxfull.2175424179_71jv_1600x.jpg?v=1733041839' alt='Editable Glow Birthday Invitation Glow Party Invite Neon Glow In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design My Party Studio" />
+                                </span>
+                                <a href='https://www.designmypartystudio.com/cdn/shop/files/il_fullxfull.2175424179_71jv_1600x.jpg?v=1733041839' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow in the Dark Children's Birthday Invitations">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/product/g/l/glow-in-the-dark-children_s-birthday-invitations-up-2x.jpg' alt='Glow in the Dark Children's Birthday Invitations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Invite" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/product/g/l/glow-in-the-dark-children_s-birthday-invitations-up-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cool Blue Screen of Death Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stylish blue screen of death wallpapers to give your device a tech-savvy edge. Perfect for those who appreciate a humorous twist on classic screens! Explore our collection and find the perfect design to express your personality. Download now for a unique desktop experience!">
+                    <meta name="keywords" content="blue screen of death wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/blue-screen-of-death-wallpaper">
+                            <span itemprop="name">blue screen of death wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Blue Screen of Death Wallpapers for Your Device</h1>
+                <p>Transform your desktop with a unique blue screen of death wallpaper! This iconic design not only adds an edgy touch to your device but also sparks curiosity and conversation. Perfect for tech enthusiasts or anyone wanting to make a statement, our wallpapers bring a fun twist to the traditional error screen. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Windows 'Blue Screen of Death' (BSOD) [3840x2160] to fool ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ajtu5bta3ka1.png' alt='Custom Windows 'Blue Screen of Death' (BSOD) [3840x2160] to fool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ajtu5bta3ka1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Ultra HD Blue Screen of Death Wallpaper by Mr_Sobok">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/104/1042554.png' alt='4K Ultra HD Blue Screen of Death Wallpaper by Mr_Sobok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/104/1042554.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Screen of Life wallpaper (1080p) : r/pcmasterrace">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6bhg0qcvi1jy.png?auto=webp&s=b5c9c0374d5f64f2f2f57698efdaf3d6c0538c69' alt='Blue Screen of Life wallpaper (1080p) : r/pcmasterrace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6bhg0qcvi1jy.png?auto=webp&s=b5c9c0374d5f64f2f2f57698efdaf3d6c0538c69' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Screen Of Death Vector. BSOD. Fatal Death Computer Error ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/017/586/375/non_2x/blue-screen-of-death-bsod-fatal-death-computer-error-system-crash-report-illustration-vector.jpg' alt='Blue Screen Of Death Vector. BSOD. Fatal Death Computer Error ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/017/586/375/non_2x/blue-screen-of-death-bsod-fatal-death-computer-error-system-crash-report-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Screen of Death Wallpaper by Neonomical65 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abd5b735-7b24-41e7-95c3-e3cc594950fe/d1hk8xa-22a083fc-9e95-4f09-9be0-801a2ae41c25.jpg/v1/fill/w_1131,h_707,q_70,strp/blue_screen_of_death_wallpaper_by_neonomical65_d1hk8xa-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvYWJkNWI3MzUtN2IyNC00MWU3LTk1YzMtZTNjYzU5NDk1MGZlXC9kMWhrOHhhLTIyYTA4M2ZjLTllOTUtNGYwOS05YmUwLTgwMWEyYWU0MWMyNS5qcGciLCJ3aWR0aCI6Ijw9MTQ0MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.w4jcXWnQGd9Qg7KkZgJYWDDl-7FI1bcwk_CsBRKV53U' alt='Blue Screen of Death Wallpaper by Neonomical65 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abd5b735-7b24-41e7-95c3-e3cc594950fe/d1hk8xa-22a083fc-9e95-4f09-9be0-801a2ae41c25.jpg/v1/fill/w_1131,h_707,q_70,strp/blue_screen_of_death_wallpaper_by_neonomical65_d1hk8xa-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvYWJkNWI3MzUtN2IyNC00MWU3LTk1YzMtZTNjYzU5NDk1MGZlXC9kMWhrOHhhLTIyYTA4M2ZjLTllOTUtNGYwOS05YmUwLTgwMWEyYWU0MWMyNS5qcGciLCJ3aWR0aCI6Ijw9MTQ0MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.w4jcXWnQGd9Qg7KkZgJYWDDl-7FI1bcwk_CsBRKV53U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Windows, Blue, Smile, BSOD, Death, Screen, The OFFICE ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/6/fb/bsod-bsod-blue-screen-death.jpg' alt='Wallpaper Windows, Blue, Smile, BSOD, Death, Screen, The OFFICE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/6/fb/bsod-bsod-blue-screen-death.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Screen of Death, bsod, text, windows, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/365/434/HD-wallpaper-blue-screen-of-death-bsod-text-windows.jpg' alt='Blue Screen of Death, bsod, text, windows, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/365/434/HD-wallpaper-blue-screen-of-death-bsod-text-windows.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue screen - screen of death - BSOD system error Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/45/44/90/1000_F_445449096_faZ2dveKGgWeW1yjUxXGpWi43fGRjho9.jpg' alt='Blue screen - screen of death - BSOD system error Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/45/44/90/1000_F_445449096_faZ2dveKGgWeW1yjUxXGpWi43fGRjho9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daily Wallpaper: Blue Screen of Death | I Like To Waste My Time">
+                                <img itemprop="contentUrl url" src='https://www.iliketowastemytime.com/sites/default/files/blue-screen-of-death.jpg' alt='Daily Wallpaper: Blue Screen of Death | I Like To Waste My Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Like To Waste My Time" />
+                                </span>
+                                <a href='https://www.iliketowastemytime.com/sites/default/files/blue-screen-of-death.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows Xp, Error, Microsoft Windows, Blue Screen Of Death ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/windows-xp-error-microsoft-windows-blue-screen-of-death-7bbo07lyca48pgtg.jpg' alt='Windows Xp, Error, Microsoft Windows, Blue Screen Of Death ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/windows-xp-error-microsoft-windows-blue-screen-of-death-7bbo07lyca48pgtg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

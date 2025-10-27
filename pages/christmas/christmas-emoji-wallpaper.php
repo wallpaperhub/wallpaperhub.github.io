@@ -1,0 +1,129 @@
+<title>Festive Christmas Emoji Wallpaper for Joyful Screens</title>
+                    <meta name="description" content="Enhance your holiday spirit with our vibrant Christmas emoji wallpaper! Perfect for making your device shine with festive cheer, these designs are ideal for every Christmas lover. Get ready to celebrate the season in style, and spread joy with every glance at your screen! Download now!">
+                    <meta name="keywords" content="christmas emoji wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-emoji-wallpaper">
+                            <span itemprop="name">christmas emoji wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Emoji Wallpaper for Joyful Screens</h1>
+                <p>Transform your device this holiday season with festive Christmas emoji wallpaper! From jolly Santas to twinkling lights, these cheerful designs will add a touch of holiday spirit to your screen. Perfect for spreading joy, these wallpapers can brighten your day and get you in the festive mood, making them a must-have for Christmas lovers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Ewa Oleksów on Zima,święta | Sparkly iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a8/3f/ee/a83fee7e44c1cf7ba5426102b3a099d2.jpg' alt='Pin by Ewa Oleksów on Zima,święta | Sparkly iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a8/3f/ee/a83fee7e44c1cf7ba5426102b3a099d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                      ✨  ❤️ #emoji wallpaper #christmas #emojis">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/f7/66/4ff7669dcbb4d5933241c423824aebf3.jpg' alt='                      ✨  ❤️ #emoji wallpaper #christmas #emojis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/f7/66/4ff7669dcbb4d5933241c423824aebf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas emoji, angry, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/894/50/HD-wallpaper-christmas-emoji-angry.jpg' alt='Christmas emoji, angry, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/894/50/HD-wallpaper-christmas-emoji-angry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Emoji Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13103635.png' alt='Christmas Emoji Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13103635.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Emoji Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10676762/p/f/m/_bl9Hw-Onow6SjWNcfaeZP4TmS2y6u9JiQIrsHLThBrTJd_5cEaTQvvgeGBY/Christmas%20Holidays%20Smiley%20Emoticon%20Emoji%20Doodle%20on%20%20Dark%20Green.jpg' alt='Christmas Emoji Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10676762/p/f/m/_bl9Hw-Onow6SjWNcfaeZP4TmS2y6u9JiQIrsHLThBrTJd_5cEaTQvvgeGBY/Christmas%20Holidays%20Smiley%20Emoticon%20Emoji%20Doodle%20on%20%20Dark%20Green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Emojis, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/270/891/HD-wallpaper-christmas-emojis.jpg' alt='Christmas Emojis, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/270/891/HD-wallpaper-christmas-emojis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 16 emoji wallpaper ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4e/c5/49/4ec5490597ccc2eeecd1028f5389fc15.jpg' alt='IOS 16 emoji wallpaper ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4e/c5/49/4ec5490597ccc2eeecd1028f5389fc15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas smiley snow funny Poster, Wallpaper Paper Print ...">
+                                <img itemprop="contentUrl url" src='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/f/w/y/medium-vposter1123145-christmas-smiley-snow-funny-poster-original-imagka7nkrpsaa6z.jpeg?q=90&crop=false' alt='christmas smiley snow funny Poster, Wallpaper Paper Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipkart" />
+                                </span>
+                                <a href='https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/f/w/y/medium-vposter1123145-christmas-smiley-snow-funny-poster-original-imagka7nkrpsaa6z.jpeg?q=90&crop=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Holidays Smiley Emoticon Emoji Doodle on Dark Red Fabric  bycaja_design">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10676846/p/f/m/K81ZEEoi_LSSikhqBlllDkNJvxotQ3jxAREqzYqvWwSZkl3pT0jmIhO3qA/Christmas_Holidays_Smiley_Emoticon_Emoji_Doodle_on_Dark_Red.jpg' alt='Christmas Holidays Smiley Emoticon Emoji Doodle on Dark Red Fabric  bycaja_design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10676846/p/f/m/K81ZEEoi_LSSikhqBlllDkNJvxotQ3jxAREqzYqvWwSZkl3pT0jmIhO3qA/Christmas_Holidays_Smiley_Emoticon_Emoji_Doodle_on_Dark_Red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About christmas in Emoji background, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/634/323/HD-wallpaper-about-christmas-in-emoji-background.jpg' alt='About christmas in Emoji background, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/634/323/HD-wallpaper-about-christmas-in-emoji-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

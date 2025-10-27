@@ -1,0 +1,129 @@
+<title>The Evolution of AI: From Origins to Today</title>
+                    <meta name="description" content="Discover the fascinating history of AI, tracing its roots from early concepts in the 1950s to today's revolutionary technologies. Explore major milestones and transformations that have shaped artificial intelligence as we know it, influencing various sectors and our daily lives.">
+                    <meta name="keywords" content="history of ai">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-ai">
+                            <span itemprop="name">history of ai</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of AI: From Origins to Today</h1>
+                <p>The history of AI dates back to the 1950s when pioneers like Alan Turing and John McCarthy began exploring machine intelligence. Early developments focused on symbolic operations and theorem proving. In the 1980s, neural networks regained popularity, leading to breakthroughs in the 21st century, including deep learning. Today, AI impacts numerous sectors, from healthcare to entertainment, revolutionizing how we interact with technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Artificial Intelligence - Artificial Intelligence (A.I. ...">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/8/78ece397b039cef48f6223c328ac2543854a8123247ee978656a4deacb500b00/history-of-artificial-intelligence.png' alt='History of Artificial Intelligence - Artificial Intelligence (A.I. ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LibGuides at Illinois Central College" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/8/78ece397b039cef48f6223c328ac2543854a8123247ee978656a4deacb500b00/history-of-artificial-intelligence.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Artificial Intelligence Timeline: Key Milestones ...">
+                                <img itemprop="contentUrl url" src='https://infographicsite.com/wp-content/uploads/2024/09/history-of-artificial-intelligence-timeline-infographic.jpeg' alt='History of Artificial Intelligence Timeline: Key Milestones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Infographic Website" />
+                                </span>
+                                <a href='https://infographicsite.com/wp-content/uploads/2024/09/history-of-artificial-intelligence-timeline-infographic.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of AI - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20240402161005/Evolution-of-AI.png' alt='History of AI - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1042">
+                                <meta itemprop="height" content="745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20240402161005/Evolution-of-AI.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Artificial Intelligence | Mohamed Mohana">
+                                <img itemprop="contentUrl url" src='https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg' alt='The History of Artificial Intelligence | Mohamed Mohana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2223">
+                                <meta itemprop="height" content="1786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mohamed Mohana" />
+                                </span>
+                                <a href='https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of AI: A Timeline from 1940 to 2023 + Infographic ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63974a9c19a1dd54281c47a8/67617889b2e84c4da31aea02_6512ba4e75ee49ee5b703d24_AI%2520History%2520(1).webp' alt='The History of AI: A Timeline from 1940 to 2023 + Infographic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calls9" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63974a9c19a1dd54281c47a8/67617889b2e84c4da31aea02_6512ba4e75ee49ee5b703d24_AI%2520History%2520(1).webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of AI: Pre Nov 2022">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6619f7ef5cfd5a28b6d49ab8/6637af0035f8ad2f4d9c2de3_Artificial-Intelligence-AI-Timeline-Infographic.jpeg' alt='The History of AI: Pre Nov 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cognitive Creators" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6619f7ef5cfd5a28b6d49ab8/6637af0035f8ad2f4d9c2de3_Artificial-Intelligence-AI-Timeline-Infographic.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unleashing the Revolutionary Power of AI: A Compelling Historical ...">
+                                <img itemprop="contentUrl url" src='https://eimrglobal.org/wp-content/uploads/2024/09/History-of-Artificial-Intelligence-1024x782.jpg' alt='Unleashing the Revolutionary Power of AI: A Compelling Historical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EIMR Business School" />
+                                </span>
+                                <a href='https://eimrglobal.org/wp-content/uploads/2024/09/History-of-Artificial-Intelligence-1024x782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Artificial Intelligence - AI of the past, present and ...">
+                                <img itemprop="contentUrl url" src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/09/History-of-Artificial-Intelligence.jpg' alt='History of Artificial Intelligence - AI of the past, present and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="802">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DataFlair" />
+                                </span>
+                                <a href='https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/09/History-of-Artificial-Intelligence.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of AI: From Neural Networks to ChatGPT">
+                                <img itemprop="contentUrl url" src='https://blog.planview.com/wp-content/uploads/2024/02/planview-blog-history-of-ai-1200x680_blue-1024x580.jpg' alt='A Brief History of AI: From Neural Networks to ChatGPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planview Blog" />
+                                </span>
+                                <a href='https://blog.planview.com/wp-content/uploads/2024/02/planview-blog-history-of-ai-1200x680_blue-1024x580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of AI with Deep Learning | by LM Po | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*1QuqK5gcXloiZAkhr-_QOA.png' alt='A Brief History of AI with Deep Learning | by LM Po | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*1QuqK5gcXloiZAkhr-_QOA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

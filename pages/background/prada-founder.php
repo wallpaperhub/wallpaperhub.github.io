@@ -1,0 +1,129 @@
+<title>Discovering the Legacy of Prada: Founder Mario Prada</title>
+                    <meta name="description" content="Uncover the fascinating story of Mario Prada, the founder of the iconic luxury brand Prada. From a small leather goods shop in Milan to a global fashion powerhouse, learn how innovation and style transformed Prada into a symbol of elegance and sophistication in the fashion world.">
+                    <meta name="keywords" content="prada founder">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prada-founder">
+                            <span itemprop="name">prada founder</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Legacy of Prada: Founder Mario Prada</h1>
+                <p>Prada was founded by Mario Prada in 1913 in Milan, Italy, initially as a leather goods shop. His innovative designs and commitment to quality established the brand's reputation. After his passing, his granddaughter Miuccia Prada took the helm, revolutionizing the luxury fashion industry with her avant-garde style and strategic branding, making Prada a symbol of sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada | Biography, Designs, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/10/225010-050-870F0139/Italian-fashion-designer-Miuccia-Prada-2015.jpg' alt='Miuccia Prada | Biography, Designs, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/10/225010-050-870F0139/Italian-fashion-designer-Miuccia-Prada-2015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/ba/Miuccia_Prada_%28cropped%29.jpg' alt='Miuccia Prada - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/ba/Miuccia_Prada_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada - Husband, Quotes & Fashion">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1071525546.jpg' alt='Miuccia Prada - Husband, Quotes & Fashion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-1071525546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prada CEO says he'll hand over top job to son within three years ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2021/11/19/14/PRADA.jpg' alt='Prada CEO says he'll hand over top job to son within three years ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3837">
+                                <meta itemprop="height" content="2557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2021/11/19/14/PRADA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada Steps Down as Prada Group CEO | Hypebeast">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F12%2Fmiuccia-steps-down-prada-ceo-announcement-000.jpg?w=960&cbr=1&q=90&fit=max' alt='Miuccia Prada Steps Down as Prada Group CEO | Hypebeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F12%2Fmiuccia-steps-down-prada-ceo-announcement-000.jpg?w=960&cbr=1&q=90&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Board of Directors">
+                                <img itemprop="contentUrl url" src='https://www.pradagroup.com/content/dam/pradagroup/immagini/gruppo/governance/board-of-directors/MP_Board_of_directors.jpg/_jcr_content/renditions/cq5dam.web.1920.1920.jpeg' alt='Board of Directors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prada Group" />
+                                </span>
+                                <a href='https://www.pradagroup.com/content/dam/pradagroup/immagini/gruppo/governance/board-of-directors/MP_Board_of_directors.jpg/_jcr_content/renditions/cq5dam.web.1920.1920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada: The Art of Italian Elegance">
+                                <img itemprop="contentUrl url" src='https://americadomani.com/wp-content/uploads/2023/05/prada-header.jpg' alt='Miuccia Prada: The Art of Italian Elegance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="America Domani" />
+                                </span>
+                                <a href='https://americadomani.com/wp-content/uploads/2023/05/prada-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MIUCCIA PRADA - fashionabc">
+                                <img itemprop="contentUrl url" src='https://www.fashionabc.org/wp-content/uploads/2020/01/MIUCCIA-PRADA.jpeg' alt='MIUCCIA PRADA - fashionabc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fashionabc" />
+                                </span>
+                                <a href='https://www.fashionabc.org/wp-content/uploads/2020/01/MIUCCIA-PRADA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prosecutors seek to close Prada CEO tax case: sources | Reuters">
+                                <img itemprop="contentUrl url" src='https://archive-images.prod.global.a201836.reutersmedia.net/2016/12/05/LYNXMPECB417A.JPG' alt='Prosecutors seek to close Prada CEO tax case: sources | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://archive-images.prod.global.a201836.reutersmedia.net/2016/12/05/LYNXMPECB417A.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miuccia Prada Names Co CEO | British Vogue | British Vogue">
+                                <img itemprop="contentUrl url" src='https://media.vogue.co.uk/photos/5d545ccb54bdf8000800cd72/2:3/w_2560%2Cc_limit/mprada12_v_13oct11_guidoharari_b.jpg' alt='Miuccia Prada Names Co CEO | British Vogue | British Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Vogue" />
+                                </span>
+                                <a href='https://media.vogue.co.uk/photos/5d545ccb54bdf8000800cd72/2:3/w_2560%2Cc_limit/mprada12_v_13oct11_guidoharari_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

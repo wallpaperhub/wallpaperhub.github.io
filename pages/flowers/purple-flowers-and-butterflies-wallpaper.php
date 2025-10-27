@@ -1,0 +1,129 @@
+<title>Enchanting Purple Flowers & Butterflies Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of our purple flowers and butterflies wallpaper! Perfect for adding elegance to your home, this design enhances any space with vibrant colors and a touch of nature. Shop now for a serene and enchanting ambiance that transforms your walls into a work of art!">
+                    <meta name="keywords" content="purple flowers and butterflies wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/purple-flowers-and-butterflies-wallpaper">
+                            <span itemprop="name">purple flowers and butterflies wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Purple Flowers & Butterflies Wallpaper</h1>
+                <p>Transform your space with stunning purple flowers and butterflies wallpaper, perfect for adding a touch of nature and elegance. This delightful design brings tranquility and vibrancy, making it ideal for any room. Embrace the beauty of blooming petals and fluttering wings, creating an inviting atmosphere that inspires joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linda mariposa morada | Lovely purple butterfly">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/9f/7e/e69f7ea5213383fbb3e9764c676e3248.jpg' alt='Linda mariposa morada | Lovely purple butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/9f/7e/e69f7ea5213383fbb3e9764c676e3248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-butterfly-flower-elegant-purple-plant-watercolor-background-picture-image_1592310.jpg' alt='Purple Butterfly Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-butterfly-flower-elegant-purple-plant-watercolor-background-picture-image_1592310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Butterfly Flower Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/vibrant-butterfly-flower-wallpaper-17.webp' alt='Vibrant Butterfly Flower Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/vibrant-butterfly-flower-wallpaper-17.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper butterfly, flowers, flowers, purple, butterflies for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/5600x5500/f/50/purple-flowers-butterflies.jpg' alt='Wallpaper butterfly, flowers, flowers, purple, butterflies for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5600">
+                                <meta itemprop="height" content="5500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/5600x5500/f/50/purple-flowers-butterflies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Purple Flowers And A Butterfly Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pretty-purple-flowers-and-a-butterfly-ej6e06fy4hzbtn13.jpg' alt='Pretty Purple Flowers And A Butterfly Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pretty-purple-flowers-and-a-butterfly-ej6e06fy4hzbtn13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Butterflies On Flowers For Computer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-aesthetic-butterflies-on-flowers-for-computer-fyp490h2or795jqx.jpg' alt='Purple Aesthetic Butterflies On Flowers For Computer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-aesthetic-butterflies-on-flowers-for-computer-fyp490h2or795jqx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Symphony: Purple Blossoms HD Wallpaper by MaDonna">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/863/thumb-1920-863462.jpg' alt='Butterfly Symphony: Purple Blossoms HD Wallpaper by MaDonna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/863/thumb-1920-863462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Spring Floral Wallpaper Peel and Stick Dark Wild Flowers  Butterfly Wallpaper Removable Floral Contact Paper Peel & Stick Wall Mural  17.5in ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91G9dIKx61L.jpg' alt='ReWallpaper Spring Floral Wallpaper Peel and Stick Dark Wild Flowers  Butterfly Wallpaper Removable Floral Contact Paper Peel & Stick Wall Mural  17.5in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91G9dIKx61L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterflies">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2b/6f/2c/2b6f2c5f3b875c26e4a0c0926732a4b8.jpg' alt='Purple Butterflies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2b/6f/2c/2b6f2c5f3b875c26e4a0c0926732a4b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly & Orchid Flowers Wall Mural Wallpaper WS-42382">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/9qwAAOSwTDVhiuEN/s-l1200.jpg' alt='Purple Butterfly & Orchid Flowers Wall Mural Wallpaper WS-42382'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/9qwAAOSwTDVhiuEN/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

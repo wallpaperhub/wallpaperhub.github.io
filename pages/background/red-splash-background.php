@@ -1,0 +1,129 @@
+<title>Energize Your Project with a Red Splash Background</title>
+                    <meta name="description" content="Discover the impact of a red splash background in your designs. Perfect for attracting attention and enhancing creativity, this vibrant color can transform any project. Optimize your visuals with an energetic splash of red that communicates passion and excitement effortlessly.">
+                    <meta name="keywords" content="red splash background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-splash-background">
+                            <span itemprop="name">red splash background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Energize Your Project with a Red Splash Background</h1>
+                <p>A red splash background adds an energetic and vibrant flair to any design. Its bold color evokes passion and excitement, making it perfect for creative projects, marketing materials, and social media graphics. Use this eye-catching backdrop to attract attention, set a lively tone, and elevate your visual content instantly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/918139336/photo/abstract-red-dust-splattered-on-white-background-red-powder-explosion-on-white-background.jpg?s=612x612&w=0&k=20&c=MthOOoAp9qzf-367ut2UlYREMH-4ehMyfHtlYjC9pd8=' alt='223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/918139336/photo/abstract-red-dust-splattered-on-white-background-red-powder-explosion-on-white-background.jpg?s=612x612&w=0&k=20&c=MthOOoAp9qzf-367ut2UlYREMH-4ehMyfHtlYjC9pd8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Splash Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/012/228/non_2x/abstract-grunge-texture-splash-paint-black-red-and-white-background-vector.jpg' alt='Red Splash Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/012/228/non_2x/abstract-grunge-texture-splash-paint-black-red-and-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/484675085/photo/red-paint-splashing.jpg?s=612x612&w=0&k=20&c=EMmjK9vJT6-uCuabYk47rEvLf0B1hl99qyGkL2Ocv5Y=' alt='223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/484675085/photo/red-paint-splashing.jpg?s=612x612&w=0&k=20&c=EMmjK9vJT6-uCuabYk47rEvLf0B1hl99qyGkL2Ocv5Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Splash Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-watercolor-artistic-shape-with-aquarelle-blotch-drops-paint-splashes_123358-371.jpg?semt=ais_hybrid' alt='Red Splash Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-watercolor-artistic-shape-with-aquarelle-blotch-drops-paint-splashes_123358-371.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1039540254/photo/explosion-of-coloured-powder-on-black-background.jpg?s=612x612&w=0&k=20&c=yfN0gK10opqFMV0-RPX4HSUwIfR4kiDBgbFZv41GWnQ=' alt='223,300+ Red Splash Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1039540254/photo/explosion-of-coloured-powder-on-black-background.jpg?s=612x612&w=0&k=20&c=yfN0gK10opqFMV0-RPX4HSUwIfR4kiDBgbFZv41GWnQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Splash Background Stock Illustration 87850090 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/red-splash-background-600w-87850090.jpg' alt='Red Splash Background Stock Illustration 87850090 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/red-splash-background-600w-87850090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Paint Splash Png - Free Download PNG Transparent With Clear ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/c7/24/dec724b651e75522c53bfef1f0d69319.jpg' alt='Red Paint Splash Png - Free Download PNG Transparent With Clear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/c7/24/dec724b651e75522c53bfef1f0d69319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Background With Bright Red Splash. Vector Illustration ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/anawhite/anawhite1402/anawhite140200028/26374025-grunge-background-with-bright-red-splash-vector-illustration.jpg' alt='Grunge Background With Bright Red Splash. Vector Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/anawhite/anawhite1402/anawhite140200028/26374025-grunge-background-with-bright-red-splash-vector-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red paint splash on black background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/87/76/31/1000_F_87763141_3s595XjZZefzxJvVSsxbcIOGlgrgeCBY.jpg' alt='Red paint splash on black background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/87/76/31/1000_F_87763141_3s595XjZZefzxJvVSsxbcIOGlgrgeCBY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Splash Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/blood-splatter-background-halloween_1048-17031.jpg' alt='Red Splash Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/blood-splatter-background-halloween_1048-17031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

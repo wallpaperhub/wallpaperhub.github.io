@@ -1,0 +1,129 @@
+<title>Eco-Friendly Groovy Green Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover our collection of green aesthetic groovy wallpaper! Perfect for a stylish, eco-friendly makeover, these vibrant designs blend nature's hues with retro patterns to refresh your space effortlessly. Ideal for modern homes seeking a playful yet sustainable touch. Explore now!">
+                    <meta name="keywords" content="green aesthetic groovy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/green-aesthetic-groovy-wallpaper">
+                            <span itemprop="name">green aesthetic groovy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eco-Friendly Groovy Green Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with green aesthetic groovy wallpaper that captures the essence of nature and retro vibes. Perfect for eco-conscious decorators, these vibrant designs blend lush greenery with playful patterns, adding a unique flair to any room. Elevate your home with this stylish, sustainable choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green groovy">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/green-groovy-pattern-repeat-removable-wallpaper-design.jpg' alt='Green groovy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/green-groovy-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Green groovy background Retro background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' alt='Premium Vector | Green groovy background Retro background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/green-groovy-background-retro-background_47435-383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Retro Groovy Green Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/48130/liquid_retro_groovy_green_limited.jpg' alt='Liquid Retro Groovy Green Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/48130/liquid_retro_groovy_green_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green and Cream Groovy Liquid Zebra Abstract Artwork by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/08/f4/f408f4bbc4dd4f18d67ca7588d508f9a.jpg' alt='Pastel Green and Cream Groovy Liquid Zebra Abstract Artwork by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/08/f4/f408f4bbc4dd4f18d67ca7588d508f9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibe Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1718624354/articles/RP5088GR04R_product.jpg' alt='Vibe Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1718624354/articles/RP5088GR04R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Green Smiley Face Phone Wallpaper Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37273889/r/il/f95307/4720270649/il_570xN.4720270649_kxjr.jpg' alt='Groovy Green Smiley Face Phone Wallpaper Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37273889/r/il/f95307/4720270649/il_570xN.4720270649_kxjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Groovy ~ Desktop Wallpaper ~ *Green Aesthetic Vibe* 1920x1080">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35359343/r/il/f8fb04/4222098782/il_fullxfull.4222098782_sqf1.jpg' alt='Stay Groovy ~ Desktop Wallpaper ~ *Green Aesthetic Vibe* 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35359343/r/il/f8fb04/4222098782/il_fullxfull.4222098782_sqf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/f5/3e/3cf53e672ce6edbc2becb191bbffd257.jpg' alt='Phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/f5/3e/3cf53e672ce6edbc2becb191bbffd257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibe Green">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1718624356/articles/RP5088GR04R_interior1.jpg' alt='Vibe Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1718624356/articles/RP5088GR04R_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Stripe 2 10 Green 6 Liquid Groovy Background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/stripe-2-10-green-6-liquid-groovy-background-illustration-wallpaper-texture_792836-4991.jpg' alt='Premium Photo | Stripe 2 10 Green 6 Liquid Groovy Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/stripe-2-10-green-6-liquid-groovy-background-illustration-wallpaper-texture_792836-4991.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

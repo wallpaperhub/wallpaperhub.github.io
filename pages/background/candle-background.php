@@ -1,0 +1,129 @@
+<title>Illuminate Your Space: Candle Background Ideas</title>
+                    <meta name="description" content="Discover creative candle background ideas to enhance your space. From cozy evenings to festive gatherings, find inspiration for adding warmth and ambiance that complements your decor. Illuminate your moments with stylish candle arrangements that create the perfect atmosphere for any occasion.">
+                    <meta name="keywords" content="candle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candle-background">
+                            <span itemprop="name">candle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminate Your Space: Candle Background Ideas</h1>
+                <p>Candle backgrounds add warmth and atmosphere to any space. Whether it's a cozy evening or a festive gathering, the flickering light creates a soothing ambiance. Available in various styles and colors, candle backgrounds can enhance decor, complement moods, and provide a backdrop for relaxation or celebration. Illuminate your moments with elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="740,568 Candle Lights Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/small-candle-light-yellow-spots-600nw-1147242374.jpg' alt='740,568 Candle Lights Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/small-candle-light-yellow-spots-600nw-1147242374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candlelight Background Images – Browse 556,851 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/83/52/78/360_F_683527883_XlxtQzWELJfz0LAvd1UXIILpYOwkY7hl.jpg' alt='Candlelight Background Images – Browse 556,851 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/83/52/78/360_F_683527883_XlxtQzWELJfz0LAvd1UXIILpYOwkY7hl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candle With Dark Background Images – Browse 716,145 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/58/27/20/360_F_258272082_1Pl3t705Q1Ns99Chzsu7Z09go7JuGe37.jpg' alt='Candle With Dark Background Images – Browse 716,145 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/58/27/20/360_F_258272082_1Pl3t705Q1Ns99Chzsu7Z09go7JuGe37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candle Background" Images – Browse 1,920 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/55/07/55/360_F_1155075597_cbnDhgiLR4X6O00B9UEEonVFjJMzzlmJ.jpg' alt='Candle Background" Images – Browse 1,920 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/55/07/55/360_F_1155075597_cbnDhgiLR4X6O00B9UEEonVFjJMzzlmJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73,100+ Lighting Candle Church Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1285468795/photo/candles-in-a-church-background.jpg?s=612x612&w=0&k=20&c=3DjGOQAUo2NySTPBF1tvlMTl83RM95HyYFTOIdXa0Xk=' alt='73,100+ Lighting Candle Church Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1285468795/photo/candles-in-a-church-background.jpg?s=612x612&w=0&k=20&c=3DjGOQAUo2NySTPBF1tvlMTl83RM95HyYFTOIdXa0Xk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Candle Pictures | Download Free Images & Stock Photos on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1561212856-44e9bae482aa?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZGxlfGVufDB8fDB8fHww' alt='100+ Candle Pictures | Download Free Images & Stock Photos on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1561212856-44e9bae482aa?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZGxlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candle background 2025">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/burning-small-candles-on-black-600nw-2353685863.jpg' alt='Candle background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/burning-small-candles-on-black-600nw-2353685863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Glowing Jewel Candles Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/8/7/2/87260278-27b7-49a5-a3dc-d8256a2f82ed_large/glowing-jewel-candles-stockcake.jpg' alt='Free Glowing Jewel Candles Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/8/7/2/87260278-27b7-49a5-a3dc-d8256a2f82ed_large/glowing-jewel-candles-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candle background 2025">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-two-burning-candle-dark-background-with-light-effect-vector_1017-46183.jpg' alt='Candle background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-two-burning-candle-dark-background-with-light-effect-vector_1017-46183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candle Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/857/679/small_2x/candle-and-flower-at-sunset-light-blur-background-photo.jpg' alt='Candle Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/857/679/small_2x/candle-and-flower-at-sunset-light-blur-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

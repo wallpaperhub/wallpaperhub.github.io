@@ -1,0 +1,129 @@
+<title>Taylor Swift Wallpapers: Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover the ultimate collection of Taylor Swift wallpapers! Perfect for fans wanting to personalize their devices with stunning images from her career. Browse, download, and showcase your favorite Taylor moments today!">
+                    <meta name="keywords" content="pictures of taylor swift wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/pictures-of-taylor-swift-wallpaper">
+                            <span itemprop="name">pictures of taylor swift wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Wallpapers: Stunning Designs for Your Device</h1>
+                <p>Explore a stunning collection of Taylor Swift wallpapers, perfect for any fan! From her iconic album covers to candid moments, find the ideal image to personalize your device. Whether you prefer soft pastels, bold colors, or artistic designs, our curated gallery has something for everyone. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I designed a Taylor Swift wallpaper based on my favorite looks ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-designed-a-taylor-swift-wallpaper-based-on-my-favorite-v0-rguwfwhvi0cb1.png?width=640&crop=smart&auto=webp&s=209a8b578c758ac53db740a60d16bf16ecb596c2' alt='I designed a Taylor Swift wallpaper based on my favorite looks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-designed-a-taylor-swift-wallpaper-based-on-my-favorite-v0-rguwfwhvi0cb1.png?width=640&crop=smart&auto=webp&s=209a8b578c758ac53db740a60d16bf16ecb596c2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper for smartphone : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/taylor-swift-wallpaper-for-smartphone-v0-l6qtrjkjybjc1.jpeg?auto=webp&s=61bdf18098f5d24a3d7dfc37bed9901d5f56cd02' alt='Taylor Swift Wallpaper for smartphone : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/taylor-swift-wallpaper-for-smartphone-v0-l6qtrjkjybjc1.jpeg?auto=webp&s=61bdf18098f5d24a3d7dfc37bed9901d5f56cd02' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' alt='200+] Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+ Cute Taylor Swift Phone Wallpapers and Backgrounds - Boss Babe ...">
+                                <img itemprop="contentUrl url" src='https://www.bossbabechroniclesblog.com/wp-content/uploads/2024/04/8fb63770a5e5d9cc53993e4adf5e8058.jpeg' alt='70+ Cute Taylor Swift Phone Wallpapers and Backgrounds - Boss Babe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boss Babe Chronicles" />
+                                </span>
+                                <a href='https://www.bossbabechroniclesblog.com/wp-content/uploads/2024/04/8fb63770a5e5d9cc53993e4adf5e8058.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift 1989 Aesthetic vibes and wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/40/8d/15408d19d56f7ed386de363d2dbbd040.jpg' alt='Taylor Swift 1989 Aesthetic vibes and wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/40/8d/15408d19d56f7ed386de363d2dbbd040.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/taylor-swift-chromebook-wallpaper.jpg' alt='Taylor Swift Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/taylor-swift-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49 Best TAYLOR SWIFT PHONE WALLPAPERS ideas | taylor swift, swift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/71/2b/3c/712b3c892dc4a3a7fa19edc782ee2b51.jpg' alt='49 Best TAYLOR SWIFT PHONE WALLPAPERS ideas | taylor swift, swift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/71/2b/3c/712b3c892dc4a3a7fa19edc782ee2b51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/fwQI78i_BpYtyPhNTBM2RoXoFcaOAlCnXm05AM30W2UJM3_015i7YFRRVCEhRUjqPIo' alt='Taylor Swift Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/fwQI78i_BpYtyPhNTBM2RoXoFcaOAlCnXm05AM30W2UJM3_015i7YFRRVCEhRUjqPIo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper desktop by HumanChickenNugget13 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ad26bf7-eb94-443e-99c9-3454630cb9c2/dgw89iw-c0877980-f46b-4c8b-8ffa-6490c2973d38.jpg/v1/fill/w_739,h_437,q_75,strp/taylor_swift_wallpaper_desktop__by_humanchickennugget13_dgw89iw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDM3IiwicGF0aCI6IlwvZlwvOGFkMjZiZjctZWI5NC00NDNlLTk5YzktMzQ1NDYzMGNiOWMyXC9kZ3c4OWl3LWMwODc3OTgwLWY0NmItNGM4Yi04ZmZhLTY0OTBjMjk3M2QzOC5qcGciLCJ3aWR0aCI6Ijw9NzM5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.NZHQIWnz-6VizIkbVXDsIRXNvuezfnhnLysk36vtaG0' alt='Taylor Swift Wallpaper desktop by HumanChickenNugget13 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ad26bf7-eb94-443e-99c9-3454630cb9c2/dgw89iw-c0877980-f46b-4c8b-8ffa-6490c2973d38.jpg/v1/fill/w_739,h_437,q_75,strp/taylor_swift_wallpaper_desktop__by_humanchickennugget13_dgw89iw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDM3IiwicGF0aCI6IlwvZlwvOGFkMjZiZjctZWI5NC00NDNlLTk5YzktMzQ1NDYzMGNiOWMyXC9kZ3c4OWl3LWMwODc3OTgwLWY0NmItNGM4Yi04ZmZhLTY0OTBjMjk3M2QzOC5qcGciLCJ3aWR0aCI6Ijw9NzM5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.NZHQIWnz-6VizIkbVXDsIRXNvuezfnhnLysk36vtaG0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper 4K, Singer, Beautiful singer">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/taylor-swift-singer-1920x1080-12851.jpeg' alt='Taylor Swift Wallpaper 4K, Singer, Beautiful singer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/taylor-swift-singer-1920x1080-12851.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

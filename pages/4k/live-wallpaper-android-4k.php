@@ -1,0 +1,129 @@
+<title>Stunning 4K Live Wallpapers for Android: Personalize Your Device</title>
+                    <meta name="description" content="Discover beautiful 4K live wallpapers for your Android device. Transform your home screen with dynamic, high-resolution visuals that enhance your phone's aesthetic. Dive into a world of animated backgrounds and express your style effortlessly!">
+                    <meta name="keywords" content="live wallpaper android 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/live-wallpaper-android-4k">
+                            <span itemprop="name">live wallpaper android 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Live Wallpapers for Android: Personalize Your Device</h1>
+                <p>Elevate your Android experience with stunning 4K live wallpapers! Explore a wide range of vibrant, animated backgrounds that bring your screen to life while saving battery. Perfect for personalizing your device, these high-resolution wallpapers showcase breathtaking visuals and responsive designs. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers, 4K Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/u68JJXnM-x83fg4MHdnK_dCN9vCLhOQeLqx9JtqBrPXKF0WNOmgzyXx1JuB9w5_nIb8=w526-h296-rw' alt='Live Wallpapers, 4K Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/u68JJXnM-x83fg4MHdnK_dCN9vCLhOQeLqx9JtqBrPXKF0WNOmgzyXx1JuB9w5_nIb8=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/08/40/05/084005ac0ed7d1b32fe7a7ed0be75dc5.jpg' alt='4K Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/08/40/05/084005ac0ed7d1b32fe7a7ed0be75dc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers 4K Lock Screen – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/tAKynuCOfiicwHwhdDYodGnUPBCRsxvwL97-bmoIJBYLu0IhFjl_2-YfHVXC78bMJvg4=w526-h296-rw' alt='Live Wallpapers 4K Lock Screen – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/tAKynuCOfiicwHwhdDYodGnUPBCRsxvwL97-bmoIJBYLu0IhFjl_2-YfHVXC78bMJvg4=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful 4K Live Wallpaper for Android | Spice up Your Screen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7397114382490078472&location=0&aid=1988' alt='Colorful 4K Live Wallpaper for Android | Spice up Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7397114382490078472&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/98/5c/8a/985c8ad127caca6e20d99aa85d95baa7.jpg' alt='4K Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/98/5c/8a/985c8ad127caca6e20d99aa85d95baa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers 3D Wallcraft for Android - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/86464366-7de8-4dd7-a525-3d2c9c1b2591/4168975114/live-wallpapers-3d-wallcraft-screenshot.png' alt='Live Wallpapers 3D Wallcraft for Android - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="live-wallpapers-3d-wallcraft.en.softonic.com" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/86464366-7de8-4dd7-a525-3d2c9c1b2591/4168975114/live-wallpapers-3d-wallcraft-screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walloop - Live Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/rVrQIgyPTi1zt8Q0GGkfHBIWbn_twxDV_nYL0seSmXFVINJibpBEdi7Ogs_Cd6TnnLQ=w526-h296-rw' alt='Walloop - Live Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/rVrQIgyPTi1zt8Q0GGkfHBIWbn_twxDV_nYL0seSmXFVINJibpBEdi7Ogs_Cd6TnnLQ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/57/4c/df/574cdf6c4e6c82f933a6091853f9ba58.jpg' alt='4K Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/57/4c/df/574cdf6c4e6c82f933a6091853f9ba58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2511+ Mobile Live Wallpapers for Android & iPhone">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/235x418/media/1397/goku-ultra-instinct.720x1280.jpg' alt='2511+ Mobile Live Wallpapers for Android & iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/235x418/media/1397/goku-ultra-instinct.720x1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

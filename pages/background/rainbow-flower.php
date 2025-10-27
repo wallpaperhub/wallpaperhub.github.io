@@ -1,0 +1,129 @@
+<title>Stunning Rainbow Flowers: Colors of Joy</title>
+                    <meta name="description" content="Explore the beauty of rainbow flowers, vibrant blooms that brighten any occasion. Ideal for gifts or home decor, they symbolize joy and hope. Discover your favorites today!">
+                    <meta name="keywords" content="rainbow flower">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-flower">
+                            <span itemprop="name">rainbow flower</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rainbow Flowers: Colors of Joy</h1>
+                <p>Rainbow flowers are vibrant blooms that showcase an array of colors, reminiscent of a beautiful rainbow. These stunning floral arrangements can brighten up any space, making them perfect for celebrations or as gifts. From roses to daisies, rainbow flowers symbolize joy, love, and hope, bringing warmth and beauty to our lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami, Kaikai Kiki | Smile On, Rainbow Flower!! (2020) |  Available for Sale | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?height=796&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FCNGR2iQl5IPWj1Avm9DGew%2Fnormalized.jpg&width=800' alt='Takashi Murakami, Kaikai Kiki | Smile On, Rainbow Flower!! (2020) |  Available for Sale | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?height=796&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FCNGR2iQl5IPWj1Avm9DGew%2Fnormalized.jpg&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000Pcs Beautiful Rainbow Rose Seeds Multi-colored Rose Seeds Rose Flower  Seeds">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nvYjVXwwL.jpg' alt='1000Pcs Beautiful Rainbow Rose Seeds Multi-colored Rose Seeds Rose Flower  Seeds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nvYjVXwwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62,700+ Rainbow Flowers Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=612x612&w=0&k=20&c=A7WF8MScj3YNBTA-qFQEKm-Xphzmi_mfaOqjq27--j4=' alt='62,700+ Rainbow Flowers Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=612x612&w=0&k=20&c=A7WF8MScj3YNBTA-qFQEKm-Xphzmi_mfaOqjq27--j4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own - 5 RAINBOW ROSE BUSH Seeds Shrub Rosa Flower">
+                                <img itemprop="contentUrl url" src='https://seedvilleusa.com/cdn/shop/files/shutterstock_1711540456sm.jpg?v=1718917313&width=1946' alt='Make Your Own - 5 RAINBOW ROSE BUSH Seeds Shrub Rosa Flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seedville USA" />
+                                </span>
+                                <a href='https://seedvilleusa.com/cdn/shop/files/shutterstock_1711540456sm.jpg?v=1718917313&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100Pcs Multi-Color Rainbow Rose Flower Seeds Home Garden Plants">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/C38AAOSwEjFXgCal/s-l1200.jpg' alt='100Pcs Multi-Color Rainbow Rose Flower Seeds Home Garden Plants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/C38AAOSwEjFXgCal/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Takashi Murakami, Kaikai Kiki | Ms. Rainbow Flower (2020) | Available for  Sale | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?height=801&quality=1&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2I25NZR4OWT3II8lYo93lA%2Fsmall.jpg&width=801' alt='Takashi Murakami, Kaikai Kiki | Ms. Rainbow Flower (2020) | Available for  Sale | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?height=801&quality=1&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2I25NZR4OWT3II8lYo93lA%2Fsmall.jpg&width=801' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Flower Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/759/800/non_2x/ai-generated-vibrant-daisy-flower-adorned-with-rainbow-colored-petals-photo.jpg' alt='Rainbow Flower Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/759/800/non_2x/ai-generated-vibrant-daisy-flower-adorned-with-rainbow-colored-petals-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Egrow 200Pcs Rainbow Rose Seeds Rare Colorful Flower Potted Plant ...">
+                                <img itemprop="contentUrl url" src='https://img.staticbg.com/images/oaupload/banggood/images/0A/EF/2828eb43-7447-4e1e-aeba-67c466c20657.jpg' alt='Egrow 200Pcs Rainbow Rose Seeds Rare Colorful Flower Potted Plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shopsmartgadgets" />
+                                </span>
+                                <a href='https://img.staticbg.com/images/oaupload/banggood/images/0A/EF/2828eb43-7447-4e1e-aeba-67c466c20657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smile On, Rainbow Flower!! Print | Kumi Contemporary">
+                                <img itemprop="contentUrl url" src='https://www.kumicontemporary.com/art-images/takashi-murakami/takashi_murakami_smile_on,_rainbow_flower!!_1.jpg' alt='Smile On, Rainbow Flower!! Print | Kumi Contemporary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2023">
+                                <meta itemprop="height" content="2023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kumi Contemporary" />
+                                </span>
+                                <a href='https://www.kumicontemporary.com/art-images/takashi-murakami/takashi_murakami_smile_on,_rainbow_flower!!_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Flower by Sean Davey">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/rainbow-flower-sean-davey.jpg' alt='Rainbow Flower by Sean Davey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/rainbow-flower-sean-davey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

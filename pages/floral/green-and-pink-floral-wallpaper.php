@@ -1,0 +1,129 @@
+<title>Vibrant Green & Pink Floral Wallpaper for Every Room</title>
+                    <meta name="description" content="Add a splash of color to your home with stunning green and pink floral wallpaper. Ideal for bedrooms, living areas, or nurseries, it combines elegance with a touch of fun. Shop now for beautiful designs that brighten your space and elevate your decor style effortlessly!">
+                    <meta name="keywords" content="green and pink floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/green-and-pink-floral-wallpaper">
+                            <span itemprop="name">green and pink floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green & Pink Floral Wallpaper for Every Room</h1>
+                <p>Transform your space with vibrant green and pink floral wallpaper that brings nature indoors. Perfect for adding a fresh, cheerful vibe to any room, this wallpaper complements both modern and classic decor styles. Whether in a living room, bedroom, or nursery, it creates a lively, inviting atmosphere that captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Green Floral Wallpaper, Mural Peel and Stick Boho Teen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/21d41c/1954261028/il_570xN.1954261028_dv1u.jpg' alt='Pink and Green Floral Wallpaper, Mural Peel and Stick Boho Teen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/21d41c/1954261028/il_570xN.1954261028_dv1u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' alt='Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G56649 Delicate Floral Pink Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250504.jpg' alt='Galerie G56649 Delicate Floral Pink Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Green and Pink Floral Wallpaper, Green Leaves Wallpaper, Peel and  Stick Light Botanical Decor, Soft Pink Flowers, Removable Decal">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN033-peel-and-stick-delicate-watercolor-green-and-pink-floral-wallpaper.jpg?v=1720972556&width=2500' alt='Pastel Green and Pink Floral Wallpaper, Green Leaves Wallpaper, Peel and  Stick Light Botanical Decor, Soft Pink Flowers, Removable Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN033-peel-and-stick-delicate-watercolor-green-and-pink-floral-wallpaper.jpg?v=1720972556&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Rose-Pink-1.jpg.optimal.jpg' alt='Rosa Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Rose-Pink-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Eh4j5m+SL._AC_UF894,1000_QL80_.jpg' alt='VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Eh4j5m+SL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliana Floral Wallpaper Pink Belgravia 8485">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' alt='Oliana Floral Wallpaper Pink Belgravia 8485'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Hand Painted Orchids Floral Wallpaper R8142">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' alt='Dark Green Hand Painted Orchids Floral Wallpaper R8142'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Pink Peach Green Floral Wallpaper/Peel and Stick Removable/Baby Girl  Nursery Decor/Large Print/Pink Yellow Green Summer">
+                                <img itemprop="contentUrl url" src='https://babymaes.com/cdn/shop/products/il_fullxfull.2324666250_kbzv_b6372451-3cf9-4727-adbe-ce8ffb5279dd.jpg?v=1663626357' alt='Spring Pink Peach Green Floral Wallpaper/Peel and Stick Removable/Baby Girl  Nursery Decor/Large Print/Pink Yellow Green Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Maes" />
+                                </span>
+                                <a href='https://babymaes.com/cdn/shop/products/il_fullxfull.2324666250_kbzv_b6372451-3cf9-4727-adbe-ce8ffb5279dd.jpg?v=1663626357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall CH22531 Grand Floral Dk Pink Lt Pink Green Lt Turquoise  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210615.jpg' alt='Patton Norwall CH22531 Grand Floral Dk Pink Lt Pink Green Lt Turquoise  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

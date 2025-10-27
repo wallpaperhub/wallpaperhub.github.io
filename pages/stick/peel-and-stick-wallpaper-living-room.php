@@ -1,0 +1,129 @@
+<title>Revamp Your Living Room with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the perfect peel and stick wallpaper for your living room! Easy to use and remove, our stylish designs let you transform your space in minutes. Ideal for renters and DIY lovers, create a personalized atmosphere without the mess of traditional wallpaper.">
+                    <meta name="keywords" content="peel and stick wallpaper living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-living-room">
+                            <span itemprop="name">peel and stick wallpaper living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Living Room with Peel and Stick Wallpaper</h1>
+                <p>Transform your living room effortlessly with peel and stick wallpaper. This versatile option offers a variety of designs, from classic patterns to modern prints, allowing you to create a stunning focal wall or refresh the entire space. Easy to apply and remove, it’s perfect for renters and DIY enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' alt='Scandinavian Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1596">
+                                <meta itemprop="height" content="1411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Rose Gold Blue  Floral Pattern, Nursery Baby’s Room Decor • Scandinavian Design (24"W x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ATNbnRm3L.jpg' alt='Removable Peel 'n Stick Wallpaper, Self-Adhesive Wall Mural, Rose Gold Blue  Floral Pattern, Nursery Baby’s Room Decor • Scandinavian Design (24"W x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ATNbnRm3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Color Stripy leaves removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Soft-boho-design-farmhouse-living-room-with-botanical-removable-wallpaper.jpg?v=1595366124' alt='Sage Color Stripy leaves removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Soft-boho-design-farmhouse-living-room-with-botanical-removable-wallpaper.jpg?v=1595366124' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' alt='RoomMates Herringbone Wood Boards Blue and Tan Peel and Stick Wallpaper  (Covers 28.18 sq. ft.) RMK11454WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/59ce9ada-de6e-408b-add6-b6b43fcfbfde/svn/roommates-wallpaper-rolls-rmk11454wp-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_570xN.3576068430_62az.jpg' alt='Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_570xN.3576068430_62az.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 3D Stone Wallpaper Peel and Stick Textured Brick WallPaper for  Fireplace Kitchen Backsplash Living Room Bedroom Removable Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Livelynine 3D Stone Wallpaper Peel and Stick Textured Brick WallPaper for  Fireplace Kitchen Backsplash Living Room Bedroom Removable Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/f261b8c2-1218-4adb-b573-b311d7fec3b5.35d0cb03dd16068ae03d336d4fced327.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' alt='Wallpaper Peel and Stick Wallpaper Cream Floral Outline Minimalist  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 45'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2405">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3836453494_gtcy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Geometric Leaves Wallpaper">
+                                <img itemprop="contentUrl url" src='http://coloritto.co/cdn/shop/products/il_794xN.1804093528_rp7v_dc7bc06a-4762-4208-aaaa-64e4dfbe3339.jpg?v=1739384043' alt='Self Adhesive Geometric Leaves Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coloritto" />
+                                </span>
+                                <a href='http://coloritto.co/cdn/shop/products/il_794xN.1804093528_rp7v_dc7bc06a-4762-4208-aaaa-64e4dfbe3339.jpg?v=1739384043' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's the Little Things Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' alt='It's the Little Things Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/products/simple_mockup2.jpg?v=1717012579&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

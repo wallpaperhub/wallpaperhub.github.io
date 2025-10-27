@@ -1,0 +1,129 @@
+<title>Understanding Lightning: Nature's Electric Marvel</title>
+                    <meta name="description" content="Explore the captivating world of lightning, a stunning natural phenomenon that showcases the power of electricity in the atmosphere. Learn about its causes, effects, and fascinating characteristics in a concise, engaging format designed for quick reading.">
+                    <meta name="keywords" content="lightning background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lightning-background">
+                            <span itemprop="name">lightning background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Lightning: Nature's Electric Marvel</h1>
+                <p>Lightning is a fascinating natural phenomenon caused by the discharge of electricity in the atmosphere. It occurs during thunderstorms when static electricity builds up in clouds and is released as bright flashes of light. Lightning forms in various shapes and can strike the ground, making it both awe-inspiring and dangerous. Understanding its background enriches our appreciation for nature's power.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Lightning Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/393/226/small/abstract-blue-lightning-on-an-electrical-background-photo.jpg' alt='Electric Lightning Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/393/226/small/abstract-blue-lightning-on-an-electrical-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Black Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/393/450/small_2x/abstract-black-marble-lightning-background-photo.jpg' alt='Lightning Black Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/393/450/small_2x/abstract-black-marble-lightning-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Images – Browse 1,428,412 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/15/75/37/360_F_415753793_Amq32dxFXnCvub1rJ3UbCYjyzV7CdAce.jpg' alt='Lightning Images – Browse 1,428,412 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/15/75/37/360_F_415753793_Amq32dxFXnCvub1rJ3UbCYjyzV7CdAce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Lightning Background Stock Illustrations – 1,405 Epic ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/epic-volcanic-eruption-lightning-storm-high-quality-image-fantasy-art-ai-generated-design-350093030.jpg' alt='Epic Lightning Background Stock Illustrations – 1,405 Epic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/epic-volcanic-eruption-lightning-storm-high-quality-image-fantasy-art-ai-generated-design-350093030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic lightning on checkered background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/95/17/realistic-lightning-on-checkered-background-vector-14109517.jpg' alt='Realistic lightning on checkered background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/95/17/realistic-lightning-on-checkered-background-vector-14109517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Background Images – Browse 681,683 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/46/09/09/360_F_746090932_LtmsfZd5IZ7dRkBoqXTGG1pkdLkqg9Lw.jpg' alt='Lightning Background Images – Browse 681,683 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/46/09/09/360_F_746090932_LtmsfZd5IZ7dRkBoqXTGG1pkdLkqg9Lw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Black And White Lightning Photos Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1312782412/photo/lightnings-during-summer-storm-at-night.jpg?s=612x612&w=0&k=20&c=dpWMimUB4v0XBK-nRYTcdt81DuxEWjilAlKhVMnctVY=' alt='1,100+ Black And White Lightning Photos Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1312782412/photo/lightnings-during-summer-storm-at-night.jpg?s=612x612&w=0&k=20&c=dpWMimUB4v0XBK-nRYTcdt81DuxEWjilAlKhVMnctVY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lightning Stock Illustrations – 20,161 Neon Lightning Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-neon-lightning-strikes-over-dark-background-image-features-vibrant-neon-lightning-strikes-over-dark-background-331890045.jpg' alt='Neon Lightning Stock Illustrations – 20,161 Neon Lightning Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-neon-lightning-strikes-over-dark-background-image-features-vibrant-neon-lightning-strikes-over-dark-background-331890045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Texture Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/028/545/204/small/abstact-futuristic-background-with-electric-neon-waves-electro-light-effect-photo.jpg' alt='Lightning Texture Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/028/545/204/small/abstact-futuristic-background-with-electric-neon-waves-electro-light-effect-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Lightning Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-lightning-background-m7e5lfxlmwzdsbal.jpg' alt='100+] Purple Lightning Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-lightning-background-m7e5lfxlmwzdsbal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discovering the Victorian Era: Culture, Innovation, and Change</title>
+                    <meta name="description" content="Explore the fascinating Victorian Era, a time of industrial growth, literary brilliance, and social reform in Britain. Learn how Queen Victoria's reign shaped culture and innovation, leaving an enduring legacy that continues to influence today.">
+                    <meta name="keywords" content="victorian era">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/victorian-era">
+                            <span itemprop="name">victorian era</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Victorian Era: Culture, Innovation, and Change</h1>
+                <p>The Victorian Era (1837-1901) marked a time of great change in British society. Under Queen Victoria's reign, industry, culture, and the arts flourished. Innovations like the steam engine transformed daily life, while literature thrived with authors like Dickens and Brontë. The period also saw an expansion of the British Empire and advancements in social reforms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian era - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/de/Queen_Victoria_-_Winterhalter_1859.jpg' alt='Victorian era - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/de/Queen_Victoria_-_Winterhalter_1859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happened during the Victorian era? | Royal Museums Greenwich">
+                                <img itemprop="contentUrl url" src='https://www.rmg.co.uk/sites/default/files/styles/max_width_1440/public/BHC3071.jpg?itok=hyZGglOp' alt='What happened during the Victorian era? | Royal Museums Greenwich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Museums Greenwich" />
+                                </span>
+                                <a href='https://www.rmg.co.uk/sites/default/files/styles/max_width_1440/public/BHC3071.jpg?itok=hyZGglOp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Era | Steampunk Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/steampunk/images/a/a0/QueenVictoria.jpg/revision/latest/scale-to-width-down/300?cb=20101123033159' alt='Victorian Era | Steampunk Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steampunk Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/steampunk/images/a/a0/QueenVictoria.jpg/revision/latest/scale-to-width-down/300?cb=20101123033159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gender Roles In The Victorian Era Part Two -">
+                                <img itemprop="contentUrl url" src='https://backinthedayof.co.uk/wp-content/uploads/2020/06/vintage-1480642_1920.jpg' alt='Gender Roles In The Victorian Era Part Two -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Back In The Day Of..." />
+                                </span>
+                                <a href='https://backinthedayof.co.uk/wp-content/uploads/2020/06/vintage-1480642_1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Women in the Victorian era - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz_Xaver_Winterhalter_Family_of_Queen_Victoria.jpg/1200px-Franz_Xaver_Winterhalter_Family_of_Queen_Victoria.jpg' alt='Women in the Victorian era - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz_Xaver_Winterhalter_Family_of_Queen_Victoria.jpg/1200px-Franz_Xaver_Winterhalter_Family_of_Queen_Victoria.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Over‑the‑Top Fashion Trends From the Victorian Era | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2022/12/crinoline-dress-gettyimages-1219734139.jpg' alt='5 Over‑the‑Top Fashion Trends From the Victorian Era | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2022/12/crinoline-dress-gettyimages-1219734139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian era | History, Society, & Culture | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/35/100435-131-45050031/Victoria-coronation-1837.jpg' alt='Victorian era | History, Society, & Culture | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/35/100435-131-45050031/Victoria-coronation-1837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What happened during the Victorian era? | Royal Museums Greenwich">
+                                <img itemprop="contentUrl url" src='https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/Queen%20Victoria%20%281891-1901%29_banner.jpg?itok=Km51IMa6' alt='What happened during the Victorian era? | Royal Museums Greenwich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Royal Museums Greenwich" />
+                                </span>
+                                <a href='https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/Queen%20Victoria%20%281891-1901%29_banner.jpg?itok=Km51IMa6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Era Women's Fashions: From Hoop Skirts to Bustles - HubPages">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0MDQ2MDg4NTA2OTEwMjc0/fashion-history-victorian-costume-and-design-trends-1837-1900-with-pictures.jpg' alt='Victorian Era Women's Fashions: From Hoop Skirts to Bustles - HubPages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0MDQ2MDg4NTA2OTEwMjc0/fashion-history-victorian-costume-and-design-trends-1837-1900-with-pictures.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian era | History, Society, & Culture | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/52/112152-050-A5D37C54/Chartist-demonstration-Victoria-illustration-Kennington-Common-The-1848.jpg' alt='Victorian era | History, Society, & Culture | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1175">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/52/112152-050-A5D37C54/Chartist-demonstration-Victoria-illustration-Kennington-Common-The-1848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

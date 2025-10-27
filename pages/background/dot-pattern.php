@@ -1,0 +1,129 @@
+<title>Captivating Dot Patterns: A Visual Guide</title>
+                    <meta name="description" content="Explore the world of dot patterns! Discover how these playful and versatile designs can elevate your art, fashion, and digital projects. Perfect for enhancing aesthetics and adding a touch of creativity to your work. Dive into our visual guide for inspiration and tips on using dot patterns effectively!">
+                    <meta name="keywords" content="dot pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dot-pattern">
+                            <span itemprop="name">dot pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Dot Patterns: A Visual Guide</h1>
+                <p>Dot patterns are versatile visual elements characterized by small dots arranged in various shapes and sizes. They can enhance backgrounds, textiles, and digital designs with their rhythmic appeal. Used in art and fashion, dot patterns can evoke feelings of playfulness or sophistication, making them a popular choice for modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/401/674/small_2x/black-and-white-small-dots-pattern-free-vector.jpg' alt='Dot Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/401/674/small_2x/black-and-white-small-dots-pattern-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Patterns | Smartpress Support">
+                                <img itemprop="contentUrl url" src='https://smartpress.com/support/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-10.17.30-AM.png' alt='Dot Patterns | Smartpress Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="832">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smartpress" />
+                                </span>
+                                <a href='https://smartpress.com/support/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-10.17.30-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Polka Dots SVG Pattern, Line Pattern, Geometric Background. Cut  File Cricut, Png Pdf Eps, Vector. Instant Download, P1-01">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32053703/r/il/d23c57/3505241872/il_fullxfull.3505241872_io11.jpg' alt='Seamless Polka Dots SVG Pattern, Line Pattern, Geometric Background. Cut  File Cricut, Png Pdf Eps, Vector. Instant Download, P1-01'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32053703/r/il/d23c57/3505241872/il_fullxfull.3505241872_io11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Pattern Images – Browse 3,945,204 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/33/21/11/360_F_433211199_fa16bA7ksnd9WEy1nbRlvHc5XGWeOxcu.jpg' alt='Dot Pattern Images – Browse 3,945,204 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/33/21/11/360_F_433211199_fa16bA7ksnd9WEy1nbRlvHc5XGWeOxcu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Pattern PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220430/original/pngtree-polka-dot-pattern-png-image_7599410.png' alt='Dot Pattern PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220430/original/pngtree-polka-dot-pattern-png-image_7599410.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="effects - How to create this kind of seamless random dot pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/yBnuC.jpg' alt='effects - How to create this kind of seamless random dot pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="846">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/yBnuC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Pattern Icons - Free SVG & PNG Dot Pattern Images - Noun Project">
+                                <img itemprop="contentUrl url" src='https://static.thenounproject.com/png/2822489-200.png' alt='Dot Pattern Icons - Free SVG & PNG Dot Pattern Images - Noun Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Noun Project" />
+                                </span>
+                                <a href='https://static.thenounproject.com/png/2822489-200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dot Pattern Test Chart | Imatest">
+                                <img itemprop="contentUrl url" src='https://www.imatest.com/wp-content/uploads/2022/01/m34x40.png' alt='Dot Pattern Test Chart | Imatest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imatest" />
+                                </span>
+                                <a href='https://www.imatest.com/wp-content/uploads/2022/01/m34x40.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SVG > grid dotted dot pattern - Free SVG Image & Icon. | SVG Silh">
+                                <img itemprop="contentUrl url" src='https://svgsilh.com/svg_v2/26432.svg' alt='SVG > grid dotted dot pattern - Free SVG Image & Icon. | SVG Silh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG Silh" />
+                                </span>
+                                <a href='https://svgsilh.com/svg_v2/26432.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white dot pattern design background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/55/13/black-and-white-dot-pattern-design-background-vector-13195513.jpg' alt='Black and white dot pattern design background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/55/13/black-and-white-dot-pattern-design-background-vector-13195513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

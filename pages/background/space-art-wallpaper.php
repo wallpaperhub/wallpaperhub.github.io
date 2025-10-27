@@ -1,0 +1,129 @@
+<title>Stunning Space Art Wallpaper for Cosmic Decor</title>
+                    <meta name="description" content="Discover beautiful space art wallpaper that elevates your decor with cosmic beauty. Perfect for homes and offices, our designs inspire awe and creativity. Transform your space and explore the universe in style! Shop now for unique styles and endless possibilities.">
+                    <meta name="keywords" content="space art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/space-art-wallpaper">
+                            <span itemprop="name">space art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Space Art Wallpaper for Cosmic Decor</h1>
+                <p>Transform your space with stunning space art wallpaper that captures the beauty of the cosmos. Starry skies, vibrant galaxies, and celestial landscapes bring the universe into your home. Ideal for bedrooms, offices, or any setting, our wallpapers inspire creativity and wonder while adding a touch of elegance to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Space Art Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/space-art-te2d0kf6oh9090pu.jpg' alt='100+] Space Art Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/space-art-te2d0kf6oh9090pu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpaper & Galaxy Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/43/645/space.jpg' alt='Space Wallpaper & Galaxy Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/43/645/space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Fantasy Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/025/530/989/small_2x/fantasy-alien-planet-in-outer-space-3d-illustration-photo.jpg' alt='Space Fantasy Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/025/530/989/small_2x/fantasy-alien-planet-in-outer-space-3d-illustration-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best space wallpapers, 2025 | BBC Sky at Night Magazine">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2022/02/SpaceExplorers_-95fd220.jpg?webp=1&w=1200' alt='Best space wallpapers, 2025 | BBC Sky at Night Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2022/02/SpaceExplorers_-95fd220.jpg?webp=1&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Art 4k - Free 4k Wallpapers - 40.000+ Free 4k Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/4b/2d/b74b2dfeca58f0955c51876c24fcf227.jpg' alt='Space Art 4k - Free 4k Wallpapers - 40.000+ Free 4k Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/4b/2d/b74b2dfeca58f0955c51876c24fcf227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper space, fantasy, art, stars, planet, austronaut for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/c4/art-austronaut-planet-fantasy-space-stars.webp' alt='Wallpaper space, fantasy, art, stars, planet, austronaut for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/c4/art-austronaut-planet-fantasy-space-stars.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Mask: Sci-Fi Space Art HD Wallpaper by Dan LuVisi">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/334/334554.jpg' alt='Cosmic Mask: Sci-Fi Space Art HD Wallpaper by Dan LuVisi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2960">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/334/334554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-fi Removable Wallpaper Fantastic Planet Landscape Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14967869/r/il/506cc2/1332171883/il_fullxfull.1332171883_khe7.jpg' alt='Sci-fi Removable Wallpaper Fantastic Planet Landscape Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14967869/r/il/506cc2/1332171883/il_fullxfull.1332171883_khe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Space Traveler Art Aesthetic Tablet Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/night-space-traveler-art-aesthetic-tablet-4zjw8hlaj0sqet7b.jpg' alt='Night Space Traveler Art Aesthetic Tablet Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/night-space-traveler-art-aesthetic-tablet-4zjw8hlaj0sqet7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD digital space wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/495/643/HD-wallpaper-digital-art-colorful-space-space-art.jpg' alt='HD digital space wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/495/643/HD-wallpaper-digital-art-colorful-space-space-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

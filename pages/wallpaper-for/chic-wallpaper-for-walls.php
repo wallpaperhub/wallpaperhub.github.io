@@ -1,0 +1,129 @@
+<title>Chic Wallpaper Ideas to Elevate Your Space</title>
+                    <meta name="description" content="Discover stylish chic wallpaper options that enhance your home's aesthetic. Explore vibrant patterns and textures that breathe life into your walls, making your space uniquely yours. Perfect for any room, our chic wallpaper selection offers inspiring choices to suit your taste and style.">
+                    <meta name="keywords" content="chic wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/chic-wallpaper-for-walls">
+                            <span itemprop="name">chic wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Wallpaper Ideas to Elevate Your Space</h1>
+                <p>Transform your living space with chic wallpaper that exudes style and sophistication. From bold patterns to subtle textures, chic wallpaper can elevate any room, creating a focal point that complements your décor. Choose from a variety of colors and designs to express your unique taste and revive your walls with personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Chic, Powder Beige">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1701417214/articles/R16743_interior5.jpg' alt='Chinoiserie Chic, Powder Beige'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1701417214/articles/R16743_interior5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Chic">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1661354916/articles/R16744_interior3.jpg' alt='Chinoiserie Chic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1661354916/articles/R16744_interior3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rae Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/RaeWallpaperBrownGemotricwithWhite_2.png?v=1714431206&width=2048' alt='Rae Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/RaeWallpaperBrownGemotricwithWhite_2.png?v=1714431206&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Classy Wallpaper Ideas For Preppy Sophisticates - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715343366/cronos-ha/blogs/sophisticated-wallpaper-designs/Van-Gogh-Wallpaper--700x1050.webp' alt='6 Classy Wallpaper Ideas For Preppy Sophisticates - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715343366/cronos-ha/blogs/sophisticated-wallpaper-designs/Van-Gogh-Wallpaper--700x1050.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lined Meadow Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' alt='Lined Meadow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Chic, Jade">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1701417179/articles/R16742_interior7.jpg' alt='Chinoiserie Chic, Jade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="842">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1701417179/articles/R16742_interior7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Chic Wall Mural, Chinese Wallpaper, Eighteenth-century ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10833868/r/il/c1c65c/3772468123/il_fullxfull.3772468123_t4yh.jpg' alt='Chinoiserie Chic Wall Mural, Chinese Wallpaper, Eighteenth-century ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10833868/r/il/c1c65c/3772468123/il_fullxfull.3772468123_t4yh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg?crop=0.668xw:1.00xh;0.226xw,0&resize=1200:*' alt='45 Bedroom Wallpaper Ideas That Will Bring Instant Beauty to Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/kemble-interiors-palm-beach-9-1675978401.jpg?crop=0.668xw:1.00xh;0.226xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chic Conservatory Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.foresthomesstore.com/cdn/shop/files/Chic-Conservatory-Mural-Wallpaper.jpg?v=1712021316' alt='Chic Conservatory Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='http://www.foresthomesstore.com/cdn/shop/files/Chic-Conservatory-Mural-Wallpaper.jpg?v=1712021316' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom "Beige Splash" Wallpaper Wall Mural 8'T x 218"W - Prepasted">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/Screenshot2024-02-06at11.02.05AM.png?v=1707235673&width=1214' alt='Custom "Beige Splash" Wallpaper Wall Mural 8'T x 218"W - Prepasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/Screenshot2024-02-06at11.02.05AM.png?v=1707235673&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

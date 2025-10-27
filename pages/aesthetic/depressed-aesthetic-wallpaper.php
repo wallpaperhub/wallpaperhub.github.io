@@ -1,0 +1,129 @@
+<title>Embrace Your Emotions: Depressed Aesthetic Wallpaper Collection</title>
+                    <meta name="description" content="Discover a unique collection of depressed aesthetic wallpapers that evoke feelings of nostalgia and sorrow. Perfect for those who resonate with melancholy art, these designs offer a blend of muted tones and abstract visuals. Transform your space into a reflection of your emotions today!">
+                    <meta name="keywords" content="depressed aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/depressed-aesthetic-wallpaper">
+                            <span itemprop="name">depressed aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Your Emotions: Depressed Aesthetic Wallpaper Collection</h1>
+                <p>Depressed aesthetic wallpaper captures the essence of melancholy through muted colors, abstract patterns, and haunting imagery. Perfect for those who appreciate a darker vibe, these wallpapers create an introspective atmosphere in any space. Explore a curated collection that resonates with feelings of nostalgia and sadness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Depression Aesthetic Broken Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/depression-aesthetic-broken-lw3icscm6drphli3.jpg' alt='Depression Aesthetic Broken Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/depression-aesthetic-broken-lw3icscm6drphli3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Depression Aesthetic Fine Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/depression-aesthetic-fine-9lvc429wsoi1oiar.jpg' alt='Depression Aesthetic Fine Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/depression-aesthetic-fine-9lvc429wsoi1oiar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Depression Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/depression-phone-xeg1fv56j6kv6tsv.jpg' alt='100+] Depression Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/depression-phone-xeg1fv56j6kv6tsv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Depression Aesthetic Worse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/depression-aesthetic-worse-kdvcja2hl1mpbohi.jpg' alt='Depression Aesthetic Worse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/depression-aesthetic-worse-kdvcja2hl1mpbohi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Depressed aesthetic, black, sad, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/428/977/HD-wallpaper-depressed-aesthetic-black-sad.jpg' alt='Depressed aesthetic, black, sad, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/428/977/HD-wallpaper-depressed-aesthetic-black-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sad aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' alt='sad aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Depressing wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a2/7a/9c/a27a9cc6b13f7343111b6019f9a172f5.jpg' alt='Depressing wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a2/7a/9c/a27a9cc6b13f7343111b6019f9a172f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Aesthetic sad, aesthetic, depressed, gray, heartbroken, life ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/503/1003/HD-wallpaper-gray-aesthetic-sad-aesthetic-depressed-gray-heartbroken-life-live-love-sad-suicide.jpg' alt='Gray Aesthetic sad, aesthetic, depressed, gray, heartbroken, life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/503/1003/HD-wallpaper-gray-aesthetic-sad-aesthetic-depressed-gray-heartbroken-life-live-love-sad-suicide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Depressed Wallpaper in SVG, JPG, Illustrator, PNG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/100197/aesthetic-depressed-wallpaper-hll4m.jpg' alt='Aesthetic Depressed Wallpaper in SVG, JPG, Illustrator, PNG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/100197/aesthetic-depressed-wallpaper-hll4m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Depression Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/depression-aesthetic-n5yjph96fggtcp2t.jpg' alt='100+] Depression Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/depression-aesthetic-n5yjph96fggtcp2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Purple Velvet Background for Elegant Decor</title>
+                    <meta name="description" content="Explore the allure of a purple velvet background that enhances any space. Ideal for photography, events, or home decor, its luxurious texture creates a captivating ambiance. Discover how this elegant backdrop can elevate your design and impress your guests effortlessly.">
+                    <meta name="keywords" content="purple velvet background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-velvet-background">
+                            <span itemprop="name">purple velvet background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Velvet Background for Elegant Decor</h1>
+                <p>Transform your space with a stunning purple velvet background that exudes elegance and sophistication. Perfect for photography, events, or interior design, this rich texture adds depth and warmth to any setting. Capture the luxurious feel of velvet and create an inviting atmosphere with this versatile backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1134227742/photo/ultra-violet-or-purple-suede-texture-backdrop-leather-skin-natural-pattern-or-abstract.jpg?s=612x612&w=0&k=20&c=XQD1-E0UkVOs3rkW67VPFsKnioETz6jq28OLcFmYv_4=' alt='10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1134227742/photo/ultra-violet-or-purple-suede-texture-backdrop-leather-skin-natural-pattern-or-abstract.jpg?s=612x612&w=0&k=20&c=XQD1-E0UkVOs3rkW67VPFsKnioETz6jq28OLcFmYv_4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/587219358/photo/violet-color-velvet-texture-background.jpg?s=612x612&w=0&k=20&c=SVWNN4TityMM13zeidylbNtG6HVMQv0FzIN9ugCKkqw=' alt='10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/587219358/photo/violet-color-velvet-texture-background.jpg?s=612x612&w=0&k=20&c=SVWNN4TityMM13zeidylbNtG6HVMQv0FzIN9ugCKkqw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple velvet fabric texture used as background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-soft-smooth-textile-material-there-is-space-text_661047-404.jpg?w=360' alt='Premium Photo | Purple velvet fabric texture used as background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-soft-smooth-textile-material-there-is-space-text_661047-404.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple velvet fabric texture used as background. Empty purple ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/936/812/large_2x/purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-of-soft-and-smooth-textile-material-there-is-space-for-text-free-photo.jpg' alt='Purple velvet fabric texture used as background. Empty purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2613">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/936/812/large_2x/purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-of-soft-and-smooth-textile-material-there-is-space-for-text-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple velvet fabric texture used as background. Empty purple ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/12/73/32/1000_F_512733270_lN4ZemJ8bKTsB6TI7Xa5wSYWMZaw2S3n.jpg' alt='Purple velvet fabric texture used as background. Empty purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/12/73/32/1000_F_512733270_lN4ZemJ8bKTsB6TI7Xa5wSYWMZaw2S3n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple velvet background containing velvet, fabric, and velour, an ...">
+                                <img itemprop="contentUrl url" src='https://tint.creativemarket.com/u-upTwIbYrwDZBw-k93pWCGwFJaUcc0qBfMYQTM7ClU/width:440/height:292/gravity:ce/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzc4Mi83ODI1Lzc4MjUzMzkvdXA5a3ZtcDY4ZnlxMWY4amM1cndlcG5hOXJ4aWlzaGRsdnFqcmhseGtjbGZrbm96bXpubGJtM21ldGw4M211OS1vLmpwZw?1710337455' alt='Purple velvet background containing velvet, fabric, and velour, an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Market" />
+                                </span>
+                                <a href='https://tint.creativemarket.com/u-upTwIbYrwDZBw-k93pWCGwFJaUcc0qBfMYQTM7ClU/width:440/height:292/gravity:ce/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzc4Mi83ODI1Lzc4MjUzMzkvdXA5a3ZtcDY4ZnlxMWY4amM1cndlcG5hOXJ4aWlzaGRsdnFqcmhseGtjbGZrbm96bXpubGJtM21ldGw4M211OS1vLmpwZw?1710337455' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Velvet Background Images – Browse 81,347 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/30/27/67/360_F_1230276703_71K1uy9TN65DKGv2dVzg9FwAriUNM3X8.jpg' alt='Purple Velvet Background Images – Browse 81,347 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/30/27/67/360_F_1230276703_71K1uy9TN65DKGv2dVzg9FwAriUNM3X8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Velvet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/f9/ad/71f9adddb678e4d71ca6f33950f17fc7.jpg' alt='Purple Velvet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/f9/ad/71f9adddb678e4d71ca6f33950f17fc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1314326481/photo/soft-smooth-purple-plush-fleece.jpg?s=612x612&w=0&k=20&c=MxIuem75da9jr2_CWq0VDAAMnGAjsp-_GpdTgUQvLZo=' alt='10,200+ Purple Velvet Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1314326481/photo/soft-smooth-purple-plush-fleece.jpg?s=612x612&w=0&k=20&c=MxIuem75da9jr2_CWq0VDAAMnGAjsp-_GpdTgUQvLZo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark purple velvet fabric texture used as background. Empty purple ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/234/998/non_2x/dark-purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-of-soft-and-smooth-textile-material-there-is-space-for-text-free-photo.jpg' alt='Dark purple velvet fabric texture used as background. Empty purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/234/998/non_2x/dark-purple-velvet-fabric-texture-used-as-background-empty-purple-fabric-background-of-soft-and-smooth-textile-material-there-is-space-for-text-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

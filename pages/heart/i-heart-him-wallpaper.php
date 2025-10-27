@@ -1,0 +1,129 @@
+<title>Adorable "I Heart Him" Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover heartwarming "I Heart Him" wallpapers that express your love creatively. Perfect for phones and laptops, these designs celebrate your affection in style. Keep your favorite memories close with wallpapers that speak from the heart and offer a daily reminder of love!">
+                    <meta name="keywords" content="i heart him wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-heart-him-wallpaper">
+                            <span itemprop="name">i heart him wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable "I Heart Him" Wallpapers for Your Devices</h1>
+                <p>Express your feelings with "I Heart Him" wallpapers that capture your love and affection! Choose from various designs, colors, and styles that perfectly reflect your emotions. Whether it's for your phone, laptop, or physical prints, these wallpapers inspire warmth and connection, making them perfect for anyone who cherishes their partner.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i ❤️ him pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/50/1f/9a501f8780fdc7947832bce63e0ec807.jpg' alt='i ❤️ him pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/50/1f/9a501f8780fdc7947832bce63e0ec807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love him tiktok pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e0/41/ff/e041ffbdf70abb7caa397094dc4beacc.jpg' alt='I love him tiktok pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e0/41/ff/e041ffbdf70abb7caa397094dc4beacc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple wallpapers (1/2)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/90/34/9a9034536c337aab7824a85844b9b514.jpg' alt='Couple wallpapers (1/2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/90/34/9a9034536c337aab7824a85844b9b514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download I Love PFP Him Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/i-love-pfp-him-28q0ei3wqc6g2vvh.jpg' alt='Download I Love PFP Him Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/i-love-pfp-him-28q0ei3wqc6g2vvh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] I Heart Pfp Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/i-heart-pfp-mrd144o1gfkl3ron.jpg' alt='100+] I Heart Pfp Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/i-heart-pfp-mrd144o1gfkl3ron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i heart him pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/49/40/16494005ffc708139affafc9b3e7406a.jpg' alt='i heart him pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/49/40/16494005ffc708139affafc9b3e7406a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Him wallpaper by Z_Studios - Download on ZEDGE™ | 116d">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=Tjbw57HC7zjX6nFXZX0M_bIEqwWBYx3i9Yw2XHzlsJQiTEln96KJIn4Yt7qqAlqk6K3EwPGk6BfLTFeYsCovE2I2lPXQQJYmZzvUhiAQ19eacRkHMzGjFTB8t5HAZqm1-bqs8FDRVTYu_rr8Ret2ygYfIhHF3eRtv6mjBfNEVhH_6YgINK_D9Om1EgYg48nE9bd7fMhFJj88uDBWSEUsGMI-wPXyjrwsM9LqSmMDCBbdha3WkaJdyjWedCM' alt='I Love Him wallpaper by Z_Studios - Download on ZEDGE™ | 116d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=Tjbw57HC7zjX6nFXZX0M_bIEqwWBYx3i9Yw2XHzlsJQiTEln96KJIn4Yt7qqAlqk6K3EwPGk6BfLTFeYsCovE2I2lPXQQJYmZzvUhiAQ19eacRkHMzGjFTB8t5HAZqm1-bqs8FDRVTYu_rr8Ret2ygYfIhHF3eRtv6mjBfNEVhH_6YgINK_D9Om1EgYg48nE9bd7fMhFJj88uDBWSEUsGMI-wPXyjrwsM9LqSmMDCBbdha3WkaJdyjWedCM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tell him you love him Quotes [Simple]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/db/d0/dfdbd0c7ca9b716d224d403f1e0c0efe.jpg' alt='tell him you love him Quotes [Simple]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/db/d0/dfdbd0c7ca9b716d224d403f1e0c0efe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68 3d wallpaper iphone ideas | 3d wallpaper iphone, 3d wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1a/e7/7b/1ae77bd6bbf24cb03a632ef226aa864d.png' alt='68 3d wallpaper iphone ideas | 3d wallpaper iphone, 3d wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1a/e7/7b/1ae77bd6bbf24cb03a632ef226aa864d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Him" Images – Browse 15 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/07/83/06/360_F_107830604_2g6FaZJnZJwqsIo21d29H2Z5fyGjY3IQ.jpg' alt='I Love Him" Images – Browse 15 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/07/83/06/360_F_107830604_2g6FaZJnZJwqsIo21d29H2Z5fyGjY3IQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant William Morris Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore exquisite William Morris phone wallpapers that elevate your device’s look with classic designs. Perfect for art lovers and those seeking unique aesthetics, these wallpapers are optimized for a seamless fit on all screens. Refresh your phone today with timeless style!">
+                    <meta name="keywords" content="william morris phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/william-morris-phone-wallpaper">
+                            <span itemprop="name">william morris phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant William Morris Phone Wallpapers for Your Device</h1>
+                <p>Transform your smartphone with stunning William Morris phone wallpaper. Dive into the world of intricate patterns and rich colors inspired by the renowned designer’s artistry. Ideal for lovers of classic design, these wallpapers bring elegance to your daily routine, making your device an extension of your personal style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0zMDY3Mzctamotam9iNTgyLTEuanBn.jpg' alt='William Morris Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0zMDY3Mzctamotam9iNTgyLTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of William Morris mobile wallpaper, willow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e7/7d/c5/e77dc58f8e74b6b0c7fac632674d2adb.jpg' alt='Download premium image of William Morris mobile wallpaper, willow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e7/7d/c5/e77dc58f8e74b6b0c7fac632674d2adb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris iPhone wallpaper, bird | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0zMTk0NDEtam9iNTgyLTEuanBn.jpg' alt='William Morris iPhone wallpaper, bird | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0zMTk0NDEtam9iNTgyLTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of William Morris phone wallpaper, willow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/84/2f/0d842fb86c841d3d372f6bdf3f46f6de.jpg' alt='Download premium image of William Morris phone wallpaper, willow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/84/2f/0d842fb86c841d3d372f6bdf3f46f6de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Thief, Wallpaper, 1883 by William Morris">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/strawberry-thief-wallpaper-1883-william-morris.jpg' alt='Strawberry Thief, Wallpaper, 1883 by William Morris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/strawberry-thief-wallpaper-1883-william-morris.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Compton Antique Wallpaper Pattern | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2928608436.9596/flat,750x1000,075,t.u2.jpg' alt='William Morris Compton Antique Wallpaper Pattern | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2928608436.9596/flat,750x1000,075,t.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris iPhone wallpaper, Holland | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0yNDU5MzYtMS5qcGc.jpg' alt='William Morris iPhone wallpaper, Holland | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQ0Mi0yNDU5MzYtMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Morris on Twitter. William morris, Morris, Lily, 1899, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/187/991/HD-wallpaper-every-morris-on-twitter-william-morris-morris-lily-1899.jpg' alt='Every Morris on Twitter. William morris, Morris, Lily, 1899, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/187/991/HD-wallpaper-every-morris-on-twitter-william-morris-morris-lily-1899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Vintage Floral Peel and Stick Wallpaper, Bird William Morris  Wallpaper Blue/Green Wall Murals, Removable Pre-Pasted Floral Contact Paper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81W6+vLA3CL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly Vintage Floral Peel and Stick Wallpaper, Bird William Morris  Wallpaper Blue/Green Wall Murals, Removable Pre-Pasted Floral Contact Paper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="748">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81W6+vLA3CL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Victorian Wallpaper 4, William Morris | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2299654491.6382/flat,750x1000,075,t.u1.jpg' alt='Vintage Victorian Wallpaper 4, William Morris | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2299654491.6382/flat,750x1000,075,t.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

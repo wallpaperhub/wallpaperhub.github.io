@@ -1,0 +1,129 @@
+<title>Argentina World Cup 2022 Messi Wallpapers: Download Now!</title>
+                    <meta name="description" content="Explore a collection of Argentina World Cup 2022 Messi wallpapers. Perfect for fans wanting to showcase their love for football and Lionel Messi. Download high-quality images and elevate your device's aesthetic with iconic moments from the tournament!">
+                    <meta name="keywords" content="argentina world cup messi wallpaper 2022">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/argentina-world-cup-messi-wallpaper-2022">
+                            <span itemprop="name">argentina world cup messi wallpaper 2022</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Argentina World Cup 2022 Messi Wallpapers: Download Now!</h1>
+                <p>Discover stunning Argentina World Cup Messi wallpapers from 2022! Celebrate the iconic moments of the tournament with mesmerizing images of Lionel Messi, showcasing his magic on the field. Perfect for fans and enthusiasts looking to personalize their devices with football greatness. Download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi lifiting the 2022 FIFA World Cup trophy [4096x2731 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lionel-messi-lifiting-the-2022-fifa-world-cup-trophy-v0-6ib1hrf1bu6a1.jpg?auto=webp&s=ddcfcc884866f2c16d2cb14762f00a439ac4ee87' alt='Lionel Messi lifiting the 2022 FIFA World Cup trophy [4096x2731 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lionel-messi-lifiting-the-2022-fifa-world-cup-trophy-v0-6ib1hrf1bu6a1.jpg?auto=webp&s=ddcfcc884866f2c16d2cb14762f00a439ac4ee87' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi - Argentina Wallpaper 2022 by ChrisRamos4GFX on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91bebdc1-300f-4902-921e-610668248a71/dfjhfw6-c579873f-f300-4953-8d79-a4a6a9bb7313.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxYmViZGMxLTMwMGYtNDkwMi05MjFlLTYxMDY2ODI0OGE3MVwvZGZqaGZ3Ni1jNTc5ODczZi1mMzAwLTQ5NTMtOGQ3OS1hNGE2YTliYjczMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e7lCXro0Hh1vadKIAHkd3wItzEHSY4wxxIDUeWtqAzw' alt='Lionel Messi - Argentina Wallpaper 2022 by ChrisRamos4GFX on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91bebdc1-300f-4902-921e-610668248a71/dfjhfw6-c579873f-f300-4953-8d79-a4a6a9bb7313.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxYmViZGMxLTMwMGYtNDkwMi05MjFlLTYxMDY2ODI0OGE3MVwvZGZqaGZ3Ni1jNTc5ODczZi1mMzAwLTQ5NTMtOGQ3OS1hNGE2YTliYjczMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e7lCXro0Hh1vadKIAHkd3wItzEHSY4wxxIDUeWtqAzw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-lko18r6j4x6a1.jpg?width=1365&format=pjpg&auto=webp&s=f8f4d67f2eecd6487d0acc517fa8452012da9d5c' alt='Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-lko18r6j4x6a1.jpg?width=1365&format=pjpg&auto=webp&s=f8f4d67f2eecd6487d0acc517fa8452012da9d5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Argentina World Cup Soccer Lithograph print of Lionel Messi 2022">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/l5QAAOSwR~ZjoQR1/s-l1200.jpg' alt='Argentina World Cup Soccer Lithograph print of Lionel Messi 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/l5QAAOSwR~ZjoQR1/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: Messi and Argentina lift World Cup after win over France ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2022/12/SSS10784_1.jpg?resize=1920%2C1440' alt='Photos: Messi and Argentina lift World Cup after win over France ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2022/12/SSS10784_1.jpg?resize=1920%2C1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Argentina Messi, Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/940/640/HD-wallpaper-argentina-messi-messi-world-cup.jpg' alt='Argentina Messi, Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/940/640/HD-wallpaper-argentina-messi-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: Messi magic guides relieved Argentina past Mexico | In ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-26T195844Z_745320325_UP1EIBQ1JHTRI_RTRMADP_3_SOCCER-WORLDCUP-ARG-MEX-REPORT.jpg?resize=1920%2C1440' alt='Photos: Messi magic guides relieved Argentina past Mexico | In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-26T195844Z_745320325_UP1EIBQ1JHTRI_RTRMADP_3_SOCCER-WORLDCUP-ARG-MEX-REPORT.jpg?resize=1920%2C1440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="بزبلو . on X: "•      #Wallpapers •   World Cup 2022 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FihWVk2X0AAdF9V?format=jpg&name=4096x4096' alt='بزبلو . on X: "•      #Wallpapers •   World Cup 2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1872">
+                                <meta itemprop="height" content="4056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FihWVk2X0AAdF9V?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE BEST 10 LIONEL MESSI WALLPAPER HD ARGENTINA PHOTOS - eDigital ...">
+                                <img itemprop="contentUrl url" src='https://www.edigitalagency.com.au/wp-content/uploads/Lionel-Messi-wallpaper-photo-Argentina-Netherlands-goal-scoring-celebration-World-Cup-2022.png' alt='THE BEST 10 LIONEL MESSI WALLPAPER HD ARGENTINA PHOTOS - eDigital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eDigital Agency" />
+                                </span>
+                                <a href='https://www.edigitalagency.com.au/wp-content/uploads/Lionel-Messi-wallpaper-photo-Argentina-Netherlands-goal-scoring-celebration-World-Cup-2022.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi FIFA World Cup Wallpaper by VRENDERSWWE on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad15a6b-7ff6-4256-a6fd-2cfbf0d83cb0/dfkmyfc-7cc539eb-a86a-483c-bf6a-f2d8d00c2db7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhZDE1YTZiLTdmZjYtNDI1Ni1hNmZkLTJjZmJmMGQ4M2NiMFwvZGZrbXlmYy03Y2M1MzllYi1hODZhLTQ4M2MtYmY2YS1mMmQ4ZDAwYzJkYjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yXHOFKty_AE-KzR8rx4PjrRBnizW-HxYZFrbp3TLdqQ' alt='Lionel Messi FIFA World Cup Wallpaper by VRENDERSWWE on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dad15a6b-7ff6-4256-a6fd-2cfbf0d83cb0/dfkmyfc-7cc539eb-a86a-483c-bf6a-f2d8d00c2db7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhZDE1YTZiLTdmZjYtNDI1Ni1hNmZkLTJjZmJmMGQ4M2NiMFwvZGZrbXlmYy03Y2M1MzllYi1hODZhLTQ4M2MtYmY2YS1mMmQ4ZDAwYzJkYjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yXHOFKty_AE-KzR8rx4PjrRBnizW-HxYZFrbp3TLdqQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

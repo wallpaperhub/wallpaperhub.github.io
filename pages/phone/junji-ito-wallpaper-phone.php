@@ -1,0 +1,129 @@
+<title>Frighteningly Great Junji Ito Phone Wallpapers</title>
+                    <meta name="description" content="Discover the best Junji Ito phone wallpapers that embody horror and creativity! Perfect for fans of eerie art, these wallpapers will transform your device. Browse now to find a chilling, aesthetic backdrop that showcases the unique style of Junji Ito!">
+                    <meta name="keywords" content="junji ito wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/junji-ito-wallpaper-phone">
+                            <span itemprop="name">junji ito wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frighteningly Great Junji Ito Phone Wallpapers</h1>
+                <p>Transform your phone screen with stunning Junji Ito wallpapers! Dive into the eerie and captivating world of this renowned horror manga artist. From spine-chilling imagery to unique character designs, you’ll find the perfect wallpaper that brings a touch of horror to your everyday life. Explore the collection and elevate your aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Junji Ito Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/26/81/172681f7186f33f57ef31c04b5f6d81e.jpg' alt='Junji Ito Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/26/81/172681f7186f33f57ef31c04b5f6d81e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Wallpaper : r/junjiito">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/egsiyfkm46x51.png?width=1080&crop=smart&auto=webp&s=e57630813902eb7c004720c03348cbc70bbfac9b' alt='Mobile Wallpaper : r/junjiito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/egsiyfkm46x51.png?width=1080&crop=smart&auto=webp&s=e57630813902eb7c004720c03348cbc70bbfac9b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a fresh batch of wallpapers for your mobile devices! : r/junjiito">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/21t96hx7xre71.jpg' alt='Made a fresh batch of wallpapers for your mobile devices! : r/junjiito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="3372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/21t96hx7xre71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Junji ito wallpaper : r/junjiito">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qxhavjnf19ka1.jpg' alt='Junji ito wallpaper : r/junjiito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1947">
+                                <meta itemprop="height" content="3465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qxhavjnf19ka1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Junji Ito Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/junji-ito-caged-head-x7r3qg7w5vr0lj1c.jpg' alt='Junji Ito Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/junji-ito-caged-head-x7r3qg7w5vr0lj1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Junji Ito Cool Manga Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/junji-ito-cool-manga-collage-4tah6o41g6ppbadj.jpg' alt='Download Junji Ito Cool Manga Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/junji-ito-cool-manga-collage-4tah6o41g6ppbadj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a fresh batch of wallpapers for your mobile devices! : r/junjiito">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/am451hx7xre71.jpg?width=640&crop=smart&auto=webp&s=0b9996be7cb05f03f4a79caa4b8579477e7ed2ed' alt='Made a fresh batch of wallpapers for your mobile devices! : r/junjiito'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/am451hx7xre71.jpg?width=640&crop=smart&auto=webp&s=0b9996be7cb05f03f4a79caa4b8579477e7ed2ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Junji Ito Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/f0/9c/93f09c70fad03a78127ddf514ed5f11f.jpg' alt='   Junji Ito Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/f0/9c/93f09c70fad03a78127ddf514ed5f11f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JUNJI ITO, horror, manga, terror, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/928/973/HD-wallpaper-junji-ito-horror-manga-terror.jpg' alt='JUNJI ITO, horror, manga, terror, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/928/973/HD-wallpaper-junji-ito-horror-manga-terror.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD junji ito wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/917/286/HD-wallpaper-tomie-junji-ito-beautiful-iris-girl-junji-ito-manga.jpg' alt='HD junji ito wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/917/286/HD-wallpaper-tomie-junji-ito-beautiful-iris-girl-junji-ito-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

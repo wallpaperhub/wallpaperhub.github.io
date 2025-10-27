@@ -1,0 +1,129 @@
+<title>Minecraft Night: Unveil the Magic</title>
+                    <meta name="description" content="Explore the captivating beauty of Minecraft at night. From the shimmering stars to glowing mobs, discover how nighttime transforms your gameplay. Perfect for adventurers seeking new challenges and serene landscapes under the moonlight. Dive into the magic of Minecraft nights today!">
+                    <meta name="keywords" content="minecraft background night">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-background-night">
+                            <span itemprop="name">minecraft background night</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minecraft Night: Unveil the Magic</h1>
+                <p>Experience the enchanting allure of a night in Minecraft, where the pixelated sky reveals a tapestry of stars, accompanied by the glowing moon. As darkness envelops the landscape, vibrant biomes are illuminated, creating a magical atmosphere. Discover nocturnal mobs, explore shadowy caves, and build your adventures under the mystical night sky.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers) Minecraft Shaders (Day + Night) : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ehvgoqf2grd61.png?width=1920&format=png&auto=webp&s=d6cb17f773a8c058957349fee592e906437176ba' alt='Wallpapers) Minecraft Shaders (Day + Night) : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ehvgoqf2grd61.png?width=1920&format=png&auto=webp&s=d6cb17f773a8c058957349fee592e906437176ba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty of Minecraft at night! - Background : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/DOtHVe4vSBCNuvljQeSW163LNsOMFydpNdZoBwfW1mo.png?auto=webp&s=e20c094dba613415866db45c32faf4c51567975c' alt='Beauty of Minecraft at night! - Background : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/DOtHVe4vSBCNuvljQeSW163LNsOMFydpNdZoBwfW1mo.png?auto=webp&s=e20c094dba613415866db45c32faf4c51567975c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day or Night? Which is a better wallpaper? : r/minecraftshaders">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/day-or-night-which-is-a-better-wallpaper-v0-y3sd54kdd1bd1.png?width=640&crop=smart&auto=webp&s=f35507177a56d8073ab5724842ecc23a85a6fc95' alt='Day or Night? Which is a better wallpaper? : r/minecraftshaders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/day-or-night-which-is-a-better-wallpaper-v0-y3sd54kdd1bd1.png?width=640&crop=smart&auto=webp&s=f35507177a56d8073ab5724842ecc23a85a6fc95' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Minecraft: Swamp Nighttime Concept Art [4K]">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1752455771000081729/8C7D5234CEB7CBE3A5E42511DF3CB1F212AC6C6E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Minecraft: Swamp Nighttime Concept Art [4K]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1752455771000081729/8C7D5234CEB7CBE3A5E42511DF3CB1F212AC6C6E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft night wallpaper ✨  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/43/f2/4143f2c9df7314e9144092dce0b27e35.jpg' alt='Minecraft night wallpaper ✨  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/43/f2/4143f2c9df7314e9144092dce0b27e35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD minecraft night wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/805/236/HD-wallpaper-night-minecraft-forest-in-2021-minecraft-mc-minecraft-art-minecraft-minecraft-minecraft-art.jpg' alt='HD minecraft night wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/805/236/HD-wallpaper-night-minecraft-forest-in-2021-minecraft-mc-minecraft-art-minecraft-minecraft-minecraft-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft night">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/ea/b9/b1eab9191bbc9c4304704c57ac5e759b.jpg' alt='Minecraft night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/ea/b9/b1eab9191bbc9c4304704c57ac5e759b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080p] Minecraft - Desert At Night Time by KeksiArts on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4acfde69-f475-458f-8b54-e6f47cd33dc9/d7vl97o-33e15016-3bd7-43fd-bf1b-8a498ee5ff4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhY2ZkZTY5LWY0NzUtNDU4Zi04YjU0LWU2ZjQ3Y2QzM2RjOVwvZDd2bDk3by0zM2UxNTAxNi0zYmQ3LTQzZmQtYmYxYi04YTQ5OGVlNWZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gyxTvTpJK-MbNDuOF5cxyeUkzmtgMLT6F9TWh08u2pg' alt='1080p] Minecraft - Desert At Night Time by KeksiArts on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4acfde69-f475-458f-8b54-e6f47cd33dc9/d7vl97o-33e15016-3bd7-43fd-bf1b-8a498ee5ff4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhY2ZkZTY5LWY0NzUtNDU4Zi04YjU0LWU2ZjQ3Y2QzM2RjOVwvZDd2bDk3by0zM2UxNTAxNi0zYmQ3LTQzZmQtYmYxYi04YTQ5OGVlNWZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gyxTvTpJK-MbNDuOF5cxyeUkzmtgMLT6F9TWh08u2pg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Night in Minecraft - Screenshots - Show Your Creation ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/TMN9P.jpg' alt='Beautiful Night in Minecraft - Screenshots - Show Your Creation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minecraft Forum" />
+                                </span>
+                                <a href='https://i.imgur.com/TMN9P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Sky : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mfv8bgzxbob81.png' alt='Night Sky : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mfv8bgzxbob81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

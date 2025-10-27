@@ -1,0 +1,129 @@
+<title>Fascinating Facts About India</title>
+                    <meta name="description" content="Discover intriguing facts about India, from its rich cultural heritage to its stunning landscapes. Learn about its diverse languages, historic sites, and vibrant traditions that shape this incredible nation. Perfect for travelers and curious minds alike!">
+                    <meta name="keywords" content="facts about india">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-india">
+                            <span itemprop="name">facts about india</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fascinating Facts About India</h1>
+                <p>India, the seventh-largest country, boasts diverse cultures, languages, and religions. Home to over 1.4 billion people, it features the world's second-most populous city, Mumbai. India is known for its historical landmarks like the Taj Mahal and diverse wildlife. Spices, Bollywood, and yoga are also integral to its global identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts about India - MakingFriends">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/makingfriends.com/wp-content/uploads/2015/11/fact_sheet_india-e1448768597200.png' alt='Facts about India - MakingFriends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakingFriends" />
+                                </span>
+                                <a href='https://i2.wp.com/makingfriends.com/wp-content/uploads/2015/11/fact_sheet_india-e1448768597200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Facts About India You Want to Know">
+                                <img itemprop="contentUrl url" src='http://tds.indianeagle.com/wp-content/uploads/2022/09/Facts-About-India.png' alt='Some Facts About India You Want to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indian Eagle" />
+                                </span>
+                                <a href='http://tds.indianeagle.com/wp-content/uploads/2022/09/Facts-About-India.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Fun Facts About India | Infographic | Volunteer work India">
+                                <img itemprop="contentUrl url" src='http://www.volunteerworkindia.org/wp-content/uploads/2014/10/fun-facts-about-India.gif' alt='10 Fun Facts About India | Infographic | Volunteer work India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Volunteer Work India" />
+                                </span>
+                                <a href='http://www.volunteerworkindia.org/wp-content/uploads/2014/10/fun-facts-about-India.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="India Country Profile - National Geographic Kids">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/6a6e810e-f236-4fb6-a298-a3d79a004b5d/india-flag_16x9.gif' alt='India Country Profile - National Geographic Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/6a6e810e-f236-4fb6-a298-a3d79a004b5d/india-flag_16x9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FUN FACTS ABOUT INDIA — news.library.ualberta.ca">
+                                <img itemprop="contentUrl url" src='https://news.library.ualberta.ca/wp-content/uploads/2021/11/Fun-Facts-about-India-Blog.png' alt='FUN FACTS ABOUT INDIA — news.library.ualberta.ca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="news.library.ualberta.ca — - University of Alberta" />
+                                </span>
+                                <a href='https://news.library.ualberta.ca/wp-content/uploads/2021/11/Fun-Facts-about-India-Blog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Facts About India - Mama Teaches">
+                                <img itemprop="contentUrl url" src='https://mamateaches.com/wp-content/uploads/2023/11/Fun-Facts-About-India-Pin2.jpg' alt='Fun Facts About India - Mama Teaches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mama Teaches" />
+                                </span>
+                                <a href='https://mamateaches.com/wp-content/uploads/2023/11/Fun-Facts-About-India-Pin2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="India Fun Facts Printables (Countries) | Asia">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/India-Fact-Cards-1266487-1676185535/original-1266487-2.jpg' alt='India Fun Facts Printables (Countries) | Asia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/India-Fact-Cards-1266487-1676185535/original-1266487-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Fun Facts About India | Rustic Pathways">
+                                <img itemprop="contentUrl url" src='https://rp-cms.imgix.net/wp-content/uploads/India.png?auto=format&fit=crop&crop=faces&ar=600%3A400' alt='12 Fun Facts About India | Rustic Pathways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rustic Pathways" />
+                                </span>
+                                <a href='https://rp-cms.imgix.net/wp-content/uploads/India.png?auto=format&fit=crop&crop=faces&ar=600%3A400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Interesting Facts and Figures about Unique India">
+                                <img itemprop="contentUrl url" src='http://www.infoqueenbee.com/wp-content/uploads/2008/11/india_statistics.jpg' alt='Some Interesting Facts and Figures about Unique India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Infoqueenbee" />
+                                </span>
+                                <a href='http://www.infoqueenbee.com/wp-content/uploads/2008/11/india_statistics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interesting Facts on India | Free Infographic Template - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2022/04/large-46.jpg' alt='Interesting Facts on India | Free Infographic Template - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2022/04/large-46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

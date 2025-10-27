@@ -1,0 +1,129 @@
+<title>Understanding the History of Criminology</title>
+                    <meta name="description" content="Explore the fascinating evolution of criminology from its origins in the 18th century to modern-day theories. Discover key figures and concepts that have shaped our understanding of crime, helping us tackle its challenges effectively.">
+                    <meta name="keywords" content="history of criminology">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-criminology">
+                            <span itemprop="name">history of criminology</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the History of Criminology</h1>
+                <p>Criminology, the study of crime and its causes, has evolved since the late 18th century. Early thinkers like Cesare Beccaria and Jeremy Bentham laid the groundwork for rational theories of crime. In the 19th century, scientific approaches emerged with figures like Lombroso and Durkheim. Today, criminology integrates various disciplines to understand crime's complexities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the Origins of Criminology and Academic Boundary Work – JHI Blog">
+                                <img itemprop="contentUrl url" src='https://www.jhiblog.org/files/2020/12/Trial.jpg' alt='On the Origins of Criminology and Academic Boundary Work – JHI Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JHI Blog" />
+                                </span>
+                                <a href='https://www.jhiblog.org/files/2020/12/Trial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminology Throughout History">
+                                <img itemprop="contentUrl url" src='https://titles.cognella.com/pub/media/catalog/product/cache/e2583c2d75317d10cbdb11b428527546/c/o/cover-145562889882947-1B-URT.jpg' alt='Criminology Throughout History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="546">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cognella Title Catalog" />
+                                </span>
+                                <a href='https://titles.cognella.com/pub/media/catalog/product/cache/e2583c2d75317d10cbdb11b428527546/c/o/cover-145562889882947-1B-URT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Milestones that Changed Criminal Justice Forever | Rasmussen ...">
+                                <img itemprop="contentUrl url" src='https://www.rasmussen.edu/images/rasmussenlibraries/blogs/school-of-justice-studies/1362678416-cj_timeline.jpg?sfvrsn=e41ccebd_1' alt='10 Milestones that Changed Criminal Justice Forever | Rasmussen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rasmussen University" />
+                                </span>
+                                <a href='https://www.rasmussen.edu/images/rasmussenlibraries/blogs/school-of-justice-studies/1362678416-cj_timeline.jpg?sfvrsn=e41ccebd_1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Criminology: A Philosophical Perspective (Contributions in  Criminology and Penology)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51roxifs2lL._AC_UF1000,1000_QL80_.jpg' alt='History of Criminology: A Philosophical Perspective (Contributions in  Criminology and Penology)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51roxifs2lL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origins of Criminology: A Reader - 1st Edition - Nicole H. Rafter">
+                                <img itemprop="contentUrl url" src='https://images.routledge.com/common/jackets/crclarge/978041545/9780415451123.jpg' alt='The Origins of Criminology: A Reader - 1st Edition - Nicole H. Rafter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Routledge" />
+                                </span>
+                                <a href='https://images.routledge.com/common/jackets/crclarge/978041545/9780415451123.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of Criminology by Sara Virtuani on Prezi">
+                                <img itemprop="contentUrl url" src='https://0701.static.prezi.com/preview/v2/g4zw6vy7hv2o3z6wcnnxkghixd6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='A brief history of Criminology by Sara Virtuani on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0701.static.prezi.com/preview/v2/g4zw6vy7hv2o3z6wcnnxkghixd6jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rediscovering Historical Criminology By David Churchill - Social ...">
+                                <img itemprop="contentUrl url" src='http://socialhistoryblog.com/wp-content/uploads/2015/10/half-pic.jpg' alt='Rediscovering Historical Criminology By David Churchill - Social ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social History Blog" />
+                                </span>
+                                <a href='http://socialhistoryblog.com/wp-content/uploads/2015/10/half-pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminology - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Drei_Frauen_am_Pranger%2C_China%2C_Anonym%2C_um_1875.jpg/350px-Drei_Frauen_am_Pranger%2C_China%2C_Anonym%2C_um_1875.jpg' alt='Criminology - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Drei_Frauen_am_Pranger%2C_China%2C_Anonym%2C_um_1875.jpg/350px-Drei_Frauen_am_Pranger%2C_China%2C_Anonym%2C_um_1875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminology Definition and History">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/HOh8oAlkF96XmUASbtftEizd6zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515328498-c566ddb388504f6aaa60a2361c189209.jpg' alt='Criminology Definition and History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/HOh8oAlkF96XmUASbtftEizd6zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515328498-c566ddb388504f6aaa60a2361c189209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contributions in Criminology and Penolog History of Criminology: A ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Contributions-in-Criminology-and-Penolog-History-of-Criminology-A-Philosophical-Perspective-Book-10-Hardcover-9780313236471_3cc4a5d5-5226-47f5-a564-acacc0f7a15f.8b11ebd6ea4392da2ea984624c579227.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Contributions in Criminology and Penolog History of Criminology: A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Contributions-in-Criminology-and-Penolog-History-of-Criminology-A-Philosophical-Perspective-Book-10-Hardcover-9780313236471_3cc4a5d5-5226-47f5-a564-acacc0f7a15f.8b11ebd6ea4392da2ea984624c579227.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

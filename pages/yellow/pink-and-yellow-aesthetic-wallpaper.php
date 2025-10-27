@@ -1,0 +1,129 @@
+<title>Vibrant Pink & Yellow Aesthetic Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover vibrant pink and yellow aesthetic wallpapers that brighten up your devices! Perfect for adding a cheerful touch to your phone, tablet, or desktop, these wallpapers combine delightful designs with uplifting colors to inspire creativity and joy.">
+                    <meta name="keywords" content="pink and yellow aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/pink-and-yellow-aesthetic-wallpaper">
+                            <span itemprop="name">pink and yellow aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink & Yellow Aesthetic Wallpapers for Every Device</h1>
+                <p>Transform your digital space with stunning pink and yellow aesthetic wallpaper! This combination creates a vibrant, cheerful atmosphere, perfect for uplifting your mood. Explore a variety of designs—from minimalist patterns to floral motifs—that encapsulate warmth and creativity. Ideal for phones, tablets, or desktops!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & yellow flower background.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/b5/47/2cb5471c24706fa8ad6a21b5c3b77e4c.jpg' alt='Pink & yellow flower background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/b5/47/2cb5471c24706fa8ad6a21b5c3b77e4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and yellow 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-pink-and-yellow-qdf05xht416hwdq7.jpg' alt='Pink and yellow 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1039">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-pink-and-yellow-qdf05xht416hwdq7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Watercolour - Pink And Yellow Iphone (#29909) - HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5c/6f/81/5c6f81613e1725c585a22daa196cdb8a.jpg' alt='Pink Watercolour - Pink And Yellow Iphone (#29909) - HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5c/6f/81/5c6f81613e1725c585a22daa196cdb8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Yellow Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1541320518190-df77c3ff7ca5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGFuZCUyMHllbGxvd3xlbnwwfHwwfHx8MA%3D%3D' alt='Pink And Yellow Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1541320518190-df77c3ff7ca5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGFuZCUyMHllbGxvd3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and yellow 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/wallpapers-that-are-pink-yellow-white_884113-5.jpg' alt='Pink and yellow 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/wallpapers-that-are-pink-yellow-white_884113-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wall Collage Kit, Yellow Collage Kit, Pink Collage Kit, Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/e1bb6d/2786391702/il_fullxfull.2786391702_1jrz.jpg' alt='Pink Wall Collage Kit, Yellow Collage Kit, Pink Collage Kit, Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/e1bb6d/2786391702/il_fullxfull.2786391702_1jrz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'pink, white, yellow flower pattern' (6)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/b0/e5/a9b0e53d76b014351db6392d42a08fff.jpg' alt='Phone wallpaper, background. 'pink, white, yellow flower pattern' (6)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/b0/e5/a9b0e53d76b014351db6392d42a08fff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink And Yellow Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-yellow-background-50abvzwxs09vrhni.jpg' alt='100+] Pink And Yellow Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-yellow-background-50abvzwxs09vrhni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="st-0419 requested a Pink and Yellow Aesthetic      – @some ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/aecf3976cc220ac048b9f89debb17193/tumblr_p8l0bykWmg1xnych8o1_1280.jpg' alt='st-0419 requested a Pink and Yellow Aesthetic      – @some ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/aecf3976cc220ac048b9f89debb17193/tumblr_p8l0bykWmg1xnych8o1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Yellow Abstract Ink Wallpaper Background, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-pink-yellow-abstract-ink-wallpaper-picture-image_1343788.jpg' alt='Pink Yellow Abstract Ink Wallpaper Background, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-pink-yellow-abstract-ink-wallpaper-picture-image_1343788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

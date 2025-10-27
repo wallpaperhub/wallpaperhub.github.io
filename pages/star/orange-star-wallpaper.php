@@ -1,0 +1,129 @@
+<title>Vibrant Orange Star Wallpaper for a Cheerful Home</title>
+                    <meta name="description" content="Discover our vibrant orange star wallpaper, perfect for adding a splash of color to any room. Ideal for kids' spaces or playful atmospheres, this design combines fun and style. Easy to apply and remove, it’s a smart choice for effortless home updates. Brighten your decor today!">
+                    <meta name="keywords" content="orange star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/orange-star-wallpaper">
+                            <span itemprop="name">orange star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Star Wallpaper for a Cheerful Home</h1>
+                <p>Transform your space with vibrant orange star wallpaper that adds a pop of color and a touch of whimsy. Perfect for kids' rooms, play areas, or any space that craves a cheerful atmosphere. The bright, bold design will uplift your mood and inspire creativity, making it an ideal choice for anyone looking to refresh their decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange star iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ed/2d/e7/ed2de71edc88f3683e996fe876c644f4.jpg' alt='orange star iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="369">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ed/2d/e7/ed2de71edc88f3683e996fe876c644f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a6/92/43/a69243d84546ee0b7c2220ac80540df3.jpg' alt='Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="436">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a6/92/43/a69243d84546ee0b7c2220ac80540df3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/79/19/6879194ffe7e221ed00e7b71bf9391ad.jpg' alt='Orange Stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/79/19/6879194ffe7e221ed00e7b71bf9391ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Star Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-yellow-star-background_23-2151125685.jpg' alt='Orange Star Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-yellow-star-background_23-2151125685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Stars Wallpaper by Poronyos-II on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/c1/cc/0ec1ccd23d888311d142bba243710c6f.jpg' alt='Orange Stars Wallpaper by Poronyos-II on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/c1/cc/0ec1ccd23d888311d142bba243710c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="111,400+ Orange Star Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157399358/photo/background-with-shooting-stars.jpg?s=612x612&w=0&k=20&c=YZnFZHYBDcIEwtX1dc_WPMj0YfdYxiTBJEyc2v9ub1s=' alt='111,400+ Orange Star Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157399358/photo/background-with-shooting-stars.jpg?s=612x612&w=0&k=20&c=YZnFZHYBDcIEwtX1dc_WPMj0YfdYxiTBJEyc2v9ub1s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="orange with stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/90/21/4c90210226a5cdba8c6d13e25ef16e66.jpg' alt='orange with stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/90/21/4c90210226a5cdba8c6d13e25ef16e66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/88/05/92/880592dd9a68a6bdffa8908b29c50b8c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/88/05/92/880592dd9a68a6bdffa8908b29c50b8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | Cute orange star pattern background">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/a8/a86835606048189ed6ccf8f2f201b3d5_t.jpeg' alt='Free Vectors | Cute orange star pattern background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/a8/a86835606048189ed6ccf8f2f201b3d5_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Stars Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12283345/p/f/m/V-qeccrfKFbFapoiaU1tdohic1qfianZVLahWxHOf6uOfRxammj4fl4/Sun%20Face%20on%20Burnt%20Orange.jpg' alt='Orange Stars Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12283345/p/f/m/V-qeccrfKFbFapoiaU1tdohic1qfianZVLahWxHOf6uOfRxammj4fl4/Sun%20Face%20on%20Burnt%20Orange.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

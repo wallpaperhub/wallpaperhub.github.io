@@ -1,0 +1,129 @@
+<title>Revive Your Space with 80s Floral Wallpaper</title>
+                    <meta name="description" content="Discover the charm of 80s floral wallpaper! Transform your home with bold patterns and vibrant colors that bring retro elegance to any room. Perfect for creating a warm, inviting atmosphere, these wallpapers are a timeless choice for your decor. Explore the trend now!">
+                    <meta name="keywords" content="80s floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/80s-floral-wallpaper">
+                            <span itemprop="name">80s floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revive Your Space with 80s Floral Wallpaper</h1>
+                <p>80s floral wallpaper is a nostalgic design trend that evokes a vibrant charm. Characterized by bold colors and intricate patterns, these wallpapers transform spaces into retro havens. Perfect for creating warm, inviting atmospheres, 80s florals blend nature's beauty with playful elegance, making them timeless choices for home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1980s Floral Stripe Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://hannahstreasures.com/cdn/shop/products/IMG_2853_1_large.jpg?v=1465391897' alt='1980s Floral Stripe Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='http://hannahstreasures.com/cdn/shop/products/IMG_2853_1_large.jpg?v=1465391897' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1980s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/SKU_TH156.2.jpg?v=1538422470' alt='1980s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/SKU_TH156.2.jpg?v=1538422470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1980s Vintage Wallpaper Pink Blue Bouquets">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3717/13458/vintage-wallpaper-145__72855.1660146699.jpg?c=2' alt='1980s Vintage Wallpaper Pink Blue Bouquets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3717/13458/vintage-wallpaper-145__72855.1660146699.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper by the Yard 1980s Floral Vintage Wallpaper Tiny ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6231007/r/il/1c18fa/4316426471/il_570xN.4316426471_t1yg.jpg' alt='Retro Wallpaper by the Yard 1980s Floral Vintage Wallpaper Tiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6231007/r/il/1c18fa/4316426471/il_570xN.4316426471_t1yg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1980s Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/SKU_TH075.2.jpg?v=1537901719' alt='1980s Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures Vintage Wallpaper" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/SKU_TH075.2.jpg?v=1537901719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Wallpaper by the Yard 80s Vintage Wallpaper 1980s Chintz ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6231007/r/il/c40491/2902990579/il_570xN.2902990579_n3q3.jpg' alt='Retro Wallpaper by the Yard 80s Vintage Wallpaper 1980s Chintz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6231007/r/il/c40491/2902990579/il_570xN.2902990579_n3q3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral 80s Pattern Wallpaper - Buy Online | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-163-m-mural.jpg?w=600&h=600&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz02MDAmaD02MDAmZml0PWNyb3AmYmxlbmQ2ND1hSFIwY0hNNkx5OW9ZWEJ3ZVhkaGJHd3RhVzFuTFdkaGJHeGxjbmt1YVcxbmFYZ3VibVYwTHpVMU5Ua3dMM1pwYm5SaFoyVmZabXh2Y21Gc1h6Z3djMTl3WVhSMFpYSnVYMlJwYzNCc1lYa3VhbkJuUDNjOU5ETTJKbWc5TXpBM0ptWnBkRDFqY205d0ptTnliM0E5WTJWdWRHVnlKVEpEWTJWdWRHVnlKbUpzWlc1a0xXTnZiRzl5UFRBd01EQXdNQ1ppYkdWdVpDMXRiMlJsUFcxMWJIUnBjR3g1Sm1Kc1pXNWtMV0ZzY0doaFBURW1ZbkpwUFRZbWMyRjBQVEV3JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MTEwJmJsZW5kLXg9NTQ%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTE2My1tLW11cmFsLnBuZz93PTYwMCZoPTYwMCZmaXQ9bWluJmNyb3A9Y2VudGVyJmF1dG89Zm9ybWF0JnE9NTA%3D&mark-x=0&mark-y=0' alt='Vintage Floral 80s Pattern Wallpaper - Buy Online | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-163-m-mural.jpg?w=600&h=600&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz02MDAmaD02MDAmZml0PWNyb3AmYmxlbmQ2ND1hSFIwY0hNNkx5OW9ZWEJ3ZVhkaGJHd3RhVzFuTFdkaGJHeGxjbmt1YVcxbmFYZ3VibVYwTHpVMU5Ua3dMM1pwYm5SaFoyVmZabXh2Y21Gc1h6Z3djMTl3WVhSMFpYSnVYMlJwYzNCc1lYa3VhbkJuUDNjOU5ETTJKbWc5TXpBM0ptWnBkRDFqY205d0ptTnliM0E5WTJWdWRHVnlKVEpEWTJWdWRHVnlKbUpzWlc1a0xXTnZiRzl5UFRBd01EQXdNQ1ppYkdWdVpDMXRiMlJsUFcxMWJIUnBjR3g1Sm1Kc1pXNWtMV0ZzY0doaFBURW1ZbkpwUFRZbWMyRjBQVEV3JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXk9MTEwJmJsZW5kLXg9NTQ%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTE2My1tLW11cmFsLnBuZz93PTYwMCZoPTYwMCZmaXQ9bWluJmNyb3A9Y2VudGVyJmF1dG89Zm9ybWF0JnE9NTA%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papier Peint Floral Rétro Années 80">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/80s-retro-floral-wallpaper/_1000xAUTO_cover_center-center_line/80s-Retro-Floral-Wallpaper-1.jpeg' alt='Papier Peint Floral Rétro Années 80'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/80s-retro-floral-wallpaper/_1000xAUTO_cover_center-center_line/80s-Retro-Floral-Wallpaper-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Floral Fruit Wallpaper Green Pink Blue 27" LOT OF 5 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/MXgAAOSwWCVkb5pJ/s-l400.jpg' alt='80s Floral Fruit Wallpaper Green Pink Blue 27" LOT OF 5 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/MXgAAOSwWCVkb5pJ/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poseca Black, Vintage 80S Watercolor Rose Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Floral-Wallpaper-Peel-Stick-L-15-7-W-98-4-Vintage-80S-Watercolor-Rose-Flower-Self-Adhesive-Removable-Cabinet-Drawer-Door-Nightstand-Prepasted-DIY-Dec_c35428e2-3ff6-4701-ac1c-f8ef9495122c.4185b253f89c22e68328045a2933792d.jpeg' alt='Poseca Black, Vintage 80S Watercolor Rose Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Floral-Wallpaper-Peel-Stick-L-15-7-W-98-4-Vintage-80S-Watercolor-Rose-Flower-Self-Adhesive-Removable-Cabinet-Drawer-Door-Nightstand-Prepasted-DIY-Dec_c35428e2-3ff6-4701-ac1c-f8ef9495122c.4185b253f89c22e68328045a2933792d.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

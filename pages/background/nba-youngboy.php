@@ -1,0 +1,129 @@
+<title>NBA YoungBoy: Rising Star of Hip-Hop</title>
+                    <meta name="description" content="Discover NBA YoungBoy, the dynamic rapper known for his powerful lyrics and influence in modern hip-hop. Explore his journey from adversity to chart-topping fame, and understand what makes him a beloved artist among fans worldwide. Join the conversation about his impact today!">
+                    <meta name="keywords" content="nba youngboy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nba-youngboy">
+                            <span itemprop="name">nba youngboy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NBA YoungBoy: Rising Star of Hip-Hop</h1>
+                <p>NBA YoungBoy, also known as YoungBoy Never Broke Again, is a prominent figure in the hip-hop scene. Renowned for his raw lyrics and emotional storytelling, he draws fans in with his unique sound. Rising from a challenging background, he has achieved massive success, with numerous chart-topping hits and a loyal fanbase.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YoungBoy Never Broke Again - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/NBA_YoungBoy_2023.jpg/640px-NBA_YoungBoy_2023.jpg' alt='YoungBoy Never Broke Again - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/NBA_YoungBoy_2023.jpg/640px-NBA_YoungBoy_2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How YoungBoy Never Broke Again Hit No. 1 From Jail - The New York ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/10/06/arts/05youngboy1/05youngboy1-mediumSquareAt3X.jpg' alt='How YoungBoy Never Broke Again Hit No. 1 From Jail - The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/10/06/arts/05youngboy1/05youngboy1-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Even At The 'Top' Of The Rap Game, YoungBoy Never Broke Again ...">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/youngboy_never_broke_again_-_top.jpg.jpg' alt='Even At The 'Top' Of The Rap Game, YoungBoy Never Broke Again ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/youngboy_never_broke_again_-_top.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YoungBoy Never Broke Again's New Album 'More Leaks': Release Date">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2023/01/NBA-Youngboy-2019-b-billboard-1548.jpg' alt='YoungBoy Never Broke Again's New Album 'More Leaks': Release Date'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2023/01/NBA-Youngboy-2019-b-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy (@nbayounngboy) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3543468366537279638' alt='NBA YoungBoy (@nbayounngboy) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3543468366537279638' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Nba Youngboy on Vuulm">
+                                <img itemprop="contentUrl url" src='https://cdn.vuulm.com/5da0395353be8a000439db39/avatar/nbayoungboy.png' alt='About Nba Youngboy on Vuulm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vuulm" />
+                                </span>
+                                <a href='https://cdn.vuulm.com/5da0395353be8a000439db39/avatar/nbayoungboy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy | The Hip Hop Museum">
+                                <img itemprop="contentUrl url" src='https://history.hiphop/wp-content/uploads/2022/11/NBAYoungBoy-1024x677.webp' alt='NBA YoungBoy | The Hip Hop Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="history hiphop" />
+                                </span>
+                                <a href='https://history.hiphop/wp-content/uploads/2022/11/NBAYoungBoy-1024x677.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YoungBoy Never Broke Again Brings Back Rap Realism - The New York ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2017/08/17/arts/17YOUNGBOY1/17YOUNGBOY1-superJumbo.jpg' alt='YoungBoy Never Broke Again Brings Back Rap Realism - The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1468">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2017/08/17/arts/17YOUNGBOY1/17YOUNGBOY1-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YoungBoy Never Broke Again | Hip Hop Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hip-hop-music/images/7/7e/Yb_nba.jpg/revision/latest?cb=20201206191125' alt='YoungBoy Never Broke Again | Hip Hop Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hip Hop Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hip-hop-music/images/7/7e/Yb_nba.jpg/revision/latest?cb=20201206191125' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA Youngboi #nbayoungboi PINTEREST:DEE✨✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/18/e2/5318e2f39edea38fd977c61dbef8fdcd.jpg' alt='NBA Youngboi #nbayoungboi PINTEREST:DEE✨✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/18/e2/5318e2f39edea38fd977c61dbef8fdcd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

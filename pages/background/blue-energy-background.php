@@ -1,0 +1,129 @@
+<title>Harnessing Blue Energy: Clean Ocean Power</title>
+                    <meta name="description" content="Discover the potential of blue energy, a renewable power source harnessed from ocean waves and currents. Learn how this innovative technology can help combat climate change and drive sustainable energy solutions for the future.">
+                    <meta name="keywords" content="blue energy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-energy-background">
+                            <span itemprop="name">blue energy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Harnessing Blue Energy: Clean Ocean Power</h1>
+                <p>Blue energy, derived from the ocean’s waves, currents, and thermal variations, represents a sustainable power source with minimal environmental impact. As global energy demands rise, harnessing the vast potential of our oceans presents a promising solution. This innovative approach aims to combat climate change and promote energy security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/393/210/non_2x/abstract-blue-space-with-flowing-cosmic-energy-photo.jpg' alt='Blue Energy Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/393/210/non_2x/abstract-blue-space-with-flowing-cosmic-energy-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Waves Background">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/232029633/Energy-Wave_Blue_With-Alpha_Perview-Image.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=72c20df06f6e530f757d3cde93a92880788ef9a34687879ce87324f508feaa60' alt='Blue Energy Waves Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/232029633/Energy-Wave_Blue_With-Alpha_Perview-Image.jpg?w=1600&cf_fit=cover&q=85&format=auto&s=72c20df06f6e530f757d3cde93a92880788ef9a34687879ce87324f508feaa60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/757/446/small/abstract-blue-waves-and-smoke-from-particles-of-energy-magical-bright-glowing-liquid-background-photo.jpg' alt='Blue Energy Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/757/446/small/abstract-blue-waves-and-smoke-from-particles-of-energy-magical-bright-glowing-liquid-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Flows Motion Background Seamless">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/9536432/thumb/1.jpg?ip=x480' alt='Blue Energy Flows Motion Background Seamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/9536432/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="386,200+ Blue Energy Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/937266238/vector/blue-glowing-energy-ball-on-black-background.jpg?s=612x612&w=0&k=20&c=hfWY5_H1EKpFHEHLgmTYY72ev0ZQO3h0M-tH-OO9yaw=' alt='386,200+ Blue Energy Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/937266238/vector/blue-glowing-energy-ball-on-black-background.jpg?s=612x612&w=0&k=20&c=hfWY5_H1EKpFHEHLgmTYY72ev0ZQO3h0M-tH-OO9yaw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Stock Illustrations – 803,455 Blue Energy Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-blue-energy-background-swirling-smoke-mist-perfect-futuristic-science-fiction-fantasy-designs-abstract-336076722.jpg' alt='Blue Energy Stock Illustrations – 803,455 Blue Energy Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-blue-energy-background-swirling-smoke-mist-perfect-futuristic-science-fiction-fantasy-designs-abstract-336076722.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Energy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-blue-wavy-lines-background_1017-3205.jpg' alt='Blue Energy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-blue-wavy-lines-background_1017-3205.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Blue Vibrant High Energy Field In Space, Computer ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/sakkmesterke/sakkmesterke1504/sakkmesterke150400048/38390347-glowing-blue-vibrant-high-energy-field-in-space-computer-generated-abstract-background.jpg' alt='Glowing Blue Vibrant High Energy Field In Space, Computer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/sakkmesterke/sakkmesterke1504/sakkmesterke150400048/38390347-glowing-blue-vibrant-high-energy-field-in-space-computer-generated-abstract-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Blue Energy Stock Illustrations – 626,838 Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-technology-background-blue-energy-rays-emanate-central-bright-white-light-source-344470248.jpg' alt='Background Blue Energy Stock Illustrations – 626,838 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-technology-background-blue-energy-rays-emanate-central-bright-white-light-source-344470248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Energy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-blue-fractal-wave-technology-background_1017-15837.jpg' alt='Blue Background Energy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-blue-fractal-wave-technology-background_1017-15837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

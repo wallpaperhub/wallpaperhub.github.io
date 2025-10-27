@@ -1,0 +1,129 @@
+<title>Top Noise Cancelling Headphones: Ultimate Sound Isolation</title>
+                    <meta name="description" content="Discover the best noise cancelling headphones that deliver superior sound quality and effective ambient noise reduction. Perfect for travel, work, or relaxation, these headphones let you immerse yourself in your audio without distractions. Explore top picks and enjoy a peaceful listening experience today!">
+                    <meta name="keywords" content="noise cancelling headphones">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/noise-cancelling-headphones">
+                            <span itemprop="name">noise cancelling headphones</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Noise Cancelling Headphones: Ultimate Sound Isolation</h1>
+                <p>Noise cancelling headphones are designed to block out ambient sounds, providing an immersive listening experience. Ideal for travelers, commuters, and anyone in noisy environments, these headphones utilize advanced technology to absorb external noise, allowing you to enjoy your favorite music, podcasts, or audiobooks without distractions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Bose QuietComfort Bluetooth Headphones, Wireless Headphones  with Active Over Ear Noise Cancelling and Mic, Deep Bass, Up to 24 Hours of  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51QeS0jkx-L.jpg' alt='Amazon.com: Bose QuietComfort Bluetooth Headphones, Wireless Headphones  with Active Over Ear Noise Cancelling and Mic, Deep Bass, Up to 24 Hours of  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51QeS0jkx-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony ULT WEAR Wireless Noise Canceling Headphones Black WHULT900N/B - Best  Buy">
+                                <img itemprop="contentUrl url" src='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576179cv11d.jpg' alt='Sony ULT WEAR Wireless Noise Canceling Headphones Black WHULT900N/B - Best  Buy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="1492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Buy" />
+                                </span>
+                                <a href='https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576179cv11d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VILINICE Noise Cancelling Headphones, Wireless Bluetooth Over Ear  Headphones with Microphone, Black, Q8">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg' alt='VILINICE Noise Cancelling Headphones, Wireless Bluetooth Over Ear  Headphones with Microphone, Black, Q8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soundcore Space One Noise Cancelling Headphones - Blue | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/cdEAAOSwHmZnh0py/s-l1200.jpg' alt='Soundcore Space One Noise Cancelling Headphones - Blue | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/cdEAAOSwHmZnh0py/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Active Noise Cancelling Headphones, Wireless Headphones Over Ear Bluetooth  Headphones with Microphone, Transparency Mode, 70H Playtime, Hi-Res Audio,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713SMXPRweL._AC_UF894,1000_QL80_.jpg' alt='Active Noise Cancelling Headphones, Wireless Headphones Over Ear Bluetooth  Headphones with Microphone, Transparency Mode, 70H Playtime, Hi-Res Audio,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713SMXPRweL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Noise Cancelling Over Ear Headphones EAH-A800">
+                                <img itemprop="contentUrl url" src='http://us.technics.com/cdn/shop/products/sbu-2021-a800-galleryimages-2-211208.png?v=1654793381' alt='Noise Cancelling Over Ear Headphones EAH-A800'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Technics" />
+                                </span>
+                                <a href='http://us.technics.com/cdn/shop/products/sbu-2021-a800-galleryimages-2-211208.png?v=1654793381' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best noise cancelling headphones 2025, tested by our audio ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/ThiXKkp4sA5QGWVKDWyt6g.jpg' alt='The best noise cancelling headphones 2025, tested by our audio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechRadar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/ThiXKkp4sA5QGWVKDWyt6g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 4 Best Noise-Cancelling Headphones of 2025 | Reviews by Wirecutter">
+                                <img itemprop="contentUrl url" src='https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0862-2x1-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200' alt='The 4 Best Noise-Cancelling Headphones of 2025 | Reviews by Wirecutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0862-2x1-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony WH1000XM4/B Premium Noise Cancelling Wireless Over-The-Ear ...">
+                                <img itemprop="contentUrl url" src='https://d1ncau8tqf99kp.cloudfront.net/converted/74739_original_local_1200x1050_v3_converted.webp' alt='Sony WH1000XM4/B Premium Noise Cancelling Wireless Over-The-Ear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sony Electronics" />
+                                </span>
+                                <a href='https://d1ncau8tqf99kp.cloudfront.net/converted/74739_original_local_1200x1050_v3_converted.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Noise Cancelling Over-Ear Headphones">
+                                <img itemprop="contentUrl url" src='https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc7b7f57a/images/hi-res/4/4eec3a1b6410386a_AUD008fqSA-soundform-isolate-overear-anc-headphones-web-1-fq.jpg?sfrm=png' alt='Noise Cancelling Over-Ear Headphones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belkin" />
+                                </span>
+                                <a href='https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc7b7f57a/images/hi-res/4/4eec3a1b6410386a_AUD008fqSA-soundform-isolate-overear-anc-headphones-web-1-fq.jpg?sfrm=png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Trump: Political Legacy and Controversies</title>
+                    <meta name="description" content="Explore the complex legacy of Donald Trump, focusing on his policies, controversies, and lasting impact on American politics. Discover insights into his presidency and the ongoing debates that surround his influence today.">
+                    <meta name="keywords" content="trump">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trump">
+                            <span itemprop="name">trump</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Trump: Political Legacy and Controversies</h1>
+                <p>Donald Trump, the 45th President of the United States, remains a polarizing figure in modern politics. Known for his unfiltered communication style and controversial policies, his tenure sparked intense debates. From economic reforms to international relations, Trump's influence continues to shape the Republican Party and broader political landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donald Trump - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TrumpPortrait.jpg/800px-TrumpPortrait.jpg' alt='Donald Trump - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TrumpPortrait.jpg/800px-TrumpPortrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="President Donald J. Trump | Donald J. Trump Presidential Library">
+                                <img itemprop="contentUrl url" src='https://www.trumplibrary.gov/sites/default/files/styles/large/public/2021-01/President-Trump-Official-Portrait.jpg?itok=eReCLE7X' alt='President Donald J. Trump | Donald J. Trump Presidential Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="379">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Donald J. Trump Presidential Library" />
+                                </span>
+                                <a href='https://www.trumplibrary.gov/sites/default/files/styles/large/public/2021-01/President-Trump-Official-Portrait.jpg?itok=eReCLE7X' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Listen live: NPR President Trump's address and the Democratic ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F95%2F340fa9564686956ddcc1afb6ca71%2Fgettyimages-2201909727.jpg' alt='Listen live: NPR President Trump's address and the Democratic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F95%2F340fa9564686956ddcc1afb6ca71%2Fgettyimages-2201909727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com - Crossroads Home Décor Donald Trump Official Framed ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Id11ohQCL.jpg' alt='Amazon.com - Crossroads Home Décor Donald Trump Official Framed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Id11ohQCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trump's New Term: US Public Split on Whether Changes Will Be Good ...">
+                                <img itemprop="contentUrl url" src='https://www.pewresearch.org/wp-content/uploads/sites/20/2025/02/PP_25.02.03_ViewsOfTrumpAdmin_feature.jpg' alt='Trump's New Term: US Public Split on Whether Changes Will Be Good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pew Research Center" />
+                                </span>
+                                <a href='https://www.pewresearch.org/wp-content/uploads/sites/20/2025/02/PP_25.02.03_ViewsOfTrumpAdmin_feature.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donald Trump wins 2nd term in historic return to White House - ABC ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/6f82c457-4ae9-42bd-a9d6-dd430dabce19/donald-trump-10-ap-gmh-241106_1730906289206_hpMain_16x9.jpg?w=992' alt='Donald Trump wins 2nd term in historic return to White House - ABC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/6f82c457-4ae9-42bd-a9d6-dd430dabce19/donald-trump-10-ap-gmh-241106_1730906289206_hpMain_16x9.jpg?w=992' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trump tells billionaires he'll keep their taxes low at $50 million ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-04/240407-donald-trump-vl-932a-309069.jpg' alt='Trump tells billionaires he'll keep their taxes low at $50 million ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-04/240407-donald-trump-vl-932a-309069.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donald Trump: From Queens to the White House">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/C51D/production/_133516405_updatedpromoimage.png' alt='Donald Trump: From Queens to the White House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/C51D/production/_133516405_updatedpromoimage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donald Trump elected 47th president of the United States | PBS News">
+                                <img itemprop="contentUrl url" src='https://d3i6fh83elv35t.cloudfront.net/static/2024/11/dt-winner-1024x585.jpg' alt='Donald Trump elected 47th president of the United States | PBS News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://d3i6fh83elv35t.cloudfront.net/static/2024/11/dt-winner-1024x585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What would Donald Trump's victory mean for the EU?">
+                                <img itemprop="contentUrl url" src='https://dobetter.esade.edu/sites/default/files/post/2024-10/victory-trump-EU-w.webp' alt='What would Donald Trump's victory mean for the EU?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esade Insights & Knowledge hub" />
+                                </span>
+                                <a href='https://dobetter.esade.edu/sites/default/files/post/2024-10/victory-trump-EU-w.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

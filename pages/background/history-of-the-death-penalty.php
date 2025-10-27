@@ -1,0 +1,129 @@
+<title>A Brief History of the Death Penalty: Origins to Abolishment</title>
+                    <meta name="description" content="Explore the intriguing history of the death penalty, from its ancient origins in Babylon to modern-day debates on abolishment. Discover how societal views have shifted over time and the ongoing global conversation surrounding capital punishment.">
+                    <meta name="keywords" content="history of the death penalty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-the-death-penalty">
+                            <span itemprop="name">history of the death penalty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A Brief History of the Death Penalty: Origins to Abolishment</h1>
+                <p>The death penalty, or capital punishment, has ancient roots, dating back to the Code of Hammurabi in 1754 BC. Used across civilizations, it served as a deterrent for crime. Over centuries, various methods like hanging, firing squad, and lethal injection emerged. As views on human rights evolved, many countries began to abolish it, sparking ongoing debates globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History Of Capital Punishment In Britain | HistoryExtra">
+                                <img itemprop="contentUrl url" src='https://images.immediate.co.uk/production/volatile/sites/7/2018/03/GettyImages-51242795-8463ec0.jpg' alt='A Brief History Of Capital Punishment In Britain | HistoryExtra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2876">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HistoryExtra" />
+                                </span>
+                                <a href='https://images.immediate.co.uk/production/volatile/sites/7/2018/03/GettyImages-51242795-8463ec0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of the Death Penalty - TalkDeath">
+                                <img itemprop="contentUrl url" src='http://www.talkdeath.com/wp-content/uploads/2017/05/Salem-Witch-Trials-51239522a-56aa1cf45f9b58b7d000e82d.jpg' alt='A Brief History of the Death Penalty - TalkDeath'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TalkDeath" />
+                                </span>
+                                <a href='http://www.talkdeath.com/wp-content/uploads/2017/05/Salem-Witch-Trials-51239522a-56aa1cf45f9b58b7d000e82d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the Death Sentence — Bunk History">
+                                <img itemprop="contentUrl url" src='https://data.bunkhistory.org/images/4079/rectangle_large' alt='On the Death Sentence — Bunk History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bunk History" />
+                                </span>
+                                <a href='https://data.bunkhistory.org/images/4079/rectangle_large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Death Penalty Is a Failed Sacrifice - Homiletic & Pastoral Review">
+                                <img itemprop="contentUrl url" src='https://www.hprweb.com/wp-content/uploads/2021/05/execution.jpg' alt='The Death Penalty Is a Failed Sacrifice - Homiletic & Pastoral Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homiletic & Pastoral Review" />
+                                </span>
+                                <a href='https://www.hprweb.com/wp-content/uploads/2021/05/execution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capital punishment - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Auguste_Vaillant_execution.jpg/170px-Auguste_Vaillant_execution.jpg' alt='Capital punishment - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Auguste_Vaillant_execution.jpg/170px-Auguste_Vaillant_execution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete History of the Death Penalty: Mitchell, Hayley R ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/919k-esHi0L._AC_UF1000,1000_QL80_.jpg' alt='The Complete History of the Death Penalty: Mitchell, Hayley R ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/919k-esHi0L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Death Penalty In The United States">
+                                <img itemprop="contentUrl url" src='https://historythings.com/wp-content/uploads/2016/04/colonial-america-death-penalty-670-e1462053719632.jpg' alt='The Death Penalty In The United States'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Things" />
+                                </span>
+                                <a href='https://historythings.com/wp-content/uploads/2016/04/colonial-america-death-penalty-670-e1462053719632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The evolution of the ultimate punishment: How death penalty in the ...">
+                                <img itemprop="contentUrl url" src='https://i.dailymail.co.uk/1s/2023/01/26/21/67015521-0-image-a-69_1674769689597.jpg' alt='The evolution of the ultimate punishment: How death penalty in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1908">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Mail" />
+                                </span>
+                                <a href='https://i.dailymail.co.uk/1s/2023/01/26/21/67015521-0-image-a-69_1674769689597.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death penalty – Musée protestant">
+                                <img itemprop="contentUrl url" src='https://museeprotestant.org/wp-content/uploads/2013/12/0000001939L.jpg' alt='Death penalty – Musée protestant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Musée protestant" />
+                                </span>
+                                <a href='https://museeprotestant.org/wp-content/uploads/2013/12/0000001939L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capital punishment | Definition, Debate, Examples, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/40/167640-050-A45EDB7E/execution-Louis-XVI-1793.jpg' alt='Capital punishment | Definition, Debate, Examples, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/40/167640-050-A45EDB7E/execution-Louis-XVI-1793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

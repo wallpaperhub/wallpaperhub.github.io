@@ -1,0 +1,129 @@
+<title>Hauntingly Beautiful Ghost-Type Pokémon Wallpapers</title>
+                    <meta name="description" content="Discover the best Ghost-type Pokémon wallpapers! Perfect for fans of the spooky side of Pokémon, our collection features high-quality images of iconic ghost Pokémon. Enhance your device's look with these enchanting wallpapers today!">
+                    <meta name="keywords" content="ghost type pokemon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/ghost-type-pokemon-wallpaper">
+                            <span itemprop="name">ghost type pokemon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hauntingly Beautiful Ghost-Type Pokémon Wallpapers</h1>
+                <p>Explore the eerie world of Ghost-type Pokémon with our captivating wallpapers! Immerse yourself in stunning visuals featuring your favorite spooky characters like Gengar, Haunter, and Mimikyu. Perfect for adding a touch of the supernatural to your screens, these wallpapers are a must-have for any Pokémon fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Ghost Pokemon Phone Wallpapers for Halloween [OC] (3200x1440 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h1u7lufxcws71.png' alt='Neon Ghost Pokemon Phone Wallpapers for Halloween [OC] (3200x1440 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h1u7lufxcws71.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost type Pokemon wallpaper : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ltb84xfim4r41.jpg' alt='Ghost type Pokemon wallpaper : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="995">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ltb84xfim4r41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Ghost Pokemon Cute Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/c0/13/b0c013d0e19dfab5535f7c22f8ffd037.jpg' alt='Awesome Ghost Pokemon Cute Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/c0/13/b0c013d0e19dfab5535f7c22f8ffd037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Encountering a Ghost Pokemon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghost-pokemon-800-x-978-pf4hwtdd37mf4iqr.jpg' alt='Download Encountering a Ghost Pokemon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghost-pokemon-800-x-978-pf4hwtdd37mf4iqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost type Pokemon [1920x1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/xpicm8LOS4MpiTlWSN3r15q5GzkAhQqM2m5xKvO2yPE.jpg?auto=webp&s=a31be15e790e4c4673276266e3267ba838b009cb' alt='Ghost type Pokemon [1920x1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/xpicm8LOS4MpiTlWSN3r15q5GzkAhQqM2m5xKvO2yPE.jpg?auto=webp&s=a31be15e790e4c4673276266e3267ba838b009cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Pokémon iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/90/1e/05901ef4900e5aa57209e0831cf28bc0.jpg' alt='Ghost Pokémon iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/90/1e/05901ef4900e5aa57209e0831cf28bc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost pokemon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/810/855/HD-wallpaper-ghost-pokemon.jpg' alt='Ghost pokemon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/810/855/HD-wallpaper-ghost-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Pokémon HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/235/thumb-1920-235436.jpg' alt='Ghost Pokémon HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/235/thumb-1920-235436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ghost Pokemon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ghost-pokemon-1095-x-685-ft44vuj9knj50g8x.jpg' alt='Download Ghost Pokemon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1095">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ghost-pokemon-1095-x-685-ft44vuj9knj50g8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost-type Halloween Pokemon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ghost-type-halloween-pokemon-iphone-cvraree282vgjv9c.jpg' alt='Ghost-type Halloween Pokemon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ghost-type-halloween-pokemon-iphone-cvraree282vgjv9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

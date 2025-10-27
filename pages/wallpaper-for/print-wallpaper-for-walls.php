@@ -1,0 +1,129 @@
+<title>“Transform Your Space with Custom Print Wallpaper”</title>
+                    <meta name="description" content="Discover the art of transforming your walls with custom print wallpaper. From bold designs to subtle textures, find the perfect style for your home. Easy to apply and remove, our wallpapers make redecorating a breeze. Elevate your interior with personalized prints today!">
+                    <meta name="keywords" content="print wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/print-wallpaper-for-walls">
+                            <span itemprop="name">print wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Transform Your Space with Custom Print Wallpaper”</h1>
+                <p>Print wallpaper for walls offers a unique way to personalize your space with vibrant designs and patterns. Transform any room into a stunning visual experience with custom options that cater to your taste. Easy to apply and remove, print wallpaper is a versatile choice for modern decor, adding a stylish touch to any home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Customized Printed Wallpaper | Limitless Walls">
+                                <img itemprop="contentUrl url" src='http://www.limitlesswalls.com/cdn/shop/articles/32312feeb7cc597340fa43dab94bd9a2.jpg?v=1666216912' alt='How to Make Customized Printed Wallpaper | Limitless Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Limitless Walls" />
+                                </span>
+                                <a href='http://www.limitlesswalls.com/cdn/shop/articles/32312feeb7cc597340fa43dab94bd9a2.jpg?v=1666216912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/Julesmockup3.jpg?v=1717014530&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/Julesmockup3.jpg?v=1717014530&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' alt='Large Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D006'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4877298904_cl1w.jpg?v=1714739261' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Horizontal Water Ripple Print Wallpaper R9531">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/R9531BeigeHorizontalWaterRipplePrintWallpaperRoomshot.jpg?v=1736258467&width=1200' alt='Beige Horizontal Water Ripple Print Wallpaper R9531'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/R9531BeigeHorizontalWaterRipplePrintWallpaperRoomshot.jpg?v=1736258467&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild" Zebra Wallpaper Design | Beige & Black Large Pattern Decor ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/Animal-Print-Large-Pattern-Wallpaper-Design-Beige-Black.webp?v=1683141628&width=1214' alt='Wild" Zebra Wallpaper Design | Beige & Black Large Pattern Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/Animal-Print-Large-Pattern-Wallpaper-Design-Beige-Black.webp?v=1683141628&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wall Paper, 3D Printing Art, Paper Crafts, Gift Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40268741/r/il/21dd58/4817104349/il_570xN.4817104349_dld3.jpg' alt='Custom Wall Paper, 3D Printing Art, Paper Crafts, Gift Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40268741/r/il/21dd58/4817104349/il_570xN.4817104349_dld3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger Print">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/30932/pr22/1/1280/tiger-print-tiger-print-wallpaper.jpg' alt='Tiger Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/30932/pr22/1/1280/tiger-print-tiger-print-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/cow-print_mockup3.jpg?v=1717014319&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/cow-print_mockup3.jpg?v=1717014319&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Large Block Print' Grasscloth Wallpaper by Sugar Paper - Black">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Large_Block_Print_Wallpaper_by_Sugar_Paper_Black_RS.jpg?v=1621466658' alt=''Large Block Print' Grasscloth Wallpaper by Sugar Paper - Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Large_Block_Print_Wallpaper_by_Sugar_Paper_Black_RS.jpg?v=1621466658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Modern Wallpaper Murals 3D Cow skin seamless Print animal hide  brown spots a white Mammals Fur Peel and Stick Removable Self-Adhesive PVC  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711xVmkiEbL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Modern Wallpaper Murals 3D Cow skin seamless Print animal hide  brown spots a white Mammals Fur Peel and Stick Removable Self-Adhesive PVC  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711xVmkiEbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

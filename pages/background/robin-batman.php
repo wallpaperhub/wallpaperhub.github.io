@@ -1,0 +1,129 @@
+<title>Batman & Robin: The Dynamic Duo of Gotham</title>
+                    <meta name="description" content="Explore the legendary partnership of Batman and Robin. Discover their adventures, unique dynamics, and how Robin complements the Dark Knight. Join the journey of these iconic heroes in Gotham City and uncover their significance in comic book history.">
+                    <meta name="keywords" content="robin batman">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/robin-batman">
+                            <span itemprop="name">robin batman</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Batman & Robin: The Dynamic Duo of Gotham</h1>
+                <p>Robin, the iconic sidekick of Batman, has been a beloved character in comic books and movies for decades. Known for his acrobatic skills, bright costume, and youthful energy, Robin aids Batman in fighting crime in Gotham City. Their partnership represents teamwork and heroism, making Robin an essential part of the Dark Knight's legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin | Batman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/batman/images/6/68/The_Robin_Character.jpg/revision/latest/scale-to-width-down/1200?cb=20250111191936' alt='Robin | Batman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/batman/images/6/68/The_Robin_Character.jpg/revision/latest/scale-to-width-down/1200?cb=20250111191936' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin (The Batman Animated Series) | Batman Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/batman/images/e/eb/TheBatmanRobin.gif/revision/latest?cb=20101006000134' alt='Robin (The Batman Animated Series) | Batman Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/batman/images/e/eb/TheBatmanRobin.gif/revision/latest?cb=20101006000134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Robin_%28Tim_Drake_-_circa_1990%29.png/170px-Robin_%28Tim_Drake_-_circa_1990%29.png' alt='Robin (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Robin_%28Tim_Drake_-_circa_1990%29.png/170px-Robin_%28Tim_Drake_-_circa_1990%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin | Batman 60's TV Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/batman60stv/images/5/54/BoyWonder.jpg/revision/latest?cb=20131126211433' alt='Robin | Batman 60's TV Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Batman 60's TV Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/batman60stv/images/5/54/BoyWonder.jpg/revision/latest?cb=20131126211433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin 101: One Name, Many Heroes | DC">
+                                <img itemprop="contentUrl url" src='https://static.dc.com/dc/files/default_images/Marquee_DSM_CH_098_558a03cfde9174.78898221.jpg?w=1200' alt='Robin 101: One Name, Many Heroes | DC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC" />
+                                </span>
+                                <a href='https://static.dc.com/dc/files/default_images/Marquee_DSM_CH_098_558a03cfde9174.78898221.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1966 Adam West & Burt Ward Batman & Robin 1/4 Scale Diorama Statue  Exclusive Edition">
+                                <img itemprop="contentUrl url" src='http://www.purearts.com/cdn/shop/files/Purearts-Promo_L-Batman_Robin_001.jpg?crop=center&height=1200&v=1728566831&width=1200' alt='1966 Adam West & Burt Ward Batman & Robin 1/4 Scale Diorama Statue  Exclusive Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PureArts" />
+                                </span>
+                                <a href='http://www.purearts.com/cdn/shop/files/Purearts-Promo_L-Batman_Robin_001.jpg?crop=center&height=1200&v=1728566831&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman & Robin 1: Batman Reborn">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/718nUueobGL._AC_UF1000,1000_QL80_.jpg' alt='Batman & Robin 1: Batman Reborn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/718nUueobGL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin's New Costume Redesigns Him to Look More Like Batman">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/robin-with-batman-dark-age-costume.jpg' alt='Robin's New Costume Redesigns Him to Look More Like Batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/robin-with-batman-dark-age-costume.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman & Robin is terrible, and here's why you should watch it ...">
+                                <img itemprop="contentUrl url" src='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15246910/BatmanRobin.0.1422913774.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889' alt='Batman & Robin is terrible, and here's why you should watch it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Verge" />
+                                </span>
+                                <a href='https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15246910/BatmanRobin.0.1422913774.jpg?quality=90&strip=all&crop=0,5.5555555555556,100,88.888888888889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Robin (The Batman 2004) — Phil Cho">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5133bc80e4b0c6fb04dcd6c4/6d711d9d-8ba6-40f2-9d44-27fe6d59d04b/robin_dg_tb_e27_web.jpg' alt='Robin (The Batman 2004) — Phil Cho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phil Cho" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5133bc80e4b0c6fb04dcd6c4/6d711d9d-8ba6-40f2-9d44-27fe6d59d04b/robin_dg_tb_e27_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

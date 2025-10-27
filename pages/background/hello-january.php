@@ -1,0 +1,129 @@
+<title>Hello January: Embrace New Beginnings</title>
+                    <meta name="description" content="Welcome January with open arms! It's the perfect month to set goals, reset your mindset, and plan for the year ahead. Dive into fresh starts, winter activities, and motivational ideas as we kick off a brand-new chapter. Join us in making the most of this beautiful beginning!">
+                    <meta name="keywords" content="hello january">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hello-january">
+                            <span itemprop="name">hello january</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hello January: Embrace New Beginnings</h1>
+                <p>Hello January! A time for fresh starts and new resolutions. As we step into this first month of the year, let's embrace the possibilities that come with it. Whether it's setting goals, decluttering our spaces, or finding joy in snowy landscapes, January offers a clean slate. What will you focus on this month?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello, January | 2024 | As Kat Knits">
+                                <img itemprop="contentUrl url" src='https://askatknits.com/wp-content/uploads/2024/01/hellojan24.jpg' alt='Hello, January | 2024 | As Kat Knits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="As Kat Knits" />
+                                </span>
+                                <a href='https://askatknits.com/wp-content/uploads/2024/01/hellojan24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello January Stock Illustrations – 2,995 Hello January Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hello-january-greeting-snowy-trees-winter-forest-against-sunset-sky-wintertime-holidays-concept-344928893.jpg' alt='Hello January Stock Illustrations – 2,995 Hello January Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hello-january-greeting-snowy-trees-winter-forest-against-sunset-sky-wintertime-holidays-concept-344928893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello January! – Still Life, With Cracker Crumbs..">
+                                <img itemprop="contentUrl url" src='https://crackercrumblife.com/wp-content/uploads/2022/01/hello-1.jpg?w=1024' alt='Hello January! – Still Life, With Cracker Crumbs..'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Still Life, With Cracker Crumbs.." />
+                                </span>
+                                <a href='https://crackercrumblife.com/wp-content/uploads/2022/01/hello-1.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,476 Hello January Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/winter-flat-lay-text-hello-january-winter-flat-lay-text-hello-january-written-elegant-script-ai-generated-350628777.jpg' alt='4,476 Hello January Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/winter-flat-lay-text-hello-january-winter-flat-lay-text-hello-january-written-elegant-script-ai-generated-350628777.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200 Best Hello January • ideas in 2025 | hello january, january ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4f/b4/a0/4fb4a0685296db626625eedee089dfef.jpg' alt='200 Best Hello January • ideas in 2025 | hello january, january ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4f/b4/a0/4fb4a0685296db626625eedee089dfef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello, January | 1.6.25 | As Kat Knits">
+                                <img itemprop="contentUrl url" src='https://askatknits.com/wp-content/uploads/2025/01/jan2025-1080x675.jpg' alt='Hello, January | 1.6.25 | As Kat Knits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="As Kat Knits" />
+                                </span>
+                                <a href='https://askatknits.com/wp-content/uploads/2025/01/jan2025-1080x675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello January! - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/6721-hello-january.png' alt='Hello January! - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/6721-hello-january.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello January Embroidery Design">
+                                <img itemprop="contentUrl url" src='https://img2.embroiderydesigns.com/stockdesign/xlarge/easy_embroidery/1sd1292.webp' alt='Hello January Embroidery Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Embroidery Designs" />
+                                </span>
+                                <a href='https://img2.embroiderydesigns.com/stockdesign/xlarge/easy_embroidery/1sd1292.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  HELLO JANUARY 2025   The new year stands before us. 365 new days ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3535905330624417517' alt='  HELLO JANUARY 2025   The new year stands before us. 365 new days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3535905330624417517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hello January Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-january-miynddi2hq23l8vx.jpg' alt='100+] Hello January Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-january-miynddi2hq23l8vx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Gold Leaf Texture</title>
+                    <meta name="description" content="Discover the elegance of gold leaf texture! Perfect for enhancing art and interiors, this luxurious finish adds warmth and sophistication. Learn how to incorporate gold leaf into your projects for a stunning visual appeal. Unleash your creativity with this timeless design element!">
+                    <meta name="keywords" content="gold leaf texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-leaf-texture">
+                            <span itemprop="name">gold leaf texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Gold Leaf Texture</h1>
+                <p>Gold leaf texture is a stunning and luxurious finish that adds depth and elegance to various surfaces. Characterized by its shimmering appearance, this delicate material can elevate artwork, furniture, and interiors. Perfect for crafting unique accents, the warmth of gold leaf contrasts beautifully with other textures, making it a favorite among designers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Leaf Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1723586416242-642ab27644ca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZCUyMGxlYWYlMjB0ZXh0dXJlfGVufDB8fDB8fHww' alt='Gold Leaf Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1723586416242-642ab27644ca?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZCUyMGxlYWYlMjB0ZXh0dXJlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Leaf Images – Browse 2,735,892 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/61/22/09/360_F_161220964_tc2PgaeTRBzvydFsGyJ0aikme3Z1tHPc.jpg' alt='Gold Leaf Images – Browse 2,735,892 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="973">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/61/22/09/360_F_161220964_tc2PgaeTRBzvydFsGyJ0aikme3Z1tHPc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,000+ Gold Leaf Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157608854/photo/gold-texture.jpg?s=612x612&w=0&k=20&c=d_1L4tsjZpaFBD3kkCIkFyHWAxhfvKMfBQLjXrZ3U-w=' alt='25,000+ Gold Leaf Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157608854/photo/gold-texture.jpg?s=612x612&w=0&k=20&c=d_1L4tsjZpaFBD3kkCIkFyHWAxhfvKMfBQLjXrZ3U-w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scalamandre Gold Leaf Gold Metal Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/7153077321774_5.jpg?v=1740670849' alt='Scalamandre Gold Leaf Gold Metal Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/7153077321774_5.jpg?v=1740670849' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold leaf metal texture seamless 09778">
+                                <img itemprop="contentUrl url" src='http://www.sketchuptextureclub.com/public/texture/0052-gold-leaf-metal-texture-seamless.jpg' alt='Gold leaf metal texture seamless 09778'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchUp Texture Club" />
+                                </span>
+                                <a href='http://www.sketchuptextureclub.com/public/texture/0052-gold-leaf-metal-texture-seamless.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Seamless gold leaf background texture, 40x20 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/13/07/60/1000_F_513076021_tTL9CVMxUmWl6GXcbOXXA4SxNjejlyZb.jpg' alt='Poster, Print Seamless gold leaf background texture, 40x20 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/13/07/60/1000_F_513076021_tTL9CVMxUmWl6GXcbOXXA4SxNjejlyZb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiny Yellow Metallic Gold Leaf Foil Texture Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/shiny-yellow-metallic-gold-leaf-foil-texture-background-golden-bronze-sheet-surface-plate-design-wallpaper-alloy-copper-steel-157642397.jpg' alt='Shiny Yellow Metallic Gold Leaf Foil Texture Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/shiny-yellow-metallic-gold-leaf-foil-texture-background-golden-bronze-sheet-surface-plate-design-wallpaper-alloy-copper-steel-157642397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,000+ Gold Leaf Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/105951308/photo/gold-background.jpg?s=612x612&w=0&k=20&c=4huKC_PbNY8J6H-sBwq1z8v2ZfwfgV6coqWCmL-PZCk=' alt='25,000+ Gold Leaf Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/105951308/photo/gold-background.jpg?s=612x612&w=0&k=20&c=4huKC_PbNY8J6H-sBwq1z8v2ZfwfgV6coqWCmL-PZCk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi-Res Gold Leaf Foil Texture, an Abstract Photo by Lilac Paperie">
+                                <img itemprop="contentUrl url" src='https://tint.creativemarket.com/Lkq5IlaV4k5JlwsF7-h9LkfarGTLA4j17w_nytv6TUc/width:1360/height:906/gravity:ce/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzMxMS8zMTE3LzMxMTc3OTEvb2kxbzkyOXJpb2VkYm0yOXI2ZXlncm5lM29ubHN2eGV3YmptdnJkczNkZHF1eTdqa2oyc3ZoaTJmYmNnZWl5aS1vLmpwZw?1709428596' alt='Hi-Res Gold Leaf Foil Texture, an Abstract Photo by Lilac Paperie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Market" />
+                                </span>
+                                <a href='https://tint.creativemarket.com/Lkq5IlaV4k5JlwsF7-h9LkfarGTLA4j17w_nytv6TUc/width:1360/height:906/gravity:ce/rt:fill-down/el:1/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzMxMS8zMTE3LzMxMTc3OTEvb2kxbzkyOXJpb2VkYm0yOXI2ZXlncm5lM29ubHN2eGV3YmptdnJkczNkZHF1eTdqa2oyc3ZoaTJmYmNnZWl5aS1vLmpwZw?1709428596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Shiny yellow leaf gold foil texture">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/shiny-yellow-leaf-gold-foil-texture_38679-1013.jpg' alt='Premium Photo | Shiny yellow leaf gold foil texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/shiny-yellow-leaf-gold-foil-texture_38679-1013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

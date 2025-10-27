@@ -1,0 +1,129 @@
+<title>Festive Bright Christmas Backgrounds for Your Holiday Cheer</title>
+                    <meta name="description" content="Discover vibrant and festive Christmas backgrounds to enhance your holiday spirit! Perfect for cards, social media, or virtual events, these cheerful designs will spread joy and warmth throughout the season. Explore creative options to make your celebrations truly memorable!">
+                    <meta name="keywords" content="bright christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bright-christmas-background">
+                            <span itemprop="name">bright christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Bright Christmas Backgrounds for Your Holiday Cheer</h1>
+                <p>A bright Christmas background brings joy and warmth to your festive celebrations. Imagine twinkling lights, vibrant decorations, and a snowy landscape capturing the essence of the holiday spirit. Use this cheerful backdrop for holiday cards, social media posts, or virtual gatherings, spreading love and happiness during this special season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Christmas Background. Seamless Looping Beautiful Holiday Graphic  Background with Christmas Tree, Shining Star, and Snow Falling on Red  Backdrop.">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/30/56/85/360_F_230568578_HE3MVvaR46toxJaKn4lqO5zlpDNF888G.jpg' alt='Bright Christmas Background. Seamless Looping Beautiful Holiday Graphic  Background with Christmas Tree, Shining Star, and Snow Falling on Red  Backdrop.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/30/56/85/360_F_230568578_HE3MVvaR46toxJaKn4lqO5zlpDNF888G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Christmas Background" Images – Browse 328 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/81/71/93/360_F_381719390_yyNlut4zTpjYnSISyJ9etF9KuQz4YEXM.jpg' alt='Bright Christmas Background" Images – Browse 328 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/81/71/93/360_F_381719390_yyNlut4zTpjYnSISyJ9etF9KuQz4YEXM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Christmas Background" Images – Browse 328 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/73/07/47/360_F_973074706_ssIICVd4IDZSM9wXdw8jtfz38GVtfEHm.jpg' alt='Bright Christmas Background" Images – Browse 328 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/73/07/47/360_F_973074706_ssIICVd4IDZSM9wXdw8jtfz38GVtfEHm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright christmas background 30724378 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/724/378/non_2x/bright-christmas-background-photo.jpg' alt='Bright christmas background 30724378 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/724/378/non_2x/bright-christmas-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,000+ Bright Colour Christmas Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1055161668/vector/new-year-and-christmas-background.jpg?s=612x612&w=0&k=20&c=24hfLdCrAVvCN1nQLHF9leWW5_XugZnwOIKg6Dfyj14=' alt='32,000+ Bright Colour Christmas Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1055161668/vector/new-year-and-christmas-background.jpg?s=612x612&w=0&k=20&c=24hfLdCrAVvCN1nQLHF9leWW5_XugZnwOIKg6Dfyj14=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,036 Bright Christmas Trees Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-christmas-background-bright-wood-style-modern-simple-border-baubles-fir-branches-stars-ornamental-trees-63018435.jpg' alt='49,036 Bright Christmas Trees Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-christmas-background-bright-wood-style-modern-simple-border-baubles-fir-branches-stars-ornamental-trees-63018435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Christmas Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-bokeh-christmas-background_23-2147950080.jpg' alt='Bright Christmas Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-bokeh-christmas-background_23-2147950080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright christmas tree Vector Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://static6.depositphotos.com/1007682/564/v/450/depositphotos_5643495-stock-illustration-christmas-background-with-snow-covered.jpg' alt='Bright christmas tree Vector Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://static6.depositphotos.com/1007682/564/v/450/depositphotos_5643495-stock-illustration-christmas-background-with-snow-covered.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,048,593 Bright Christmas Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bright-christmas-new-year-scene-golden-ornaments-wrapped-gifts-red-christmas-balls-beautifully-displayed-white-338892588.jpg' alt='1,048,593 Bright Christmas Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bright-christmas-new-year-scene-golden-ornaments-wrapped-gifts-red-christmas-balls-beautifully-displayed-white-338892588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Christmas Background With Rose Pink And Gold Decorations ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1271849755/photo/bright-christmas-background-with-rose-pink-and-gold-decorations-with-christmas-tree-on-white.jpg?s=1024x1024&w=gi&k=20&c=BaJdX9Ytd-u3ewjckNgTQ5UR1qIbag0IU05Vpv4Emm4=' alt='Bright Christmas Background With Rose Pink And Gold Decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1271849755/photo/bright-christmas-background-with-rose-pink-and-gold-decorations-with-christmas-tree-on-white.jpg?s=1024x1024&w=gi&k=20&c=BaJdX9Ytd-u3ewjckNgTQ5UR1qIbag0IU05Vpv4Emm4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

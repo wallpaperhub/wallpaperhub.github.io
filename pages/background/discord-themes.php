@@ -1,0 +1,129 @@
+<title>Discover Stunning Discord Themes for a Unique Server Experience</title>
+                    <meta name="description" content="Unleash creativity with captivating Discord themes that elevate your server's look and feel! Customize colors and styles to match your community's vibe, enhancing user engagement and interaction effortlessly. Explore top theme choices today for a visually stunning Discord experience!">
+                    <meta name="keywords" content="discord themes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-themes">
+                            <span itemprop="name">discord themes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Discord Themes for a Unique Server Experience</h1>
+                <p>Discord themes enhance your server's aesthetics, creating immersive environments for users. From dark modes to vibrant color palettes, these customizable options reflect a server's personality. Explore various themes to elevate your community experience, engage members, and make conversations more enjoyable with personalized designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes - BetterDiscord">
+                                <img itemprop="contentUrl url" src='https://betterdiscord.app/resources/thumbnails/387.png' alt='Themes - BetterDiscord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BetterDiscord" />
+                                </span>
+                                <a href='https://betterdiscord.app/resources/thumbnails/387.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes - BetterDiscord">
+                                <img itemprop="contentUrl url" src='https://betterdiscord.app/resources/thumbnails/548.png' alt='Themes - BetterDiscord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BetterDiscord" />
+                                </span>
+                                <a href='https://betterdiscord.app/resources/thumbnails/548.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy DIY Animated BetterDiscord Themes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VpBhFJJt2xs/maxresdefault.jpg' alt='Easy DIY Animated BetterDiscord Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VpBhFJJt2xs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home - Theme Editor">
+                                <img itemprop="contentUrl url" src='https://bdeditor.dev/images/gallery/softx-spectra.webp' alt='Home - Theme Editor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bdeditor.dev" />
+                                </span>
+                                <a href='https://bdeditor.dev/images/gallery/softx-spectra.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord is working on gradient color themes for Nitro users : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/discord-is-working-on-gradient-color-themes-for-nitro-users-v0-4e0kpmm9upfa1.png?auto=webp&s=d4cb487fc566ae374acf07150017420571eeb4a6' alt='Discord is working on gradient color themes for Nitro users : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2438">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/discord-is-working-on-gradient-color-themes-for-nitro-users-v0-4e0kpmm9upfa1.png?auto=webp&s=d4cb487fc566ae374acf07150017420571eeb4a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes - BetterDiscord">
+                                <img itemprop="contentUrl url" src='https://betterdiscord.app/resources/thumbnails/176.png' alt='Themes - BetterDiscord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1858">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BetterDiscord" />
+                                </span>
+                                <a href='https://betterdiscord.app/resources/thumbnails/176.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now in Nitro: Bring Your Vibe to Discord with New Themes">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/64120d6d668681c43e2e0c4b_XrBhOGEicnFpk_zD25dGdk4HiTglV9uUAk1zkZVGwz7Wwqduz3Bv2Kw7SULL_dkEdizf_V9poErdSMKSSRXW-EH994ET8_yi3iSWy0w6_3OHDbyAeJKFN7u938ctE5qo03d9FOVgr3-ELemnflkMoBg.png' alt='Now in Nitro: Bring Your Vibe to Discord with New Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discord" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/64120d6d668681c43e2e0c4b_XrBhOGEicnFpk_zD25dGdk4HiTglV9uUAk1zkZVGwz7Wwqduz3Bv2Kw7SULL_dkEdizf_V9poErdSMKSSRXW-EH994ET8_yi3iSWy0w6_3OHDbyAeJKFN7u938ctE5qo03d9FOVgr3-ELemnflkMoBg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 BetterDiscord Themes 2021">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zLigyeSZHwk/maxresdefault.jpg' alt='Top 5 BetterDiscord Themes 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zLigyeSZHwk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got the new theme feature! While I think it´s cool it would be ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/got-the-new-theme-feature-while-i-think-it-s-cool-it-would-v0-jdqp7zt13wja1.png?width=640&crop=smart&auto=webp&s=c788e8649303b699bf0209f0529046fa96219b85' alt='Got the new theme feature! While I think it´s cool it would be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/got-the-new-theme-feature-while-i-think-it-s-cool-it-would-v0-jdqp7zt13wja1.png?width=640&crop=smart&auto=webp&s=c788e8649303b699bf0209f0529046fa96219b85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes - Theme Editor">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/XORsntg.jpg' alt='Themes - Theme Editor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Theme Editor" />
+                                </span>
+                                <a href='https://i.imgur.com/XORsntg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

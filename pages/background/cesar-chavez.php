@@ -1,0 +1,129 @@
+<title>Empowering Legacy: César Chávez and Workers’ Rights</title>
+                    <meta name="description" content="Explore the impactful life of César Chávez, co-founder of the United Farm Workers. Discover how his tireless activism for farmworkers' rights and nonviolent methods reshaped labor movements in America, inspiring generations to fight for social justice.">
+                    <meta name="keywords" content="cesar chavez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cesar-chavez">
+                            <span itemprop="name">cesar chavez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Legacy: César Chávez and Workers’ Rights</h1>
+                <p>César Chávez was a prominent labor leader and civil rights activist, known for co-founding the United Farm Workers (UFW) in the 1960s. He fought for better working conditions, fair wages, and workers' rights for farmworkers, emphasizing nonviolent protest. Chávez's legacy continues to inspire social justice movements today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cesar_Chavez_40915a_%28cropped2%29.tif/lossy-page1-640px-Cesar_Chavez_40915a_%28cropped2%29.tif.jpg' alt='Cesar Chavez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cesar_Chavez_40915a_%28cropped2%29.tif/lossy-page1-640px-Cesar_Chavez_40915a_%28cropped2%29.tif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Cesar Chavez – Cesar Chavez Foundation">
+                                <img itemprop="contentUrl url" src='https://chavezfoundation.org/wp-content/uploads/2016/08/About-Cesar-Chavez_Arthur_Schatz_TIME-Life-Pictures_Getty555x370-720x480.jpg' alt='About Cesar Chavez – Cesar Chavez Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cesar Chavez Foundation" />
+                                </span>
+                                <a href='https://chavezfoundation.org/wp-content/uploads/2016/08/About-Cesar-Chavez_Arthur_Schatz_TIME-Life-Pictures_Getty555x370-720x480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Voices: Growing up with "Cesar"">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2014_14/290756/140325-cesar-chavez-1413.jpg' alt='Voices: Growing up with "Cesar"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2014_14/290756/140325-cesar-chavez-1413.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez: The Life Behind A Legacy Of Farm Labor Rights : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/08/03/ap_7509160185_custom-032d6b8496873b459b2ff478d37e4d1a0dfc1571.jpg' alt='Cesar Chavez: The Life Behind A Legacy Of Farm Labor Rights : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/08/03/ap_7509160185_custom-032d6b8496873b459b2ff478d37e4d1a0dfc1571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez: Quotes, Death & Accomplishments | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/10/gettyimages-1346525899.jpg' alt='Cesar Chavez: Quotes, Death & Accomplishments | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5094">
+                                <meta itemprop="height" content="2865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/10/gettyimages-1346525899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez - Quotes, Facts & Death">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/chavez-hero-cardjpg.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Cesar Chavez - Quotes, Facts & Death'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/chavez-hero-cardjpg.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Madness of Cesar Chavez - The Atlantic">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/thumbor/uU9vz2P3A_WjXqCMDT2L7-f_MYI=/0x115:3000x1803/960x540/media/img/2019/03/AP_790307015/original.jpg' alt='The Madness of Cesar Chavez - The Atlantic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/thumbor/uU9vz2P3A_WjXqCMDT2L7-f_MYI=/0x115:3000x1803/960x540/media/img/2019/03/AP_790307015/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez | Biography, Accomplishments, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/04/93904-050-DECA43E0/Cesar-Chavez-1966.jpg' alt='Cesar Chavez | Biography, Accomplishments, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/04/93904-050-DECA43E0/Cesar-Chavez-1966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cesar Chavez Day | Hueneme Elementary School District">
+                                <img itemprop="contentUrl url" src='https://core-docs.s3.amazonaws.com/hueneme_elementary_school_district_ar/article/image/large_656c0214-1238-4003-9ec0-8373973fef81.jpg' alt='Cesar Chavez Day | Hueneme Elementary School District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hueneme Elementary School District" />
+                                </span>
+                                <a href='https://core-docs.s3.amazonaws.com/hueneme_elementary_school_district_ar/article/image/large_656c0214-1238-4003-9ec0-8373973fef81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Vintage Apple Think Different Poster Cesar Chavez Farmer ...">
+                                <img itemprop="contentUrl url" src='http://postergroup.com/cdn/shop/files/Apple-Think-Different-Cesar-Chavez-Poster.jpg?v=1730238361' alt='Original Vintage Apple Think Different Poster Cesar Chavez Farmer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ross Art Group" />
+                                </span>
+                                <a href='http://postergroup.com/cdn/shop/files/Apple-Think-Different-Cesar-Chavez-Poster.jpg?v=1730238361' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

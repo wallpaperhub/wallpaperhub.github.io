@@ -1,0 +1,129 @@
+<title>Stunning Purple Butterfly Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore our beautiful collection of purple butterfly wallpaper, perfect for adding elegance and charm to any space. Ideal for bedrooms, nurseries, or living areas, these designs capture the beauty of nature and bring vibrant color to your walls. Elevate your decor with our exquisite butterfly patterns!">
+                    <meta name="keywords" content="beautiful purple butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly">
+                            <span itemprop="name">Butterfly</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/butterfly/beautiful-purple-butterfly-wallpaper">
+                            <span itemprop="name">beautiful purple butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Butterfly Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning purple butterfly wallpaper! This enchanting design brings a touch of nature's beauty into your home, featuring delicate butterflies in various shades of purple. Perfect for creating a serene atmosphere in any room or a focal point for your decor. Unleash your creativity with this vibrant wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linda mariposa morada | Lovely purple butterfly">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/9f/7e/e69f7ea5213383fbb3e9764c676e3248.jpg' alt='Linda mariposa morada | Lovely purple butterfly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/9f/7e/e69f7ea5213383fbb3e9764c676e3248.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Butterfly Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-butterfly-iphone-1920-x-1080-3fnid8c0k0v9tmnh.jpg' alt='100+] Purple Butterfly Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-butterfly-iphone-1920-x-1080-3fnid8c0k0v9tmnh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/80/78/b5/8078b542f9fcfa19e615a174908b8b01.jpg' alt='52 Purple butterfly wallpaper ideas | butterfly wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/80/78/b5/8078b542f9fcfa19e615a174908b8b01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Phone Wallpapers | Set of 3 | Gorgeous Design | High  Quality | iPhone Lockscreen | Aesthetic Background | Digital Download">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/0322Etsy_purple_butterfly15s_shkyc6.jpg' alt='Purple Butterfly Phone Wallpapers | Set of 3 | Gorgeous Design | High  Quality | iPhone Lockscreen | Aesthetic Background | Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/0322Etsy_purple_butterfly15s_shkyc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Beautiful And Mesmerizing Purple Butterfly That Will ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-purple-butterfly-7a5vb8wtbjjsfnvw.jpg' alt='Download A Beautiful And Mesmerizing Purple Butterfly That Will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-purple-butterfly-7a5vb8wtbjjsfnvw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studded Purple Butterfly Phone Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/studded-purple-butterfly-phone-background-4hqrwwsowrdo1bgd.jpg' alt='Studded Purple Butterfly Phone Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/studded-purple-butterfly-phone-background-4hqrwwsowrdo1bgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 ✨                      ✨ ideas | butterfly wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/00/10/5f/00105fb5892b304c1041b8c24a66faf4.jpg' alt='23 ✨                      ✨ ideas | butterfly wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/00/10/5f/00105fb5892b304c1041b8c24a66faf4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Background Images – Browse 164,141 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/11/83/31/360_F_811833149_6MO2TGZ02dt9amBMVcWSpN1hD7Il2b8C.jpg' alt='Purple Butterfly Background Images – Browse 164,141 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/11/83/31/360_F_811833149_6MO2TGZ02dt9amBMVcWSpN1hD7Il2b8C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Snuqevc Glowing Purple Butterfly Wall Oil Painting Canvas  Poster, Stretched and Framed Ready to Hang Picture Artwork, Home Room  Office ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714sP3kq-DL.jpg' alt='Amazon.com: Snuqevc Glowing Purple Butterfly Wall Oil Painting Canvas  Poster, Stretched and Framed Ready to Hang Picture Artwork, Home Room  Office ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714sP3kq-DL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Butterfly Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/031/716/670/small_2x/beautiful-butterfly-with-purple-and-blue-hues-perches-delicately-on-a-vibrant-anemone-forest-flower-ai-generative-photo.jpg' alt='Purple Butterfly Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/031/716/670/small_2x/beautiful-butterfly-with-purple-and-blue-hues-perches-delicately-on-a-vibrant-anemone-forest-flower-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

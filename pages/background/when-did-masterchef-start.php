@@ -1,0 +1,129 @@
+<title>When Did MasterChef Start? Exploring the Origins of the Culinary Show</title>
+                    <meta name="description" content="Discover when MasterChef began and its journey since its 1990 debut in the UK. Learn about the show's evolution, its impact on culinary television, and the global adaptations that followed. Perfect for fans and history buffs alike!">
+                    <meta name="keywords" content="when did masterchef start">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-masterchef-start">
+                            <span itemprop="name">when did masterchef start</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did MasterChef Start? Exploring the Origins of the Culinary Show</h1>
+                <p>MasterChef, the popular cooking competition show, first premiered in the UK on July 2, 1990. Created by Rebecca Bland and featuring judges with culinary expertise, the series has since inspired numerous international adaptations. Over the years, it has captivated audiences with its thrilling challenges and emotional moments.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef (American TV series) season 1 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/f/f3/MCS1poster.jpg' alt='MasterChef (American TV series) season 1 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/f/f3/MCS1poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masterchef">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/images/ic/1920x1080/p08jj8h5.jpg' alt='Masterchef'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/images/ic/1920x1080/p08jj8h5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef (American TV series) season 5 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/38/MasterChef_S5_Promo.jpg' alt='MasterChef (American TV series) season 5 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/38/MasterChef_S5_Promo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef (American TV series) season 14 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/5d/MC14poster.jpg' alt='MasterChef (American TV series) season 14 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="282">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/5d/MC14poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Untold Truth Of MasterChef">
+                                <img itemprop="contentUrl url" src='https://www.mashed.com/img/gallery/the-untold-truth-of-masterchef/intro-1499454928.jpg' alt='The Untold Truth Of MasterChef'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashed" />
+                                </span>
+                                <a href='https://www.mashed.com/img/gallery/the-untold-truth-of-masterchef/intro-1499454928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef USA (TV Series 2010– ) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOWNlNDQ5MjAtMzgyMC00YjA0LWI2NDAtYmQwODdhYzc2ZjhhXkEyXkFqcGc@._V1_.jpg' alt='MasterChef USA (TV Series 2010– ) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOWNlNDQ5MjAtMzgyMC00YjA0LWI2NDAtYmQwODdhYzc2ZjhhXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef (American TV series) season 3 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/2b/MasterChef_S3_Promo.jpg' alt='MasterChef (American TV series) season 3 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/2b/MasterChef_S3_Promo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef (American TV series) season 12 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/7/72/MCS12poster.jpg/220px-MCS12poster.jpg' alt='MasterChef (American TV series) season 12 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/7/72/MCS12poster.jpg/220px-MCS12poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Are They Now? Every Winner of MasterChef | The Kitchn">
+                                <img itemprop="contentUrl url" src='https://cdn.apartmenttherapy.info/image/upload/v1684860239/k/Edit/masterchef.jpg' alt='Where Are They Now? Every Winner of MasterChef | The Kitchn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kitchn" />
+                                </span>
+                                <a href='https://cdn.apartmenttherapy.info/image/upload/v1684860239/k/Edit/masterchef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MasterChef: Season 1 | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/AIi3Um0EkpmL5Rg5OWwXk80AH_c=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8071870_b_v8_aa.jpg' alt='MasterChef: Season 1 | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="206">
+                                <meta itemprop="height" content="305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/AIi3Um0EkpmL5Rg5OWwXk80AH_c=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8071870_b_v8_aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

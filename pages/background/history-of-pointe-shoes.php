@@ -1,0 +1,129 @@
+<title>The Evolution of Pointe Shoes: A Historical Overview</title>
+                    <meta name="description" content="Discover the captivating history of pointe shoes, exploring their transformation from soft slippers to modern designs that empower dancers. Learn about key innovations and figures that shaped ballet's iconic footwear in this concise overview.">
+                    <meta name="keywords" content="history of pointe shoes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-pointe-shoes">
+                            <span itemprop="name">history of pointe shoes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of Pointe Shoes: A Historical Overview</h1>
+                <p>The history of pointe shoes dates back to the early 18th century when ballerinas began using soft slippers. By the late 1800s, the traditional pointe shoe evolved, featuring a reinforced toe box for support. Innovators like Marie Taglioni popularized this style, allowing dancers to achieve the ethereal, weightless look. Today, pointe shoes continue to develop with technology for enhanced comfort and performance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Pointe Shoes: The Landmark Moments That Made ...">
+                                <img itemprop="contentUrl url" src='https://pointemagazine.com/wp-content/uploads/2021/04/the-history-of-pointe-shoes-the-landmark-moments-t-11.jpg' alt='The History of Pointe Shoes: The Landmark Moments That Made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pointe Magazine" />
+                                </span>
+                                <a href='https://pointemagazine.com/wp-content/uploads/2021/04/the-history-of-pointe-shoes-the-landmark-moments-t-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog">
+                                <img itemprop="contentUrl url" src='https://balletaz.org/wp-content/uploads/2020/04/Anna-Pavlova.jpg' alt='The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballet Arizona" />
+                                </span>
+                                <a href='https://balletaz.org/wp-content/uploads/2020/04/Anna-Pavlova.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballet Shoes and Ballerinas as Technology: A History En Pointe ...">
+                                <img itemprop="contentUrl url" src='https://cdn.theatlantic.com/media/mt/science/enpointe.jpg' alt='Ballet Shoes and Ballerinas as Technology: A History En Pointe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Atlantic" />
+                                </span>
+                                <a href='https://cdn.theatlantic.com/media/mt/science/enpointe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pointe Shoe Evolution - Gaynor Minden">
+                                <img itemprop="contentUrl url" src='https://cdn.shortpixel.ai/spai/q_glossy+w_788+to_webp+ret_img/dancer.com/wp-content/uploads/2013/10/EmmaLivryPointes-For-EM.jpg' alt='Pointe Shoe Evolution - Gaynor Minden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gaynor Minden" />
+                                </span>
+                                <a href='https://cdn.shortpixel.ai/spai/q_glossy+w_788+to_webp+ret_img/dancer.com/wp-content/uploads/2013/10/EmmaLivryPointes-For-EM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog">
+                                <img itemprop="contentUrl url" src='https://balletaz.org/wp-content/uploads/2020/04/PointeShoeAnatomy.png' alt='The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballet Arizona" />
+                                </span>
+                                <a href='https://balletaz.org/wp-content/uploads/2020/04/PointeShoeAnatomy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pointe Shoes">
+                                <img itemprop="contentUrl url" src='https://the-art-of-ballet.weebly.com/uploads/2/0/4/6/20463616/209786878_orig.jpg?378' alt='Pointe Shoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The art of Ballet" />
+                                </span>
+                                <a href='https://the-art-of-ballet.weebly.com/uploads/2/0/4/6/20463616/209786878_orig.jpg?378' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When were pointe shoes first worn? | Bestpointe.com: The ballet ...">
+                                <img itemprop="contentUrl url" src='https://bestpointe.com/assets/images/blog/pavlova_pointe.jpg' alt='When were pointe shoes first worn? | Bestpointe.com: The ballet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bestpointe.com" />
+                                </span>
+                                <a href='https://bestpointe.com/assets/images/blog/pavlova_pointe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of the Origins of the Pointe Shoe">
+                                <img itemprop="contentUrl url" src='https://www.thebarre.co.uk/images/PointeShoeElements1.png' alt='A Brief History of the Origins of the Pointe Shoe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Barre" />
+                                </span>
+                                <a href='https://www.thebarre.co.uk/images/PointeShoeElements1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Ballet Shoes">
+                                <img itemprop="contentUrl url" src='https://www.ballerinagallery.com/wp-content/uploads/2021/01/history-of-ballet-shoes-1.jpeg' alt='History of Ballet Shoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballerina Gallery" />
+                                </span>
+                                <a href='https://www.ballerinagallery.com/wp-content/uploads/2021/01/history-of-ballet-shoes-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog">
+                                <img itemprop="contentUrl url" src='https://balletaz.org/wp-content/uploads/2020/03/BAZ_pointeshoe.jpg' alt='The History of Pointe Shoes: Ballet 101 | Ballet Arizona Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ballet Arizona" />
+                                </span>
+                                <a href='https://balletaz.org/wp-content/uploads/2020/03/BAZ_pointeshoe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

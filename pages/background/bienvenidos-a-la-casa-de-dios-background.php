@@ -1,0 +1,129 @@
+<title>Bienvenidos a la Casa de Dios: Un Espacio de Fe y Comunidad</title>
+                    <meta name="description" content="Explora "Bienvenidos a la Casa de Dios", un espacio sagrado que invita a todos a unirse en fe, amor y comunidad. Descubre cómo este lugar puede ser tu refugio espiritual y una fuente de esperanza en tu vida diaria. ¡Ven y encuentra tu conexión divina!">
+                    <meta name="keywords" content="bienvenidos a la casa de dios background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bienvenidos-a-la-casa-de-dios-background">
+                            <span itemprop="name">bienvenidos a la casa de dios background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bienvenidos a la Casa de Dios: Un Espacio de Fe y Comunidad</h1>
+                <p>Bienvenidos a la casa de Dios es un llamado a la comunidad a unirse en un espacio de fe y esperanza. Este lugar sagrado ofrece refugio, amor y unidad, donde se celebran rituales y se fortalece la espiritualidad. Aquí, cada individuo encuentra paz, propósito y la oportunidad de conectarse con lo divino.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 ideas de Bienvenidos a la casa de Dios | frases de bienvenida ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/61/a8/d7/61a8d75d0005c1a72209b06277099c75.jpg' alt='9 ideas de Bienvenidos a la casa de Dios | frases de bienvenida ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/61/a8/d7/61a8d75d0005c1a72209b06277099c75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bienvenidos a la casa de Dios #11">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ab/34/26/ab3426cccca9f3675b31308bf49eca56.jpg' alt='Bienvenidos a la casa de Dios #11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ab/34/26/ab3426cccca9f3675b31308bf49eca56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bienvenidos a la casa de Dios, tu casa | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=406077744866263&get_thumbnail=1' alt='Bienvenidos a la casa de Dios, tu casa | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=406077744866263&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BIENVENIDOS A LA CASA DE DIOS | LOOPS |">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QDjd-XmT15s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyh_MA8=&rs=AOn4CLD4zWfIH2VONF1YGLva5189mJMM8A' alt='BIENVENIDOS A LA CASA DE DIOS | LOOPS |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QDjd-XmT15s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyh_MA8=&rs=AOn4CLD4zWfIH2VONF1YGLva5189mJMM8A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BIENVENIDOS A CASA BACKGROUND HD - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RZM5zpLUY24/hqdefault.jpg' alt='BIENVENIDOS A CASA BACKGROUND HD - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RZM5zpLUY24/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bienvenidos a la Casa de Dios">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/92/75/2e92753b496464250cddc85bf38a408a.jpg' alt='Bienvenidos a la Casa de Dios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/92/75/2e92753b496464250cddc85bf38a408a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bienvenidos Iglesia">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/bienvenidos-iglesia-design-template-c180a6bd4cf63b9918877430d4d592c9_screen.jpg?ts=1659140716' alt='Bienvenidos Iglesia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/bienvenidos-iglesia-design-template-c180a6bd4cf63b9918877430d4d592c9_screen.jpg?ts=1659140716' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bienvenidos a la Casa de Dios #23">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/cb/e2/61cbe2443d363697de5cc855fd4f9062.jpg' alt='Bienvenidos a la Casa de Dios #23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/cb/e2/61cbe2443d363697de5cc855fd4f9062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHRIST ALONE WELCOME MOTION - SPANISH">
+                                <img itemprop="contentUrl url" src='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/ora/mo/christalonewelcomemotionspanish.jpg' alt='CHRIST ALONE WELCOME MOTION - SPANISH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorshipHouse Media" />
+                                </span>
+                                <a href='https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/ora/mo/christalonewelcomemotionspanish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Servicio dominical - Viendo la gloria de Dios en mi | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=981270788973695&get_thumbnail=1' alt='Servicio dominical - Viendo la gloria de Dios en mi | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=981270788973695&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

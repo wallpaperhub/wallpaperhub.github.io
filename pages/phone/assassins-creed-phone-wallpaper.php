@@ -1,0 +1,129 @@
+<title>Epic Assassin's Creed Phone Wallpapers for Ultimate Style</title>
+                    <meta name="description" content="Discover the best Assassin's Creed phone wallpapers to enhance your mobile experience. Explore a collection featuring iconic characters and breathtaking landscapes, perfect for true fans. Download now to give your phone a stylish edge with high-quality designs that capture the essence of the franchise!">
+                    <meta name="keywords" content="assassin's creed phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/assassins-creed-phone-wallpaper">
+                            <span itemprop="name">assassin's creed phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Assassin's Creed Phone Wallpapers for Ultimate Style</h1>
+                <p>Elevate your mobile screen with stunning Assassin's Creed phone wallpapers! Discover a variety of designs showcasing your favorite characters and iconic settings. Whether you prefer Ezio, Altair, or the lush landscapes of ancient cities, these wallpapers bring the thrill of the game right to your fingertips. Download now to transform your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Assassin's Creed Phone Wallpapers | Assassins Creed Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6580/89965d36b73138db29f56bdba4f4718484616752_hq.jpg' alt='Custom Assassin's Creed Phone Wallpapers | Assassins Creed Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6580/89965d36b73138db29f56bdba4f4718484616752_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassins Creed Wallpaper for Phone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/assassins-creed.png' alt='Assassins Creed Wallpaper for Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/assassins-creed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Wallpapers (67 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/2/f/6700-1080x1920-phone-1080p-assassins-creed-wallpaper-photo.jpg' alt='Assassin's Creed Wallpapers (67 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/2/f/6700-1080x1920-phone-1080p-assassins-creed-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Wallpaper Phone 4K Gallery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/2d/2a/d12d2ae55c8c64e02c6ad74d28a043de.jpg' alt='Assassin's Creed Wallpaper Phone 4K Gallery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/2d/2a/d12d2ae55c8c64e02c6ad74d28a043de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Wallpapers (67 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/6/6682-1080x1920-phone-1080p-assassins-creed-wallpaper.jpg' alt='Assassin's Creed Wallpapers (67 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/6/6682-1080x1920-phone-1080p-assassins-creed-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated AC Phone Wallpapers : r/assassinscreed">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/updated-ac-phone-wallpapers-v0-p4lfa7f9xskb1.png?width=1440&format=png&auto=webp&s=f3e7f70cf2e385b38ee29198406cc0b7fc19119d' alt='Updated AC Phone Wallpapers : r/assassinscreed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/updated-ac-phone-wallpapers-v0-p4lfa7f9xskb1.png?width=1440&format=png&auto=webp&s=f3e7f70cf2e385b38ee29198406cc0b7fc19119d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Assassin's Creed Phone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/20/40/bb2040a82c7ccc6aec264eaec0e06934.jpg' alt='Awesome Assassin's Creed Phone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/20/40/bb2040a82c7ccc6aec264eaec0e06934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Assassin's Creed Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/324/324792.jpg' alt='Download Video Game Assassin's Creed Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/324/324792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5386125.jpg' alt='Assassin's Creed Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5386125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my Assassin's creed themed phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-assassins-creed-themed-phone-wallpapers-v0-5idfvs1wps9c1.jpg?width=1179&format=pjpg&auto=webp&s=35bb0ae00211478ac622d0759c80a34897c29ec2' alt='my Assassin's creed themed phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-assassins-creed-themed-phone-wallpapers-v0-5idfvs1wps9c1.jpg?width=1179&format=pjpg&auto=webp&s=35bb0ae00211478ac622d0759c80a34897c29ec2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

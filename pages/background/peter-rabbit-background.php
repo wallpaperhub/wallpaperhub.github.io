@@ -1,0 +1,129 @@
+<title>Discover the Adventures of Peter Rabbit</title>
+                    <meta name="description" content="Explore the enchanting world of Peter Rabbit, Beatrix Potter's beloved character. Dive into his whimsical adventures in Mr. McGregor's garden and uncover the charm of childhood curiosity. Perfect for readers of all ages seeking delightful tales of adventure and mischief.">
+                    <meta name="keywords" content="peter rabbit background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peter-rabbit-background">
+                            <span itemprop="name">peter rabbit background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Adventures of Peter Rabbit</h1>
+                <p>Peter Rabbit, created by Beatrix Potter in 1902, is a classic children's character known for his mischief and adventures in Mr. McGregor's garden. The story, inspired by Potter's own childhood experiences in the English countryside, explores themes of curiosity and courage. Peter's iconic blue coat and love for veggies make him an enduring symbol of childhood innocence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Backdrop 7x5 Peter Rabbit Backdrop for Kids Birthday Party Cartoon  Children Happy Easter Background Background for Party Wall Decor">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710pTqK2qlL._AC_UF894,1000_QL80_.jpg' alt='Photo Backdrop 7x5 Peter Rabbit Backdrop for Kids Birthday Party Cartoon  Children Happy Easter Background Background for Party Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710pTqK2qlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Rabbit - Poly Paper / 84" x 60"">
+                                <img itemprop="contentUrl url" src='https://r2backdrops.com/cdn/shop/products/2162-PETERRABBIT-84x60Web.jpg?v=1739312453&width=1024' alt='Peter Rabbit - Poly Paper / 84" x 60"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="r2backdrops" />
+                                </span>
+                                <a href='https://r2backdrops.com/cdn/shop/products/2162-PETERRABBIT-84x60Web.jpg?v=1739312453&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Rabbit Wallpaper, Rabbit Wall Decor, Nursery Wallpaper, Boys Peter  Rabbit Decor">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23911168/r/il/ab58a5/5153791265/il_fullxfull.5153791265_5a21.jpg' alt='Peter Rabbit Wallpaper, Rabbit Wall Decor, Nursery Wallpaper, Boys Peter  Rabbit Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23911168/r/il/ab58a5/5153791265/il_fullxfull.5153791265_5a21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Peter Rabbit? - Tea Tales - New English Teas">
+                                <img itemprop="contentUrl url" src='http://www.newenglishteas.com/cdn/shop/articles/who-is-peter-rabbit-508180.jpg?v=1658325755' alt='Who Is Peter Rabbit? - Tea Tales - New English Teas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New English Teas" />
+                                </span>
+                                <a href='http://www.newenglishteas.com/cdn/shop/articles/who-is-peter-rabbit-508180.jpg?v=1658325755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Rabbit Party Supplies Banner7x5 Happy Birthday Peter Rabbit Backdrop  for Kids Vinyl Spring Animal Woodland Backdrops The Tale of Peter Rabbit ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71NEeYaPIbL._AC_UF894,1000_QL80_.jpg' alt='Peter Rabbit Party Supplies Banner7x5 Happy Birthday Peter Rabbit Backdrop  for Kids Vinyl Spring Animal Woodland Backdrops The Tale of Peter Rabbit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71NEeYaPIbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Peter Rabbit and Friends Photography Backdrop, Beatrix Potter,  Fairy Tale, Nursery, Bunny, Garden, Book, Art, Easter, Spring, Farm">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/Rowena_683.jpg' alt='Vintage Peter Rabbit and Friends Photography Backdrop, Beatrix Potter,  Fairy Tale, Nursery, Bunny, Garden, Book, Art, Easter, Spring, Farm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/Rowena_683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beatrix Potter's Peter Rabbit">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0613/8039/5201/collections/Category_Card_Peter_Rabbit_Powis_Green_BP001-08_A3_hires.jpg?v=1660732521' alt='Beatrix Potter's Peter Rabbit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fromental" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0613/8039/5201/collections/Category_Card_Peter_Rabbit_Powis_Green_BP001-08_A3_hires.jpg?v=1660732521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rabbit's 1st Birthday">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/files/WHM2797x5peterrabbitbackdrop_1800x1800.jpg?v=1686683085' alt='Rabbit's 1st Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/files/WHM2797x5peterrabbitbackdrop_1800x1800.jpg?v=1686683085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peter Rabbit Thinking - Line Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/238699/Peter-Rabbit-Thinking-Line-Mural-Wallpaper.jpg?v=638164871766030000' alt='Peter Rabbit Thinking - Line Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/238699/Peter-Rabbit-Thinking-Line-Mural-Wallpaper.jpg?v=638164871766030000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/dc/f3/3c/dcf33c648f96d879529d929f4bfce5b0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/dc/f3/3c/dcf33c648f96d879529d929f4bfce5b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

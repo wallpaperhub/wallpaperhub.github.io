@@ -1,0 +1,129 @@
+<title>Aesthetic Landscape Wallpaper: Nature's Beauty for Your Screen</title>
+                    <meta name="description" content="Explore stunning aesthetic landscape wallpapers that bring nature's beauty to your screens. Transform your digital space with vibrant visuals that inspire creativity and tranquility. Perfect for enhancing your workspace or home office, find the ideal wallpaper that resonates with your style!">
+                    <meta name="keywords" content="aesthetic landscape wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aesthetic-landscape-wallpaper">
+                            <span itemprop="name">aesthetic landscape wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Landscape Wallpaper: Nature's Beauty for Your Screen</h1>
+                <p>Aesthetic landscape wallpaper transforms your digital space into serene havens. Imagine lush forests, tranquil lakes, and vibrant sunsets gracing your screens. Perfect for any mood, these wallpapers evoke emotions and inspire creativity. Dive into nature's beauty and refresh your environment with stunning visuals that captivate the soul.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Landscape Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/zigzag-river-aesthetic-landscape-zrf9jzxpxx736bd0.jpg' alt='100+] Aesthetic Landscape Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/zigzag-river-aesthetic-landscape-zrf9jzxpxx736bd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Aesthetic Landscape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/animated-aesthetic-landscape-eofnsowhf8lpgxpj.jpg' alt='Animated Aesthetic Landscape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/animated-aesthetic-landscape-eofnsowhf8lpgxpj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lo-Fi Aesthetic Landscape Wallpaper - Download in HD & 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/07/lo-fi-aesthetic-landscape-wallpaper-cover.jpg' alt='Lo-Fi Aesthetic Landscape Wallpaper - Download in HD & 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/07/lo-fi-aesthetic-landscape-wallpaper-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Landscape Purple Lake Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-landscape-forest-silhouette-8ztdf3nzn4ptvwi1.webp' alt='Aesthetic Landscape Purple Lake Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-landscape-forest-silhouette-8ztdf3nzn4ptvwi1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+] Aesthetic Landscape HD Wallpapers (Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/a6/9a/56a69ab9ddc680d1e9ecd8b5c0e58ce7.jpg' alt='50+] Aesthetic Landscape HD Wallpapers (Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/a6/9a/56a69ab9ddc680d1e9ecd8b5c0e58ce7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Nature Landscape Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/64/c7/e264c7e698b575a1818b05787dfe64a3.jpg' alt='Aesthetic Nature Landscape Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/64/c7/e264c7e698b575a1818b05787dfe64a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valley Wallpaper 4K, Landscape, Aesthetic, Mountains">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/valley-landscape-aesthetic-mountains-gradient-background-6318x2633-4589.jpg' alt='Valley Wallpaper 4K, Landscape, Aesthetic, Mountains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6318">
+                                <meta itemprop="height" content="2633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/valley-landscape-aesthetic-mountains-gradient-background-6318x2633-4589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic Wallpaper 4K, Landscape, Moonlight, Nightscape">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/purple-aesthetic-2560x1080-14482.jpg' alt='Purple aesthetic Wallpaper 4K, Landscape, Moonlight, Nightscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/purple-aesthetic-2560x1080-14482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Landscape, aesthetic, blue, flowers, landscape, nature, trees ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/677/326/HD-wallpaper-blue-landscape-aesthetic-blue-flowers-landscape-nature-trees.jpg' alt='Blue Landscape, aesthetic, blue, flowers, landscape, nature, trees ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/677/326/HD-wallpaper-blue-landscape-aesthetic-blue-flowers-landscape-nature-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Landscape Starry Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-landscape-starry-sky-g2yflcmcq652mx4r.jpg' alt='Aesthetic Landscape Starry Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-landscape-starry-sky-g2yflcmcq652mx4r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

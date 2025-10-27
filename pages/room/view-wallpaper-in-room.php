@@ -1,0 +1,129 @@
+<title>Elevate Your Room with Stunning View Wallpapers</title>
+                    <meta name="description" content="Discover how view wallpapers can transform your room into a serene escape. Explore designs that showcase nature's beauty, from mountains to beaches, creating a calming atmosphere. Perfect for any space, these wallpapers will inspire and elevate your home decor. Enhance your environment today!">
+                    <meta name="keywords" content="view wallpaper in room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/view-wallpaper-in-room">
+                            <span itemprop="name">view wallpaper in room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Room with Stunning View Wallpapers</h1>
+                <p>Transform your space with stunning view wallpapers that bring the outside in. Imagine waking up to a serene mountain landscape or a calming beach scene. These wallpapers not only enhance the aesthetics of your room but also create a unique atmosphere tailored to your style. Choose vibrant colors and designs that inspire you daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Room Visualizer – RoomMates Decor">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0268/8483/3383/files/Wizart-20.jpg?v=1584370432' alt='Room Visualizer – RoomMates Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0268/8483/3383/files/Wizart-20.jpg?v=1584370432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing View over Bay">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/62085/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='Amazing View over Bay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/62085/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Window with a View – extraordinary wall mural– Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/57157/landscape/wallpaper/room49.jpg?w=2000&q=80' alt='Window with a View – extraordinary wall mural– Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/57157/landscape/wallpaper/room49.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Window Wallpaper - Window View Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/1472/645/window-view.jpg' alt='Window Wallpaper - Window View Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/1472/645/window-view.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful City Landscape Wall Mural Wallpaper Large City Night View Wall  Mural for Bedroom Living Room TV Background Sofa Wall (not self-Adhesive)  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sOGcrmVxL._AC_UF894,1000_QL80_.jpg' alt='Beautiful City Landscape Wall Mural Wallpaper Large City Night View Wall  Mural for Bedroom Living Room TV Background Sofa Wall (not self-Adhesive)  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sOGcrmVxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visualizer Tool: Virtually Try Out Wallpaper Designs | Tempaper ...">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/articles/Wallpaper-Visulizer_Hero-Banner.jpg?v=1676554537' alt='Visualizer Tool: Virtually Try Out Wallpaper Designs | Tempaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/articles/Wallpaper-Visulizer_Hero-Banner.jpg?v=1676554537' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Window Wallpaper - Window View Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/329635/cr23/5/828/1/sunrise-window-view-3d-landscape-wallpaper.jpg' alt='Window Wallpaper - Window View Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/329635/cr23/5/828/1/sunrise-window-view-3d-landscape-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZocKz City View 3D Large Wallpaper, High-Rise Buildings Wallpapers  Panoramic Mural for Living Room Bedroom TV Background Hotel Bar Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816Po9G4yCL.jpg' alt='ZocKz City View 3D Large Wallpaper, High-Rise Buildings Wallpapers  Panoramic Mural for Living Room Bedroom TV Background Hotel Bar Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816Po9G4yCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom 3D Photo Wallpaper Garden Balcony Sea View Wall Painting Poster  Bedroom Living Room Sofa Home Decor Mural Papier Peint">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Saf5ec6e2782641dd87fb729d16efafb4P.jpg' alt='Custom 3D Photo Wallpaper Garden Balcony Sea View Wall Painting Poster  Bedroom Living Room Sofa Home Decor Mural Papier Peint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Saf5ec6e2782641dd87fb729d16efafb4P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Window with Ocean View">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/66952/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='Open Window with Ocean View'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/66952/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

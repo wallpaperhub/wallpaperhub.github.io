@@ -1,0 +1,129 @@
+<title>Retro Star Wars iPhone Wallpaper: Nostalgic Designs</title>
+                    <meta name="description" content="Explore vintage Star Wars iPhone wallpapers that celebrate the classic saga. Download nostalgic designs featuring beloved characters for a unique look on your device. Perfect for fans wanting to showcase their love for Star Wars in a retro style!">
+                    <meta name="keywords" content="retro star wars iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/retro-star-wars-iphone-wallpaper">
+                            <span itemprop="name">retro star wars iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Star Wars iPhone Wallpaper: Nostalgic Designs</h1>
+                <p>Transform your iPhone with our collection of retro Star Wars wallpapers! Featuring iconic characters like Luke, Leia, and Darth Vader in vintage styles, these wallpapers add a nostalgic touch to your device. Perfect for fans who appreciate the classic elements of the beloved saga. Download now and bring the Force to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This has been my phone wallpaper FOREVER and i dont have the ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/yQYXrn3.jpg' alt='This has been my phone wallpaper FOREVER and i dont have the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/yQYXrn3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/2f/f5/ed2ff502a9e046db80b789d043a9f76a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/2f/f5/ed2ff502a9e046db80b789d043a9f76a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This has been my phone wallpaper FOREVER and i dont have the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mdjkht0hdn001.jpg' alt='This has been my phone wallpaper FOREVER and i dont have the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mdjkht0hdn001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/97/2e/fa972ebdaa38de7a8dd6845cbb532878.jpg' alt='Star Wars iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/97/2e/fa972ebdaa38de7a8dd6845cbb532878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Star Wars Wallpaper : r/phonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8039l2sii5541.jpg?width=640&crop=smart&auto=webp&s=e2d349c84396988c7ed16a5c3ce562e7c69c0b7f' alt='Retro Star Wars Wallpaper : r/phonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8039l2sii5541.jpg?width=640&crop=smart&auto=webp&s=e2d349c84396988c7ed16a5c3ce562e7c69c0b7f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper iphone x">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/3c/3f/e23c3f8e3765c0ceeea64a4f2908ae80.jpg' alt='wallpaper iphone x'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/3c/3f/e23c3f8e3765c0ceeea64a4f2908ae80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Trilogy iPhone 6/6s/7 wallpaper that I made myself. : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ibYtjIL0-3ffn0WWoJsRE_bQWzZD1GozPZA8JxxB4ak.jpg?width=640&crop=smart&auto=webp&s=05963be2452b6ef5836f4d49c41370755701ef6c' alt='Original Trilogy iPhone 6/6s/7 wallpaper that I made myself. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ibYtjIL0-3ffn0WWoJsRE_bQWzZD1GozPZA8JxxB4ak.jpg?width=640&crop=smart&auto=webp&s=05963be2452b6ef5836f4d49c41370755701ef6c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Star Wars iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5406166.jpg' alt='Vintage Star Wars iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5406166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars episode IV, episdoe 4, original series, star wars, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/682/1019/HD-wallpaper-star-wars-episode-iv-episdoe-4-original-series-star-wars.jpg' alt='Star Wars episode IV, episdoe 4, original series, star wars, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/682/1019/HD-wallpaper-star-wars-episode-iv-episdoe-4-original-series-star-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/11/The-Force-Awakens-Jakku.jpeg' alt='Star Wars wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/11/The-Force-Awakens-Jakku.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

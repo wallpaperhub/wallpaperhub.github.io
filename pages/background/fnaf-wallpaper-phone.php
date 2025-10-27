@@ -1,0 +1,129 @@
+<title>Stunning FNAF Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover amazing FNAF wallpapers perfect for your phone! From chilling to colorful designs, find the ideal background that reflects your love for the FNAF series. Upgrade your device's look with vibrant, high-quality images. Browse now for the latest and best FNAF wallpapers!">
+                    <meta name="keywords" content="fnaf wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnaf-wallpaper-phone">
+                            <span itemprop="name">fnaf wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning FNAF Wallpapers for Your Phone</h1>
+                <p>Transform your phone with captivating FNAF wallpapers! Choose from a wide array of designs featuring your favorite characters like Freddy, Bonnie, and Chica. Whether you prefer eerie scenes or colorful art, these wallpapers will give your device an exciting twist. Download now and showcase your love for the FNAF universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New and Shiny! (fnaf 2 phone wallpaper) : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1t9vk59mubz31.png?auto=webp&s=9b09349a6282aa6cb22118b796b9362b3258fb0f' alt='New and Shiny! (fnaf 2 phone wallpaper) : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1t9vk59mubz31.png?auto=webp&s=9b09349a6282aa6cb22118b796b9362b3258fb0f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More low-res FNaF phone wallpapers. Tell me what characters I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cn1n5skwbd281.jpg?width=640&crop=smart&auto=webp&s=71400658103e0c5c9f1b7ceb4ae589b1d1a1ce89' alt='More low-res FNaF phone wallpapers. Tell me what characters I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cn1n5skwbd281.jpg?width=640&crop=smart&auto=webp&s=71400658103e0c5c9f1b7ceb4ae589b1d1a1ce89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some FNAF wallpapers I made for iPhone! : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d4sbtg0fscb81.jpg' alt='Some FNAF wallpapers I made for iPhone! : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d4sbtg0fscb81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpapers for your phone Five nights at Freddy's">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/0b/00/c60b00c4501843ebcf33520a0e39249c.jpg' alt='wallpapers for your phone Five nights at Freddy's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/0b/00/c60b00c4501843ebcf33520a0e39249c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fnaf Phone Wallpapers | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7295593079355100422&location=0&aid=1988' alt='Fnaf Phone Wallpapers | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7295593079355100422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF 6am, videojuegos, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/17/101/HD-wallpaper-fnaf-6am-videojuegos.jpg' alt='FNAF 6am, videojuegos, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/17/101/HD-wallpaper-fnaf-6am-videojuegos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Five Nights At Freddys Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/five-nights-at-freddys-iphone-gokaq1t59w3hwuyh.jpg' alt='100+] Five Nights At Freddys Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/five-nights-at-freddys-iphone-gokaq1t59w3hwuyh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAF AR Freddy Fazbear phone wallpaper : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jod634odey651.jpg?auto=webp&s=3df3decf802a37b8b48802c1cab0aae6332de90b' alt='FNAF AR Freddy Fazbear phone wallpaper : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jod634odey651.jpg?auto=webp&s=3df3decf802a37b8b48802c1cab0aae6332de90b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freddy Breaks Glass Fnaf Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/ultimate-fnaf-characters-e4aqv7bsk0ch6qqa.webp' alt='Freddy Breaks Glass Fnaf Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/ultimate-fnaf-characters-e4aqv7bsk0ch6qqa.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fnaf #fivenightsatfreddys #bonniefnaf">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/2b/21/032b21c6a4df9c9f9c18647a13ce9288.jpg' alt='fnaf #fivenightsatfreddys #bonniefnaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/2b/21/032b21c6a4df9c9f9c18647a13ce9288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

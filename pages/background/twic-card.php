@@ -1,0 +1,129 @@
+<title>Essential Guide to the TWIC Card</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="twic card">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/twic-card">
+                            <span itemprop="name">twic card</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to the TWIC Card</h1>
+                <p>A TWIC card (Transportation Worker Identification Credential) is essential for anyone working in secure maritime environments. It serves as a government-issued ID, validating the holder's identity and allowing access to restricted port areas. Obtaining a TWIC card requires background checks and fingerprinting for security compliance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transportation Worker Identification Credential - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b0/TWIC_card.jpg' alt='Transportation Worker Identification Credential - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b0/TWIC_card.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The negative effects of TWIC | WorkBoat">
+                                <img itemprop="contentUrl url" src='https://s3.divcom.com/www.workboat.com/images/TWIC-card.png.large.1024x1024.png' alt='The negative effects of TWIC | WorkBoat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WorkBoat" />
+                                </span>
+                                <a href='https://s3.divcom.com/www.workboat.com/images/TWIC-card.png.large.1024x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New TWIC Card issued by Transportation Security Administration">
+                                <img itemprop="contentUrl url" src='https://seebald.com/images/New_TWIC_Card.png' alt='New TWIC Card issued by Transportation Security Administration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seebald" />
+                                </span>
+                                <a href='https://seebald.com/images/New_TWIC_Card.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Obtain a TWIC Card - Melton Truck Lines, Inc.">
+                                <img itemprop="contentUrl url" src='https://meltontruck.com/wp-content/uploads/2024/06/twic-card.png' alt='How to Obtain a TWIC Card - Melton Truck Lines, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melton Truck Lines" />
+                                </span>
+                                <a href='https://meltontruck.com/wp-content/uploads/2024/06/twic-card.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeland Security card could cost port workers up to $159">
+                                <img itemprop="contentUrl url" src='https://www.savannahnow.com/gcdn/authoring/2007/01/05/NSMN/ghows-GA-67d068df-133b-423b-b8ef-95e237f4200e-38f34000.jpeg' alt='Homeland Security card could cost port workers up to $159'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2070">
+                                <meta itemprop="height" content="1339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Savannah Morning News" />
+                                </span>
+                                <a href='https://www.savannahnow.com/gcdn/authoring/2007/01/05/NSMN/ghows-GA-67d068df-133b-423b-b8ef-95e237f4200e-38f34000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a TWIC Card and Why Truck Drivers Need One for Port Drayage?">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dnyHJ4E8-K4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvWDtVKSjqBPiZWUgwdI_-psHIaA' alt='What is a TWIC Card and Why Truck Drivers Need One for Port Drayage?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dnyHJ4E8-K4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvWDtVKSjqBPiZWUgwdI_-psHIaA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DVIDS - Images - Transportation Worker Identification Credential-TWIC">
+                                <img itemprop="contentUrl url" src='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1312/1084415/1000w_q95.jpg' alt='DVIDS - Images - Transportation Worker Identification Credential-TWIC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVIDS" />
+                                </span>
+                                <a href='https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1312/1084415/1000w_q95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Report: FBI Allowed Suspected Terrorists to Hold TWIC Cards">
+                                <img itemprop="contentUrl url" src='https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/TSA-sample-twic.90fd5a.png' alt='Report: FBI Allowed Suspected Terrorists to Hold TWIC Cards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Maritime Executive" />
+                                </span>
+                                <a href='https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/TSA-sample-twic.90fd5a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TWIC - RRTDC">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.rrtdcenter.com/wp-content/uploads/2022/10/TWIC-Card-Information-9.png?fit=791%2C1024&ssl=1' alt='TWIC - RRTDC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RRTDC" />
+                                </span>
+                                <a href='https://i0.wp.com/www.rrtdcenter.com/wp-content/uploads/2022/10/TWIC-Card-Information-9.png?fit=791%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TWIC Card Help - TWIC Card Help added a new photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=938408539652123' alt='TWIC Card Help - TWIC Card Help added a new photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=938408539652123' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

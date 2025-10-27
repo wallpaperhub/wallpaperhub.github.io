@@ -1,0 +1,129 @@
+<title>Can You Sell Insurance with a Felony? Understanding the Rules</title>
+                    <meta name="description" content="Wondering if you can sell insurance with a felony? Discover the state-specific regulations, potential challenges, and options for pursuing a career in insurance despite a criminal record. Get informed on your rights and opportunities today!">
+                    <meta name="keywords" content="can you sell insurance with a felony">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-you-sell-insurance-with-a-felony">
+                            <span itemprop="name">can you sell insurance with a felony</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can You Sell Insurance with a Felony? Understanding the Rules</h1>
+                <p>Yes, you can sell insurance with a felony conviction, but it may be challenging. Each state has different regulations around licensing for individuals with criminal records. Typically, a felony can disqualify you, but some states allow for waivers. It's essential to check specific state guidelines and explore rehabilitation options.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you get an insurance license with a misdemeanor, felony, DUI ...">
+                                <img itemprop="contentUrl url" src='https://davidduford.com/wp-content/uploads/2023/01/Can-I-Get-My-Insurance-License.jpg' alt='Can you get an insurance license with a misdemeanor, felony, DUI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Duford" />
+                                </span>
+                                <a href='https://davidduford.com/wp-content/uploads/2023/01/Can-I-Get-My-Insurance-License.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can A Felon Get A License To Sell Insurance? | Felony Record Hub">
+                                <img itemprop="contentUrl url" src='https://149792144.v2.pressablecdn.com/wp-content/uploads/2018/10/Can-a-Felon-Get-a-License-to-Sell-Insurance.gif' alt='Can A Felon Get A License To Sell Insurance? | Felony Record Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felony Record Hub" />
+                                </span>
+                                <a href='https://149792144.v2.pressablecdn.com/wp-content/uploads/2018/10/Can-a-Felon-Get-a-License-to-Sell-Insurance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reply to @k.ali1987 depends on the state and IA firms #StJudeDadPhotos  #recessionproof #insuranceadjuster #careertok #howtomakemoney  #howtomakesixfigures">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7111343910223351082&location=0&aid=1988' alt='Reply to @k.ali1987 depends on the state and IA firms #StJudeDadPhotos  #recessionproof #insuranceadjuster #careertok #howtomakemoney  #howtomakesixfigures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7111343910223351082&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#lifeinsuranceagent #finalexpense #termlifeinsurance #termlifeinsurance  #fyp #atlanta #douglasville #macon #savannahga #collegeparkga #charlotte  #houston #felons">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7268333668345810222&location=0&aid=1988' alt='#lifeinsuranceagent #finalexpense #termlifeinsurance #termlifeinsurance  #fyp #atlanta #douglasville #macon #savannahga #collegeparkga #charlotte  #houston #felons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7268333668345810222&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Would you buy insurance from a convicted thief or murderer? In Pa ...">
+                                <img itemprop="contentUrl url" src='https://www.inquirer.com/resizer/v2/NJNJLGYH45CAVHWFQIEWQA642U.jpg?auth=6f5b707499923ddbc30697697bb4fc72ebeaeb0a780c619094936131774e4a67&width=760&height=507&smart=true' alt='Would you buy insurance from a convicted thief or murderer? In Pa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Philadelphia Inquirer" />
+                                </span>
+                                <a href='https://www.inquirer.com/resizer/v2/NJNJLGYH45CAVHWFQIEWQA642U.jpg?auth=6f5b707499923ddbc30697697bb4fc72ebeaeb0a780c619094936131774e4a67&width=760&height=507&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can I Become an Insurance Agent With a Misdemeanor/Felony?">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/8b2zrsvkujhb/3B6NajddIOQwBsD6wmX1NJ/4216407db2345f5ba87565af647fd3a9/Insurance_Agent_with_Misdemeanor_or_Felony_Blog_Image.jpg?w=500' alt='Can I Become an Insurance Agent With a Misdemeanor/Felony?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AD Banker" />
+                                </span>
+                                <a href='https://images.ctfassets.net/8b2zrsvkujhb/3B6NajddIOQwBsD6wmX1NJ/4216407db2345f5ba87565af647fd3a9/Insurance_Agent_with_Misdemeanor_or_Felony_Blog_Image.jpg?w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can A Felon Become A Life Insurance Agent? | Felony Record Hub">
+                                <img itemprop="contentUrl url" src='https://www.felonyrecordhub.com/ezoimgfmt/149792144.v2.pressablecdn.com/wp-content/uploads/2021/04/Can-a-felon-become-a-life-insurance-agent-header.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2' alt='Can A Felon Become A Life Insurance Agent? | Felony Record Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="806">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Felony Record Hub" />
+                                </span>
+                                <a href='https://www.felonyrecordhub.com/ezoimgfmt/149792144.v2.pressablecdn.com/wp-content/uploads/2021/04/Can-a-felon-become-a-life-insurance-agent-header.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Penal Code 35.02 - Insurance Fraud">
+                                <img itemprop="contentUrl url" src='https://www.dwilawyerstexas.com/wp-content/uploads/2023/05/Texas-Penal-Code-35.02-Insurance-Fraud.png' alt='Texas Penal Code 35.02 - Insurance Fraud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trey Porter Law" />
+                                </span>
+                                <a href='https://www.dwilawyerstexas.com/wp-content/uploads/2023/05/Texas-Penal-Code-35.02-Insurance-Fraud.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you get life insurance with a criminal record in Canada?">
+                                <img itemprop="contentUrl url" src='https://blog.policyadvisor.com/wp-content/uploads/2023/09/criminal-conviction-infographic.jpg' alt='Can you get life insurance with a criminal record in Canada?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PolicyAdvisor" />
+                                </span>
+                                <a href='https://blog.policyadvisor.com/wp-content/uploads/2023/09/criminal-conviction-infographic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What disqualifies you from getting an insurance license? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-disqualifies-you-from-getting-an-insurance-license.webp' alt='What disqualifies you from getting an insurance license? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-disqualifies-you-from-getting-an-insurance-license.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Anime Wallpapers for Your Screen</title>
+                    <meta name="description" content="Explore a collection of eye-catching anime wallpapers perfect for any fan. Discover vibrant designs showcasing your favorite characters and scenes, optimized for quick and easy access on mobile devices. Enhance your screen's appeal with our unique and stylish wallpaper options today!">
+                    <meta name="keywords" content="cool anime wallpapers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-anime-wallpapers">
+                            <span itemprop="name">cool anime wallpapers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Wallpapers for Your Screen</h1>
+                <p>Discover stunning cool anime wallpapers that bring your favorite characters and scenes to life! Whether you are a fan of action, adventure, or romance, there’s a perfect wallpaper for every anime lover. Elevate your device with vibrant designs, ensuring your screen stands out with creativity and flair. Refresh your digital space today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Anime Cell Phones Wallpaper - 2025 Phone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/61/ee/a261ee8a299d3b2e77b80f253ee38601.jpg' alt='Cool Anime Cell Phones Wallpaper - 2025 Phone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/61/ee/a261ee8a299d3b2e77b80f253ee38601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Anime Wallpapers (68 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/3/1/5816715-1080x1920-samsung-hd-cool-anime-wallpaper-image.jpg' alt='Cool Anime Wallpapers (68 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/3/1/5816715-1080x1920-samsung-hd-cool-anime-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper HD on X: "Cool Anime Phone Wallpaper https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EU82sI0XYAI5tSC.jpg' alt='Phone Wallpaper HD on X: "Cool Anime Phone Wallpaper https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EU82sI0XYAI5tSC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Anime Wallpapers on Wallpaper Engine: A Visual Journey ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1610912652422-5DB14EV6QR7GBFBE9U2W/41.jpg' alt='Best Anime Wallpapers on Wallpaper Engine: A Visual Journey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1305">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1610912652422-5DB14EV6QR7GBFBE9U2W/41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Cool Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-cool-anime-6kbwj9794wpnsfr1.jpg' alt='500+] Cool Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-cool-anime-6kbwj9794wpnsfr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PHONE WALLPAPERS HD - ANIME GIRLS - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw11TPpJWZ5gBCjvMABZ7SIv7w6or5TUX9NUaiz0WvGzHtEb8u-g9xlYPUlR7EYo0mnOmjB5OAv_DLOMqMVcCeBIj0axOKjMVEPEzy-x3Y3KnF_sg010zTgYLzhcOSZG4pT-Yk-eNNx0kI/d/anime-girl-gas-mask-sci-fi-digital-art-heroscreen.cc-hd-mobile-8.2928.jpg' alt='PHONE WALLPAPERS HD - ANIME GIRLS - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw11TPpJWZ5gBCjvMABZ7SIv7w6or5TUX9NUaiz0WvGzHtEb8u-g9xlYPUlR7EYo0mnOmjB5OAv_DLOMqMVcCeBIj0axOKjMVEPEzy-x3Y3KnF_sg010zTgYLzhcOSZG4pT-Yk-eNNx0kI/d/anime-girl-gas-mask-sci-fi-digital-art-heroscreen.cc-hd-mobile-8.2928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enigmatic Ninja Underneath The Moonlight - Cool Anime Phone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/enigmatic-ninja-underneath-the-moonlight-cool-anime-phone-wallpaper-3xtl3lihw3rwebdv.webp' alt='Enigmatic Ninja Underneath The Moonlight - Cool Anime Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/enigmatic-ninja-underneath-the-moonlight-cool-anime-phone-wallpaper-3xtl3lihw3rwebdv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9200+] Anime Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-dbt18qjb7b1cstr1.jpg' alt='9200+] Anime Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-dbt18qjb7b1cstr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl HD Wallpapers Pro - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eF0s6Zx5L.jpg' alt='Anime Girl HD Wallpapers Pro - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eF0s6Zx5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striking Anime Character Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/striking-anime-character-wallpaper.webp' alt='Striking Anime Character Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/striking-anime-character-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

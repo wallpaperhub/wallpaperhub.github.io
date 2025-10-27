@@ -1,0 +1,129 @@
+<title>Cream and Gold Background: Elegance Redefined</title>
+                    <meta name="description" content="Discover the beauty of cream and gold backgrounds. Perfect for elegant designs, events, and branding. Explore how this luxurious combination adds sophistication and warmth to your projects, making them visually stunning and memorable. Ideal for weddings, graphic design, and more!">
+                    <meta name="keywords" content="cream and gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cream-and-gold-background">
+                            <span itemprop="name">cream and gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cream and Gold Background: Elegance Redefined</h1>
+                <p>Cream and gold backgrounds exude elegance and sophistication, making them perfect for various design projects. The soft cream base complemented by shimmering gold accents creates a luxurious atmosphere, ideal for weddings, branding, or interior decor. This color combination enhances visual appeal and evokes feelings of warmth and opulence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream And Gold Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-gold-hand-painted-alcohol-ink-background-design_1048-18235.jpg' alt='Cream And Gold Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-gold-hand-painted-alcohol-ink-background-design_1048-18235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="137,350 Cream Gold Background Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/luxury-gold-background-beige-white-600nw-2479983377.jpg' alt='137,350 Cream Gold Background Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/luxury-gold-background-beige-white-600nw-2479983377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pale gold background with beige or cream center and old brown ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/69/35/73/1000_F_169357306_DeRgGP4ol6Bn2mhKSL28YrG0Raxu6FdA.jpg' alt='pale gold background with beige or cream center and old brown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/69/35/73/1000_F_169357306_DeRgGP4ol6Bn2mhKSL28YrG0Raxu6FdA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turin industrial Wallpaper in Cream and Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-TurinIndustrial_CreamandGold_ILW50066_Thumbnail_WEB_65f59464-e808-4a0b-99ed-25d43852f98a.webp?v=1705932184&width=1024' alt='Turin industrial Wallpaper in Cream and Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-TurinIndustrial_CreamandGold_ILW50066_Thumbnail_WEB_65f59464-e808-4a0b-99ed-25d43852f98a.webp?v=1705932184&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Gold Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/622/533/non_2x/abstract-template-3d-cylinder-podium-elegant-golden-wave-shape-with-shiny-gold-line-sparkling-lighting-on-cream-background-luxury-style-vector.jpg' alt='Cream Gold Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/622/533/non_2x/abstract-template-3d-cylinder-podium-elegant-golden-wave-shape-with-shiny-gold-line-sparkling-lighting-on-cream-background-luxury-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,557 Cream Gold Background Soft Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cream-background-elegant-gold-bokeh-600nw-2446301719.jpg' alt='23,557 Cream Gold Background Soft Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cream-background-elegant-gold-bokeh-600nw-2446301719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream And Gold Textured Background Royalty Free SVG, Cliparts ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/mtmmarek/mtmmarek1403/mtmmarek140300123/27335723-cream-and-gold-textured-background.jpg' alt='Cream And Gold Textured Background Royalty Free SVG, Cliparts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="919">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/mtmmarek/mtmmarek1403/mtmmarek140300123/27335723-cream-and-gold-textured-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Marble Wallpaper in Cream with Gold Effect">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_CreamwithGoldEffect_ILW50314_Thumbnail_WEB_0e0e8724-161a-4dca-93d5-ffd8e00e944f.webp?crop=center&height=1024&v=1706004337&width=1024' alt='Modern Marble Wallpaper in Cream with Gold Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ModernMarble_CreamwithGoldEffect_ILW50314_Thumbnail_WEB_0e0e8724-161a-4dca-93d5-ffd8e00e944f.webp?crop=center&height=1024&v=1706004337&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract luxury wavy background with cream and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-luxury-wavy-background-with-cream-gold-color_71773-687.jpg' alt='Premium Vector | Abstract luxury wavy background with cream and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-luxury-wavy-background-with-cream-gold-color_71773-687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold And Cream Marble Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNjAtc2FzaS00MS5qcGc.jpg' alt='Gold And Cream Marble Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNjAtc2FzaS00MS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

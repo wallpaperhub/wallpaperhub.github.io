@@ -1,0 +1,129 @@
+<title>Beautiful Flower Funeral Backgrounds for Lasting Tributes</title>
+                    <meta name="description" content="Discover the perfect flower funeral background to honor your loved one's memory. Our selection features serene and vibrant floral arrangements, ideal for creating a comforting atmosphere during memorial services. Explore options that reflect their personality and celebrate their life beautifully.">
+                    <meta name="keywords" content="flower funeral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-funeral-background">
+                            <span itemprop="name">flower funeral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Flower Funeral Backgrounds for Lasting Tributes</h1>
+                <p>A flower funeral background symbolizes love and remembrance during times of loss. Soft hues of blossoms provide solace, while vibrant arrangements convey cherished memories. Choosing the right floral tribute can create a serene setting, reflecting the personality of the departed and offering comfort to those who gather to celebrate a life lived.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Funeral Backgrounds Pictures on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/6f/f7/cf6ff781f529822afb8237bc15a483fe.jpg' alt='   Funeral Backgrounds Pictures on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/6f/f7/cf6ff781f529822afb8237bc15a483fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Flowers White Background Images – Browse 29,257 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/28/32/82/360_F_328328288_gGPU2ZkVg5vAMaxpoq2ixqjoyBcEg02D.jpg' alt='Funeral Flowers White Background Images – Browse 29,257 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/28/32/82/360_F_328328288_gGPU2ZkVg5vAMaxpoq2ixqjoyBcEg02D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="774 Blue Funeral Background Flowers Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/spring-forest-white-flowers-primroses-beautiful-blue-bokeh-background-also-feasible-floral-funeral-background-generated-336383429.jpg' alt='774 Blue Funeral Background Flowers Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/spring-forest-white-flowers-primroses-beautiful-blue-bokeh-background-also-feasible-floral-funeral-background-generated-336383429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Flowers Images – Browse 103,598 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/84/47/11/360_F_284471109_yIsqtSOZpAQDWwkfK3QyiTxElLJDXbRL.jpg' alt='Funeral Flowers Images – Browse 103,598 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/84/47/11/360_F_284471109_yIsqtSOZpAQDWwkfK3QyiTxElLJDXbRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="774 Blue Funeral Background Flowers Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/spring-forest-white-flowers-primroses-beautiful-blue-bokeh-background-also-feasible-floral-funeral-background-generated-336383538.jpg' alt='774 Blue Funeral Background Flowers Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/spring-forest-white-flowers-primroses-beautiful-blue-bokeh-background-also-feasible-floral-funeral-background-generated-336383538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Flowers Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/233/478/small_2x/ai-generated-elegant-flower-background-with-copy-space-photo.jpeg' alt='Funeral Flowers Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/233/478/small_2x/ai-generated-elegant-flower-background-with-copy-space-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Floral frame pink and purple flowers Memorial Background Heaven  Backdrop Memorial Template Printable digital download png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44964562/r/il/fc2614/5200063224/il_fullxfull.5200063224_co9b.jpg' alt='Pink Purple Floral frame pink and purple flowers Memorial Background Heaven  Backdrop Memorial Template Printable digital download png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44964562/r/il/fc2614/5200063224/il_fullxfull.5200063224_co9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Flowers Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/white-liles-flowers-mourning-funeral-260nw-2274684345.jpg' alt='Funeral Flowers Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/white-liles-flowers-mourning-funeral-260nw-2274684345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ White Funeral Flowers Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/507689568/photo/%EF%BD%8C%EF%BD%89%EF%BD%8C%EF%BD%89%EF%BD%85%EF%BD%93-and-others-in-a-white-background.jpg?s=612x612&w=0&k=20&c=0GOoz4mbWLbTgw4tsloDr8s7KchKdHltUE16ODn9Q94=' alt='8,600+ White Funeral Flowers Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/507689568/photo/%EF%BD%8C%EF%BD%89%EF%BD%8C%EF%BD%89%EF%BD%85%EF%BD%93-and-others-in-a-white-background.jpg?s=612x612&w=0&k=20&c=0GOoz4mbWLbTgw4tsloDr8s7KchKdHltUE16ODn9Q94=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Flowers White Background Images – Browse 29,257 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/99/06/43/360_F_599064344_J8nzc9LI2gfoIhpRJPv8oZnH1vOzb155.jpg' alt='Funeral Flowers White Background Images – Browse 29,257 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/99/06/43/360_F_599064344_J8nzc9LI2gfoIhpRJPv8oZnH1vOzb155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

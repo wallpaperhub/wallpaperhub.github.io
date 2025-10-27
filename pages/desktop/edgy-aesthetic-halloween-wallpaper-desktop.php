@@ -1,0 +1,129 @@
+<title>Edgy Aesthetic Halloween Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover the perfect edgy aesthetic Halloween wallpapers for your desktop! Elevate your computer's look with captivating designs that blend darkness and artistry, creating a chilling yet stylish vibe. Perfect for Halloween enthusiasts who want to showcase their unique style. Download your favorite now!">
+                    <meta name="keywords" content="edgy aesthetic halloween wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/edgy-aesthetic-halloween-wallpaper-desktop">
+                            <span itemprop="name">edgy aesthetic halloween wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy Aesthetic Halloween Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop this Halloween with our edgy aesthetic wallpapers. Featuring dark, moody colors, intricate designs, and a touch of the macabre, these wallpapers create an atmosphere of mystery and intrigue. Perfect for those who love to embrace the spirit of Halloween all season long! Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuYZ3qnoQ/1/0/1600w/canva-minimalist-illustrative-halloween-desktop-wallpaper-YfcoNvm5jUQ.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuYZ3qnoQ/1/0/1600w/canva-minimalist-illustrative-halloween-desktop-wallpaper-YfcoNvm5jUQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPCA1ZUW4/4/0/1600w/canva-black-and-white-grunge-illustrated-halloween-desktop-wallpaper-A6gSplDeR-I.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPCA1ZUW4/4/0/1600w/canva-black-and-white-grunge-illustrated-halloween-desktop-wallpaper-A6gSplDeR-I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Halloween Aesthetic Wallpaper HD - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/85/cb/b485cb235b2631230b3e014c0b6c113e.jpg' alt='Best Halloween Aesthetic Wallpaper HD - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/85/cb/b485cb235b2631230b3e014c0b6c113e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEr0yp2XoA/1/0/1600w/canva-black-and-white-modern-occult-halloween-desktop-wallpaper-_dFQhCme7aw.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEr0yp2XoA/1/0/1600w/canva-black-and-white-modern-occult-halloween-desktop-wallpaper-_dFQhCme7aw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween macbook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/56/eb/e756ebfbdbd3772d475592e45a110232.jpg' alt='halloween macbook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/56/eb/e756ebfbdbd3772d475592e45a110232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy October  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/b0/0e/a7b00ea05bbe2ca54202b674db391868.jpg' alt='Happy October  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/b0/0e/a7b00ea05bbe2ca54202b674db391868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/orange-collage-spooky-aesthetic-for-computer-hg7g177m1gmzz49i.jpg' alt='Halloween Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/orange-collage-spooky-aesthetic-for-computer-hg7g177m1gmzz49i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spooky wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/4b/30/e74b3092ba4a852540e80ad89b943336.jpg' alt='spooky wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/4b/30/e74b3092ba4a852540e80ad89b943336.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

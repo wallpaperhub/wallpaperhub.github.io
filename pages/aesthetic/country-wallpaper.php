@@ -1,0 +1,129 @@
+<title>Country Wallpaper: Rustic Charm for Every Room</title>
+                    <meta name="description" content="Discover the beauty of country wallpaper! Perfect for creating a warm, rustic atmosphere in your home, our selection features floral and checkered patterns to elevate your decor. Transform your living space with charming designs today!">
+                    <meta name="keywords" content="country wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/country-wallpaper">
+                            <span itemprop="name">country wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Country Wallpaper: Rustic Charm for Every Room</h1>
+                <p>Transform your space with country wallpaper, evoking warmth and rustic charm. Perfect for any room, these designs feature floral patterns, checkered prints, and rustic scenes to bring the essence of the countryside indoors. From cozy cottages to modern farmhouse styles, country wallpaper offers versatility and a touch of nature's beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' alt='Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Country Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/country-vubqh2zpbsg92qex.jpg' alt='300+] Country Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/country-vubqh2zpbsg92qex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE COUNTRY WALLPAPERS | Gallery posted by   ♡Sydnee♡   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7338958494844518918&index=2&sign=5b89cf0e4bf6b5fc53fd393b47068bbc' alt='CUTE COUNTRY WALLPAPERS | Gallery posted by   ♡Sydnee♡   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7338958494844518918&index=2&sign=5b89cf0e4bf6b5fc53fd393b47068bbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Country Wallpapers [18+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/146/american-country-rustic-wallpaper-1920x1080.jpg' alt='Rustic Country Wallpapers [18+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/146/american-country-rustic-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool country wallpapers hotsell">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-country-vintage-collage-2rxfd421k099ve2f.jpg' alt='Cool country wallpapers hotsell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.aqualumyachts.com.ar" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-country-vintage-collage-2rxfd421k099ve2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Country MusicWestern wallpaper for computer Western ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Ql9mJWGZL.jpg' alt='Amazon.com: Country MusicWestern wallpaper for computer Western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Ql9mJWGZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Country Wallpapers ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e0/db/87/e0db87ac046e5ad18949a58f7f270ccf.jpg' alt='53 Country Wallpapers ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e0/db/87/e0db87ac046e5ad18949a58f7f270ccf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Scene Wallpapers [37+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/228/country-scene-wallpaper-2560x1600.jpg' alt='Country Scene Wallpapers [37+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/228/country-scene-wallpaper-2560x1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="western wallpaper!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/f7/43/56f74339f62b5d530bb36e64a19d647e.jpg' alt='western wallpaper!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/f7/43/56f74339f62b5d530bb36e64a19d647e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country store wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/country-iphone-f65rkwn9sg3dfxhb.jpg' alt='Country store wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/country-iphone-f65rkwn9sg3dfxhb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

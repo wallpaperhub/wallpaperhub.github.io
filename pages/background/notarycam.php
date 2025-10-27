@@ -1,0 +1,129 @@
+<title>Streamline Notarization with NotaryCam: Fast & Secure Online Service</title>
+                    <meta name="description" content="Experience hassle-free notarization with NotaryCam. Get documents notarized online swiftly and securely via video conferencing with certified notaries. Ideal for individuals and businesses, NotaryCam brings the notary office to you.">
+                    <meta name="keywords" content="notarycam">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/notarycam">
+                            <span itemprop="name">notarycam</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Notarization with NotaryCam: Fast & Secure Online Service</h1>
+                <p>NotaryCam is a leading online notary service that allows users to get documents notarized from the comfort of their homes. With secure video technology, clients can interact with certified notaries in real-time, ensuring convenience and efficiency. NotaryCam is ideal for individuals and businesses seeking reliable notary services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NotaryCam - Notarize your document(s) on demand, 24/7/365 - .">
+                                <img itemprop="contentUrl url" src='https://reach150-res.cloudinary.com/image/upload/v1/logo/qpefyl8kqjonei672614' alt='NotaryCam - Notarize your document(s) on demand, 24/7/365 - .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reach150" />
+                                </span>
+                                <a href='https://reach150-res.cloudinary.com/image/upload/v1/logo/qpefyl8kqjonei672614' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NotaryCam | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQEQkhSl0stFhw/company-logo_200_200/company-logo_200_200/0/1698088172551/notarycam_logo?e=2147483647&v=beta&t=m4MGXvVzYjthpZ0YHI9X8jIBhZjs2oEbYc_OvdedH6g' alt='NotaryCam | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQEQkhSl0stFhw/company-logo_200_200/company-logo_200_200/0/1698088172551/notarycam_logo?e=2147483647&v=beta&t=m4MGXvVzYjthpZ0YHI9X8jIBhZjs2oEbYc_OvdedH6g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NotaryCam approved to provide eNotary and RON services for ...">
+                                <img itemprop="contentUrl url" src='https://www.send2press.com/wire/images/22-0303-notarycam-800x600.jpg' alt='NotaryCam approved to provide eNotary and RON services for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depth Public Relations" />
+                                </span>
+                                <a href='https://www.send2press.com/wire/images/22-0303-notarycam-800x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Notary Public | NotaryCam">
+                                <img itemprop="contentUrl url" src='https://www.notarycam.com/wp-content/uploads/2015/10/NotaryCam-NO-Logo-ONLINE-ANYTIME-SMALL.png' alt='Online Notary Public | NotaryCam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.notarycam.com" />
+                                </span>
+                                <a href='https://www.notarycam.com/wp-content/uploads/2015/10/NotaryCam-NO-Logo-ONLINE-ANYTIME-SMALL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for NotaryCam">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063827821764' alt='Profile for NotaryCam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063827821764' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ALTA - ALTA Marketplace (Buyers Guide)">
+                                <img itemprop="contentUrl url" src='https://www.alta.org/images/wplogos/1148089.png' alt='ALTA - ALTA Marketplace (Buyers Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Land Title Association" />
+                                </span>
+                                <a href='https://www.alta.org/images/wplogos/1148089.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Close from Anywhere with NotaryCam">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nzoZt3HIKiM/maxresdefault.jpg' alt='Close from Anywhere with NotaryCam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nzoZt3HIKiM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accurate Group Enhances Its NotaryWorks Complete Notary Solution ...">
+                                <img itemprop="contentUrl url" src='https://www.send2press.com/wire/images/18-0521-notarycam-696x522.jpg' alt='Accurate Group Enhances Its NotaryWorks Complete Notary Solution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Send2Press" />
+                                </span>
+                                <a href='https://www.send2press.com/wire/images/18-0521-notarycam-696x522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remote Online Notary Services: The Modern Way to Verify Documents ...">
+                                <img itemprop="contentUrl url" src='https://www.notarycam.com/wp-content/uploads/2023/08/Online-Notary-The-Future-of-Document-Verification.png' alt='Remote Online Notary Services: The Modern Way to Verify Documents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NotaryCam" />
+                                </span>
+                                <a href='https://www.notarycam.com/wp-content/uploads/2023/08/Online-Notary-The-Future-of-Document-Verification.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NotaryCam Edited 1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9_l8sIrjuz4/maxresdefault.jpg' alt='NotaryCam Edited 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9_l8sIrjuz4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

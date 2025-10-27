@@ -1,0 +1,129 @@
+<title>Stunning 3D Metro 2033 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking 3D Metro 2033 wallpapers that elevate your device's aesthetic. Perfect for fans of the game, these vibrant designs capture the dark, immersive atmosphere of the Metro universe. Download your favorites now and bring your screen to life with unforgettable visuals!">
+                    <meta name="keywords" content="3d metro 2033 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-metro-2033-wallpaper">
+                            <span itemprop="name">3d metro 2033 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Metro 2033 Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning 3D Metro 2033 wallpapers that bring the post-apocalyptic world to life. Immerse yourself in the gorgeous graphics and dynamic imagery inspired by the iconic video game. Perfect for fans and gamers alike, these wallpapers will energize your device and showcase your love for the Metro universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/6/e/1825392-3840x2160-desktop-4k-metro-2033-wallpaper-image.jpg' alt='Metro 2033 Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/6/e/1825392-3840x2160-desktop-4k-metro-2033-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Metro 2033 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/metro-2033-n6hk4guhonspmuok.jpg' alt='100+] Metro 2033 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/metro-2033-n6hk4guhonspmuok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore a Post-Apocalyptic World Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/metro-2033-redux-wob6q8hf3ajf9lv6.jpg' alt='Download Explore a Post-Apocalyptic World Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/metro-2033-redux-wob6q8hf3ajf9lv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="metro redux, Metro 2033, темно, Metro: Last Light, Deep Silver, 4A ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/1f/77/2f1f7756d5c1268e54fb740f4be56501.jpg' alt='metro redux, Metro 2033, темно, Metro: Last Light, Deep Silver, 4A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/1f/77/2f1f7756d5c1268e54fb740f4be56501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4k Metro 2033 Soldier Looking At Escalator Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-metro-2033-soldier-looking-at-escalator-z8v1opl30ykoz3oj.jpg' alt='Download 4k Metro 2033 Soldier Looking At Escalator Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-metro-2033-soldier-looking-at-escalator-z8v1opl30ykoz3oj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/de/68/eb/de68eb023906d076850542d757506b01.jpg' alt='Metro 2033'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/de/68/eb/de68eb023906d076850542d757506b01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Metro 2033 Redux Third Person Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/metro-2033-redux-2r8dxxdwudbs5r3m.jpg' alt='Download Metro 2033 Redux Third Person Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/metro-2033-redux-2r8dxxdwudbs5r3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="metro 2033, arms, art Wallpaper, HD Games 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/metro-2033-arms-art_ZmdpZmyUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='metro 2033, arms, art Wallpaper, HD Games 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/metro-2033-arms-art_ZmdpZmyUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/d/8/1825736-2560x1600-desktop-hd-metro-2033-wallpaper.jpg' alt='Metro 2033 Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/d/8/1825736-2560x1600-desktop-hd-metro-2033-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro 2033 is free to keep on Steam right now, and the rest of the ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/metro-2033-original.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' alt='Metro 2033 is free to keep on Steam right now, and the rest of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/metro-2033-original.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

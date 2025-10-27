@@ -1,0 +1,129 @@
+<title>Chic Pink Trellis Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the elegance of pink trellis wallpaper, designed to elevate your home decor. Perfect for any room, this stylish wallpaper adds warmth and sophistication while enhancing your interior's charm. Shop now for a beautiful transformation!">
+                    <meta name="keywords" content="pink trellis wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-trellis-wallpaper">
+                            <span itemprop="name">pink trellis wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Trellis Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with pink trellis wallpaper, perfect for adding a touch of elegance and charm to any room. The delicate trellis design complements various decor styles, from modern to traditional. Ideal for a nursery, bedroom, or living area, it brings warmth and sophistication while creating a serene atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YS9101, 8080 Off white pink trellis geometric pattern geo contemporary  Wallpaper 3D">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/files/OffwhitepinktrellisgeometricpatterngeocontemporaryWallpaper3D.webp?v=1716115849' alt='YS9101, 8080 Off white pink trellis geometric pattern geo contemporary  Wallpaper 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/files/OffwhitepinktrellisgeometricpatterngeocontemporaryWallpaper3D.webp?v=1716115849' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trellis Wallpaper - White Pink - 2 ft x 9 ft - 6pk - by Simple Shapes ® -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/714gIhH6ttL.jpg' alt='Trellis Wallpaper - White Pink - 2 ft x 9 ft - 6pk - by Simple Shapes ® -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/714gIhH6ttL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Posy Trellis Wallpaper in Vintage Pink and Sage">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/PosyTrellis_VintagePinkandSage_ILW50587_Thumbnail_WEB_da8489ab-671a-40eb-ae27-0cd13b42cac0.webp?v=1723473736&width=1024' alt='Posy Trellis Wallpaper in Vintage Pink and Sage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/PosyTrellis_VintagePinkandSage_ILW50587_Thumbnail_WEB_da8489ab-671a-40eb-ae27-0cd13b42cac0.webp?v=1723473736&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica's Floral Trellis Wallpaper - Pink Florals">
+                                <img itemprop="contentUrl url" src='https://ayarahome.com/cdn/shop/files/Hunters-of-Happiness-Wallpaper-Trellis-Bouquet-PinkFlorals-Mockup1_1500x.jpg?v=1695662952' alt='Jessica's Floral Trellis Wallpaper - Pink Florals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='https://ayarahome.com/cdn/shop/files/Hunters-of-Happiness-Wallpaper-Trellis-Bouquet-PinkFlorals-Mockup1_1500x.jpg?v=1695662952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Bamboo Trellis Repositionable Peel 'n Stick Wallpaper Custom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9696664/r/il/b203f3/1893845350/il_570xN.1893845350_cyea.jpg' alt='Pink Bamboo Trellis Repositionable Peel 'n Stick Wallpaper Custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9696664/r/il/b203f3/1893845350/il_570xN.1893845350_cyea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Trellis Wallpaper, Nursery Wallpaper Pink Bow Peel and Stick or  Traditional Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.scandihomedeco.com/cdn/shop/files/pink-trellis-wallpaper-nursery-wallpaper-pink-bow-peel-and-stick-or-traditional-wallpapersc186-231359.jpg?v=1715970663' alt='Pink Trellis Wallpaper, Nursery Wallpaper Pink Bow Peel and Stick or  Traditional Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scandi Home" />
+                                </span>
+                                <a href='http://www.scandihomedeco.com/cdn/shop/files/pink-trellis-wallpaper-nursery-wallpaper-pink-bow-peel-and-stick-or-traditional-wallpapersc186-231359.jpg?v=1715970663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Bow Light Pink Ribbon Trellis Wallpaper – Hill Home Decor">
+                                <img itemprop="contentUrl url" src='https://www.hillhomedecor.com/cdn/shop/products/0055030_baby-bow-light-pink-ribbon-trellis-wallpaper_400x.jpg?v=1628382534' alt='Baby Bow Light Pink Ribbon Trellis Wallpaper – Hill Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hill Home Decor" />
+                                </span>
+                                <a href='https://www.hillhomedecor.com/cdn/shop/products/0055030_baby-bow-light-pink-ribbon-trellis-wallpaper_400x.jpg?v=1628382534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Trellis Negative Dusty Pink Wallpaper from the Secret Garden ...">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/G78521_800x.jpg?v=1651931880' alt='Shop Trellis Negative Dusty Pink Wallpaper from the Secret Garden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/G78521_800x.jpg?v=1651931880' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YS9101, 8080 Off white pink trellis geometric pattern geo contemporary  Wallpaper 3D">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/files/OffwhitepinktrellisgeometricpatterngeocontemporaryWallpaper3D4.webp?v=1716115857' alt='YS9101, 8080 Off white pink trellis geometric pattern geo contemporary  Wallpaper 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/files/OffwhitepinktrellisgeometricpatterngeocontemporaryWallpaper3D4.webp?v=1716115857' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Trellis Pastel Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/9203_IMG1_pink_closeup.jpg?v=1677878830' alt='Modern Trellis Pastel Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/9203_IMG1_pink_closeup.jpg?v=1677878830' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

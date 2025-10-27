@@ -1,0 +1,129 @@
+<title>KSI: The Rise of a YouTube Superstar</title>
+                    <meta name="description" content="Discover the journey of KSI, a YouTube sensation turned rapper and boxer. Explore his unique blend of entertainment, music, and philanthropy, along with his impact on mental health awareness in today's digital age. Dive into KSI's world and witness his evolution from gaming to global stardom!">
+                    <meta name="keywords" content="ksi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ksi">
+                            <span itemprop="name">ksi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>KSI: The Rise of a YouTube Superstar</h1>
+                <p>KSI, or Olajide William Olatunji, is a British YouTuber, rapper, and boxer. He gained fame for his entertaining videos about gaming and boxing challenges, eventually branching into music with hit songs that merge hip-hop and grime. KSI also engages in philanthropy and promotes mental health awareness, leveraging his platform for positivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8b/KSI_in_2024.png' alt='KSI - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8b/KSI_in_2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI NET WORTH: Why People are Exciting About It?">
+                                <img itemprop="contentUrl url" src='https://honkmagazine.com/wp-content/uploads/2021/11/05082021_KSI_HP.jpg' alt='KSI NET WORTH: Why People are Exciting About It?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Honk Magazine" />
+                                </span>
+                                <a href='https://honkmagazine.com/wp-content/uploads/2021/11/05082021_KSI_HP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI Songs | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebcb4ae963f0c01900f3e17712' alt='KSI Songs | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebcb4ae963f0c01900f3e17712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olajide Olatunji (KSI)">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/6511f2beeb0959e7a5d9ab11/0x0.jpg?format=jpg&crop=1375,1374,x862,y128,safe&height=416&width=416&fit=bounds' alt='Olajide Olatunji (KSI)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/6511f2beeb0959e7a5d9ab11/0x0.jpg?format=jpg&crop=1375,1374,x862,y128,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI: 'Money gravitates towards me' | Music | The Guardian">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/2ae376bc65832b5156edc85e7f5cb05ead87e252/0_896_4912_2948/master/4912.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fd92bc11cde0fbceb2aa75df3c55c7ec' alt='KSI: 'Money gravitates towards me' | Music | The Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/2ae376bc65832b5156edc85e7f5cb05ead87e252/0_896_4912_2948/master/4912.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fd92bc11cde0fbceb2aa75df3c55c7ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI | WFL Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/wfl/images/c/ca/KSI.jpg/revision/latest?cb=20230224183635' alt='KSI | WFL Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WFL Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/wfl/images/c/ca/KSI.jpg/revision/latest?cb=20230224183635' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album reviews: KSI – All Over the Place and Willow – Lately I Feel ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2021/07/15/13/A16I9125-Edit.jpg' alt='Album reviews: KSI – All Over the Place and Willow – Lately I Feel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2021/07/15/13/A16I9125-Edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI net worth revealed in accounts after Prime energy drink ...">
+                                <img itemprop="contentUrl url" src='https://i2-prod.birminghammail.co.uk/article26074895.ece/ALTERNATES/s1200b/0_KSI-v-FaZe-Temperrr-Press-Conference-BOXPARK-Wembley.jpg' alt='KSI net worth revealed in accounts after Prime energy drink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birmingham Live" />
+                                </span>
+                                <a href='https://i2-prod.birminghammail.co.uk/article26074895.ece/ALTERNATES/s1200b/0_KSI-v-FaZe-Temperrr-Press-Conference-BOXPARK-Wembley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boxer and YouTuber KSI on Becoming the GOAT and Building a Legacy">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ksi-mens-helth-0706-col-preview-1665416092.jpg?resize=980:*' alt='Boxer and YouTuber KSI on Becoming the GOAT and Building a Legacy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ksi-mens-helth-0706-col-preview-1665416092.jpg?resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KSI: In Real Life (2023) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzRlNDliYjAtNmU4MC00MDdhLWEyNTgtNDg3YjhjMmI1OTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='KSI: In Real Life (2023) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzRlNDliYjAtNmU4MC00MDdhLWEyNTgtNDg3YjhjMmI1OTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

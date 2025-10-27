@@ -1,0 +1,129 @@
+<title>"Sleek Grey Geometric Backgrounds for Modern Designs"</title>
+                    <meta name="description" content="Discover the elegance of grey geometric backgrounds! Perfect for elevating your design projects with a modern touch. Ideal for websites, presentations, and graphics, our selection enhances visual appeal effortlessly. Explore now for a stylish backdrop that complements any theme.">
+                    <meta name="keywords" content="grey geometric background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grey-geometric-background">
+                            <span itemprop="name">grey geometric background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Sleek Grey Geometric Backgrounds for Modern Designs"</h1>
+                <p>A grey geometric background offers a sleek and modern aesthetic, perfect for both digital and print designs. Its subtle patterns and varying shades of grey create depth and visual interest, making it ideal for websites, presentations, and graphics. Whether for a professional setting or artistic projects, this background enhances the overall appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Background Gray Images – Browse 1,845,937 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/98/84/48/360_F_398844892_Qfna2C1pxqwo9DEESAHT7IzUvlDqHxBY.jpg' alt='Geometric Background Gray Images – Browse 1,845,937 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/98/84/48/360_F_398844892_Qfna2C1pxqwo9DEESAHT7IzUvlDqHxBY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Geometric Grey Images – Browse 1,827,702 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/15/88/79/360_F_215887984_QCWlnuvmuE7jjf5ivR6tEo40H9HlX6Po.jpg' alt='Background Geometric Grey Images – Browse 1,827,702 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/15/88/79/360_F_215887984_QCWlnuvmuE7jjf5ivR6tEo40H9HlX6Po.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Geometric grey background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-grey-background_1055-3147.jpg' alt='Free Vector | Geometric grey background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-grey-background_1055-3147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Geometric Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/694/594/small/abstract-gray-geometric-banner-background.jpg' alt='Gray Geometric Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/694/594/small/abstract-gray-geometric-banner-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Geometric Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/015/025/763/small/v2-white-gradient-background-diamond-shape-pattern-vector.jpg' alt='Grey Geometric Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="315">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/015/025/763/small/v2-white-gradient-background-diamond-shape-pattern-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Geometric Polygonal Background Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/73272/raw/434f7358ff029e0ddfab6b3bdc3773a4-grey-geometric-polygonal-background.jpg' alt='Grey Geometric Polygonal Background Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/73272/raw/434f7358ff029e0ddfab6b3bdc3773a4-grey-geometric-polygonal-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Geometric Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/100/606/small/abstract-geometric-white-and-gray-on-light-silver-gradient-background-modern-banner-design-illustration-free-vector.jpg' alt='Gray Geometric Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/100/606/small/abstract-geometric-white-and-gray-on-light-silver-gradient-background-modern-banner-design-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | 3d grey geometric background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/3d-grey-geometric-background_108964-301.jpg' alt='Premium Vector | 3d grey geometric background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/3d-grey-geometric-background_108964-301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grey Geometric Shape Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/05/882-01-e1655921607799.jpg?resize=1000%2C750&ssl=1' alt='Light Grey Geometric Shape Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Backgrounds for Download" />
+                                </span>
+                                <a href='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/05/882-01-e1655921607799.jpg?resize=1000%2C750&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gray geometric texture wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/542/720/HD-wallpaper-triangles-textures-gray-triangles-geometry-gray-backgrounds-gray-abstract-background-geometric-shapes-triangles.jpg' alt='HD gray geometric texture wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/542/720/HD-wallpaper-triangles-textures-gray-triangles-geometry-gray-backgrounds-gray-abstract-background-geometric-shapes-triangles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

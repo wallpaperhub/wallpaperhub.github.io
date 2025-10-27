@@ -1,0 +1,129 @@
+<title>Star Wars Blueprint Wallpaper: Design Your Galaxy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="star wars blueprint wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-blueprint-wallpaper">
+                            <span itemprop="name">star wars blueprint wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Blueprint Wallpaper: Design Your Galaxy</h1>
+                <p>Transform your space with stunning Star Wars blueprint wallpaper! Perfect for fans and decorators alike, these intricate designs showcase iconic ships and vehicles in a unique, blueprint style. Ideal for a home theater, bedroom, or office, this wallpaper adds a personalized touch that celebrates your love for the galaxy far, far away.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Star Wars Blueprint Blue Toile Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK11036WP - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6c453b4c-4523-4714-8552-d12781241442/svn/roommates-wallpaper-rolls-rmk11036wp-64_1000.jpg' alt='RoomMates Star Wars Blueprint Blue Toile Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK11036WP - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6c453b4c-4523-4714-8552-d12781241442/svn/roommates-wallpaper-rolls-rmk11036wp-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Non-woven photomural "Star Wars Blueprint Dark" (DX8-077) from ...">
+                                <img itemprop="contentUrl url" src='https://www.photomural.com/media/catalog/product/cache/2/thumbnail/9df78eab33525d08d6e5fb8d27136e95/D/X/DX8-077_1570026661_3.jpg' alt='Non-woven photomural "Star Wars Blueprint Dark" (DX8-077) from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photomural.com" />
+                                </span>
+                                <a href='https://www.photomural.com/media/catalog/product/cache/2/thumbnail/9df78eab33525d08d6e5fb8d27136e95/D/X/DX8-077_1570026661_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Blueprint Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11036WP_productspecialeffectsex_76c9d092-1980-4561-8b27-71bac478c749.jpg?v=1703809635&width=800' alt='Star Wars Blueprint Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11036WP_productspecialeffectsex_76c9d092-1980-4561-8b27-71bac478c749.jpg?v=1703809635&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Blueprint Blue Peel & Stick Wallpaper by RoomMates ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KoSz8swWL._AC_UF350,350_QL80_.jpg' alt='Star Wars Blueprint Blue Peel & Stick Wallpaper by RoomMates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KoSz8swWL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural 400 x 280cm Kids bedroom photo wallpaper Star Wars Blueprint Dark">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/kT8AAOSwUl5hgD-3/s-l1200.jpg' alt='Wall Mural 400 x 280cm Kids bedroom photo wallpaper Star Wars Blueprint Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="971">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/kT8AAOSwUl5hgD-3/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars X-Wing Blueprint">
+                                <img itemprop="contentUrl url" src='https://i.icanvas.com/FHC190?d=2&sh=h&t=1734534418' alt='Star Wars X-Wing Blueprint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCanvas" />
+                                </span>
+                                <a href='https://i.icanvas.com/FHC190?d=2&sh=h&t=1734534418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Blueprints, Star Wars Poster, Star Wars Schematics ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31436889/r/il/a2e5f7/4310448899/il_fullxfull.4310448899_mcou.jpg' alt='Star Wars Blueprints, Star Wars Poster, Star Wars Schematics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31436889/r/il/a2e5f7/4310448899/il_fullxfull.4310448899_mcou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RMK11036WP Star Wars Ships Blueprint Peel & Stick Wallpaper – US ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/RMK11036WP-blue-print-star-wars-peel-and-stick-wallpaper-white-black-1.jpg?v=1579904279&width=1946' alt='RMK11036WP Star Wars Ships Blueprint Peel & Stick Wallpaper – US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/RMK11036WP-blue-print-star-wars-peel-and-stick-wallpaper-white-black-1.jpg?v=1579904279&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does anyone know where I could get full resolution Star Wars ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/zKkDESC.jpg' alt='Does anyone know where I could get full resolution Star Wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1822">
+                                <meta itemprop="height" content="1018">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/zKkDESC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper for Home Decoration Kitchen Star Wars Decor  Blueprint Wallpaper Removable Vinyl Self Adhesive Shelf Paper & Drawer  Liner Roll ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-j4CIjokL.jpg' alt='Peel and Stick Wallpaper for Home Decoration Kitchen Star Wars Decor  Blueprint Wallpaper Removable Vinyl Self Adhesive Shelf Paper & Drawer  Liner Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-j4CIjokL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

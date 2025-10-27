@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Jungle Animals</title>
+                    <meta name="description" content="Discover the fascinating world of jungle animals! From majestic tigers to colorful parrots, learn about the incredible creatures that inhabit the dense forests. Delve into their behaviors and adaptations that help them thrive in the wild. Join us on this exciting adventure into the heart of nature!">
+                    <meta name="keywords" content="jungle animals">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jungle-animals">
+                            <span itemprop="name">jungle animals</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Jungle Animals</h1>
+                <p>Jungle animals are diverse and fascinating, from the mighty tigers and stealthy leopards to playful monkeys swinging through the trees. Colorful birds like parrots and exotic reptiles such as snakes and lizards add to the vibrant ecosystem. Discover how these creatures adapt to their lush environment while maintaining a delicate balance in nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Animals List: Discover the Vocabulary of Jungle Animal Names">
+                                <img itemprop="contentUrl url" src='https://promova.com/content/medium_jungle_animals_list_cb136724b6.png' alt='Jungle Animals List: Discover the Vocabulary of Jungle Animal Names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Promova" />
+                                </span>
+                                <a href='https://promova.com/content/medium_jungle_animals_list_cb136724b6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Animals List in English • 7ESL">
+                                <img itemprop="contentUrl url" src='https://7esl.com/wp-content/uploads/2021/06/Jungle-Animals.jpg' alt='Jungle Animals List in English • 7ESL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="7ESL" />
+                                </span>
+                                <a href='https://7esl.com/wp-content/uploads/2021/06/Jungle-Animals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Fuutreo 36 Pcs Jungle Animals Cutouts Jungle Bulletin Board  Decorations Realistic Rainforest Animals Figures Cutouts Jumbo Safari Cut  Out ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yhkEzMjkL.jpg' alt='Amazon.com: Fuutreo 36 Pcs Jungle Animals Cutouts Jungle Bulletin Board  Decorations Realistic Rainforest Animals Figures Cutouts Jumbo Safari Cut  Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yhkEzMjkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Animals List With Pictures & Facts: Animals That Live In ...">
+                                <img itemprop="contentUrl url" src='https://www.activewild.com/wp-content/uploads/2020/07/Jaguar.jpg' alt='Jungle Animals List With Pictures & Facts: Animals That Live In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Active Wild" />
+                                </span>
+                                <a href='https://www.activewild.com/wp-content/uploads/2020/07/Jaguar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Jungle Animals List with Pictures » Onlymyenglish.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/c1/df/afc1dfb61a4084ce8c3964a1f49fdfd4.jpg' alt='30+ Jungle Animals List with Pictures » Onlymyenglish.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/c1/df/afc1dfb61a4084ce8c3964a1f49fdfd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See jungle animals that survive hostile jungle environments">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/757c5016-21ac-434a-9611-82fe42f8f037/01-jungles-hostile-planet-nationalgeographic_2462654_4x3.jpg' alt='See jungle animals that survive hostile jungle environments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/757c5016-21ac-434a-9611-82fe42f8f037/01-jungles-hostile-planet-nationalgeographic_2462654_4x3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Animals">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/48315/jungle-animals-jenny-newland.jpg?h=699&q=85' alt='Jungle Animals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/48315/jungle-animals-jenny-newland.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Amazon Rainforest Animals and Where to spot them">
+                                <img itemprop="contentUrl url" src='https://www.mashpilodge.com/wp-content/uploads/2023/12/Sloth.webp' alt='15 Amazon Rainforest Animals and Where to spot them'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashpi Lodge" />
+                                </span>
+                                <a href='https://www.mashpilodge.com/wp-content/uploads/2023/12/Sloth.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Jungle Animals Clip Art - Set of 14 PNG, JPG, and Vector Files -  Design Elements, Digital Clipart Download, Kid's Decorations - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9894352/r/il/a96d4a/842169052/il_1080xN.842169052_noxk.jpg' alt='Cute Jungle Animals Clip Art - Set of 14 PNG, JPG, and Vector Files -  Design Elements, Digital Clipart Download, Kid's Decorations - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9894352/r/il/a96d4a/842169052/il_1080xN.842169052_noxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,500+ Jungle Animals Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411971297/vector/jungle-animals-bungle-tropical-leopard-felines-dancing-giraffe-and-zebra-sleeping-jaguar-set.jpg?s=612x612&w=0&k=20&c=fBK16p1Fhc75G_WLNuPKX9BPR6KccmVUkIr2KqFhmyg=' alt='97,500+ Jungle Animals Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411971297/vector/jungle-animals-bungle-tropical-leopard-felines-dancing-giraffe-and-zebra-sleeping-jaguar-set.jpg?s=612x612&w=0&k=20&c=fBK16p1Fhc75G_WLNuPKX9BPR6KccmVUkIr2KqFhmyg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

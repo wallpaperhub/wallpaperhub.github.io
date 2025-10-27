@@ -1,0 +1,129 @@
+<title>The Unreliable Narrator in "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Explore the complexities of the unreliable narrator in "The Yellow Wallpaper." Discover how the protagonist's distorted perceptions reflect her struggle with mental illness and societal constraints, revealing profound insights into gender roles and oppression. Analyzing her journey uncovers the layers of meaning within the text.">
+                    <meta name="keywords" content="the yellow wallpaper unreliable narrator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-unreliable-narrator">
+                            <span itemprop="name">the yellow wallpaper unreliable narrator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Unreliable Narrator in "The Yellow Wallpaper"</h1>
+                <p>In "The Yellow Wallpaper," the narrator's descent into madness highlights her unreliability. Confined to a room, her perceptions twist reality, leading readers to question her sanity. This ambiguity invites analysis of mental illness, gender roles, and the oppressive forces that distort her truth, ultimately revealing deeper societal critiques.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreliable Narrator: Gilman's The Yellow Wallpaper - 840 Words ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/essays/wp-content/uploads/slides/116/116674/unreliable-narrator-in-gilmans-the-yellow-wallpaper-page1.webp' alt='Unreliable Narrator: Gilman's The Yellow Wallpaper - 840 Words ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/essays/wp-content/uploads/slides/116/116674/unreliable-narrator-in-gilmans-the-yellow-wallpaper-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF) Unreliable Narrator in Ch.Gilman's The Yellow Wallpaper and ...">
+                                <img itemprop="contentUrl url" src='https://i1.rgstatic.net/publication/330168956_Unreliable_Narrator_in_ChGilman's_The_Yellow_Wallpaper_and_EAPoe's_The_Fall_of_the_House_of_Usher_Comparative_Analysis/links/5c30c4af299bf12be3af9e0b/largepreview.png' alt='PDF) Unreliable Narrator in Ch.Gilman's The Yellow Wallpaper and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://i1.rgstatic.net/publication/330168956_Unreliable_Narrator_in_ChGilman's_The_Yellow_Wallpaper_and_EAPoe's_The_Fall_of_the_House_of_Usher_Comparative_Analysis/links/5c30c4af299bf12be3af9e0b/largepreview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreliable Narrator in Gilman's The Yellow Wall-Paper | Free Essay ...">
+                                <img itemprop="contentUrl url" src='https://studycorgi.com/wp-content/uploads/screens/796/79645/unreliable-narrator-in-gilmans-the-yellow-wall-paper-page1.webp' alt='Unreliable Narrator in Gilman's The Yellow Wall-Paper | Free Essay ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudyCorgi" />
+                                </span>
+                                <a href='https://studycorgi.com/wp-content/uploads/screens/796/79645/unreliable-narrator-in-gilmans-the-yellow-wall-paper-page1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) Krista Dorn Narrator Analysis The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/40589493/mini_magick20180818-18902-tl95nl.png?1534643952' alt='DOC) Krista Dorn Narrator Analysis The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/40589493/mini_magick20180818-18902-tl95nl.png?1534643952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreliable Narrator in Gilman's The Yellow Wall-Paper | Free Essay ...">
+                                <img itemprop="contentUrl url" src='https://studycorgi.com/wp-content/uploads/screens/796/79645/unreliable-narrator-in-gilmans-the-yellow-wall-paper-page2.webp' alt='Unreliable Narrator in Gilman's The Yellow Wall-Paper | Free Essay ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StudyCorgi" />
+                                </span>
+                                <a href='https://studycorgi.com/wp-content/uploads/screens/796/79645/unreliable-narrator-in-gilmans-the-yellow-wall-paper-page2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lady Within “The Yellow Wallpaper” | Geeks">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5e90caf19671a2001cc581b4.jpg' alt='The Lady Within “The Yellow Wallpaper” | Geeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5e90caf19671a2001cc581b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreliable Narrator in Gilman's The Yellow Wallpaper | Free Essay Critical  Writing Example">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZIxkBWQ7oN4/maxresdefault.jpg' alt='Unreliable Narrator in Gilman's The Yellow Wallpaper | Free Essay Critical  Writing Example'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZIxkBWQ7oN4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow wallpaper | thealternateclassroom">
+                                <img itemprop="contentUrl url" src='https://thealternateclassroom.org/wp-content/uploads/2017/12/img_5744.jpg?w=676' alt='yellow wallpaper | thealternateclassroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="thealternateclassroom" />
+                                </span>
+                                <a href='https://thealternateclassroom.org/wp-content/uploads/2017/12/img_5744.jpg?w=676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreliable Narrators in Realism Tutorial.pdf - 8/18/22 4:53 PM ...">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/thumb/11/56/1156234666780b73cd957853e96101bf532e9d5c_180.jpg' alt='Unreliable Narrators in Realism Tutorial.pdf - 8/18/22 4:53 PM ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/thumb/11/56/1156234666780b73cd957853e96101bf532e9d5c_180.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Unreliable Narrators In Fiction Who Make Us Love Uncertainty">
+                                <img itemprop="contentUrl url" src='https://imgix.bustle.com/uploads/image/2018/7/8/a51947b6-55b6-4257-aad9-928527617cbd-the-yellow-wallpaper-9781627933957_hr.jpg?w=414&h=662&fit=crop&crop=faces&dpr=2' alt='9 Unreliable Narrators In Fiction Who Make Us Love Uncertainty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bustle" />
+                                </span>
+                                <a href='https://imgix.bustle.com/uploads/image/2018/7/8/a51947b6-55b6-4257-aad9-928527617cbd-the-yellow-wallpaper-9781627933957_hr.jpg?w=414&h=662&fit=crop&crop=faces&dpr=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

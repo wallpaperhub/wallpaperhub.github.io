@@ -1,0 +1,129 @@
+<title>5 Key Automatic Disqualifiers for Security Clearances</title>
+                    <meta name="description" content="Discover the top 5 automatic disqualifiers for security clearances. Learn how issues like criminal records and dishonesty can impact your eligibility. Stay informed to improve your chances of obtaining clearance. Read more for essential insights!">
+                    <meta name="keywords" content="5 automatic disqualifiers for security clearances">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/5-automatic-disqualifiers-for-security-clearances">
+                            <span itemprop="name">5 automatic disqualifiers for security clearances</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>5 Key Automatic Disqualifiers for Security Clearances</h1>
+                <p>When applying for security clearances, certain automatic disqualifiers can impede your chances. Key disqualifiers include criminal convictions, unresolved federal tax issues, substance abuse problems, mental health concerns, and a lack of honesty during the application process. Understanding these can help applicants navigate the clearance system.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/5-automatic-disqualifiers-for-security-clearances.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Security Journal" />
+                                </span>
+                                <a href='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/5-automatic-disqualifiers-for-security-clearances.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1022">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Journal Americas" />
+                                </span>
+                                <a href='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances - iQuasar LLC">
+                                <img itemprop="contentUrl url" src='https://iquasar.com/wp-content/uploads/2024/07/BLOG.png' alt='5 Automatic Disqualifiers for Security Clearances - iQuasar LLC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iQuasar" />
+                                </span>
+                                <a href='https://iquasar.com/wp-content/uploads/2024/07/BLOG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-top-secret.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Journal Americas" />
+                                </span>
+                                <a href='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-top-secret.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/what-is-security-clearance.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Security Journal" />
+                                </span>
+                                <a href='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/what-is-security-clearance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances | airSlate SignNow">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/487/787/487787449.png' alt='5 Automatic Disqualifiers for Security Clearances | airSlate SignNow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/487/787/487787449.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/types-of-security-clearances.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Security Journal" />
+                                </span>
+                                <a href='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/types-of-security-clearances.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-approved.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Journal Americas" />
+                                </span>
+                                <a href='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-approved.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-appealt.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Journal Americas" />
+                                </span>
+                                <a href='https://securityjournalamericas.com/wp-content/uploads/2023/11/5-automatic-disqualifiers-for-security-clearances-appealt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Automatic Disqualifiers for Security Clearances">
+                                <img itemprop="contentUrl url" src='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/criminal-conduct-disqualified-security-clearances.jpg' alt='5 Automatic Disqualifiers for Security Clearances'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Security Journal" />
+                                </span>
+                                <a href='https://internationalsecurityjournal.com/wp-content/uploads/2023/12/criminal-conduct-disqualified-security-clearances.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

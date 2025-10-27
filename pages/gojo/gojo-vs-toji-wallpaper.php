@@ -1,0 +1,129 @@
+<title>Gojo vs Toji: Epic Jujutsu Kaisen Wallpapers</title>
+                    <meta name="description" content="Discover the ultimate collection of Gojo vs Toji wallpapers! Perfect for Jujutsu Kaisen fans, these high-quality images capture the epic clash between these powerful sorcerers. Enhance your screen with dynamic and vibrant designs that showcase the heart of the series, making every glance a reminder of their electrifying rivalry!">
+                    <meta name="keywords" content="gojo vs toji wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo">
+                            <span itemprop="name">Gojo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo/gojo-vs-toji-wallpaper">
+                            <span itemprop="name">gojo vs toji wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gojo vs Toji: Epic Jujutsu Kaisen Wallpapers</h1>
+                <p>Transform your device's look with stunning Gojo vs Toji wallpapers! Dive into the world of Jujutsu Kaisen with striking visuals of these iconic characters. Perfect for fans who appreciate intense battles and vivid artwork. Make your screen pop with energy and style, showcasing your favorite clash in every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo vs Toji /by me/ : r/JuJutsuKaisen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j6iv1xyskly61.jpg' alt='Gojo vs Toji /by me/ : r/JuJutsuKaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j6iv1xyskly61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Toji Fushiguro Satoru Gojo Anime Jujutsu Kaisen HD ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/134/1340765.jpeg' alt='Download Toji Fushiguro Satoru Gojo Anime Jujutsu Kaisen HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/134/1340765.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru vs Toji Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/3845/gojo-satoru-vstoji.jpg' alt='Gojo Satoru vs Toji Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/3845/gojo-satoru-vstoji.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Satoru">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/65/56/57655639881c3e80031b6a23ad634501.jpg' alt='Gojo Satoru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/65/56/57655639881c3e80031b6a23ad634501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Vs Toji Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12710493.jpg' alt='Gojo Vs Toji Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4093">
+                                <meta itemprop="height" content="3152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12710493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo vs Toji 2 by xBlakeKing on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c4b153f-dfdc-4ef3-b900-2e787a394973/delb65h-57b90857-5827-4017-bc35-5f304b7eac04.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVjNGIxNTNmLWRmZGMtNGVmMy1iOTAwLTJlNzg3YTM5NDk3M1wvZGVsYjY1aC01N2I5MDg1Ny01ODI3LTQwMTctYmMzNS01ZjMwNGI3ZWFjMDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-zh_jPaJJtMXkUl0xiUSkxk5MwOFv64t6__tvx-65lw' alt='Gojo vs Toji 2 by xBlakeKing on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2042">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5c4b153f-dfdc-4ef3-b900-2e787a394973/delb65h-57b90857-5827-4017-bc35-5f304b7eac04.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVjNGIxNTNmLWRmZGMtNGVmMy1iOTAwLTJlNzg3YTM5NDk3M1wvZGVsYjY1aC01N2I5MDg1Ny01ODI3LTQwMTctYmMzNS01ZjMwNGI3ZWFjMDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-zh_jPaJJtMXkUl0xiUSkxk5MwOFv64t6__tvx-65lw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo vs Toji">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/a5/d5/3aa5d55dfd891760d8c73bd8556feaa8.jpg' alt='Gojo vs Toji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/a5/d5/3aa5d55dfd891760d8c73bd8556feaa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo&Geto vs Toji, Jujutsu kaisen edit, Manga edit, Toji Fushiguro ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/237/651/HD-wallpaper-gojo-geto-vs-toji-jujutsu-kaisen-edit-manga-edit-toji-fushiguro-jujutsu-kaisen-manga-geto-gojo-satoru-jjk-geto-suguru-gojo-jujutsu-kaisen.jpg' alt='Gojo&Geto vs Toji, Jujutsu kaisen edit, Manga edit, Toji Fushiguro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/237/651/HD-wallpaper-gojo-geto-vs-toji-jujutsu-kaisen-edit-manga-edit-toji-fushiguro-jujutsu-kaisen-manga-geto-gojo-satoru-jjk-geto-suguru-gojo-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Vs Toji Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12710486.jpg' alt='Gojo Vs Toji Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12710486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo VS Toji round 2 (By @nphecan_v) : r/Jujutsufolk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gojo-vs-toji-round-2-by-v0-zmtbfvois9gb1.jpg?auto=webp&s=b1b183547b42cea438d4aac061e001a59dfa1f00' alt='Gojo VS Toji round 2 (By @nphecan_v) : r/Jujutsufolk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1551">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gojo-vs-toji-round-2-by-v0-zmtbfvois9gb1.jpg?auto=webp&s=b1b183547b42cea438d4aac061e001a59dfa1f00' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

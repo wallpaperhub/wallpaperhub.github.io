@@ -1,0 +1,129 @@
+<title>Maleficent: The Untold Story of a Disney Villain</title>
+                    <meta name="description" content="Discover the origins of Maleficent, the iconic Disney villain. Explore her transformation from a kind-hearted fairy to a figure of revenge following betrayal. Uncover the layers of darkness and beauty in her legendary story, and see how it reshapes our understanding of her character.">
+                    <meta name="keywords" content="maleficent backstory">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maleficent-backstory">
+                            <span itemprop="name">maleficent backstory</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maleficent: The Untold Story of a Disney Villain</h1>
+                <p>The backstory of Maleficent reveals her tragic origins as a powerful fairy in a peaceful kingdom. Once filled with love and hope, her heart darkens after betrayal by the human she trusted. This leads to her vengeful transformation into the iconic villain known for casting a curse on Princess Aurora, juxtaposing beauty and darkness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent backstory – Dakota Student">
+                                <img itemprop="contentUrl url" src='https://dakotastudent.com/wp-content/uploads/2019/11/maleficent-Wikimedia-Commons-900x900.jpg' alt='Maleficent backstory – Dakota Student'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dakota Student" />
+                                </span>
+                                <a href='https://dakotastudent.com/wp-content/uploads/2019/11/maleficent-Wikimedia-Commons-900x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Maleficent Became Sleeping Beauty's Breakout Character">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/maleficent-sleeping-beauty-powers.jpg' alt='How Maleficent Became Sleeping Beauty's Breakout Character'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/maleficent-sleeping-beauty-powers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent | Maleficent Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/maleficent/images/3/3a/Maleficent_Mistress_of_Evil_Character_Poster_01.jpg/revision/latest?cb=20190517032005' alt='Maleficent | Maleficent Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maleficent Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/maleficent/images/3/3a/Maleficent_Mistress_of_Evil_Character_Poster_01.jpg/revision/latest?cb=20190517032005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Reasons The Live Action Maleficent Is Best (& 5 Why The Animated ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/01/maleficent-backstory-origins-2014.jpg' alt='5 Reasons The Live Action Maleficent Is Best (& 5 Why The Animated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2020/01/maleficent-backstory-origins-2014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Malefica.jpg/220px-Malefica.jpg' alt='Maleficent - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Malefica.jpg/220px-Malefica.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent and the Strange and Storied History of Fairy Tales ...">
+                                <img itemprop="contentUrl url" src='https://www.motionpictures.org/wp-content/uploads/2014/05/maleficent536acd35d7fdb.jpg' alt='Maleficent and the Strange and Storied History of Fairy Tales ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Picture Association" />
+                                </span>
+                                <a href='https://www.motionpictures.org/wp-content/uploads/2014/05/maleficent536acd35d7fdb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/0/05/Profile_-_Maleficent.jpeg/revision/latest?cb=20250118085922' alt='Maleficent | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/0/05/Profile_-_Maleficent.jpeg/revision/latest?cb=20250118085922' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent, Rape and Sympathy for the Devil - Decent Films">
+                                <img itemprop="contentUrl url" src='https://decentfilms.com/uploads/articles/maleficent-subverts.jpg' alt='Maleficent, Rape and Sympathy for the Devil - Decent Films'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decent Films" />
+                                </span>
+                                <a href='https://decentfilms.com/uploads/articles/maleficent-subverts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Transformative Power of True Love — Maleficent's Story | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:480/1*s0eT77l_ThUpkTPc83hw0w.jpeg' alt='The Transformative Power of True Love — Maleficent's Story | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:480/1*s0eT77l_ThUpkTPc83hw0w.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Messed Up Origins Of Maleficent Mistress Of Evil">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pFpZNT8CLY0/maxresdefault.jpg' alt='The Messed Up Origins Of Maleficent Mistress Of Evil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pFpZNT8CLY0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

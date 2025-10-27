@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="city pop background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-pop-background">
+                            <span itemprop="name">city pop background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made A City Pop Aesthetic Design : r/citypop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yjl9eza6xsv51.png' alt='I Made A City Pop Aesthetic Design : r/citypop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yjl9eza6xsv51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/sunset-sunrise-modern-city-skyscrapers-600nw-2156231219.jpg' alt='48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/sunset-sunrise-modern-city-skyscrapers-600nw-2156231219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NOSTALGIA FOR AN ERA THAT YOU DIDN'T EXIST IN: A DEEP DIVE INTO ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1639274238825-WRJ4RPGWMF2YLDK9T72H/citypop-city-pop-japanesecitypop-japanese-musicTakeuchi-Mariya-city-pop-Mayonaka-no-Door-Eiichi-Ohtaki-Haruomi-Hosono-Shigeru-Suzuki-Takashi-Matsumoto-happy-end-plastic-love-marina-takeuchi-yumi-arai-sugar-Bape-Tatsuro-Yamashita' alt='NOSTALGIA FOR AN ERA THAT YOU DIDN'T EXIST IN: A DEEP DIVE INTO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="895">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sabukaru" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1639274238825-WRJ4RPGWMF2YLDK9T72H/citypop-city-pop-japanesecitypop-japanese-musicTakeuchi-Mariya-city-pop-Mayonaka-no-Door-Eiichi-Ohtaki-Haruomi-Hosono-Shigeru-Suzuki-Takashi-Matsumoto-happy-end-plastic-love-marina-takeuchi-yumi-arai-sugar-Bape-Tatsuro-Yamashita' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Pop Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-comic-book-city-background_23-2151125552.jpg' alt='City Pop Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-comic-book-city-background_23-2151125552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A background for an animation project inspired by City Pop : r/citypop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a7oguyhj5wlb1.jpg' alt='A background for an animation project inspired by City Pop : r/citypop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a7oguyhj5wlb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Pop Aesthetics — Van Paugam">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5bd7707c11f7847c45b4b9dd/0c12af1d-5f96-4108-b2f4-dd6305673ee5/image-asset+%281%29.png' alt='City Pop Aesthetics — Van Paugam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Paugam" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5bd7707c11f7847c45b4b9dd/0c12af1d-5f96-4108-b2f4-dd6305673ee5/image-asset+%281%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sabukaru guide to City Pop's hidden gems — sabukaru">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1653634026441-HFAI4KLCBURLGARZ67NO/City+Pop.jpeg?format=2500w' alt='The Sabukaru guide to City Pop's hidden gems — sabukaru'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sabukaru" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1653634026441-HFAI4KLCBURLGARZ67NO/City+Pop.jpeg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/buildings-coconut-trees-city-pop-260nw-2029850432.jpg' alt='48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/buildings-coconut-trees-city-pop-260nw-2029850432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Pop">
+                                <img itemprop="contentUrl url" src='https://gallerypanda.com/cdn/shop/files/pastelcity_1e4742bd-ad53-4187-9f99-4eb8a7a3aebf.jpg?v=1706246222&width=576' alt='City Pop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Panda" />
+                                </span>
+                                <a href='https://gallerypanda.com/cdn/shop/files/pastelcity_1e4742bd-ad53-4187-9f99-4eb8a7a3aebf.jpg?v=1706246222&width=576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/modern-city-skyscrapers-panorama-tall-600nw-2164117029.jpg' alt='48,435 City Pop Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/modern-city-skyscrapers-panorama-tall-600nw-2164117029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

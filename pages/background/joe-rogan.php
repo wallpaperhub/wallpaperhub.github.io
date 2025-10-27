@@ -1,0 +1,129 @@
+<title>Explore the World of Joe Rogan: Podcast Insights & More</title>
+                    <meta name="description" content="Discover Joe Rogan's influential podcast, where diverse guests share compelling insights on various topics, from health and fitness to culture and politics. Join millions of listeners in exploring thought-provoking discussions that foster curiosity and open-mindedness.">
+                    <meta name="keywords" content="joe rogan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joe-rogan">
+                            <span itemprop="name">joe rogan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Joe Rogan: Podcast Insights & More</h1>
+                <p>Joe Rogan is a multi-talented comedian, podcaster, and UFC commentator known for his thought-provoking conversations on "The Joe Rogan Experience." His engaging discussions cover a wide range of topics, from science and health to culture and politics, attracting millions of listeners. Rogan's candid style fosters open dialogue and curiosity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Rogan - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNTgwOTllOWUtNWZlMS00NTE2LTg1MWQtYjUyOGQ2NDgwZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Joe Rogan - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNTgwOTllOWUtNWZlMS00NTE2LTg1MWQtYjUyOGQ2NDgwZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe rogan">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/587aec812994ca23948fd074/b9f7c96f-39b0-46d6-90f1-4fb38212fd83/L1020217.jpg' alt='Joe rogan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.joerogan.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/587aec812994ca23948fd074/b9f7c96f-39b0-46d6-90f1-4fb38212fd83/L1020217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Rogan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dc/Joe_Rogan.png' alt='Joe Rogan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="446">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dc/Joe_Rogan.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify inks new multiyear deal with podcast host Joe Rogan">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-02/240202-joe-rogan-beg-1229p-0cd004.jpg' alt='Spotify inks new multiyear deal with podcast host Joe Rogan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2024-02/240202-joe-rogan-beg-1229p-0cd004.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Rogan caused some artists to leave Spotify. But not paying ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210901175004-joe-rogan-file.jpg?q=x_289,y_16,h_1081,w_1921,c_crop/w_1280' alt='Joe Rogan caused some artists to leave Spotify. But not paying ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210901175004-joe-rogan-file.jpg?q=x_289,y_16,h_1081,w_1921,c_crop/w_1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About — Joe rogan">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/587aec812994ca23948fd074/24a874bb-62d6-4fe2-9a20-f49185dd513e/DSC07022.jpg' alt='About — Joe rogan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Joe rogan" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/587aec812994ca23948fd074/24a874bb-62d6-4fe2-9a20-f49185dd513e/DSC07022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Rogan Is Fueling Climate Misinformation on TikTok, Watchdogs ...">
+                                <img itemprop="contentUrl url" src='https://insideclimatenews.org/wp-content/uploads/2023/05/joe-rogan_michael-s-schwartz-getty-scaled.jpg' alt='Joe Rogan Is Fueling Climate Misinformation on TikTok, Watchdogs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inside Climate News" />
+                                </span>
+                                <a href='https://insideclimatenews.org/wp-content/uploads/2023/05/joe-rogan_michael-s-schwartz-getty-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Joe Rogan Experience Podcast - Apple Podcasts">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/4f/94/894f94f2-3d6a-e34d-ec4f-1c6dbf239511/mza_10409584512842304695.jpg/1200x1200bf-60.jpg' alt='The Joe Rogan Experience Podcast - Apple Podcasts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Podcasts" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/4f/94/894f94f2-3d6a-e34d-ec4f-1c6dbf239511/mza_10409584512842304695.jpg/1200x1200bf-60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joe Rogan | GLAAD">
+                                <img itemprop="contentUrl url" src='https://media.glaad.org/wp-content/uploads/2022/02/25195058/Rogan-2d8-1024x576.jpeg' alt='Joe Rogan | GLAAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GLAAD" />
+                                </span>
+                                <a href='https://media.glaad.org/wp-content/uploads/2022/02/25195058/Rogan-2d8-1024x576.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Trailer">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYTg1MTAwYjAtODAzMi00ZjMwLWIyM2UtODJmZDdiZWRjZjMzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg' alt='Official Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYTg1MTAwYjAtODAzMi00ZjMwLWIyM2UtODJmZDdiZWRjZjMzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

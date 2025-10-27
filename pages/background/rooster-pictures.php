@@ -1,0 +1,129 @@
+<title>Stunning Rooster Pictures: Celebrate the Beauty of Cocks</title>
+                    <meta name="description" content="Discover a captivating collection of rooster pictures that highlight their vibrant colors and unique features. Perfect for nature lovers, farmers, or art enthusiasts, these images capture the charm and spirit of roosters. Explore now and celebrate these majestic birds through stunning photography!">
+                    <meta name="keywords" content="rooster pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rooster-pictures">
+                            <span itemprop="name">rooster pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rooster Pictures: Celebrate the Beauty of Cocks</h1>
+                <p>Rooster pictures showcase the striking beauty of these majestic birds. With their vibrant feathers, unique combs, and powerful presence, roosters symbolize courage and strength. From farmyards to art illustrations, rooster images capture the essence of rural life. Enjoy a variety of stunning rooster pictures that celebrate their charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw And Paint A Rooster - Doodlewash®">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/doodlewash.com/wp-content/uploads/2019/04/animal-2574_960_720.jpg?zoom=0.8999999761581421&w=1200&ssl=1' alt='How To Draw And Paint A Rooster - Doodlewash®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Doodlewash" />
+                                </span>
+                                <a href='https://i1.wp.com/doodlewash.com/wp-content/uploads/2019/04/animal-2574_960_720.jpg?zoom=0.8999999761581421&w=1200&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="119,600+ Rooster Pictures Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/496280064/photo/rooster.jpg?s=612x612&w=0&k=20&c=gvDV0tCq5Jhv97dE8YFnbTGQVKxMiQ91Mh7AI7WC4h0=' alt='119,600+ Rooster Pictures Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/496280064/photo/rooster.jpg?s=612x612&w=0&k=20&c=gvDV0tCq5Jhv97dE8YFnbTGQVKxMiQ91Mh7AI7WC4h0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roosters: The Brave Protectors of the Flock - Farm Sanctuary">
+                                <img itemprop="contentUrl url" src='https://assets.farmsanctuary.org/content/uploads/2021/06/17154449/2013_03-18_FSAC_Ahmed_Hades_chicken_IMG_5494_CREDIT_Farm_Sanctuary-scaled-e1623959170539-1600x947.jpg' alt='Roosters: The Brave Protectors of the Flock - Farm Sanctuary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Farm Sanctuary" />
+                                </span>
+                                <a href='https://assets.farmsanctuary.org/content/uploads/2021/06/17154449/2013_03-18_FSAC_Ahmed_Hades_chicken_IMG_5494_CREDIT_Farm_Sanctuary-scaled-e1623959170539-1600x947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Rooster Breeds: Best Types for Your Backyard Flock – Kalmbach ...">
+                                <img itemprop="contentUrl url" src='http://www.kalmbachfeeds.com/cdn/shop/articles/rooster_in_field.jpg?v=1729284651' alt='Top Rooster Breeds: Best Types for Your Backyard Flock – Kalmbach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kalmbach Feeds" />
+                                </span>
+                                <a href='http://www.kalmbachfeeds.com/cdn/shop/articles/rooster_in_field.jpg?v=1729284651' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adding A Rooster To Your Flock: Care & Quirks">
+                                <img itemprop="contentUrl url" src='https://thefrugalchicken.com/wp-content/uploads/2023/02/Roosters-min.jpg' alt='Adding A Rooster To Your Flock: Care & Quirks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pampered Chicken Mama" />
+                                </span>
+                                <a href='https://thefrugalchicken.com/wp-content/uploads/2023/02/Roosters-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I find a new home for a rooster I don't want? - My Pet Chicken">
+                                <img itemprop="contentUrl url" src='https://www.mypetchicken.com/cdn/shop/articles/crowing-rooster.jpg?v=1692637006' alt='How do I find a new home for a rooster I don't want? - My Pet Chicken'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Pet Chicken" />
+                                </span>
+                                <a href='https://www.mypetchicken.com/cdn/shop/articles/crowing-rooster.jpg?v=1692637006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="167,800+ Rooster Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/185009382/photo/rooster.jpg?s=612x612&w=0&k=20&c=aPCwG9VC66jkmK2-WH0g1L9xEla-TyPXwEPQ-_oXckY=' alt='167,800+ Rooster Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/185009382/photo/rooster.jpg?s=612x612&w=0&k=20&c=aPCwG9VC66jkmK2-WH0g1L9xEla-TyPXwEPQ-_oXckY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rooster Images – Browse 486,238 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/40/94/50/360_F_140945047_LPZKDGtNKrofVHiAkVocFnqoSYJHska3.jpg' alt='Rooster Images – Browse 486,238 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/40/94/50/360_F_140945047_LPZKDGtNKrofVHiAkVocFnqoSYJHska3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benefits of a Rooster in the Flock - Dine-A-Chook">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-ubwzbv1de6/product_images/uploaded_images/benefits-of-having-a-rooste.jpg' alt='Benefits of a Rooster in the Flock - Dine-A-Chook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dine a Chook" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-ubwzbv1de6/product_images/uploaded_images/benefits-of-having-a-rooste.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="91,483 Rooster Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rooster-140427.jpg' alt='91,483 Rooster Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rooster-140427.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

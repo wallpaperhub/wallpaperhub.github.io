@@ -1,0 +1,129 @@
+<title>Blue Grey Ombre Background: A Stylish Blend</title>
+                    <meta name="description" content="Explore the stunning blue grey ombre background, perfect for enhancing designs and visuals. This effortlessly chic color gradient adds a contemporary flair to any project while maintaining a calm and inviting tone. Ideal for websites, graphics, and decor, it’s a versatile choice for creative expression.">
+                    <meta name="keywords" content="blue grey ombre background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-grey-ombre-background">
+                            <span itemprop="name">blue grey ombre background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Grey Ombre Background: A Stylish Blend</h1>
+                <p>Discover the beauty of a blue grey ombre background, where the soft transition between serene blue and elegant grey creates a soothing atmosphere. Ideal for various applications, this versatile backdrop works beautifully in web design, photography, and digital art, adding depth and a modern touch to your projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gray Gradient Images – Browse 374,463 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' alt='Blue Gray Gradient Images – Browse 374,463 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/69/78/12/360_F_269781273_iFKYnEwu9CTD6t7jcJ6O8CemL9JntygS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue & Grey Ombre Wallpaper, Minimalist Paste the Wall Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18670072/r/il/9672ed/4028863983/il_570xN.4028863983_bho8.jpg' alt='Blue & Grey Ombre Wallpaper, Minimalist Paste the Wall Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1216">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18670072/r/il/9672ed/4028863983/il_570xN.4028863983_bho8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gray Gradient Images – Browse 374,463 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/05/84/16/360_F_305841668_SGCkYbDlZxkPPs8yO8wXywQMKeWpxG0F.jpg' alt='Blue Gray Gradient Images – Browse 374,463 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/05/84/16/360_F_305841668_SGCkYbDlZxkPPs8yO8wXywQMKeWpxG0F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor smoke color ombre background texture. Gray gradient ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/564/938/large_2x/watercolor-smoke-color-ombre-background-texture-gray-gradient-backdrop-watercolour-pastel-grey-blue-stains-on-paper-hand-painted-photo.jpg' alt='Watercolor smoke color ombre background texture. Gray gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2849">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/564/938/large_2x/watercolor-smoke-color-ombre-background-texture-gray-gradient-backdrop-watercolour-pastel-grey-blue-stains-on-paper-hand-painted-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Blue Gray Gradient Background Fashionable Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/ombre-blue-gray-gradient-background-260nw-1179550423.jpg' alt='Ombre Blue Gray Gradient Background Fashionable Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/ombre-blue-gray-gradient-background-260nw-1179550423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="306,411 Blue Grey Gradient Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/gray-grainy-gradient-noise-texture-600nw-2340913837.jpg' alt='306,411 Blue Grey Gradient Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/gray-grainy-gradient-noise-texture-600nw-2340913837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anewall Roke Blue Gray Ombre Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2019/03/05/gray-brushstrokes-modern-blue-ombre-wallpaper-mural.jpeg' alt='Anewall Roke Blue Gray Ombre Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2019/03/05/gray-brushstrokes-modern-blue-ombre-wallpaper-mural.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Ombre Background Gray Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dark-gray-blurred-background_1034-243.jpg' alt='Blue Ombre Background Gray Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dark-gray-blurred-background_1034-243.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Effect Background Logo - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/78/8a/72788af73020428bc33802da3388f70e.jpg' alt='Ombre Effect Background Logo - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/78/8a/72788af73020428bc33802da3388f70e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light blue and gray gradient background texture ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/564/525/large_2x/watercolor-light-blue-and-gray-gradient-background-texture-multicolored-soft-ombre-backdrop-hand-painted-stains-on-paper-photo.jpg' alt='Watercolor light blue and gray gradient background texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2816">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/564/525/large_2x/watercolor-light-blue-and-gray-gradient-background-texture-multicolored-soft-ombre-backdrop-hand-painted-stains-on-paper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

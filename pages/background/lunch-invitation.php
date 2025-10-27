@@ -1,0 +1,129 @@
+<title>Delicious Lunch Invitation: Join Us!</title>
+                    <meta name="description" content="Join us for a delightful lunch invitation filled with delicious food and great company. Perfect for networking or catching up with friends! RSVP today to enjoy tasty dishes and a wonderful atmosphere. Don't miss out on this chance to unwind and connect!">
+                    <meta name="keywords" content="lunch invitation">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lunch-invitation">
+                            <span itemprop="name">lunch invitation</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Lunch Invitation: Join Us!</h1>
+                <p>Join us for a delightful lunch gathering! We’re excited to invite you to share a meal filled with good food and great company. Enjoy delicious dishes, laughter, and meaningful conversations. It’s the perfect opportunity to unwind and connect. Mark your calendars and let us know if you can make it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom printable luncheon invitation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEADaoQZxWyg%2F1%2F0%2F1600w-wppEZ0AGNak.jpg/mockuptemplateid:EtcpVdvrZ/size:L?csig=AAAAAAAAAAAAAAAAAAAAAPzmvfofVU3kAb1TCZfQwq5AUCxDRgIIVgxqzrfWS1pq&exp=1741150702&osig=AAAAAAAAAAAAAAAAAAAAADX-bt_0Od3cnt-tsTIqsLNtonDE3WchU0Xx5wYRy8q9&seoslug=violet-and-green-lanterns-luncheon-invitation&signer=marketplace-rpc' alt='Free custom printable luncheon invitation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEADaoQZxWyg%2F1%2F0%2F1600w-wppEZ0AGNak.jpg/mockuptemplateid:EtcpVdvrZ/size:L?csig=AAAAAAAAAAAAAAAAAAAAAPzmvfofVU3kAb1TCZfQwq5AUCxDRgIIVgxqzrfWS1pq&exp=1741150702&osig=AAAAAAAAAAAAAAAAAAAAADX-bt_0Od3cnt-tsTIqsLNtonDE3WchU0Xx5wYRy8q9&seoslug=violet-and-green-lanterns-luncheon-invitation&signer=marketplace-rpc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladies Lunch Invitation Printable Birthday Luncheon All White and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17394592/r/il/84a45f/4131123088/il_fullxfull.4131123088_npvz.jpg' alt='Ladies Lunch Invitation Printable Birthday Luncheon All White and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17394592/r/il/84a45f/4131123088/il_fullxfull.4131123088_npvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Lunch Invitation Template in Publisher, Illustrator, Word ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/841/Free-Simple-Lunch-Invitation-Template-2x.jpg' alt='Simple Lunch Invitation Template in Publisher, Illustrator, Word ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/841/Free-Simple-Lunch-Invitation-Template-2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mews Floral White | Printable Birthday Lunch Invitation Template ...">
+                                <img itemprop="contentUrl url" src='https://www.blackbowstudio.com/cdn/shop/files/BirthdayLunchInvitation_MewsFloralWhite_6.jpg?v=1722223142&width=1946' alt='Mews Floral White | Printable Birthday Lunch Invitation Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Bow Studio" />
+                                </span>
+                                <a href='https://www.blackbowstudio.com/cdn/shop/files/BirthdayLunchInvitation_MewsFloralWhite_6.jpg?v=1722223142&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Luncheon Invitation Templates - Venngage">
+                                <img itemprop="contentUrl url" src='https://cdn.venngage.com/template/thumbnail/310/c2d22703-eed2-4a44-8281-7d92b62c5b96.webp' alt='Free Luncheon Invitation Templates - Venngage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Venngage" />
+                                </span>
+                                <a href='https://cdn.venngage.com/template/thumbnail/310/c2d22703-eed2-4a44-8281-7d92b62c5b96.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Rehearsal Lunch Invitation Card Template, Rustic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9817664/r/il/1b9926/3145508921/il_fullxfull.3145508921_12yy.jpg' alt='Printable Rehearsal Lunch Invitation Card Template, Rustic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9817664/r/il/1b9926/3145508921/il_fullxfull.3145508921_12yy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom printable luncheon invitation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEADao7YmspQ%2F1%2F0%2F1600w-m4nO_6NjlHw.jpg/mockuptemplateid:EtcpVdvrZ/size:L?csig=AAAAAAAAAAAAAAAAAAAAAL-n3ylmHeci6QQo6wqV_H4HeVkzCecawkNtNHfFs-Tw&exp=1741150702&osig=AAAAAAAAAAAAAAAAAAAAACRSPewiTOJ1Qwd-WZcXdJa1kuZp3P_Lrxq63zcDASvG&seoslug=textured-flowers-ladies%27-luncheon-invitation&signer=marketplace-rpc' alt='Free custom printable luncheon invitation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEADao7YmspQ%2F1%2F0%2F1600w-m4nO_6NjlHw.jpg/mockuptemplateid:EtcpVdvrZ/size:L?csig=AAAAAAAAAAAAAAAAAAAAAL-n3ylmHeci6QQo6wqV_H4HeVkzCecawkNtNHfFs-Tw&exp=1741150702&osig=AAAAAAAAAAAAAAAAAAAAACRSPewiTOJ1Qwd-WZcXdJa1kuZp3P_Lrxq63zcDASvG&seoslug=textured-flowers-ladies%27-luncheon-invitation&signer=marketplace-rpc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lunch Invitation Template in Word - Download | Template.net">
+                                <img itemprop="contentUrl url" src='https://images.template.net/165680/lunch-invitation-template-o6l13.png' alt='Lunch Invitation Template in Word - Download | Template.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1760">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/165680/lunch-invitation-template-o6l13.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Lunch Invitations - Make a Lunch Invitation Online | DesignCap">
+                                <img itemprop="contentUrl url" src='https://www.designcap.com/res/template/medium/9ab5c3a93aad4bc664d542e026159784/page0.jpg?v=1602654194' alt='Free Lunch Invitations - Make a Lunch Invitation Online | DesignCap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesignCap" />
+                                </span>
+                                <a href='https://www.designcap.com/res/template/medium/9ab5c3a93aad4bc664d542e026159784/page0.jpg?v=1602654194' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Modern Rules Of Lunch Invitation Blank Template | Lunch ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c9/5e/0a/c95e0a56a4ba48d8ca9c0817a3afe798.jpg' alt='The Modern Rules Of Lunch Invitation Blank Template | Lunch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c9/5e/0a/c95e0a56a4ba48d8ca9c0817a3afe798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

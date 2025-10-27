@@ -1,0 +1,129 @@
+<title>Alabama Football Wallpaper: Game Day Style for Your Space</title>
+                    <meta name="description" content="Explore our stunning Alabama football wallpaper collection! Ideal for fans wanting to showcase their allegiance, these designs bring the spirit of the Crimson Tide into any room. Perfect for game day vibes, find your favorite here now!">
+                    <meta name="keywords" content="wallpaper alabama football">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/wallpaper-alabama-football">
+                            <span itemprop="name">wallpaper alabama football</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Alabama Football Wallpaper: Game Day Style for Your Space</h1>
+                <p>Transform your space with Alabama football wallpaper, perfect for die-hard fans! Celebrate the Crimson Tide's legacy with vibrant designs featuring iconic logos and memorable moments. Whether for your bedroom, game room, or office, our high-quality wallpapers capture the excitement of Alabama football, bringing the stadium atmosphere right to your walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bama football roll tide wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/421/12/HD-wallpaper-alabama-empire-bama-crimson-tide-empire-strikes-back-football-roll-tide-star-wars.jpg' alt='HD bama football roll tide wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/421/12/HD-wallpaper-alabama-empire-bama-crimson-tide-empire-strikes-back-football-roll-tide-star-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/amazing-alabama-football-team-official-logo-design-zkd04kk2a7kf3up4.jpg' alt='Alabama Football HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/amazing-alabama-football-team-official-logo-design-zkd04kk2a7kf3up4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Alabama Crimson Tide wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Alabama-Crimson-Tide-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' alt='2025 Alabama Crimson Tide wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Alabama-Crimson-Tide-wallpaper-logo-geometric-desktop-NCAA-2024-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football (@AlabamaFTBL) on X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/c1/90/26c1908f1b43eddf12df2b67498973e9.jpg' alt='Alabama Football (@AlabamaFTBL) on X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/c1/90/26c1908f1b43eddf12df2b67498973e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide Revolving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81H3G4wpOZL.png' alt='Alabama Crimson Tide Revolving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81H3G4wpOZL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Alabama-Football-Wallpaper_9f0b2647-8c1b-4cad-94ad-f910ebb76bcb_1080x.jpg?v=1628793218' alt='Alabama Football Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Alabama-Football-Wallpaper_9f0b2647-8c1b-4cad-94ad-f910ebb76bcb_1080x.jpg?v=1628793218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Alabama Football Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' alt='100+] Alabama Football Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roll Tide Alabama Crimson Tide Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/roll-tide-alabama-crimson-tide-x56y79v4b98xigjs.jpg' alt='Roll Tide Alabama Crimson Tide Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/roll-tide-alabama-crimson-tide-x56y79v4b98xigjs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide Bryant-denny Stadium Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/alabama-crimson-tide-round-logo-0raze4p8y1an6gfj.webp' alt='Alabama Crimson Tide Bryant-denny Stadium Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/alabama-crimson-tide-round-logo-0raze4p8y1an6gfj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama football">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/23/5d/73235d292393fe167758553d317af945.jpg' alt='Alabama football'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/23/5d/73235d292393fe167758553d317af945.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

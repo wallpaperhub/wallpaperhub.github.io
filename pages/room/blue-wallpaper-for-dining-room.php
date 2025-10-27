@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="blue wallpaper for dining room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/blue-wallpaper-for-dining-room">
+                            <span itemprop="name">blue wallpaper for dining room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Elegant Blue Damask Dining Room That Mixes Old & New ...">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/collections/ED_Lynne_Scalo_2048x.jpg?v=1572375134' alt='An Elegant Blue Damask Dining Room That Mixes Old & New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/collections/ED_Lynne_Scalo_2048x.jpg?v=1572375134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Schumacher Blue & White Dining Room - Samantha Varvel">
+                                <img itemprop="contentUrl url" src='https://samanthavarvel.com/wp-content/uploads/2021/10/Schumacherdiningroom1-819x1024.jpg' alt='Our Schumacher Blue & White Dining Room - Samantha Varvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samantha Varvel" />
+                                </span>
+                                <a href='https://samanthavarvel.com/wp-content/uploads/2021/10/Schumacherdiningroom1-819x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Table Decor in Shades of Blue for a Traditional Dining Room">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/attagirlsays.com/wp-content/uploads/2019/10/fall-dining-room-decor.jpg' alt='Fall Table Decor in Shades of Blue for a Traditional Dining Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atta Girl Says" />
+                                </span>
+                                <a href='https://i2.wp.com/attagirlsays.com/wp-content/uploads/2019/10/fall-dining-room-decor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Elegant Dining Space with Blue Chinoiserie Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2023/08/28/blue-square-back-french-dining-chairs.png' alt='Blue Elegant Dining Space with Blue Chinoiserie Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2023/08/28/blue-square-back-french-dining-chairs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Wallpaper | Ohio life and style | Coffee Beans and ...">
+                                <img itemprop="contentUrl url" src='https://coffeebeansandbobbypins.com/wp-content/uploads/2020/08/IMG_8542-1024x683.jpg' alt='Blue Floral Wallpaper | Ohio life and style | Coffee Beans and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coffee Beans and Bobby Pins" />
+                                </span>
+                                <a href='https://coffeebeansandbobbypins.com/wp-content/uploads/2020/08/IMG_8542-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4122-72401 A-Street Prints Terrace Villa Wallpaper - Blue – US ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/4122-72401_Room.jpg?v=1703966206&width=1445' alt='4122-72401 A-Street Prints Terrace Villa Wallpaper - Blue – US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/4122-72401_Room.jpg?v=1703966206&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get the Look: A Patternful Blue & White Dining Room for the Holidays">
+                                <img itemprop="contentUrl url" src='https://homeglowdesign.com/wp-content/uploads/2017/11/08-3873-post/lee-ann-thornton-dining-room-1117-1509390382-e1510153634643.jpg' alt='Get the Look: A Patternful Blue & White Dining Room for the Holidays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Home Glow Design" />
+                                </span>
+                                <a href='https://homeglowdesign.com/wp-content/uploads/2017/11/08-3873-post/lee-ann-thornton-dining-room-1117-1509390382-e1510153634643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Wallpaper Dining Room with Blue Walls Ideas You'll Love ...">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/dining-rooms/olson-residence-staging-north-shore-img~d7f1ee450d121143_14-5616-1-48870ae.jpg' alt='75 Wallpaper Dining Room with Blue Walls Ideas You'll Love ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/dining-rooms/olson-residence-staging-north-shore-img~d7f1ee450d121143_14-5616-1-48870ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Schumacher Blue & White Dining Room - Samantha Varvel">
+                                <img itemprop="contentUrl url" src='https://samanthavarvel.com/wp-content/uploads/2021/10/Schumacherdiningroom3-scaled.jpg' alt='Our Schumacher Blue & White Dining Room - Samantha Varvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samantha Varvel" />
+                                </span>
+                                <a href='https://samanthavarvel.com/wp-content/uploads/2021/10/Schumacherdiningroom3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dining Room Wallpaper • Robyn's Southern Nest">
+                                <img itemprop="contentUrl url" src='https://www.robynssouthernnest.com/wp-content/uploads/2021/05/IMG_9468-scaled.jpg' alt='Dining Room Wallpaper • Robyn's Southern Nest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robyn's Southern Nest" />
+                                </span>
+                                <a href='https://www.robynssouthernnest.com/wp-content/uploads/2021/05/IMG_9468-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

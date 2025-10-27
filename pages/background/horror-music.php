@@ -1,0 +1,129 @@
+<title>Chilling Sounds: The Power of Horror Music</title>
+                    <meta name="description" content="Explore the haunting world of horror music, designed to evoke fear and suspense. Discover how chilling melodies and unsettling rhythms enhance your favorite scary films and haunted experiences. Join us on a journey through the eerie sounds that make our hearts race!">
+                    <meta name="keywords" content="horror music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horror-music">
+                            <span itemprop="name">horror music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chilling Sounds: The Power of Horror Music</h1>
+                <p>Horror music creates an atmosphere of tension and fear, enhancing the experience of suspenseful films and haunted attractions. With chilling sounds, eerie melodies, and unsettling rhythms, it evokes dread and anticipation. Perfectly crafted, horror music intensifies our emotional response, making every scare more impactful and memorable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary Horror Music | Best Halloween Mega Remix 2015 | Creepy Anthem | New  Dark Songs">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OZK7rAyzGi4/maxresdefault.jpg' alt='Scary Horror Music | Best Halloween Mega Remix 2015 | Creepy Anthem | New  Dark Songs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OZK7rAyzGi4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Music Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2736031855667ed707e2e2e87ad' alt='Horror Music Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2736031855667ed707e2e2e87ad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Music – Over 90 Minutes Scary & Spooky Sounds, Background ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2733dcbb95c6c73df05713d5204' alt='Horror Music – Over 90 Minutes Scary & Spooky Sounds, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2733dcbb95c6c73df05713d5204' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Horror Music : Horror Section: Digital Music">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41WlccMeBhL._UXNaN_FMjpg_QL85_.jpg' alt='Amazon.com: Horror Music : Horror Section: Digital Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41WlccMeBhL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Music of the Night Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273a1723f43c642aec857b07534' alt='Horror Music of the Night Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273a1723f43c642aec857b07534' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[Horror Music No Copyright]Horror Background Music No Copyright - Non  Copyrighted Scary Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lDNGlG71AR8/maxresdefault.jpg' alt='[Horror Music No Copyright]Horror Background Music No Copyright - Non  Copyrighted Scary Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lDNGlG71AR8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Sam Hardman | Listen to The Sound of Horror - Music ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-000182749576-7sgdel-t500x500.jpg' alt='Stream Sam Hardman | Listen to The Sound of Horror - Music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-000182749576-7sgdel-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="[No Copyright Music] HORROR THEME | CREEPY BACKGROUND MUSIC | Royalty Free  Music | VIVEK ABHISHEK">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LwjzmdiRFpc/maxresdefault.jpg' alt='[No Copyright Music] HORROR THEME | CREEPY BACKGROUND MUSIC | Royalty Free  Music | VIVEK ABHISHEK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LwjzmdiRFpc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Psychology of Spooky Music and Sound Design in ...">
+                                <img itemprop="contentUrl url" src='https://d3q27bh1u24u2o.cloudfront.net/news/String_and_Tins_-_Horror_Music.png' alt='The History and Psychology of Spooky Music and Sound Design in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="925">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lbbonline.com" />
+                                </span>
+                                <a href='https://d3q27bh1u24u2o.cloudfront.net/news/String_and_Tins_-_Horror_Music.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dylan Baker Music — Horror Music: Uncovering the Sound of Fear">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/522815cce4b0065df0ce828f/1537906488693-ZU9KC8958BU3NAPK5IJW/Old+broken+piano.jpg' alt='Dylan Baker Music — Horror Music: Uncovering the Sound of Fear'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1631">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dylan Baker Music" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/522815cce4b0065df0ce828f/1537906488693-ZU9KC8958BU3NAPK5IJW/Old+broken+piano.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

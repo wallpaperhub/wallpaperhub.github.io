@@ -1,0 +1,129 @@
+<title>Stunning Dragon Fruit Images: Colors & Benefits</title>
+                    <meta name="description" content="Explore the vibrant world of dragon fruit with captivating images and discover its unique health benefits. Learn how to incorporate this exotic fruit into your diet with fresh recipes and tips. Perfect for foodies and health enthusiasts alike!">
+                    <meta name="keywords" content="dragon fruit pic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dragon-fruit-pic">
+                            <span itemprop="name">dragon fruit pic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Fruit Images: Colors & Benefits</h1>
+                <p>Dragon fruit, also known as pitaya, is a visually stunning fruit with vibrant pink or yellow skin and unique green scales. Its sweet, mildly tangy flesh is speckled with tiny black seeds. Perfect for smoothies, salads, or as a refreshing snack, dragon fruit is not only tasty but also packed with nutrients and antioxidants, making it a trendy addition to healthy diets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pitaya - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/640px-Pitaya_cross_section_ed2.jpg' alt='Pitaya - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/640px-Pitaya_cross_section_ed2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fruit: Nutrition, Benefits, and How to Eat It">
+                                <img itemprop="contentUrl url" src='https://media.post.rvohealth.io/wp-content/uploads/2024/01/A-pink-pitahaya-cut-it-in-half-Dragon-Fruit-facebook.jpg' alt='Dragon Fruit: Nutrition, Benefits, and How to Eat It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Healthline" />
+                                </span>
+                                <a href='https://media.post.rvohealth.io/wp-content/uploads/2024/01/A-pink-pitahaya-cut-it-in-half-Dragon-Fruit-facebook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fruit: 9 Health Benefits You Need To Know">
+                                <img itemprop="contentUrl url" src='https://foodrevolution.org/wp-content/uploads/iStock-935484516-1.jpg' alt='Dragon Fruit: 9 Health Benefits You Need To Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5472">
+                                <meta itemprop="height" content="3648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food Revolution Network" />
+                                </span>
+                                <a href='https://foodrevolution.org/wp-content/uploads/iStock-935484516-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fruit: Why & How You Should Be Including It Into Your Diet -">
+                                <img itemprop="contentUrl url" src='https://www.charamarie.com/wp-content/uploads/2018/10/dragon-fruit-Twitter-800x419.jpg' alt='Dragon Fruit: Why & How You Should Be Including It Into Your Diet -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chara Marie" />
+                                </span>
+                                <a href='https://www.charamarie.com/wp-content/uploads/2018/10/dragon-fruit-Twitter-800x419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Dragon Fruit">
+                                <img itemprop="contentUrl url" src='https://shop.goodhillfarms.com/cdn/shop/files/white-dragon-fruit-good-hill-farms-53084323316082.jpg?v=1732542462&width=1946' alt='White Dragon Fruit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Hill Farms" />
+                                </span>
+                                <a href='https://shop.goodhillfarms.com/cdn/shop/files/white-dragon-fruit-good-hill-farms-53084323316082.jpg?v=1732542462&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fruit (Pitaya) Smoothie - TastyAZ">
+                                <img itemprop="contentUrl url" src='https://www.tastyaz.com/wp-content/uploads/2022/02/Pitaya-Dragon-Fruit-Smoothie.jpg' alt='Dragon Fruit (Pitaya) Smoothie - TastyAZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TastyAZ" />
+                                </span>
+                                <a href='https://www.tastyaz.com/wp-content/uploads/2022/02/Pitaya-Dragon-Fruit-Smoothie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Fruit Demystified – Your New Delicious Best Fruit Friend">
+                                <img itemprop="contentUrl url" src='https://eatingrichly.com/wp-content/uploads/2018/03/dragon-fruit-pin.jpg' alt='Dragon Fruit Demystified – Your New Delicious Best Fruit Friend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eating Richly" />
+                                </span>
+                                <a href='https://eatingrichly.com/wp-content/uploads/2018/03/dragon-fruit-pin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unlock the Secrets of How to Cut a Dragon Fruit – Kyoku Knives">
+                                <img itemprop="contentUrl url" src='https://kyokuknives.com/cdn/shop/articles/HOW_TO_CUT_DRAGON_FRUIT_a2eafcb3-6b1e-4520-920f-f992bbabe3f5_1157x.jpg?v=1739771226' alt='Unlock the Secrets of How to Cut a Dragon Fruit – Kyoku Knives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1157">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kyoku Knives" />
+                                </span>
+                                <a href='https://kyokuknives.com/cdn/shop/articles/HOW_TO_CUT_DRAGON_FRUIT_a2eafcb3-6b1e-4520-920f-f992bbabe3f5_1157x.jpg?v=1739771226' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Dragon Fruit White Flesh | Red Pitahaya Box Regular (5 Pounds)">
+                                <img itemprop="contentUrl url" src='https://tropicalfruitbox.com/cdn/shop/files/Red_Dragon_3lbs_3_1280x.jpg?v=1719855464' alt='Red Dragon Fruit White Flesh | Red Pitahaya Box Regular (5 Pounds)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tropical Fruit Box" />
+                                </span>
+                                <a href='https://tropicalfruitbox.com/cdn/shop/files/Red_Dragon_3lbs_3_1280x.jpg?v=1719855464' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Cut Dragon Fruit - Jessica Gavin">
+                                <img itemprop="contentUrl url" src='https://www.jessicagavin.com/wp-content/uploads/2021/06/how-to-cut-dragon-fruit-17.jpg' alt='How to Cut Dragon Fruit - Jessica Gavin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jessica Gavin" />
+                                </span>
+                                <a href='https://www.jessicagavin.com/wp-content/uploads/2021/06/how-to-cut-dragon-fruit-17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Premium Transparent Baseball Clipart for Your Designs</title>
+                    <meta name="description" content="Discover high-quality transparent background baseball clipart! Perfect for graphic design projects, invitations, and more. Enhance your creative work with versatile images that capture the essence of baseball effortlessly. Download now for easy integration into your designs!">
+                    <meta name="keywords" content="transparent background baseball clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-baseball-clipart">
+                            <span itemprop="name">transparent background baseball clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Premium Transparent Baseball Clipart for Your Designs</h1>
+                <p>Transparent background baseball clipart enhances your designs by providing versatile and easily usable graphics. Perfect for projects like invitations, posters, and social media posts, these cliparts seamlessly integrate into any background. Explore our collection for high-quality images that capture the spirit of baseball!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Baseball Clipart (Royalty-free) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/03/Baseball-Clipart-WM.png' alt='FREE Baseball Clipart (Royalty-free) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/03/Baseball-Clipart-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Baseball bat Batting Small ball , Animated Baseball ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/baseball-bat-batting-small-ball-animated-baseball-transparent-background-png-clipart--comhiclipartibryu.jpg' alt='Free: Baseball bat Batting Small ball , Animated Baseball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/baseball-bat-batting-small-ball-animated-baseball-transparent-background-png-clipart--comhiclipartibryu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Ball PNG Clipart Picture​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Sport-PNG/Baseball_Ball_PNG_Clipart_Picture.png?m=1629815840' alt='Baseball Ball PNG Clipart Picture​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2225">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Sport-PNG/Baseball_Ball_PNG_Clipart_Picture.png?m=1629815840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Clipart Images – Browse 27,279 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/96/26/66/360_F_696266677_rU89DN9mY4uqMCqGMMaMvPwHpDiunaKa.jpg' alt='Baseball Clipart Images – Browse 27,279 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/96/26/66/360_F_696266677_rU89DN9mY4uqMCqGMMaMvPwHpDiunaKa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball PNG, Baseball Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/baseball-png/baseball-png-2.png' alt='Baseball PNG, Baseball Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/baseball-png/baseball-png-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Clipart, Download Free Transparent PNG Format Clipart ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190602/ourmid/pngtree-white-cartoon-baseball-illustration-image_1411924.jpg' alt='Baseball Clipart, Download Free Transparent PNG Format Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190602/ourmid/pngtree-white-cartoon-baseball-illustration-image_1411924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Clipart PNG Transparent Background, Free Download #35349 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/baseball-png-clipart-18.png' alt='Baseball Clipart PNG Transparent Background, Free Download #35349 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1969">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/baseball-png-clipart-18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Baseball Clipart Free Clip Art Images Image 7 - Baseball Ball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/e0/ec/ef/e0ecef9e2b1fde723264ca7c2e8020c4.jpg' alt='Free Baseball Clipart Free Clip Art Images Image 7 - Baseball Ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/e0/ec/ef/e0ecef9e2b1fde723264ca7c2e8020c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baseball Clip Art at Clker.com - vector clip art online, royalty ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/v/u/B/i/u/F/baseball-hi.png' alt='Baseball Clip Art at Clker.com - vector clip art online, royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/v/u/B/i/u/F/baseball-hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Baseball Clipart (Royalty-free) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/03/Baseball-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' alt='FREE Baseball Clipart (Royalty-free) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2022/03/Baseball-Clipart-with-outline-WM.png?fit=1001%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Timeless Black and White Vintage Wallpaper</title>
+                    <meta name="description" content="Discover the charm of black and white vintage wallpaper! Perfect for adding elegance and character to your home, these classic designs suit any decor style. Transform your space with timeless patterns that never go out of fashion. Explore our collection for a stunning makeover today!">
+                    <meta name="keywords" content="black and white vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-vintage-wallpaper">
+                            <span itemprop="name">black and white vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Timeless Black and White Vintage Wallpaper</h1>
+                <p>Black and white vintage wallpaper adds a timeless elegance to any space, infusing character and charm. Its classic patterns, from damask to geometric designs, evoke nostalgia while complementing modern decor. Perfect for accent walls or entire rooms, this versatile choice enhances both cozy and sophisticated interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick  Black Rose Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91MhwTNrxOL.jpg' alt='JiffDiff Floral Wallpaper Peel and Stick, Vintage Wallpaper Wall Stick  Black Rose Removable Vinyl Wallpaper Sketch Floral Wall Mural Wall Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91MhwTNrxOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Black and White Landscape Wall Murals Wallpaper, Landscape Plants  Living Room Arge Wall Paper Wall Murals, Waterproof Panoramic Mural for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jnMTHmj3L.jpg' alt='Vintage Black and White Landscape Wall Murals Wallpaper, Landscape Plants  Living Room Arge Wall Paper Wall Murals, Waterproof Panoramic Mural for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1604">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jnMTHmj3L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Vintage Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper 764 | Wall Paper Peel And Stick | Wall Mural Wall Decor">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-764.jpg' alt='Black White Vintage Floral Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper 764 | Wall Paper Peel And Stick | Wall Mural Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Farmhouse Wallpaper - Black White Hand Drawn Floral Toile ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/cde739/1670687162/il_fullxfull.1670687162_40aj.jpg' alt='Modern Farmhouse Wallpaper - Black White Hand Drawn Floral Toile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1877">
+                                <meta itemprop="height" content="1693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/cde739/1670687162/il_fullxfull.1670687162_40aj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/d3e0d7adc9dd3a3d20016873e0ac27b3_grande.jpg?v=1723298851' alt='Black and White Floral Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/d3e0d7adc9dd3a3d20016873e0ac27b3_grande.jpg?v=1723298851' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Damask, Monochrome – The Pattern Collective">
+                                <img itemprop="contentUrl url" src='https://thepatterncollective.com/cdn/shop/products/Vintage_Damask_Monochrome_FEATHR_The_Pattern_Collective.png?v=1566231431&width=1080' alt='Vintage Damask, Monochrome – The Pattern Collective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pattern Collective" />
+                                </span>
+                                <a href='https://thepatterncollective.com/cdn/shop/products/Vintage_Damask_Monochrome_FEATHR_The_Pattern_Collective.png?v=1566231431&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Vintage News Ads Retro Black and White Traditional Old World  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/oAoAAOSwry1aHj~7/s-l1200.jpg' alt='Classic Vintage News Ads Retro Black and White Traditional Old World  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/oAoAAOSwry1aHj~7/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114&width=1080' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Floral Wallpaper, Floral Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/db10b6/3972927546/il_570xN.3972927546_nhmi.jpg' alt='Black and White Floral Wallpaper, Floral Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/db10b6/3972927546/il_570xN.3972927546_nhmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Blooms Peel and Stick Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11718RLex_bd73d561-8377-49fb-819e-a73c4f160e2b.jpg?v=1703814519&width=800' alt='Vintage Floral Blooms Peel and Stick Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11718RLex_bd73d561-8377-49fb-819e-a73c4f160e2b.jpg?v=1703814519&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

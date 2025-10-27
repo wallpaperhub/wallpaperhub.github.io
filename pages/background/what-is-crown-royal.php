@@ -1,0 +1,129 @@
+<title>Discover Crown Royal: The Premium Canadian Whisky</title>
+                    <meta name="description" content="Explore Crown Royal, the smooth Canadian whisky in a signature purple bag. Perfect for sipping or mixing, its rich flavor makes it a top choice for whisky lovers. Learn more about its unique blend and craftsmanship today!">
+                    <meta name="keywords" content="what is crown royal">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-crown-royal">
+                            <span itemprop="name">what is crown royal</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Crown Royal: The Premium Canadian Whisky</h1>
+                <p>Crown Royal is a premium Canadian whisky known for its smooth, rich flavor and distinctive purple velvet bag. Launched in 1939, it blends select whiskies, including a mix of rye, corn, and barley grains. Ideal for sipping or mixing, Crown Royal is celebrated for its quality and craftsmanship, making it a favorite among whisky enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CROWN ROYAL PRESS">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/wf4e4r4dkfx8/6VtWpqMnImKlhxYkOwI2mE/4abdecf4353ef4c6ce3c2323e42782bb/CR_fine_Deluxe.png' alt='CROWN ROYAL PRESS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crown Royal" />
+                                </span>
+                                <a href='https://images.ctfassets.net/wf4e4r4dkfx8/6VtWpqMnImKlhxYkOwI2mE/4abdecf4353ef4c6ce3c2323e42782bb/CR_fine_Deluxe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Regal Apple Flavored Canadian Whisky 750ml ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-e8559/images/stencil/800x800/products/8726/8888/crown-royal-regal-apple-flavored-whisky__80610.1739531926.jpg?c=2' alt='Crown Royal Regal Apple Flavored Canadian Whisky 750ml ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Wine House" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-e8559/images/stencil/800x800/products/8726/8888/crown-royal-regal-apple-flavored-whisky__80610.1739531926.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Blended Canadian Whisky 750mL – Crown Wine and Spirits">
+                                <img itemprop="contentUrl url" src='http://crownwineandspirits.com/cdn/shop/products/crown-royal-canadian-whisky-crown-royal-blended-canadian-whisky-750ml-31515753807965.jpg?v=1664304077' alt='Crown Royal Blended Canadian Whisky 750mL – Crown Wine and Spirits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crown Wine & Spirits" />
+                                </span>
+                                <a href='http://crownwineandspirits.com/cdn/shop/products/crown-royal-canadian-whisky-crown-royal-blended-canadian-whisky-750ml-31515753807965.jpg?v=1664304077' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Canadian Whiskey 750 ml - Applejack">
+                                <img itemprop="contentUrl url" src='https://applejack.com/site/images/Crown-Royal-Canadian-Whiskey-750-ml_1.png' alt='Crown Royal Canadian Whiskey 750 ml - Applejack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Applejack Wine & Spirits" />
+                                </span>
+                                <a href='https://applejack.com/site/images/Crown-Royal-Canadian-Whiskey-750-ml_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal 4 Pack Combo | Liquor Geeks">
+                                <img itemprop="contentUrl url" src='https://liquorgeeks.com/cdn/shop/products/crown-royal-4-pack-combo-liquor-geeks.png?v=1704706990&width=1500' alt='Crown Royal 4 Pack Combo | Liquor Geeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liquor Geeks" />
+                                </span>
+                                <a href='https://liquorgeeks.com/cdn/shop/products/crown-royal-4-pack-combo-liquor-geeks.png?v=1704706990&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Vanilla - 375ML | Bremers Wine and Liquor">
+                                <img itemprop="contentUrl url" src='https://bremerswineandliquor.com/wp-content/uploads/2021/01/crown-royal-vanilla-375.png' alt='Crown Royal Vanilla - 375ML | Bremers Wine and Liquor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bremer's Wine & Liquor Store" />
+                                </span>
+                                <a href='https://bremerswineandliquor.com/wp-content/uploads/2021/01/crown-royal-vanilla-375.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Vanilla Flavored Whisky Same-Day Delivery or Pickup ...">
+                                <img itemprop="contentUrl url" src='https://www.instacart.com/image-server/600x600/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_f3e2b7f8-9cc8-4259-9c73-de35fe66ef22.jpg' alt='Crown Royal Vanilla Flavored Whisky Same-Day Delivery or Pickup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coborn's" />
+                                </span>
+                                <a href='https://www.instacart.com/image-server/600x600/filters:fill(FFF,true):format(jpg)/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_f3e2b7f8-9cc8-4259-9c73-de35fe66ef22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Whiskey | Buy Crown Royal Apple Whiskey — Rare Tequilas">
+                                <img itemprop="contentUrl url" src='https://raretequilas.com/cdn/shop/products/Apple_1024x1024.png?v=1666577336' alt='Crown Royal Whiskey | Buy Crown Royal Apple Whiskey — Rare Tequilas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rare Tequilas" />
+                                </span>
+                                <a href='https://raretequilas.com/cdn/shop/products/Apple_1024x1024.png?v=1666577336' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Canadian Whiskey - 750ml | Colonial Spirits">
+                                <img itemprop="contentUrl url" src='https://www.colonialspirits.com/wp-content/uploads/2020/05/Crown-Royal-750mL_withbag-scaled.jpeg' alt='Crown Royal Canadian Whiskey - 750ml | Colonial Spirits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colonial Spirits" />
+                                </span>
+                                <a href='https://www.colonialspirits.com/wp-content/uploads/2020/05/Crown-Royal-750mL_withbag-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crown Royal Peach Flavored Canadian Whisky 750ml | FineWineHouse ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-e8559/images/stencil/800x800/products/15828/16886/crown-royal-peach-flavored-whisky__87979.1718767453.jpg?c=2' alt='Crown Royal Peach Flavored Canadian Whisky 750ml | FineWineHouse ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Wine House" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-e8559/images/stencil/800x800/products/15828/16886/crown-royal-peach-flavored-whisky__87979.1718767453.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

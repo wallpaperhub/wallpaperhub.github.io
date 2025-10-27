@@ -1,0 +1,129 @@
+<title>Epic House Party: Join the Fun!</title>
+                    <meta name="description" content="Join us for an epic house party! Experience great music, exciting games, and fantastic company. Don't miss out on the fun—RSVP now! Perfect for friends looking to unwind and make unforgettable memories. Get your party spirit ready!">
+                    <meta name="keywords" content="house party flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/house-party-flyer">
+                            <span itemprop="name">house party flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic House Party: Join the Fun!</h1>
+                <p>Get ready to party! Join us for an unforgettable house party filled with music, fun, and friends! Date: [Insert Date], Time: [Insert Time], Location: [Insert Address]. Bring your favorite drinks and snacks. Don't miss out on the good vibes. RSVP by [Insert Date]. Let's make amazing memories together!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer, Print Templates | GraphicRiver">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/245031927/Preview%20-%20House%20Party%20Flyer.jpg' alt='House Party Flyer, Print Templates | GraphicRiver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicRiver" />
+                                </span>
+                                <a href='https://s3.envato.com/files/245031927/Preview%20-%20House%20Party%20Flyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer Poster By artolus | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_3732950_ob7exi5javwr98n1ggcch8ivmg4opzrs1cn4a3ha_house-party-flyer-poster.jpg' alt='House Party Flyer Poster By artolus | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_3732950_ob7exi5javwr98n1ggcch8ivmg4opzrs1cn4a3ha_house-party-flyer-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/house-party-flyer-design-template-eeaff95fa58364203c4324c0ab494b38_screen.jpg?ts=1637037515' alt='House Party Flyer Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/house-party-flyer-design-template-eeaff95fa58364203c4324c0ab494b38_screen.jpg?ts=1637037515' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/fe/33/0dfe3397f05c238cdb586a8e3f1320b6.jpg' alt='House Party Flyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/fe/33/0dfe3397f05c238cdb586a8e3f1320b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In The House - Canva Template - Party Flyer - DJ Flyer – DontSleepGFX">
+                                <img itemprop="contentUrl url" src='http://dontsleepgfx.com/cdn/shop/products/c68a713edf5ca22668568ac804b77cb0.jpg?v=1665677946' alt='In The House - Canva Template - Party Flyer - DJ Flyer – DontSleepGFX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DontSleepGFX" />
+                                </span>
+                                <a href='http://dontsleepgfx.com/cdn/shop/products/c68a713edf5ca22668568ac804b77cb0.jpg?v=1665677946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer Templates - PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/house-party-flyer-template-xrh95p391b566b.webp' alt='House Party Flyer Templates - PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/house-party-flyer-template-xrh95p391b566b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s House Party Flyer, 90s House Party Invitation, Retro Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15871200/r/il/daaae4/2428262345/il_fullxfull.2428262345_ougt.jpg' alt='90s House Party Flyer, 90s House Party Invitation, Retro Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15871200/r/il/daaae4/2428262345/il_fullxfull.2428262345_ougt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer PSD, High Quality Free PSD Templates for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/house-party-template-design_23-2151134438.jpg' alt='House Party Flyer PSD, High Quality Free PSD Templates for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/house-party-template-design_23-2151134438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Graphics, Designs & Templates | GraphicRiver">
+                                <img itemprop="contentUrl url" src='https://market-resized.envatousercontent.com/previews/files/507648214/PreviewImage.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=554472b28fce9d562fd4d2dd84ae536669a250bede07da770f98a9327feb38e4' alt='House Party Graphics, Designs & Templates | GraphicRiver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GraphicRiver" />
+                                </span>
+                                <a href='https://market-resized.envatousercontent.com/previews/files/507648214/PreviewImage.jpg?w=590&h=590&cf_fit=crop&crop=top&format=auto&q=85&s=554472b28fce9d562fd4d2dd84ae536669a250bede07da770f98a9327feb38e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Party Flyer Stock Template | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/83/81/58/1000_F_183815849_BCXABeE5Qfm40YRjD6EjHtzzDbXtfAkh.jpg' alt='House Party Flyer Stock Template | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/83/81/58/1000_F_183815849_BCXABeE5Qfm40YRjD6EjHtzzDbXtfAkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

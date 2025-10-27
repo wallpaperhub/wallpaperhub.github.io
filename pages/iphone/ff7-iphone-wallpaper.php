@@ -1,0 +1,129 @@
+<title>Epic Final Fantasy 7 iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of vibrant FF7 iPhone wallpapers to elevate your device's aesthetic. From beloved characters to scenic landscapes, find the perfect wallpaper that showcases your passion for Final Fantasy VII. Download your favorites today and bring a piece of gaming history to your screen!">
+                    <meta name="keywords" content="ff7 iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/ff7-iphone-wallpaper">
+                            <span itemprop="name">ff7 iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Final Fantasy 7 iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning FF7 wallpapers featuring iconic characters and breathtaking scenes from the classic game. Whether you're a fan of Cloud, Tifa, or Sephiroth, bring the world of Final Fantasy VII into your device. Explore vibrant designs that capture the magic of Midgar and beyond!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little FF7 iPhone wallpaper I cooked up awhile back. Enjoy! Artist ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/little-ff7-iphone-wallpaper-i-cooked-up-awhile-back-enjoy-v0-n3tsglbkgnzc1.jpeg?auto=webp&s=1b00d86fc9c07824d82b107c2cb0fc85d0c194cd' alt='Little FF7 iPhone wallpaper I cooked up awhile back. Enjoy! Artist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/little-ff7-iphone-wallpaper-i-cooked-up-awhile-back-enjoy-v0-n3tsglbkgnzc1.jpeg?auto=webp&s=1b00d86fc9c07824d82b107c2cb0fc85d0c194cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-i5xj3pddkgic1.png?width=1440&format=png&auto=webp&s=93b4f8605c0318760bd1c83ff42b346783fea7c1' alt='Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-i5xj3pddkgic1.png?width=1440&format=png&auto=webp&s=93b4f8605c0318760bd1c83ff42b346783fea7c1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="final fantasy vii 5k iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/db/fa/27dbfa9bf4cc8217e7f5cee8e9a667bf.jpg' alt='final fantasy vii 5k iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/db/fa/27dbfa9bf4cc8217e7f5cee8e9a667bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-40ldsoddkgic1.png?width=1440&format=png&auto=webp&s=70f3833d63da61d1eaf7f1f18465ef41b5ef000b' alt='Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-40ldsoddkgic1.png?width=1440&format=png&auto=webp&s=70f3833d63da61d1eaf7f1f18465ef41b5ef000b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some FF7 phone wallpapers in my phone gallery I wanted to share ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122332310846001514' alt='Some FF7 phone wallpapers in my phone gallery I wanted to share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122332310846001514' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Remake Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/65/f3/6d/65f36dd1a6f00e6e39d18511d76b2d8e.jpg' alt='Final Fantasy VII Remake Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/65/f3/6d/65f36dd1a6f00e6e39d18511d76b2d8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-3qdizvddkgic1.png?width=1440&format=png&auto=webp&s=b8d7d396c094a426e543833a6e20402b28882d6f' alt='Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-3qdizvddkgic1.png?width=1440&format=png&auto=webp&s=b8d7d396c094a426e543833a6e20402b28882d6f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-86a3boddkgic1.png?width=1440&format=png&auto=webp&s=7ac78cf00de9b5e06c3b4cba9759c12439233555' alt='Final Fantasy VII Rebirth Mobile Wallpapers [1440x3120] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/final-fantasy-vii-rebirth-mobile-wallpapers-1440x3120-v0-86a3boddkgic1.png?width=1440&format=png&auto=webp&s=7ac78cf00de9b5e06c3b4cba9759c12439233555' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little FF7 iPhone wallpaper I cooked up awhile back. Enjoy! Artist ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/little-ff7-iphone-wallpaper-i-cooked-up-awhile-back-enjoy-v0-3d8tq357jpzc1.jpeg?width=1200&format=pjpg&auto=webp&s=75f2d549f16173393e018b27322995915487078b' alt='Little FF7 iPhone wallpaper I cooked up awhile back. Enjoy! Artist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/little-ff7-iphone-wallpaper-i-cooked-up-awhile-back-enjoy-v0-3d8tq357jpzc1.jpeg?width=1200&format=pjpg&auto=webp&s=75f2d549f16173393e018b27322995915487078b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="final fantasy vii iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/40/eb/9140eba5ed7ccf24937c28a66f5b098b.jpg' alt='final fantasy vii iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/40/eb/9140eba5ed7ccf24937c28a66f5b098b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

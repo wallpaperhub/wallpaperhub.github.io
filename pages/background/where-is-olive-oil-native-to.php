@@ -1,0 +1,129 @@
+<title>Discover the Native Origins of Olive Oil</title>
+                    <meta name="description" content="Explore the fascinating origins of olive oil, native to the Mediterranean. Uncover its rich history, cultivation, and significance in Mediterranean cuisine. Perfect for food lovers and history buffs alike!">
+                    <meta name="keywords" content="where is olive oil native to">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-is-olive-oil-native-to">
+                            <span itemprop="name">where is olive oil native to</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Native Origins of Olive Oil</h1>
+                <p>Olive oil is native to the Mediterranean region, particularly in countries like Greece, Italy, and Spain. The cultivation of olive trees dates back thousands of years in these areas, where the warm climate and suitable soil conditions contribute to the growth of high-quality olives. This heritage significantly influences Mediterranean cuisine today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geographical distribution of olive growing areas | Download ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/274553418/figure/fig1/AS:294860285333512@1447311578717/Geographical-distribution-of-olive-growing-areas.png' alt='Geographical distribution of olive growing areas | Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/274553418/figure/fig1/AS:294860285333512@1447311578717/Geographical-distribution-of-olive-growing-areas.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origin of olive oil">
+                                <img itemprop="contentUrl url" src='http://www.madeinsouthitalytoday.com/assets/uploads/OliveOilPage/olive_origins_550.jpg' alt='Origin of olive oil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.madeinsouthitalytoday.com" />
+                                </span>
+                                <a href='http://www.madeinsouthitalytoday.com/assets/uploads/OliveOilPage/olive_origins_550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Economics of IPM">
+                                <img itemprop="contentUrl url" src='https://www.virginiafruit.ento.vt.edu/OliveProj/OliveMapMedterranean.gif' alt='Economics of IPM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Virginia Fruit Page" />
+                                </span>
+                                <a href='https://www.virginiafruit.ento.vt.edu/OliveProj/OliveMapMedterranean.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Porducci%C3%B3n_de_olivas.PNG/400px-Porducci%C3%B3n_de_olivas.PNG' alt='Olive - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Porducci%C3%B3n_de_olivas.PNG/400px-Porducci%C3%B3n_de_olivas.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Oil Production by Country">
+                                <img itemprop="contentUrl url" src='https://www.aboutoliveoil.org/hs-fs/hubfs/OO_Prod_Cons_map.jpg?width=710&name=OO_Prod_Cons_map.jpg' alt='Olive Oil Production by Country'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North American Olive Oil Association" />
+                                </span>
+                                <a href='https://www.aboutoliveoil.org/hs-fs/hubfs/OO_Prod_Cons_map.jpg?width=710&name=OO_Prod_Cons_map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive oil - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Oliven_V1.jpg' alt='Olive oil - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2988">
+                                <meta itemprop="height" content="2790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0e/Oliven_V1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive oil consumption and human health: A narrative review ...">
+                                <img itemprop="contentUrl url" src='https://ars.els-cdn.com/content/image/1-s2.0-S0378512218306522-gr1.jpg' alt='Olive oil consumption and human health: A narrative review ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScienceDirect.com" />
+                                </span>
+                                <a href='https://ars.els-cdn.com/content/image/1-s2.0-S0378512218306522-gr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Olive Tree in the Mediterranean Bassin - Vivid Maps">
+                                <img itemprop="contentUrl url" src='https://vividmaps.com/wp-content/uploads/2020/04/Olive.jpg' alt='Olive Tree in the Mediterranean Bassin - Vivid Maps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivid Maps" />
+                                </span>
+                                <a href='https://vividmaps.com/wp-content/uploads/2020/04/Olive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is American Olive Oil About to Have Its Moment?">
+                                <img itemprop="contentUrl url" src='https://www.bloomberg.com/features/2016-california-olive-oil/img/feat_oliveoil05prod_1280.png' alt='Is American Olive Oil About to Have Its Moment?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomberg" />
+                                </span>
+                                <a href='https://www.bloomberg.com/features/2016-california-olive-oil/img/feat_oliveoil05prod_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Four geographical origins of the analyzed olive oils ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/360183785/figure/fig1/AS:1164879713046529@1654740374520/The-Four-geographical-origins-of-the-analyzed-olive-oils-corresponding-to-Tunisia.png' alt='The Four geographical origins of the analyzed olive oils ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/360183785/figure/fig1/AS:1164879713046529@1654740374520/The-Four-geographical-origins-of-the-analyzed-olive-oils-corresponding-to-Tunisia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

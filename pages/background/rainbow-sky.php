@@ -1,0 +1,129 @@
+<title>"Captivating Rainbow Skies: Nature's Colorful Wonder"</title>
+                    <meta name="description" content="Discover the enchanting beauty of rainbow skies, where sunlight and raindrops create a magical spectrum of colors. This natural wonder symbolizes hope and joy, inviting us to appreciate the brilliance of nature. Catch a glimpse of this breathtaking phenomenon after rain and feel inspired!">
+                    <meta name="keywords" content="rainbow sky">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-sky">
+                            <span itemprop="name">rainbow sky</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Captivating Rainbow Skies: Nature's Colorful Wonder"</h1>
+                <p>A rainbow sky is a breathtaking sight that brings joy and wonder. When sunlight refracts through raindrops, a spectrum of colors arcs across the sky, creating a mesmerizing display. Often seen after rain, this natural phenomenon symbolizes hope and beauty. The vibrant colors remind us to appreciate the magic that surrounds us.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vibrant sky rainbow Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/6/d/c/6dc4ac89-72c7-4ca9-8200-1db2f1dde00d_large/vibrant-sky-rainbow-stockcake.jpg' alt='Free Vibrant sky rainbow Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/6/d/c/6dc4ac89-72c7-4ca9-8200-1db2f1dde00d_large/vibrant-sky-rainbow-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Sky View Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/392/213/non_2x/abstract-oil-painting-of-pastel-rainbow-sky-minimalism-photo.jpg' alt='Rainbow Sky View Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/392/213/non_2x/abstract-oil-painting-of-pastel-rainbow-sky-minimalism-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Sky | By popular demands from my friends who insists… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/80/260532429_0e35c1e0b1_z.jpg' alt='Rainbow Sky | By popular demands from my friends who insists… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/80/260532429_0e35c1e0b1_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vibrant rainbow sky Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/6/d/8/6d8b293f-060a-4823-add5-1df5caa42333_large/vibrant-rainbow-sky-stockcake.jpg' alt='Free Vibrant rainbow sky Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/6/d/8/6d8b293f-060a-4823-add5-1df5caa42333_large/vibrant-rainbow-sky-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow sky by worldofodd on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d83005ea-85af-4dda-bd06-e60affc7cac5/devqrrt-39998e6a-7043-4eed-adbb-3d42bacd6b64.jpg/v1/fill/w_900,h_1425,q_75,strp/rainbow_sky_by_worldofodd_devqrrt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4MzAwNWVhLTg1YWYtNGRkYS1iZDA2LWU2MGFmZmM3Y2FjNVwvZGV2cXJydC0zOTk5OGU2YS03MDQzLTRlZWQtYWRiYi0zZDQyYmFjZDZiNjQuanBnIiwiaGVpZ2h0IjoiPD0xNDI1Iiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9kODMwMDVlYS04NWFmLTRkZGEtYmQwNi1lNjBhZmZjN2NhYzVcL3dvcmxkb2ZvZGQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.dWt0nCpWMQ_Y8dHASv4AlfzND2XNO06xhIh-1Z-1VFk' alt='Rainbow sky by worldofodd on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d83005ea-85af-4dda-bd06-e60affc7cac5/devqrrt-39998e6a-7043-4eed-adbb-3d42bacd6b64.jpg/v1/fill/w_900,h_1425,q_75,strp/rainbow_sky_by_worldofodd_devqrrt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4MzAwNWVhLTg1YWYtNGRkYS1iZDA2LWU2MGFmZmM3Y2FjNVwvZGV2cXJydC0zOTk5OGU2YS03MDQzLTRlZWQtYWRiYi0zZDQyYmFjZDZiNjQuanBnIiwiaGVpZ2h0IjoiPD0xNDI1Iiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9kODMwMDVlYS04NWFmLTRkZGEtYmQwNi1lNjBhZmZjN2NhYzVcL3dvcmxkb2ZvZGQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.dWt0nCpWMQ_Y8dHASv4AlfzND2XNO06xhIh-1Z-1VFk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Sky Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/896/809/non_2x/ai-generated-a-vibrant-rainbow-arching-across-the-sky-generative-ai-photo.jpeg' alt='Rainbow Sky Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/896/809/non_2x/ai-generated-a-vibrant-rainbow-arching-across-the-sky-generative-ai-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Sky Background Images – Browse 478,546 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/37/19/09/360_F_737190978_W4kgLI228XdtYS8cR83Vfkbyt46X2RE0.jpg' alt='Rainbow Sky Background Images – Browse 478,546 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/37/19/09/360_F_737190978_W4kgLI228XdtYS8cR83Vfkbyt46X2RE0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sea Rainbow Sky Stock Illustrations – 2,764 Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/generated-image-333746713.jpg' alt='Beautiful Sea Rainbow Sky Stock Illustrations – 2,764 Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/generated-image-333746713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow stock photo. Image of blue, scene, effects, rainbow - 9197070">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/7f/6b/657f6b0e39875ba2b5d73e6a5f4c1235.jpg' alt='Rainbow stock photo. Image of blue, scene, effects, rainbow - 9197070'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/7f/6b/657f6b0e39875ba2b5d73e6a5f4c1235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Photos Capture Fiery Rainbows in the Sky">
+                                <img itemprop="contentUrl url" src='http://i2.wp.com/www.cleverpedia.com/wp-content/uploads/2014/03/fire-rainbow.jpg?fit=401%2C599' alt='Beautiful Photos Capture Fiery Rainbows in the Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleverpedia" />
+                                </span>
+                                <a href='http://i2.wp.com/www.cleverpedia.com/wp-content/uploads/2014/03/fire-rainbow.jpg?fit=401%2C599' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

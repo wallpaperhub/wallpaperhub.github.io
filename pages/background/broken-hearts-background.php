@@ -1,0 +1,129 @@
+<title>The Pain and Healing of Broken Hearts</title>
+                    <meta name="description" content="Explore the emotions surrounding broken hearts—pain, regret, and the path to healing. Discover how heartbreak inspires creativity and resilience as you navigate the journey to emotional recovery and self-discovery. Perfect for anyone seeking comfort and understanding in their heartache.">
+                    <meta name="keywords" content="broken hearts background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broken-hearts-background">
+                            <span itemprop="name">broken hearts background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Pain and Healing of Broken Hearts</h1>
+                <p>A broken heart often symbolizes deep emotional pain and loss, reflecting the struggle of moving on after love fades. People may experience sorrow, regret, and a longing for what was. This profound ache can inspire art, music, and literature, showcasing the resilience of the human spirit and the journey of healing and self-discovery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Broken Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1317860179/vector/broken-hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Tgr6JiHsUvjmmkb3EnInIg3yHeM8LGQbikWpqjoT6FM=' alt='1,300+ Broken Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1317860179/vector/broken-hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Tgr6JiHsUvjmmkb3EnInIg3yHeM8LGQbikWpqjoT6FM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Broken Heart Background in JPG, SVG, EPS, Illustrator ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74225/Free-Black-Broken-Heart-Background-02-1.jpg' alt='Black Broken Heart Background in JPG, SVG, EPS, Illustrator ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74225/Free-Black-Broken-Heart-Background-02-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="880+ Broken Heart Artwork Backgrounds Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391168415/vector/broken-heart-seamless-pattern-on-white-background.jpg?s=612x612&w=0&k=20&c=pj7BufliZjacV2JiIOL2FlU5GbivfMTmjb3pPYF67NQ=' alt='880+ Broken Heart Artwork Backgrounds Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391168415/vector/broken-heart-seamless-pattern-on-white-background.jpg?s=612x612&w=0&k=20&c=pj7BufliZjacV2JiIOL2FlU5GbivfMTmjb3pPYF67NQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Broken Heart Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210611/pngtree-seamless-splicing-of-broken-hearts-image_727803.jpg' alt='Download Broken Heart Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210611/pngtree-seamless-splicing-of-broken-hearts-image_727803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Broken Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-broken-hearts-vwjh0565oum4gtal.jpg' alt='Pink Broken Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-broken-hearts-vwjh0565oum4gtal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broken Heart Aesthetics Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/broken-heart-aesthetics-8g1424mkl824qcax.jpg' alt='100+] Broken Heart Aesthetics Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/broken-heart-aesthetics-8g1424mkl824qcax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Broken Heart Background in JPG, EPS, Illustrator, SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74061/Free-Transparent-Broken-Heart-Background-02-1.jpg' alt='Transparent Broken Heart Background in JPG, EPS, Illustrator, SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74061/Free-Transparent-Broken-Heart-Background-02-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Broken Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/913637452/vector/broken-hearts-pattern-thunder-bolts-on-pink-background-divorce-break-split.jpg?s=612x612&w=0&k=20&c=y3hcr2PbTnkzWELvOly6lQeJECsI39kN1HnZxf_0Tbs=' alt='1,300+ Broken Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/913637452/vector/broken-hearts-pattern-thunder-bolts-on-pink-background-divorce-break-split.jpg?s=612x612&w=0&k=20&c=y3hcr2PbTnkzWELvOly6lQeJECsI39kN1HnZxf_0Tbs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="broken heart brush Free Photo Download | FreeImages">
+                                <img itemprop="contentUrl url" src='https://images.freeimages.com/images/large-previews/a3d/broken-heart-brush-1637382.jpg' alt='broken heart brush Free Photo Download | FreeImages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeImages" />
+                                </span>
+                                <a href='https://images.freeimages.com/images/large-previews/a3d/broken-heart-brush-1637382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Red Broken Heart Heartbeat Line">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1097767487/thumb/1.jpg?ip=x480' alt='Neon Red Broken Heart Heartbeat Line'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1097767487/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

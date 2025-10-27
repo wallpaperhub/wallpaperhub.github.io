@@ -1,0 +1,129 @@
+<title>Aesthetic Emoji Wallpaper for Your Screen</title>
+                    <meta name="description" content="Discover the perfect aesthetic emoji wallpapers to transform your device! From vibrant colors to playful designs, find a wallpaper that showcases your unique style and personality. Explore our collection today and elevate your screen with joyful emojis!">
+                    <meta name="keywords" content="aesthetic:y_gqnb__tnu= emoji wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticy_gqnb__tnu-emoji-wallpaper">
+                            <span itemprop="name">aesthetic:y_gqnb__tnu= emoji wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Emoji Wallpaper for Your Screen</h1>
+                <p>Aesthetic emoji wallpapers are a trendy way to personalize your device! Featuring vibrant colors and playful designs, these wallpapers infuse your screen with energy and joy. Whether you prefer cute emojis or chic symbols, finding the perfect wallpaper to express your personality has never been easier. Brighten your digital life today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Emoji Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-emoji-p0mz9s1xs82xyx5w.jpg' alt='100+] Cute Emoji Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-emoji-p0mz9s1xs82xyx5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Emoji Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/76/9d/5c769d7bec2a48df907737ca4be08e30.jpg' alt='Aesthetic Emoji Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/76/9d/5c769d7bec2a48df907737ca4be08e30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/0a/2c/d30a2cb0a9b65b6d6f1072cf2e4ad51a.jpg' alt='Emoji wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/0a/2c/d30a2cb0a9b65b6d6f1072cf2e4ad51a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Emoji Wallpaper by uzijin on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/076be854-9aa9-4c3f-9090-33484ff9761b/dbmzqrs-4af519fd-e2d6-495b-88c4-c46bbf146512.jpg/v1/fill/w_1024,h_820,q_75,strp/the_emoji_wallpaper_by_uzijin_dbmzqrs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvMDc2YmU4NTQtOWFhOS00YzNmLTkwOTAtMzM0ODRmZjk3NjFiXC9kYm16cXJzLTRhZjUxOWZkLWUyZDYtNDk1Yi04OGM0LWM0NmJiZjE0NjUxMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cK4tF54fOj7tRmmHDxNKfHkTQrrN_wZz92ek7GIPV4U' alt='The Emoji Wallpaper by uzijin on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/076be854-9aa9-4c3f-9090-33484ff9761b/dbmzqrs-4af519fd-e2d6-495b-88c4-c46bbf146512.jpg/v1/fill/w_1024,h_820,q_75,strp/the_emoji_wallpaper_by_uzijin_dbmzqrs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvMDc2YmU4NTQtOWFhOS00YzNmLTkwOTAtMzM0ODRmZjk3NjFiXC9kYm16cXJzLTRhZjUxOWZkLWUyZDYtNDk1Yi04OGM0LWM0NmJiZjE0NjUxMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cK4tF54fOj7tRmmHDxNKfHkTQrrN_wZz92ek7GIPV4U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ᨦ aesthetic wallpaper ‹   //@mywallpaperr      #ios16wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/75/4f/b7754f17fd9932630b7970762c126999.jpg' alt='ᨦ aesthetic wallpaper ‹   //@mywallpaperr      #ios16wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/75/4f/b7754f17fd9932630b7970762c126999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Cute emoji wallpaper ideas | aesthetic iphone wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/14/be/54/14be54cb0c4d6cd1aa55b84c4227caaa.jpg' alt='140 Cute emoji wallpaper ideas | aesthetic iphone wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/14/be/54/14be54cb0c4d6cd1aa55b84c4227caaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download emoji aesthetic wallpaper by Cutellie - ae - Free on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/45/3e/f9453ed35177e4e86937a5dc84d6d290.jpg' alt='Download emoji aesthetic wallpaper by Cutellie - ae - Free on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/45/3e/f9453ed35177e4e86937a5dc84d6d290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji background | Emoji wallpaper iphone, Wallpaper iphone cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/fb/b0/d8fbb0f33f657f17ce5c8379cc31c9f1.jpg' alt='Emoji background | Emoji wallpaper iphone, Wallpaper iphone cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/fb/b0/d8fbb0f33f657f17ce5c8379cc31c9f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoji wallpapers 3/5 by JellyJaz1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7f6fe24-7700-47df-a8bc-adbc00e346c8/dg5kj7n-101af1ad-e479-4996-8393-364a76db416c.jpg/v1/fill/w_642,h_1245,q_70,strp/emoji_wallpapers_3_5_by_jellyjaz1_dg5kj7n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5MSIsInBhdGgiOiJcL2ZcL2M3ZjZmZTI0LTc3MDAtNDdkZi1hOGJjLWFkYmMwMGUzNDZjOFwvZGc1a2o3bi0xMDFhZjFhZC1lNDc5LTQ5OTYtODM5My0zNjRhNzZkYjQxNmMuanBnIiwid2lkdGgiOiI8PTg3MiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1MHO6TRKC1CBniFtpr0IF88zlhr1U_NzoDEvbwRDvnQ' alt='Emoji wallpapers 3/5 by JellyJaz1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7f6fe24-7700-47df-a8bc-adbc00e346c8/dg5kj7n-101af1ad-e479-4996-8393-364a76db416c.jpg/v1/fill/w_642,h_1245,q_70,strp/emoji_wallpapers_3_5_by_jellyjaz1_dg5kj7n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5MSIsInBhdGgiOiJcL2ZcL2M3ZjZmZTI0LTc3MDAtNDdkZi1hOGJjLWFkYmMwMGUzNDZjOFwvZGc1a2o3bi0xMDFhZjFhZC1lNDc5LTQ5OTYtODM5My0zNjRhNzZkYjQxNmMuanBnIiwid2lkdGgiOiI8PTg3MiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1MHO6TRKC1CBniFtpr0IF88zlhr1U_NzoDEvbwRDvnQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/9f/dc/cf9fdcfebec54c634c35e2cacd8cfcc5.jpg' alt='wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/9f/dc/cf9fdcfebec54c634c35e2cacd8cfcc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

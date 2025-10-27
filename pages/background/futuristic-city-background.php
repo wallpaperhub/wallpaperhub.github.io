@@ -1,0 +1,129 @@
+<title>Futuristic Cityscapes: A Vision of Tomorrow</title>
+                    <meta name="description" content="Explore the breathtaking concept of futuristic cities, where innovation meets sustainability. Discover advanced architecture, smart technology, and eco-friendly designs that redefine urban living for a harmonious future. Uncover the possibilities today!">
+                    <meta name="keywords" content="futuristic city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/futuristic-city-background">
+                            <span itemprop="name">futuristic city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Futuristic Cityscapes: A Vision of Tomorrow</h1>
+                <p>Imagine a city where towering skyscrapers touch the sky, adorned with solar panels and lush vertical gardens. Autonomous vehicles glide seamlessly on elevated roads, while drones deliver packages above. Smart technology integrates with nature, providing a vibrant urban ecosystem. The skyline glows with energy-efficient lights, reflecting a sustainable, innovative future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="480,900+ Futuristic City Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1406674466/photo/big-data-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=OPoKST8TVjklrGs89VnPDduGvp9zwiMXnavSruKMLyI=' alt='480,900+ Futuristic City Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1406674466/photo/big-data-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=OPoKST8TVjklrGs89VnPDduGvp9zwiMXnavSruKMLyI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Futuristic City Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/futuristic-city-zy9b3ah53duvacam.jpg' alt='200+] Futuristic City Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/futuristic-city-zy9b3ah53duvacam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,541 Futuristic City Fantasy Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/generated-image-345028695.jpg' alt='14,541 Futuristic City Fantasy Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/generated-image-345028695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,600+ Futuristic Neon City Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.jpg?s=612x612&w=0&k=20&c=8u9du7wZ_gwMt6beuW-QRhzts2U38oioiPH-ZDdXJwQ=' alt='25,600+ Futuristic Neon City Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.jpg?s=612x612&w=0&k=20&c=8u9du7wZ_gwMt6beuW-QRhzts2U38oioiPH-ZDdXJwQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Futuristic Skyscraper Sci Fi City Sci Fi City Futuristic ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/119/1194650.jpg' alt='Download Futuristic Skyscraper Sci Fi City Sci Fi City Futuristic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/119/1194650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic City with Sci-Fi Skyscrapers and Road Cinematic Background Loop">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/694/846/small_2x/futuristic-city-with-sci-fi-skyscrapers-and-road-cinematic-background-loop-free-video.jpg' alt='Futuristic City with Sci-Fi Skyscrapers and Road Cinematic Background Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/694/846/small_2x/futuristic-city-with-sci-fi-skyscrapers-and-road-cinematic-background-loop-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Cyberpunk futuristic city, abstract wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/66/14/71/1000_F_566147177_Mu3Cxh3sCNxVcIKWGhxOzyDwvd8eKDT6.jpg' alt='Photo & Art Print Cyberpunk futuristic city, abstract wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/66/14/71/1000_F_566147177_Mu3Cxh3sCNxVcIKWGhxOzyDwvd8eKDT6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="339,981 Blue Futuristic City Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2016529874/display_1500/stock-photo--d-rendering-of-neon-mega-city-with-light-reflection-from-puddles-on-street-heading-toward-2016529874.jpg' alt='339,981 Blue Futuristic City Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2016529874/display_1500/stock-photo--d-rendering-of-neon-mega-city-with-light-reflection-from-puddles-on-street-heading-toward-2016529874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Future City Images – Browse 1,969,026 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/91/10/58/360_F_391105876_fLnSSz13oHCTxLh9WlGZQsOalObXaYe6.jpg' alt='Future City Images – Browse 1,969,026 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/91/10/58/360_F_391105876_fLnSSz13oHCTxLh9WlGZQsOalObXaYe6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Futuristic City Night Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/1/7/1176e160-e7e6-428d-ae18-6c85b59af31a_large/futuristic-city-night-stockcake.jpg' alt='Free Futuristic City Night Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/1/7/1176e160-e7e6-428d-ae18-6c85b59af31a_large/futuristic-city-night-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

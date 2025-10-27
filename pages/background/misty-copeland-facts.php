@@ -1,0 +1,129 @@
+<title>Misty Copeland: Inspiring Facts About the Trailblazing Dancer</title>
+                    <meta name="description" content="Discover amazing facts about Misty Copeland, the groundbreaking American ballet dancer who shattered barriers as the first African American principal at the ABT. Learn about her inspiring journey, challenges faced, and her impact on the world of ballet and diversity.">
+                    <meta name="keywords" content="misty copeland facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/misty-copeland-facts">
+                            <span itemprop="name">misty copeland facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Misty Copeland: Inspiring Facts About the Trailblazing Dancer</h1>
+                <p>Misty Copeland is an American ballet dancer and the first African American woman to be promoted to principal dancer at the American Ballet Theatre. Born on September 10, 1982, in Kansas City, Missouri, she began ballet at age 13. Copeland has faced numerous challenges but has become a role model, inspiring many through her journey and advocacy for diversity in ballet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty Copeland: 5 Facts From Her New Book "Ballerina Body" | Allure">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/58d001a10a8343250f4651f1/16:9/w_2560%2Cc_limit/Misty%2520in%2520Purple%2520(iix)%2520(c)%2520Henry%2520Leutwyler%2520.jpg' alt='Misty Copeland: 5 Facts From Her New Book "Ballerina Body" | Allure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/58d001a10a8343250f4651f1/16:9/w_2560%2Cc_limit/Misty%2520in%2520Purple%2520(iix)%2520(c)%2520Henry%2520Leutwyler%2520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Misty Copeland? | Wonderopolis">
+                                <img itemprop="contentUrl url" src='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/video_thumbs/thumb_280_186_RRJ8oDSy21Y.jpg' alt='Who Is Misty Copeland? | Wonderopolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wonderopolis" />
+                                </span>
+                                <a href='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/video_thumbs/thumb_280_186_RRJ8oDSy21Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Misty Copeland? | Wonderopolis">
+                                <img itemprop="contentUrl url" src='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2020/11/thumb_720_450_10911602524_3159ae7890_c.png' alt='Who Is Misty Copeland? | Wonderopolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wonderopolis" />
+                                </span>
+                                <a href='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2020/11/thumb_720_450_10911602524_3159ae7890_c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancer Profile: Misty Copeland | 4dancers">
+                                <img itemprop="contentUrl url" src='http://www.4dancers.org/wp-content/uploads/2015/02/Misty-Copeland-by-Rosalie-O-Connor.jpg' alt='Dancer Profile: Misty Copeland | 4dancers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4dancers" />
+                                </span>
+                                <a href='http://www.4dancers.org/wp-content/uploads/2015/02/Misty-Copeland-by-Rosalie-O-Connor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty Copeland: 5 Facts From Her New Book "Ballerina Body" | Allure">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/58d001a44821d460496e654a/4:3/w_4983,h_3737,c_limit/Motion%20(c)%20Henry%20Leutwyler.jpg' alt='Misty Copeland: 5 Facts From Her New Book "Ballerina Body" | Allure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4983">
+                                <meta itemprop="height" content="3737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/58d001a44821d460496e654a/4:3/w_4983,h_3737,c_limit/Motion%20(c)%20Henry%20Leutwyler.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty Copeland | Playing For Change">
+                                <img itemprop="contentUrl url" src='https://d1bxnw4yi2rcwu.cloudfront.net/uploads/images/Musicians/_992x1240_crop_center-center_82_line/Misty-Copeland-portrait.png' alt='Misty Copeland | Playing For Change'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playing For Change" />
+                                </span>
+                                <a href='https://d1bxnw4yi2rcwu.cloudfront.net/uploads/images/Musicians/_992x1240_crop_center-center_82_line/Misty-Copeland-portrait.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Misty Copeland | Black History Month Facts for Kids">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/x2QrwfEY9nM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA6Fgostv2hcKtuyTwPwuzkS7ab_w' alt='Who is Misty Copeland | Black History Month Facts for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/x2QrwfEY9nM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA6Fgostv2hcKtuyTwPwuzkS7ab_w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our next Feature Friday needs no introduction… she is a catalyst ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572951185469716671' alt='Our next Feature Friday needs no introduction… she is a catalyst ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572951185469716671' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Misty Copeland: Top 5 Facts You Need to Know! | Articles on ...">
+                                <img itemprop="contentUrl url" src='https://www.watchmojo.com/uploads/thumbs720/MsMojo-PH-H-Top5-Need-To-Know-Facts-About-Misty-Copeland_O7K2D2-720p30.jpg' alt='Misty Copeland: Top 5 Facts You Need to Know! | Articles on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WatchMojo" />
+                                </span>
+                                <a href='https://www.watchmojo.com/uploads/thumbs720/MsMojo-PH-H-Top5-Need-To-Know-Facts-About-Misty-Copeland_O7K2D2-720p30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Misty Copeland | Worksheet | Education.com">
+                                <img itemprop="contentUrl url" src='https://cdn.education.com/worksheet-image/2515919/misty-copeland-2023-01-25.gif' alt='All About Misty Copeland | Worksheet | Education.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.education.com" />
+                                </span>
+                                <a href='https://cdn.education.com/worksheet-image/2515919/misty-copeland-2023-01-25.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

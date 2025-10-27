@@ -1,0 +1,129 @@
+<title>Flexible Blank PDF Templates for Every Need</title>
+                    <meta name="description" content="Discover the convenience of blank PDFs! Perfect for creating forms, resumes, and more, these customizable templates simplify your documentation process and enhance productivity. Easily share and save your personalized documents on any device.">
+                    <meta name="keywords" content="blank pdf">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blank-pdf">
+                            <span itemprop="name">blank pdf</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Flexible Blank PDF Templates for Every Need</h1>
+                <p>Blank PDFs serve as versatile templates for various applications, from forms to resumes. Easy to customize, they allow users to input text or hold graphics, making them ideal for professional documents. With the ability to save and share easily, blank PDFs streamline the documentation process while maintaining organization.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF Template for WL-175">
+                                <img itemprop="contentUrl url" src='https://www.worldlabel.com/sites/default/files/wl-175.jpg' alt='PDF Template for WL-175'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Label" />
+                                </span>
+                                <a href='https://www.worldlabel.com/sites/default/files/wl-175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF Renders as blank white canvas. · Issue #9632 · mozilla/pdf.js ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/2922507/38337407-b7690934-382a-11e8-99fe-58c401d7e924.png' alt='PDF Renders as blank white canvas. · Issue #9632 · mozilla/pdf.js ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="939">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/2922507/38337407-b7690934-382a-11e8-99fe-58c401d7e924.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some of the PDF file in Adobe Cloud become “blank”... - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/t5/image/serverpage/image-id/400236iBBCECFCB3786B6E1/image-size/large/is-moderation-mode/true?v=v2&px=999' alt='some of the PDF file in Adobe Cloud become “blank”... - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/t5/image/serverpage/image-id/400236iBBCECFCB3786B6E1/image-size/large/is-moderation-mode/true?v=v2&px=999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Render blank page in IE11 · Issue #10834 · mozilla/pdf.js · GitHub">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/50812917/58001022-50b3c880-7b15-11e9-8eb7-0e15d543b492.png' alt='Render blank page in IE11 · Issue #10834 · mozilla/pdf.js · GitHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/50812917/58001022-50b3c880-7b15-11e9-8eb7-0e15d543b492.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="java - Blank PDF while downloading - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/TKLBw.png' alt='java - Blank PDF while downloading - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/TKLBw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adobe Acrobat 2020 'Save As' screen is blank | Psychology Department">
+                                <img itemprop="contentUrl url" src='https://support.psyc.vt.edu/sites/default/files/styles/large/public/2021-02/acrobat_save_as_blank.png?itok=SC5lUH1C' alt='Adobe Acrobat 2020 'Save As' screen is blank | Psychology Department'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Psychology Department - Virginia Tech" />
+                                </span>
+                                <a href='https://support.psyc.vt.edu/sites/default/files/styles/large/public/2021-02/acrobat_save_as_blank.png?itok=SC5lUH1C' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Paper Templates -18+ Word, PDF Documents Download">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2017/01/13144244/Blank-Lined-Paper-Template.jpg' alt='Blank Paper Templates -18+ Word, PDF Documents Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2017/01/13144244/Blank-Lined-Paper-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - JS PDF Blob empty page - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/XMvhI.png' alt='javascript - JS PDF Blob empty page - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/XMvhI.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I print a blank version of my form? - Cognito Forms">
+                                <img itemprop="contentUrl url" src='https://static.cognitoforms.com/content/support/assets/images/pdf-copy1-65c5ee4f-d10f-4c8f-bd4b-5e6fb197ada2-2f0426d-1500x878.png' alt='How do I print a blank version of my form? - Cognito Forms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cognito Forms" />
+                                </span>
+                                <a href='https://static.cognitoforms.com/content/support/assets/images/pdf-copy1-65c5ee4f-d10f-4c8f-bd4b-5e6fb197ada2-2f0426d-1500x878.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Blank PDF For Free">
+                                <img itemprop="contentUrl url" src='https://webusupload.apowersoft.info/lightpdf/wp-content/uploads/2018/08/create-blank-pdf.jpg' alt='How to Create Blank PDF For Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LightPDF" />
+                                </span>
+                                <a href='https://webusupload.apowersoft.info/lightpdf/wp-content/uploads/2018/08/create-blank-pdf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

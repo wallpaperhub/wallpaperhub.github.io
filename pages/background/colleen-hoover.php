@@ -1,0 +1,129 @@
+<title>Discover the Captivating World of Colleen Hoover</title>
+                    <meta name="description" content="Explore Colleen Hoover's bestsellers that blend romance, heartache, and resilience. Dive into her compelling stories and discover why she's a leading voice in contemporary fiction. Perfect for readers seeking emotionally charged narratives that resonate deeply.">
+                    <meta name="keywords" content="colleen hoover">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colleen-hoover">
+                            <span itemprop="name">colleen hoover</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Captivating World of Colleen Hoover</h1>
+                <p>Colleen Hoover is a bestselling author known for her emotionally-charged novels that delve into love, loss, and resilience. Her works, like "It Ends With Us" and "Verity," have captivated readers with their compelling characters and intricate plots. With a unique ability to blend romance with life's hardships, Hoover continues to redefine contemporary fiction.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover 13 Books Collection Set It Ends With Us; Ugly Love; November  9; Maybe Someday; All Your Perfects; Maybe Not; Without Merit; Slammed; ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91smaojpZ1L.jpg' alt='Colleen Hoover 13 Books Collection Set It Ends With Us; Ugly Love; November  9; Maybe Someday; All Your Perfects; Maybe Not; Without Merit; Slammed; ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91smaojpZ1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover | Colleen Hoover Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/colleen_hoover/images/9/98/Colleenhoover.jpg/revision/latest?cb=20200525030700' alt='Colleen Hoover | Colleen Hoover Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="923">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colleen Hoover Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/colleen_hoover/images/9/98/Colleenhoover.jpg/revision/latest?cb=20200525030700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Things to Know About Best-Selling Author Colleen Hoover">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/entertainment/books/2022/10/1140-colleen-hoover-books.jpg' alt='Things to Know About Best-Selling Author Colleen Hoover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/entertainment/books/2022/10/1140-colleen-hoover-books.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover Collection 4 Books Set (It Ends With Us, Ugly Love, November  9, Verity): Colleen Hoover: 9788712810353: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81F3f+jHTlL._AC_UF1000,1000_QL80_.jpg' alt='Colleen Hoover Collection 4 Books Set (It Ends With Us, Ugly Love, November  9, Verity): Colleen Hoover: 9788712810353: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81F3f+jHTlL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bestselling author Colleen Hoover has a new novel, 'It Starts With ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/10/24/colleen-hoover_custom-35434635e7f68095e6de22a8b2e08b32ccae8d8d.jpg?s=1100&c=50&f=jpeg' alt='Bestselling author Colleen Hoover has a new novel, 'It Starts With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/10/24/colleen-hoover_custom-35434635e7f68095e6de22a8b2e08b32ccae8d8d.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Complete Collection Of Colleen Hoover Top 24 Books Set (variation list)">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTUwMFgxMzIz/z/FFoAAOSwWLlllEhP/$_57.JPG?set_id=8800005007' alt='The Complete Collection Of Colleen Hoover Top 24 Books Set (variation list)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1323">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTUwMFgxMzIz/z/FFoAAOSwWLlllEhP/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Do Women Want? Ask Colleen Hoover - Common Reader">
+                                <img itemprop="contentUrl url" src='https://commonreader.washu.edu/app/uploads/2023/10/colleen-hoover.jpg' alt='What Do Women Want? Ask Colleen Hoover - Common Reader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Common Reader - Washington University" />
+                                </span>
+                                <a href='https://commonreader.washu.edu/app/uploads/2023/10/colleen-hoover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover Is a Best-selling BookTok Sensation. Will She Ever ...">
+                                <img itemprop="contentUrl url" src='https://img.texasmonthly.com/2024/05/colleen-hoover-2.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250' alt='Colleen Hoover Is a Best-selling BookTok Sensation. Will She Ever ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Monthly" />
+                                </span>
+                                <a href='https://img.texasmonthly.com/2024/05/colleen-hoover-2.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover Ebook Boxed Set Hopeless Series eBook by Colleen ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668026977/colleen-hoover-ebook-boxed-set-hopeless-series-9781668026977_hr.jpg' alt='Colleen Hoover Ebook Boxed Set Hopeless Series eBook by Colleen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1399">
+                                <meta itemprop="height" content="2173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668026977/colleen-hoover-ebook-boxed-set-hopeless-series-9781668026977_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colleen Hoover Isn't Sure How She Became TikTok's Favorite Writer ...">
+                                <img itemprop="contentUrl url" src='https://media.glamour.com/photos/6217d495e8b28d9a55765674/master/w_2560%2Cc_limit/2-23%2520dtw%2520colleen%2520hoover.jpg' alt='Colleen Hoover Isn't Sure How She Became TikTok's Favorite Writer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glamour" />
+                                </span>
+                                <a href='https://media.glamour.com/photos/6217d495e8b28d9a55765674/master/w_2560%2Cc_limit/2-23%2520dtw%2520colleen%2520hoover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

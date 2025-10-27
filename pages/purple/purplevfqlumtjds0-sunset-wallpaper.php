@@ -1,0 +1,129 @@
+<title>Stunning Purple Sunset Wallpapers for Your Mobile</title>
+                    <meta name="description" content="Discover breathtaking purple sunset wallpapers to elevate your mobile experience. Perfect for nature lovers, these stunning designs bring the beauty of twilight right to your screen. Download now for a refreshing look that inspires peace and creativity every day.">
+                    <meta name="keywords" content="purple:vfqlumtjds0= sunset wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purplevfqlumtjds0-sunset-wallpaper">
+                            <span itemprop="name">purple:vfqlumtjds0= sunset wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Sunset Wallpapers for Your Mobile</h1>
+                <p>Transform your mobile screen with stunning purple sunset wallpapers that blend beauty and tranquility. Each design captures the mesmerizing hues of dusk, making your device stand out with elegance. Ideal for those who appreciate the calming effects of nature, these wallpapers invite serenity into your daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Sunset Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-sunset-4vdctecz52uxuo4v.jpg' alt='100+] Purple Sunset Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-sunset-4vdctecz52uxuo4v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset Images – Browse 1,000,023 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/30/35/78/360_F_130357840_jOhzdzpOKL8mJq6Fvs8EunYvvQEBPniz.jpg' alt='Purple Sunset Images – Browse 1,000,023 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/30/35/78/360_F_130357840_jOhzdzpOKL8mJq6Fvs8EunYvvQEBPniz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533371452382-d45a9da51ad9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwc3Vuc2V0fGVufDB8fDB8fHww' alt='Purple Sunset Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533371452382-d45a9da51ad9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwc3Vuc2V0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="203,400+ Purple Sunset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/481483989/photo/sunset-at-thap-tawan-beach-phang-nga-province.jpg?s=612x612&w=0&k=20&c=gzZJQG6yItoGFWz8OKkRF1IWlpyMjwHQ6g4LjyHYe0Q=' alt='203,400+ Purple Sunset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/481483989/photo/sunset-at-thap-tawan-beach-phang-nga-province.jpg?s=612x612&w=0&k=20&c=gzZJQG6yItoGFWz8OKkRF1IWlpyMjwHQ6g4LjyHYe0Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661964030238-4f1d3f2df4ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwc3Vuc2V0fGVufDB8fDB8fHww' alt='Purple Sunset Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661964030238-4f1d3f2df4ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwc3Vuc2V0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset Images – Browse 1,000,023 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/60/76/70/360_F_860767058_lUnx1BM0VhS7gmTY7FKKtbJ9CxKWy95x.jpg' alt='Purple Sunset Images – Browse 1,000,023 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/60/76/70/360_F_860767058_lUnx1BM0VhS7gmTY7FKKtbJ9CxKWy95x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset 4k Wallpaper,HD Nature Wallpapers,4k Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/22/58/912258bcbcd4533c7537231ea033cd0b.jpg' alt='Purple Sunset 4k Wallpaper,HD Nature Wallpapers,4k Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/22/58/912258bcbcd4533c7537231ea033cd0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sunset Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/retro-landscape-vaporwave-style_23-2148980047.jpg' alt='Purple Sunset Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/retro-landscape-vaporwave-style_23-2148980047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="203,400+ Purple Sunset Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/878093686/photo/colorful-sky-and-cloud-in-twilight-background.jpg?s=612x612&w=0&k=20&c=98o0vZBkgPHLEqU-q0iLsva2XoBvuIDmN84i_zaejzk=' alt='203,400+ Purple Sunset Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/878093686/photo/colorful-sky-and-cloud-in-twilight-background.jpg?s=612x612&w=0&k=20&c=98o0vZBkgPHLEqU-q0iLsva2XoBvuIDmN84i_zaejzk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing sunset, amazing, wonderful, purple, view, bonito, sunset ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/185/196/HD-wallpaper-amazing-sunset-amazing-wonderful-purple-view-beautiful-sunset.jpg' alt='Amazing sunset, amazing, wonderful, purple, view, bonito, sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/185/196/HD-wallpaper-amazing-sunset-amazing-wonderful-purple-view-beautiful-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

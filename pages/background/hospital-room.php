@@ -1,0 +1,129 @@
+<title>Comfort and Care: Inside the Hospital Room</title>
+                    <meta name="description" content="Your guide to hospital room essentials: explore how these spaces are designed for patient comfort, safety, and healing. Discover what to expect during your stay, from equipment to amenities that make recovery easier.">
+                    <meta name="keywords" content="hospital room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hospital-room">
+                            <span itemprop="name">hospital room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Comfort and Care: Inside the Hospital Room</h1>
+                <p>Hospital rooms are designed to provide comfort, safety, and care for patients during their stay. Typically equipped with medical technology, a bed, a bathroom, and often a family area, these spaces ensure privacy and promote healing. The ambiance is usually soothing, aiming to alleviate stress and foster a sense of well-being.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Hospital Room | Johns Hopkins Medicine">
+                                <img itemprop="contentUrl url" src='https://www.hopkinsmedicine.org/-/media/patient-care/images/patient-rooms-1.jpg' alt='Your Hospital Room | Johns Hopkins Medicine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Johns Hopkins Medicine" />
+                                </span>
+                                <a href='https://www.hopkinsmedicine.org/-/media/patient-care/images/patient-rooms-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hospital room features impact surgery patients' outcomes: study">
+                                <img itemprop="contentUrl url" src='https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1625154870/hospital-bed-getty-onurdongel.jpg/hospital-bed-getty-onurdongel.jpg?VersionId=7E5nZYmXe0iXGXIyBQYwReERDOst4Hl8' alt='Hospital room features impact surgery patients' outcomes: study'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fierce Healthcare" />
+                                </span>
+                                <a href='https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1625154870/hospital-bed-getty-onurdongel.jpg/hospital-bed-getty-onurdongel.jpg?VersionId=7E5nZYmXe0iXGXIyBQYwReERDOst4Hl8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hospital room features may affect recovery after surgery">
+                                <img itemprop="contentUrl url" src='https://www.michiganmedicine.org/sites/default/files/styles/og_image/public/blog/Vacant-Hospital-Bed-Room-Empty.jpg?itok=Q2tXLGPK' alt='Hospital room features may affect recovery after surgery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Medicine" />
+                                </span>
+                                <a href='https://www.michiganmedicine.org/sites/default/files/styles/og_image/public/blog/Vacant-Hospital-Bed-Room-Empty.jpg?itok=Q2tXLGPK' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97,600+ Hospital Room Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364971557/photo/hospital-recovery-room-with-beds-and-chairs-3d-rendering.jpg?s=612x612&w=0&k=20&c=qpLCCYKBxWiVpV74zLbsV69Trb0ga8plCIsx7h7CLAw=' alt='97,600+ Hospital Room Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364971557/photo/hospital-recovery-room-with-beds-and-chairs-3d-rendering.jpg?s=612x612&w=0&k=20&c=qpLCCYKBxWiVpV74zLbsV69Trb0ga8plCIsx7h7CLAw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hospital Room Design Strategies To Increase Staff Efficiency and ...">
+                                <img itemprop="contentUrl url" src='https://hmcarchitects.com/wp-content/uploads/1426001000_N7_hmcfull-1.jpg' alt='Hospital Room Design Strategies To Increase Staff Efficiency and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HMC Architects" />
+                                </span>
+                                <a href='https://hmcarchitects.com/wp-content/uploads/1426001000_N7_hmcfull-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maeve Rojas | One Of Us Is Lying">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/d9/fe/f9d9fea1dd91f06bb09c120e9bc3e478.jpg' alt='Maeve Rojas | One Of Us Is Lying'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/d9/fe/f9d9fea1dd91f06bb09c120e9bc3e478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empower Patients with Smart Hospital Rooms | Elo® Official Website">
+                                <img itemprop="contentUrl url" src='https://marvel-b1-cdn.bc0a.com/f00000000296536/www.elotouch.com/media/wysiwyg/Press/Elo_Blog_Smart_Hospital_500x336.png' alt='Empower Patients with Smart Hospital Rooms | Elo® Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elo Touch" />
+                                </span>
+                                <a href='https://marvel-b1-cdn.bc0a.com/f00000000296536/www.elotouch.com/media/wysiwyg/Press/Elo_Blog_Smart_Hospital_500x336.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hospital Room with Check-up Room for filming | Rent this location ...">
+                                <img itemprop="contentUrl url" src='https://static.giggster.com/images/location/eb257d4f-a47f-45e6-924e-a730276fb70a/409710fc-e320-4c76-9224-7b103bfe1e52/gallery_3.jpeg' alt='Hospital Room with Check-up Room for filming | Rent this location ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1109">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giggster" />
+                                </span>
+                                <a href='https://static.giggster.com/images/location/eb257d4f-a47f-45e6-924e-a730276fb70a/409710fc-e320-4c76-9224-7b103bfe1e52/gallery_3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patient rooms at The Valley Hospital in Paramus | Valley Health System">
+                                <img itemprop="contentUrl url" src='https://www.valleyhealth.com/sites/default/files/styles/800x600/public/2022-12/patient%20room%20trending.png?h=84b85dfb&itok=cxYuX7aS' alt='Patient rooms at The Valley Hospital in Paramus | Valley Health System'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valley Health System" />
+                                </span>
+                                <a href='https://www.valleyhealth.com/sites/default/files/styles/800x600/public/2022-12/patient%20room%20trending.png?h=84b85dfb&itok=cxYuX7aS' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagine having to stay in this hospital room : r/LiminalSpace">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/imagine-having-to-stay-in-this-hospital-room-v0-75hfa2dhl65d1.jpeg?auto=webp&s=5705cda1101bc32026d74553facfec92b8163580' alt='Imagine having to stay in this hospital room : r/LiminalSpace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="2448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/imagine-having-to-stay-in-this-hospital-room-v0-75hfa2dhl65d1.jpeg?auto=webp&s=5705cda1101bc32026d74553facfec92b8163580' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

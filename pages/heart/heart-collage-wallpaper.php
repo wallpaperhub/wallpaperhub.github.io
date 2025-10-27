@@ -1,0 +1,129 @@
+<title>Heart Collage Wallpaper: Love in Every Pixel</title>
+                    <meta name="description" content="Discover stunning heart collage wallpapers that brighten your screens with love and creativity. Perfect for adding a personal touch, these wallpapers feature vibrant designs tailored to inspire joy and warmth in your digital space. Ideal for all devices, explore our collection today!">
+                    <meta name="keywords" content="heart collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/heart-collage-wallpaper">
+                            <span itemprop="name">heart collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Collage Wallpaper: Love in Every Pixel</h1>
+                <p>Transform your device's screen with heart collage wallpaper! Bursting with vibrant colors and heartwarming designs, these wallpapers beautifully capture love and affection. Perfect for romantic souls or anyone wanting to add a touch of whimsy to their digital space. Elevate your aesthetic and spread positivity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design and print a Heart-Shaped Photo Collage in one place ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEFa5FUeWk/1/0/1600w/canva-pink-handdrawn-heart-polaroid-photo-collage-X9cadl3fOgI.jpg' alt='Design and print a Heart-Shaped Photo Collage in one place ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEFa5FUeWk/1/0/1600w/canva-pink-handdrawn-heart-polaroid-photo-collage-X9cadl3fOgI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Heart-Shaped Photo Collage">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1873013/1600w-tOWTblzJxFg.jpg' alt='Create Your Own Heart-Shaped Photo Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1873013/1600w-tOWTblzJxFg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Your Own Heart-Shaped Photo Collage">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1873020/1600w-hdM4UXXaLxk.jpg' alt='Create Your Own Heart-Shaped Photo Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1873020/1600w-hdM4UXXaLxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFfJZ4RTLo/1/0/1600w/canva-cream-light-romantic-wedding-heart-photo-collage-O3yAm2zAZgk.jpg' alt='Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFfJZ4RTLo/1/0/1600w/canva-cream-light-romantic-wedding-heart-photo-collage-O3yAm2zAZgk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPER HEART COLLAGE | KIDS & GLITTER">
+                                <img itemprop="contentUrl url" src='http://www.lbrummer68739.net/wp-content/uploads/2010/12/heart-collage-wallpaper-0051.jpg' alt='WALLPAPER HEART COLLAGE | KIDS & GLITTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIDS & GLITTER" />
+                                </span>
+                                <a href='http://www.lbrummer68739.net/wp-content/uploads/2010/12/heart-collage-wallpaper-0051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design and print a Heart-Shaped Photo Collage in one place ...">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEFa4LiWSE/1/0/1600w/canva-cream-canvas-heart-shaped-photo-collage-WmpWQ_LFx20.jpg' alt='Design and print a Heart-Shaped Photo Collage in one place ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEFa4LiWSE/1/0/1600w/canva-cream-canvas-heart-shaped-photo-collage-WmpWQ_LFx20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/da/bc/65dabc913d5d57d15681f29a8d114f4d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/da/bc/65dabc913d5d57d15681f29a8d114f4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Hearts Collage For Computer Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-aesthetic-hearts-collage-for-computer-m42gf506ycchv142.jpg' alt='Cute Aesthetic Hearts Collage For Computer Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-aesthetic-hearts-collage-for-computer-m42gf506ycchv142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❤️#vintage #vibes #music #wallpaper #red #redaesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/95/9d/ac959d81e01d07afadb44db984324cf3.jpg' alt='❤️#vintage #vibes #music #wallpaper #red #redaesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/95/9d/ac959d81e01d07afadb44db984324cf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RED HEART COLLAGE - Collages & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/573/573027-bigthumbnail.jpg' alt='RED HEART COLLAGE - Collages & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/573/573027-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

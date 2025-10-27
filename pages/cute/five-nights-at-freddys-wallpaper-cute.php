@@ -1,0 +1,129 @@
+<title>Adorable Five Nights at Freddy's Wallpapers</title>
+                    <meta name="description" content="Explore our collection of cute "Five Nights at Freddy's" wallpapers! Perfect for fans looking to add a charming touch to their devices, these designs feature beloved characters in delightful styles. Download now and brighten up your screens!">
+                    <meta name="keywords" content="five nights at freddy's wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/five-nights-at-freddys-wallpaper-cute">
+                            <span itemprop="name">five nights at freddy's wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Five Nights at Freddy's Wallpapers</h1>
+                <p>Discover adorable "Five Nights at Freddy's" wallpapers that blend cuteness with the iconic horror of the game. Perfect for fans, these designs feature beloved characters in charming and whimsical styles, ensuring your device is fun and lively. Elevate your screen with these cute backgrounds and showcase your fandom in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Fnaf Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-fnaf-nkoeirwucc4novja.jpg' alt='100+] Cute Fnaf Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-fnaf-nkoeirwucc4novja.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cute Fnaf Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/92/7e/24/927e2456ae24b641a92189ebc3cbf7e7.gif' alt='   Cute Fnaf Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/92/7e/24/927e2456ae24b641a92189ebc3cbf7e7.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Fnaf Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-fnaf-eh4mqmmgkeuspt0b.jpg' alt='100+] Cute Fnaf Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1862">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-fnaf-eh4mqmmgkeuspt0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New and Shiny! (fnaf 2 phone wallpaper) : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1t9vk59mubz31.png?auto=webp&s=9b09349a6282aa6cb22118b796b9362b3258fb0f' alt='New and Shiny! (fnaf 2 phone wallpaper) : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1t9vk59mubz31.png?auto=webp&s=9b09349a6282aa6cb22118b796b9362b3258fb0f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relax at Freddy's : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/423n1zogl66a1.jpg' alt='Relax at Freddy's : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/423n1zogl66a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Nights At Freddy's By Sassy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/five-nights-at-freddy-s-by-sassy-aoqdg2f62svwh9gx.jpg' alt='Five Nights At Freddy's By Sassy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/five-nights-at-freddy-s-by-sassy-aoqdg2f62svwh9gx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fnaf Wallpaper ShadeDragneels Stash by dsfvhujkm on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75e9c6da-726c-4673-82e5-c31db8946e98/dfoxbd3-84c58704-aac3-4f62-90fd-cd3b03668376.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZTljNmRhLTcyNmMtNDY3My04MmU1LWMzMWRiODk0NmU5OFwvZGZveGJkMy04NGM1ODcwNC1hYWMzLTRmNjItOTBmZC1jZDNiMDM2NjgzNzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QsagjHy_nKCO-9PzDNL6f8q3CYKa7ZfeDbLeJ6jen_E' alt='Cute Fnaf Wallpaper ShadeDragneels Stash by dsfvhujkm on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75e9c6da-726c-4673-82e5-c31db8946e98/dfoxbd3-84c58704-aac3-4f62-90fd-cd3b03668376.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZTljNmRhLTcyNmMtNDY3My04MmU1LWMzMWRiODk0NmU5OFwvZGZveGJkMy04NGM1ODcwNC1hYWMzLTRmNjItOTBmZC1jZDNiMDM2NjgzNzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QsagjHy_nKCO-9PzDNL6f8q3CYKa7ZfeDbLeJ6jen_E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fnaf #fivenightsatfreddys #bonniefnaf">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/2b/21/032b21c6a4df9c9f9c18647a13ce9288.jpg' alt='fnaf #fivenightsatfreddys #bonniefnaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/2b/21/032b21c6a4df9c9f9c18647a13ce9288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Fnaf Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-fnaf-83hle80kwydeewd2.jpg' alt='100+] Cute Fnaf Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-fnaf-83hle80kwydeewd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five nights at cuties desktop wallpaper by Cookie by dsfvhujkm on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75e9c6da-726c-4673-82e5-c31db8946e98/dfoxazx-206d69f7-1d64-4f45-874b-a94388cf19dc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZTljNmRhLTcyNmMtNDY3My04MmU1LWMzMWRiODk0NmU5OFwvZGZveGF6eC0yMDZkNjlmNy0xZDY0LTRmNDUtODc0Yi1hOTQzODhjZjE5ZGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SKu2DcU41zQ1m_sc2vX8ljxsSOYzAZ6d1S3IEN78xxs' alt='Five nights at cuties desktop wallpaper by Cookie by dsfvhujkm on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75e9c6da-726c-4673-82e5-c31db8946e98/dfoxazx-206d69f7-1d64-4f45-874b-a94388cf19dc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ZTljNmRhLTcyNmMtNDY3My04MmU1LWMzMWRiODk0NmU5OFwvZGZveGF6eC0yMDZkNjlmNy0xZDY0LTRmNDUtODc0Yi1hOTQzODhjZjE5ZGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SKu2DcU41zQ1m_sc2vX8ljxsSOYzAZ6d1S3IEN78xxs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

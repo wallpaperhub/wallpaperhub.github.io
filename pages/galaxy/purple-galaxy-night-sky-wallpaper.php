@@ -1,0 +1,129 @@
+<title>Purple Galaxy Night Sky Wallpaper: Celestial Elegance</title>
+                    <meta name="description" content="Discover mesmerizing purple galaxy night sky wallpaper for your device. Immerse yourself in cosmic beauty with vibrant colors and shimmering stars. Ideal for adding a touch of elegance and wonder to your screens. Enhance your space with a piece of the universe! Download now!">
+                    <meta name="keywords" content="purple galaxy night sky wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/purple-galaxy-night-sky-wallpaper">
+                            <span itemprop="name">purple galaxy night sky wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Galaxy Night Sky Wallpaper: Celestial Elegance</h1>
+                <p>Transform your device's aesthetic with stunning purple galaxy night sky wallpaper. Featuring deep violet hues and twinkling stars, this enchanting design brings the beauty of the cosmos right to your screen. Perfect for stargazers and dreamers alike, let the magic of the universe inspire you every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: pink, purple, and blue galaxy stars, the sky, girl ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/6c/04/6b6c044eafb61523731957d9a6403779.jpg' alt='HD wallpaper: pink, purple, and blue galaxy stars, the sky, girl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/6c/04/6b6c044eafb61523731957d9a6403779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Sky Night Mountain Galaxy Moon Planet Star Sci Fi ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/111/thumb-1920-1114903.jpg' alt='Download Purple Sky Night Mountain Galaxy Moon Planet Star Sci Fi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/111/thumb-1920-1114903.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,300+ Purple Galaxy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/91768525/photo/starfield-with-flares.jpg?s=612x612&w=0&k=20&c=fpwjXzky1oKADNFoVQwcRwb1yJ5GPIzqpW9cIqc-ZgU=' alt='36,300+ Purple Galaxy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/91768525/photo/starfield-with-flares.jpg?s=612x612&w=0&k=20&c=fpwjXzky1oKADNFoVQwcRwb1yJ5GPIzqpW9cIqc-ZgU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Shooting Star Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-galaxy-shooting-star-iphone-3ipphvnm8en4iydd.jpg' alt='Purple Galaxy Shooting Star Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-galaxy-shooting-star-iphone-3ipphvnm8en4iydd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free photo: Purple galaxy wallpaper | PickPik">
+                                <img itemprop="contentUrl url" src='https://i2.pickpik.com/photos/148/859/598/the-night-sky-the-milky-way-the-darkness-night-preview.jpg' alt='Royalty-Free photo: Purple galaxy wallpaper | PickPik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PickPik" />
+                                </span>
+                                <a href='https://i2.pickpik.com/photos/148/859/598/the-night-sky-the-milky-way-the-darkness-night-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkly Sky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/f6/34/96f634f7f66bf2482c13ec6c2e80e95c.jpg' alt='Sparkly Sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/f6/34/96f634f7f66bf2482c13ec6c2e80e95c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Sky Purple And Starry Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-sky-h2b5u1qfdtiytc0o.jpg' alt='Download Galaxy Sky Purple And Starry Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-sky-h2b5u1qfdtiytc0o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy With Stars And Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-galaxy-with-stars-and-iphone-wujbyrkdr5yq907s.jpg' alt='Purple Galaxy With Stars And Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="407">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-galaxy-with-stars-and-iphone-wujbyrkdr5yq907s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="36,300+ Purple Galaxy Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1217661905/vector/vector-cosmic-watercolor-illustration-colorful-space-background-with-stars.jpg?s=612x612&w=0&k=20&c=gaUoZAd_cun_khFuDYMrYU276fndQ97OhIeZT75Tt3s=' alt='36,300+ Purple Galaxy Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1217661905/vector/vector-cosmic-watercolor-illustration-colorful-space-background-with-stars.jpg?s=612x612&w=0&k=20&c=gaUoZAd_cun_khFuDYMrYU276fndQ97OhIeZT75Tt3s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Purple Night Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1531160492875-2a09eb0cd73b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwbmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D' alt='999+ Purple Night Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1531160492875-2a09eb0cd73b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHVycGxlJTIwbmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

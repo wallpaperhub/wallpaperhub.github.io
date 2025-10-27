@@ -1,0 +1,129 @@
+<title>Can Employers Access Expunged Records?</title>
+                    <meta name="description" content="Discover whether employers can access expunged records. Learn about the implications for job seekers and the laws that protect your privacy. Stay informed about your rights and what to expect during background checks.">
+                    <meta name="keywords" content="can employers see expunged records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/can-employers-see-expunged-records">
+                            <span itemprop="name">can employers see expunged records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Can Employers Access Expunged Records?</h1>
+                <p>Employers generally cannot see expunged records, as these are legally sealed from public access. However, specific roles, particularly in law enforcement or certain government positions, may still require disclosure of such records. It's crucial to understand your local laws as regulations may vary by state.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Prospective Employers Find Your Expunged Records? - Erase ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2024/03/Will_Prospective_Employers_Find_Your_Expunged_Records-1.png' alt='Will Prospective Employers Find Your Expunged Records? - Erase ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2024/03/Will_Prospective_Employers_Find_Your_Expunged_Records-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Military Recruiters See Expunged Records? - Erase Your Past ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2024/10/Can_Military_Recruiters_See_Expunged_Records.png' alt='Can Military Recruiters See Expunged Records? - Erase Your Past ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2024/10/Can_Military_Recruiters_See_Expunged_Records.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Employers Find Criminal Records From Over 20 Years Ago ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2024/02/Can_Employers_Find_Criminal_Records_From_Over_20_Years_Ago-1.png' alt='Can Employers Find Criminal Records From Over 20 Years Ago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2024/02/Can_Employers_Find_Criminal_Records_From_Over_20_Years_Ago-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can Employers See Sealed Records? - Erase Your Past: Top-Rated ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2022/08/Can_Employers_See_Sealed_Criminal_Records_-_Chicago_Criminal_Record_Sealing_Attorneys-1.jpeg' alt='Can Employers See Sealed Records? - Erase Your Past: Top-Rated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2022/08/Can_Employers_See_Sealed_Criminal_Records_-_Chicago_Criminal_Record_Sealing_Attorneys-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are My Sealed or Expunged Records on my Background Check?">
+                                <img itemprop="contentUrl url" src='https://putclientsfirst.com/wp-content/uploads/2023/03/Sealed-or-Expunged-Records.png' alt='Are My Sealed or Expunged Records on my Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glassman & Zissimopulos Law Firm" />
+                                </span>
+                                <a href='https://putclientsfirst.com/wp-content/uploads/2023/03/Sealed-or-Expunged-Records.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Do I Have to Tell Employers About My Expunged Criminal Record ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2022/05/What_Do_You_Have_to_Tell_Employers_About_Expunged_Records_in_Illinois_-_Chicago_Expungement_Attorney_Matthew_Fakhoury-1.jpeg' alt='What Do I Have to Tell Employers About My Expunged Criminal Record ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2022/05/What_Do_You_Have_to_Tell_Employers_About_Expunged_Records_in_Illinois_-_Chicago_Expungement_Attorney_Matthew_Fakhoury-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can a Potential Employer Find Out From Your Criminal Record ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5bf92f2650a54f868ebcffb4/5c324a11ff02eccedc567dd5/5c324b1fff02eccedc56a2b7/1546799903351/What-Can-a-Potential-Employer-Find-Out-From-Your-Criminal-Record_AUGUST.jpg?format=original' alt='What Can a Potential Employer Find Out From Your Criminal Record ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tyler Allen Law Firm" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5bf92f2650a54f868ebcffb4/5c324a11ff02eccedc567dd5/5c324b1fff02eccedc56a2b7/1546799903351/What-Can-a-Potential-Employer-Find-Out-From-Your-Criminal-Record_AUGUST.jpg?format=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How an Expunged Record Can Open Up New Job Opportunities - Erase ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2025/02/How-an-Expunged-Record-Can-Open-Up-New-Job-Opportunities.png' alt='How an Expunged Record Can Open Up New Job Opportunities - Erase ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2025/02/How-an-Expunged-Record-Can-Open-Up-New-Job-Opportunities.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If a Record is Expunged, Who Can See It? - Erase Your Past: Top ...">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2022/03/Who_Can_See_Expunged_Criminal_Records_-_Chicago_Expungement_and_Sealing-1.jpeg' alt='If a Record is Expunged, Who Can See It? - Erase Your Past: Top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2022/03/Who_Can_See_Expunged_Criminal_Records_-_Chicago_Expungement_and_Sealing-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Expunged Records Appear on Background Checks? — Safe Hiring ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e7b969dddfafa5f6f54c517/1600718147256-B8FS84YZV2VNLZHAVIWD/Do+Expunged+Records+Appear+on+Background+Checks.jpg' alt='Do Expunged Records Appear on Background Checks? — Safe Hiring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Safe Hiring Solutions" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e7b969dddfafa5f6f54c517/1600718147256-B8FS84YZV2VNLZHAVIWD/Do+Expunged+Records+Appear+on+Background+Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

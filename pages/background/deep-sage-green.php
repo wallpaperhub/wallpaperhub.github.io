@@ -1,0 +1,129 @@
+<title>Discover the Serenity of Deep Sage Green</title>
+                    <meta name="description" content="Explore the calming and versatile beauty of deep sage green. Perfect for home decor and fashion, this muted hue brings a touch of nature indoors, promoting balance and relaxation. Dive into the world of this serene color today!">
+                    <meta name="keywords" content="deep sage green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/deep-sage-green">
+                            <span itemprop="name">deep sage green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Serenity of Deep Sage Green</h1>
+                <p>Deep sage green is a tranquil and versatile hue that evokes the essence of nature. This muted shade blends green with gray, offering a calming aesthetic perfect for home decor, fashion, and wellness. Often associated with balance and harmony, deep sage green can create a serene environment that fosters relaxation and mindfulness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Sage – Crescent Brands">
+                                <img itemprop="contentUrl url" src='http://www.crescentbrands.com/cdn/shop/files/8673.jpg?v=1708023664' alt='Deep Sage – Crescent Brands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crescent Brands" />
+                                </span>
+                                <a href='http://www.crescentbrands.com/cdn/shop/files/8673.jpg?v=1708023664' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Deep Sage Green 4 Way Stretch 10 oz Cotton Lycra Jersey Knit Fabric">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/products/10ozDeepSageGreenJersey_500x.jpg?v=1691329473' alt='Solid Deep Sage Green 4 Way Stretch 10 oz Cotton Lycra Jersey Knit Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/products/10ozDeepSageGreenJersey_500x.jpg?v=1691329473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Sage Green Solid Color | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2101588248.1200/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Deep Sage Green Solid Color | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2101588248.1200/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Sage Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13479299/p/f/m/IpbJ6Pv5vd56v07hmLqoWEq4HRYGHu4LcmYepmAa-bbRvJ_ByJ8V/Autumn%20Rose%20solid%20dark%20sage%20green.jpg' alt='Solid Dark Sage Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13479299/p/f/m/IpbJ6Pv5vd56v07hmLqoWEq4HRYGHu4LcmYepmAa-bbRvJ_ByJ8V/Autumn%20Rose%20solid%20dark%20sage%20green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Sage · Color">
+                                <img itemprop="contentUrl url" src='https://kidspattern.com/wp-content/uploads/2025/01/html-web-color-code-697d6d.webp' alt='Deep Sage · Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidspattern" />
+                                </span>
+                                <a href='https://kidspattern.com/wp-content/uploads/2025/01/html-web-color-code-697d6d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breton Deep Sage – Van Gogh Designs">
+                                <img itemprop="contentUrl url" src='https://vangoghdesigns.com/cdn/shop/products/Breton-Deep-Sage_web_1400x.jpg?v=1637876077' alt='Breton Deep Sage – Van Gogh Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Gogh Designs" />
+                                </span>
+                                <a href='https://vangoghdesigns.com/cdn/shop/products/Breton-Deep-Sage_web_1400x.jpg?v=1637876077' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Sage Green Solid Color | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2101588578.1200/fposter,small,wall_texture,product,750x1000.jpg' alt='Deep Sage Green Solid Color | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2101588578.1200/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="deep sage green SOLID COLOUR Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12633413/r/l/d-i-21/_73apo5705I4DnJxwlfNJmDUlFbxXCLfrUSs/deep_sage_green_SOLID_COLOUR.jpg' alt='deep sage green SOLID COLOUR Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12633413/r/l/d-i-21/_73apo5705I4DnJxwlfNJmDUlFbxXCLfrUSs/deep_sage_green_SOLID_COLOUR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Latest Color Schemes with Sage And Deep Forest Green Color tone ...">
+                                <img itemprop="contentUrl url" src='https://icolorpalette.com/download/palette/16484_color_palette.jpg' alt='5 Latest Color Schemes with Sage And Deep Forest Green Color tone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iColorpalette" />
+                                </span>
+                                <a href='https://icolorpalette.com/download/palette/16484_color_palette.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Smudging Procreate Palette, 30 HEX Color Codes, Instant Digital  Download, iPad Pro Art Botanicals Illustration, Green Color Swatches">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32867869/r/il/682d3e/4125148907/il_570xN.4125148907_nwhr.jpg' alt='Sage Smudging Procreate Palette, 30 HEX Color Codes, Instant Digital  Download, iPad Pro Art Botanicals Illustration, Green Color Swatches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32867869/r/il/682d3e/4125148907/il_570xN.4125148907_nwhr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Celebrate Martin Luther King Jr. Day: Honoring a Legacy</title>
+                    <meta name="description" content="Join us in celebrating Dr. Martin Luther King Jr. Day! Reflect on his impactful legacy and engage in community service. Learn how you can help promote equality and justice in your community. Embrace the values of peace and unity that Dr. King championed. Discover more today!">
+                    <meta name="keywords" content="dr. martin luther king jr. day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dr-martin-luther-king-jr-day">
+                            <span itemprop="name">dr. martin luther king jr. day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Martin Luther King Jr. Day: Honoring a Legacy</h1>
+                <p>Dr. Martin Luther King Jr. Day is celebrated annually on the third Monday in January, honoring the legacy of the civil rights leader. It serves as a day of reflection, education, and community service, encouraging people to engage in activism and promote equality and justice for all. Embrace his vision of peace and unity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. Day - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0d/Martin_Luther_King_press_conference_01269u_edit.jpg' alt='Martin Luther King Jr. Day - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3369">
+                                <meta itemprop="height" content="5015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0d/Martin_Luther_King_press_conference_01269u_edit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Dr. Martin Luther King, Jr. | Jan. 18, 2021 | Sporting ...">
+                                <img itemprop="contentUrl url" src='https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-skc-prd/kbmgy2tzgp1dn49garw5.jpg' alt='Honoring Dr. Martin Luther King, Jr. | Jan. 18, 2021 | Sporting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting Kansas City" />
+                                </span>
+                                <a href='https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-skc-prd/kbmgy2tzgp1dn49garw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Dr. Martin Luther King Jr. Day - Message from WDVA ...">
+                                <img itemprop="contentUrl url" src='https://www.dva.wa.gov/sites/default/files/2025-01/Martin%20Luther%20King%2C%20jr.%20.png' alt='Honoring Dr. Martin Luther King Jr. Day - Message from WDVA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington State Department of Veterans Affairs" />
+                                </span>
+                                <a href='https://www.dva.wa.gov/sites/default/files/2025-01/Martin%20Luther%20King%2C%20jr.%20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Martin Luther King, Jr. Day, January 18 - No School | Liberty ...">
+                                <img itemprop="contentUrl url" src='https://core-docs.s3.us-east-1.amazonaws.com/marysville_school_district_ar/article/image/large_3f03dc65-49f3-4a1b-b610-d907a503fd37.png' alt='Dr. Martin Luther King, Jr. Day, January 18 - No School | Liberty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marysville School District 25" />
+                                </span>
+                                <a href='https://core-docs.s3.us-east-1.amazonaws.com/marysville_school_district_ar/article/image/large_3f03dc65-49f3-4a1b-b610-d907a503fd37.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rev. Dr. Martin Luther King, Jr. Day Celebration">
+                                <img itemprop="contentUrl url" src='https://www.msj.edu/news/2025/01/Martin-Luther-King-Day2.jpg' alt='Rev. Dr. Martin Luther King, Jr. Day Celebration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mount St. Joseph University" />
+                                </span>
+                                <a href='https://www.msj.edu/news/2025/01/Martin-Luther-King-Day2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Educational resources for Dr. Martin Luther King, Jr. Day ...">
+                                <img itemprop="contentUrl url" src='https://www.scetv.org/sites/default/files/styles/story_featured_image/public/blogs/MartinLutherKing.jpg.webp?itok=yY-iYTdf' alt='Educational resources for Dr. Martin Luther King, Jr. Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Carolina ETV" />
+                                </span>
+                                <a href='https://www.scetv.org/sites/default/files/styles/story_featured_image/public/blogs/MartinLutherKing.jpg.webp?itok=yY-iYTdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. Day - Meredith College">
+                                <img itemprop="contentUrl url" src='https://www.meredith.edu/wp-content/uploads/2024/09/MLKday_calendar.jpg' alt='Martin Luther King Jr. Day - Meredith College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meredith College" />
+                                </span>
+                                <a href='https://www.meredith.edu/wp-content/uploads/2024/09/MLKday_calendar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Martin Luther King, Jr. Day | by Robert Bank | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:800/1*PMYOPXF7t3kkhga0ZF_aRw.jpeg' alt='Honoring Martin Luther King, Jr. Day | by Robert Bank | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:800/1*PMYOPXF7t3kkhga0ZF_aRw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LET FREEDOM RING: DR. MARTIN LUTHER KING, JR. DAY 2024 - Borough ...">
+                                <img itemprop="contentUrl url" src='https://www.collegeville-pa.gov/wp-content/uploads/2024/01/King-and-Flag.jpeg' alt='LET FREEDOM RING: DR. MARTIN LUTHER KING, JR. DAY 2024 - Borough ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collegeville Borough" />
+                                </span>
+                                <a href='https://www.collegeville-pa.gov/wp-content/uploads/2024/01/King-and-Flag.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="General Secretary's Statement on Martin Luther King, Jr. Day 2022 ...">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5f21f3c5b98793387cf390fa/5f224d3b015ea777b40f54f7/61e5b35c3e95804ca7171351/1660062415371/MLK+2022.png?format=1500w' alt='General Secretary's Statement on Martin Luther King, Jr. Day 2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1410">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="General Commission on Religion and Race" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5f21f3c5b98793387cf390fa/5f224d3b015ea777b40f54f7/61e5b35c3e95804ca7171351/1660062415371/MLK+2022.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

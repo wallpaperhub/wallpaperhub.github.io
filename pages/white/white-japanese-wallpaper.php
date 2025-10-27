@@ -1,0 +1,129 @@
+<title>Elegant White Japanese Wallpaper for Serene Home Décor</title>
+                    <meta name="description" content="Discover the beauty of white Japanese wallpaper, which perfectly balances simplicity and style. Transform your space with this elegant choice that enhances any room. Ideal for refreshing your décor while creating a tranquil ambiance. Explore our collection today for a serene interior makeover!">
+                    <meta name="keywords" content="white japanese wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-japanese-wallpaper">
+                            <span itemprop="name">white japanese wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Japanese Wallpaper for Serene Home Décor</h1>
+                <p>White Japanese wallpaper embodies a blend of minimalism and elegance, perfect for enhancing any interior. Its soothing palette creates a serene atmosphere, making spaces feel open and inviting. Ideal for both traditional and contemporary designs, this wallpaper is versatile, allowing for creative expression while maintaining a sense of calm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Japanese White Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/japanese-white-aesthetic-hi81dy42jfhnmdff.jpg' alt='100+] Japanese White Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/japanese-white-aesthetic-hi81dy42jfhnmdff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Japanese White Aesthetic iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/japanese-white-aesthetic-iphone-0oa56zytthp0z01a.jpg' alt='Download Japanese White Aesthetic iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/japanese-white-aesthetic-iphone-0oa56zytthp0z01a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Japanese architecture on white color background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/japanese-architecture-white-color-background-japan-theme-copy-space-media-advertisement-other-3d-rendering_45981-1247.jpg' alt='Premium Photo | Japanese architecture on white color background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/japanese-architecture-white-color-background-japan-theme-copy-space-media-advertisement-other-3d-rendering_45981-1247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black &amp; White Japanese Tori Gate Desktop Customization! by ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1354368.png' alt='Black &amp; White Japanese Tori Gate Desktop Customization! by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1354368.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper White Leafed Tree, Art, Minimal - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/44/ed/7444edac88c9e30c7a3f72b2542cf1c3.jpg' alt='Wallpaper White Leafed Tree, Art, Minimal - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/44/ed/7444edac88c9e30c7a3f72b2542cf1c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Want to request a wallpaper? Check the comments! #livewallpaper #wallpaper  #wallpaperengine #japan #japanese #toriigate #blackandwhite #black #white">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7006027746270874885&location=0&aid=1988' alt='Want to request a wallpaper? Check the comments! #livewallpaper #wallpaper  #wallpaperengine #japan #japanese #toriigate #blackandwhite #black #white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7006027746270874885&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Torii Gate Black And White Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/torii-gate-black-and-white-t0o3rnlxi3k735z4.jpg' alt='Torii Gate Black And White Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/torii-gate-black-and-white-t0o3rnlxi3k735z4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese text wallpaper by dtownley1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76359db6-3ddb-4d8e-b5db-b8fdba31b68b/dkmrtz-d40c8b96-5c09-4d2e-b797-33a2f84842da.jpg/v1/fill/w_1024,h_768,q_75,strp/japanese_text_wallpaper_by_dtownley1_dkmrtz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNzYzNTlkYjYtM2RkYi00ZDhlLWI1ZGItYjhmZGJhMzFiNjhiXC9ka21ydHotZDQwYzhiOTYtNWMwOS00ZDJlLWI3OTctMzNhMmY4NDg0MmRhLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.bmPDtobYPLCZkN_OnP659es8cX23ftH6s12KXg-News' alt='Japanese text wallpaper by dtownley1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76359db6-3ddb-4d8e-b5db-b8fdba31b68b/dkmrtz-d40c8b96-5c09-4d2e-b797-33a2f84842da.jpg/v1/fill/w_1024,h_768,q_75,strp/japanese_text_wallpaper_by_dtownley1_dkmrtz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNzYzNTlkYjYtM2RkYi00ZDhlLWI1ZGItYjhmZGJhMzFiNjhiXC9ka21ydHotZDQwYzhiOTYtNWMwOS00ZDJlLWI3OTctMzNhMmY4NDg0MmRhLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.bmPDtobYPLCZkN_OnP659es8cX23ftH6s12KXg-News' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom Mural Wallpaper | White Flowers with ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-japonais5113_700x700.jpg?v=1715272379' alt='Japanese Cherry Blossom Mural Wallpaper | White Flowers with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-japonais5113_700x700.jpg?v=1715272379' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Japan Kanji Death Life Artistic Black & White HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/888/thumb-1920-888540.jpg' alt='Download Japan Kanji Death Life Artistic Black & White HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/888/thumb-1920-888540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

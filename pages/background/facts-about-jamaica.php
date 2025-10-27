@@ -1,0 +1,129 @@
+<title>Discover Fascinating Facts About Jamaica</title>
+                    <meta name="description" content="Explore intriguing insights about Jamaica, from its vibrant reggae roots to breathtaking landscapes and rich cultural heritage. Perfect for travel lovers and music enthusiasts alike! Learn why Jamaica is a must-visit destination.">
+                    <meta name="keywords" content="facts about jamaica">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/facts-about-jamaica">
+                            <span itemprop="name">facts about jamaica</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating Facts About Jamaica</h1>
+                <p>Jamaica is the birthplace of reggae music and home to iconic figures like Bob Marley. With stunning beaches and the Blue Mountains, it's a paradise for nature lovers. The island boasts a rich culture with a mix of African, European, and indigenous influences. Did you know Jamaica produces the world’s best coffee, Blue Mountain Coffee?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts about Jamaica">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/89/0f/81890f88a56d9078366aaca5238a97e0.jpg' alt='Facts about Jamaica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="385">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/89/0f/81890f88a56d9078366aaca5238a97e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn About Jamaica For Kids: Ages 8-12 Includes Fun Facts About Jamaican  Culture and Tourism (Learn About the World): Meonatrip: 9781738769292: ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51AkvhsErdL._AC_UF1000,1000_QL80_.jpg' alt='Learn About Jamaica For Kids: Ages 8-12 Includes Fun Facts About Jamaican  Culture and Tourism (Learn About the World): Meonatrip: 9781738769292: ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51AkvhsErdL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica for Kids">
+                                <img itemprop="contentUrl url" src='https://www.activityvillage.co.uk/sites/default/files/styles/medium/public/images/jamaica_facts_poster_460.jpg?itok=h0TS2JPi' alt='Jamaica for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Activity Village" />
+                                </span>
+                                <a href='https://www.activityvillage.co.uk/sites/default/files/styles/medium/public/images/jamaica_facts_poster_460.jpg?itok=h0TS2JPi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica | History, Population, Flag, Map, Capital, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/20/5120-050-4202E1B8/Flag-Jamaica.jpg' alt='Jamaica | History, Population, Flag, Map, Capital, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/20/5120-050-4202E1B8/Flag-Jamaica.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica Fact Sheet">
+                                <img itemprop="contentUrl url" src='https://starlight-treasures.com/cdn/shop/products/page-1_65c574b3-ba14-4d6a-a44b-9ec3a135e75a_1024x1024@2x.jpg?v=1601647909' alt='Jamaica Fact Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Starlight Treasures" />
+                                </span>
+                                <a href='https://starlight-treasures.com/cdn/shop/products/page-1_65c574b3-ba14-4d6a-a44b-9ec3a135e75a_1024x1024@2x.jpg?v=1601647909' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaican Cravings Box - DID YOU KNOW?      Black, Green & Gold ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=523426456062302' alt='Jamaican Cravings Box - DID YOU KNOW?      Black, Green & Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=523426456062302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica for Kids">
+                                <img itemprop="contentUrl url" src='https://www.activityvillage.co.uk/sites/default/files/styles/medium/public/images/jamaica_factsheet_460.jpg?itok=XxKzELgz' alt='Jamaica for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Activity Village" />
+                                </span>
+                                <a href='https://www.activityvillage.co.uk/sites/default/files/styles/medium/public/images/jamaica_factsheet_460.jpg?itok=XxKzELgz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts about Jamaica - MakingFriends">
+                                <img itemprop="contentUrl url" src='https://makingfriends.com/images/fact_card_jamaica-1.png' alt='Facts about Jamaica - MakingFriends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakingFriends" />
+                                </span>
+                                <a href='https://makingfriends.com/images/fact_card_jamaica-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica for kids – an amazing and quick guide to Jamaica - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TC8R-yNgIGk/sddefault.jpg' alt='Jamaica for kids – an amazing and quick guide to Jamaica - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TC8R-yNgIGk/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamaica">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/43e66349-5085-4e3c-b6f5-d7268c603044/jamaica-river-raft_2x1.jpg' alt='Jamaica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/43e66349-5085-4e3c-b6f5-d7268c603044/jamaica-river-raft_2x1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

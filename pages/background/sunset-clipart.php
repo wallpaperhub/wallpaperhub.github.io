@@ -1,0 +1,129 @@
+<title>Beautiful Sunset Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover stunning sunset clipart to elevate your designs! Perfect for invitations and presentations, these illustrations capture the vibrant colors of twilight. Easy to use and versatile, our collection enriches your creative projects with warmth and beauty. Explore now for the perfect visual touch!">
+                    <meta name="keywords" content="sunset clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunset-clipart">
+                            <span itemprop="name">sunset clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Sunset Clipart for Creative Projects</h1>
+                <p>Sunset clipart brings the beauty of twilight to your creative projects. Perfect for invitations, presentations, or digital designs, these vibrant illustrations capture the stunning colors of sunsets. Whether you're looking for silhouettes, landscapes, or abstract representations, sunset clipart enhances your work with warmth and elegance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="170+ Hawaii Sunset Clip Art Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/97913097/vector/a-vector-illustration-of-a-beautiful-landscape-at-sunset.jpg?s=612x612&w=0&k=20&c=U1Zs88GiQVyqwVu2jUH0VdaDwaRqzsOd1NFtghdwHc0=' alt='170+ Hawaii Sunset Clip Art Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/97913097/vector/a-vector-illustration-of-a-beautiful-landscape-at-sunset.jpg?s=612x612&w=0&k=20&c=U1Zs88GiQVyqwVu2jUH0VdaDwaRqzsOd1NFtghdwHc0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset clipart free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2023/10/sunset-clipart.png' alt='Sunset clipart free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2023/10/sunset-clipart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Beach Sunsets Clipart, Sunset Bundle, Tropical Sunset ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42843947/r/il/21da42/4932744623/il_fullxfull.4932744623_j5cs.jpg' alt='Watercolor Beach Sunsets Clipart, Sunset Bundle, Tropical Sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42843947/r/il/21da42/4932744623/il_fullxfull.4932744623_j5cs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Sky Stock Illustrations – 840,176 Sunset Sky Stock ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/69/54/71/6954716f2fbc42d2e1cdd0f3650a6de5.jpg' alt='Sunset Sky Stock Illustrations – 840,176 Sunset Sky Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/69/54/71/6954716f2fbc42d2e1cdd0f3650a6de5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,200+ Sunset Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/546206080/vector/sun-and-sea.jpg?s=612x612&w=0&k=20&c=lCdEYD_LTCJeE9jUuoYqhA8DESrflaLOgJV50LO6chQ=' alt='10,200+ Sunset Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/546206080/vector/sun-and-sea.jpg?s=612x612&w=0&k=20&c=lCdEYD_LTCJeE9jUuoYqhA8DESrflaLOgJV50LO6chQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Beach Stock Illustrations – 266,982 Sunset Beach Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sunset-beach-background-vector-image-142790573.jpg' alt='Sunset Beach Stock Illustrations – 266,982 Sunset Beach Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sunset-beach-background-vector-image-142790573.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210529/ourmid/pngtree-sunset-beach-sailing-palm-summer-silhouette-print-png-image_3390245.jpg' alt='Sunset Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210529/ourmid/pngtree-sunset-beach-sailing-palm-summer-silhouette-print-png-image_3390245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/summer-landscape-background-zoom_52683-41522.jpg' alt='Sunset Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/summer-landscape-background-zoom_52683-41522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/78211/sunset-clipart-md.png' alt='Sunset - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/78211/sunset-clipart-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/simple-gradient-beach-desktop-wallpaper_23-2149606311.jpg?semt=ais_hybrid' alt='Sunset Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/simple-gradient-beach-desktop-wallpaper_23-2149606311.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

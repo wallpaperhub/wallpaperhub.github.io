@@ -1,0 +1,129 @@
+<title>Lucky 4 Leaf Clover Clipart for Creative Projects</title>
+                    <meta name="description" content="Shop our delightful 4 leaf clover clipart to enhance your creative endeavors! Ideal for digital projects and print, our high-quality images are perfect for adding a touch of luck to invitations, cards, and more. Browse our collection and find the perfect design to inspire your next project!">
+                    <meta name="keywords" content="4 leaf clover clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/4-leaf-clover-clipart">
+                            <span itemprop="name">4 leaf clover clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lucky 4 Leaf Clover Clipart for Creative Projects</h1>
+                <p>Discover our charming collection of 4 leaf clover clipart, perfect for bringing good luck to your projects! Whether you’re designing invitations, greeting cards, or digital content, our vibrant and versatile clipart will add a touch of whimsy. Explore various styles and sizes to find the ideal fit for your needs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clover Clip Art Images – Browse 28,986 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/33/44/32/360_F_333443272_doVon3QEV0IYDa9qAgeD1YS9ZkIRCc2f.jpg' alt='Clover Clip Art Images – Browse 28,986 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/33/44/32/360_F_333443272_doVon3QEV0IYDa9qAgeD1YS9ZkIRCc2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Leaf Clover- Instant digital download, SVG, PNG, JPG files, hand  drawn, St. Patricks Day Inspired Clipart">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30289585/r/il/cff729/3708790120/il_fullxfull.3708790120_1hht.jpg' alt='Four Leaf Clover- Instant digital download, SVG, PNG, JPG files, hand  drawn, St. Patricks Day Inspired Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30289585/r/il/cff729/3708790120/il_fullxfull.3708790120_1hht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four-leaf clover - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/78571/four-leaf-clover-clipart-md.png' alt='Four-leaf clover - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/78571/four-leaf-clover-clipart-md.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute green four leaf clover clip art set">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/d492e3dc30837d5a72856936244e897f6bd44ffe148a3ee4ef34e861cb767d09.jpg' alt='Cute green four leaf clover clip art set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/d492e3dc30837d5a72856936244e897f6bd44ffe148a3ee4ef34e861cb767d09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Leaf Clover SVGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/025/916/229/small_2x/four-leaf-clover-icon-clover-silhouette-simple-icon-illustration-simple-business-concept-pictogram-on-isolated-background-vector.jpg' alt='Four Leaf Clover SVGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/025/916/229/small_2x/four-leaf-clover-icon-clover-silhouette-simple-icon-illustration-simple-business-concept-pictogram-on-isolated-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ 4 Leaf Clover Outline Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1473318768/vector/luck-shamrock.jpg?s=170667a&w=is&k=20&c=CIxdrj49axrY-r5kZKVbM1iFEKNCZYH8ezEPCp_GlQk=' alt='1,100+ 4 Leaf Clover Outline Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1473318768/vector/luck-shamrock.jpg?s=170667a&w=is&k=20&c=CIxdrj49axrY-r5kZKVbM1iFEKNCZYH8ezEPCp_GlQk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clover Clip Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/33/70/61/337061de811be79501895263bc50f0e8.jpg' alt='Clover Clip Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/33/70/61/337061de811be79501895263bc50f0e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clover Leaf - Four-Leaf Clover Symbol for Luck - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180314/xle/av0d3f33u.webp' alt='Clover Leaf - Four-Leaf Clover Symbol for Luck - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180314/xle/av0d3f33u.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lucky Four Leaf Clover Clipart, Sublimation, PNG, Printable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21917229/r/il/f1d7a8/2987284817/il_570xN.2987284817_pa3e.jpg' alt='Cute Lucky Four Leaf Clover Clipart, Sublimation, PNG, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21917229/r/il/f1d7a8/2987284817/il_570xN.2987284817_pa3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shamrock Four-leaf Clover PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/75/66/6575666ea3d86061ccf1d344db994841.jpg' alt='Shamrock Four-leaf Clover PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/75/66/6575666ea3d86061ccf1d344db994841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Smiley Face Aesthetic Wallpaper: Cheerful Decor for Every Space</title>
+                    <meta name="description" content="Discover the joy of smiley face aesthetic wallpaper! Perfect for brightening up your home or digital devices, these cheerful designs will uplift your mood and enhance your decor. Explore a variety of styles and colors to match your vibe and create a happy environment!">
+                    <meta name="keywords" content="aesthetic wallpaper smiley face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-wallpaper-smiley-face">
+                            <span itemprop="name">aesthetic wallpaper smiley face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smiley Face Aesthetic Wallpaper: Cheerful Decor for Every Space</h1>
+                <p>Brighten up your space with our aesthetic wallpaper featuring smiley faces! Perfect for creating a cheerful, uplifting atmosphere in any room. These playful designs add a fun touch to your decor, making every day feel a little brighter. Ideal for bedrooms, living areas, or as a digital backdrop for your devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' alt='Aesthetic Wallpaper, Wallpaper for IPhone, Smiley Face Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/d2/86/94d286f293e1a43d279a6e71b96c4942.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Trippy Smiley Face Wallpaper: Over 25 Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/vintage-checkered-trippy-grid-seamless-600nw-2306190733.jpg' alt='Aesthetic Trippy Smiley Face Wallpaper: Over 25 Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/vintage-checkered-trippy-grid-seamless-600nw-2306190733.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Radiant Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/radiant-aesthetic-smiley-face-wallpaper-4xli787cjkd26rqk.jpg' alt='Radiant Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/radiant-aesthetic-smiley-face-wallpaper-4xli787cjkd26rqk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MochaLatte Inspired Trendy Aesthetic Smiley Face iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/0c/1b/5b0c1b5e5ba688232cca648392350a48.jpg' alt='MochaLatte Inspired Trendy Aesthetic Smiley Face iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/0c/1b/5b0c1b5e5ba688232cca648392350a48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' alt='Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' alt='Smiley face Daisy wallpaper, Aesthetic wallpaper, Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/64/89/0464894ef3076fddcfc67492e56129ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' alt='smiley face laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35255877/r/il/f575e1/5066635784/il_fullxfull.5066635784_c1hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-smiley-face-wallpaper-ugtas9l1d0demz3p.webp' alt='Vibrant Aesthetic Smiley Face Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-smiley-face-wallpaper-ugtas9l1d0demz3p.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vibrant Aesthetic Smiley Face Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-smiley-face-900-x-1600-wallpaper-2xwjbqmezy2mfkcj.jpg' alt='Download Vibrant Aesthetic Smiley Face Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-smiley-face-900-x-1600-wallpaper-2xwjbqmezy2mfkcj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley faces, aesthetic, indie, peace, smile, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/933/828/HD-wallpaper-smiley-faces-aesthetic-indie-peace-smile.jpg' alt='Smiley faces, aesthetic, indie, peace, smile, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/933/828/HD-wallpaper-smiley-faces-aesthetic-indie-peace-smile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

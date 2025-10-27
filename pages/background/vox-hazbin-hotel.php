@@ -1,0 +1,129 @@
+<title>Discover Vox from Hazbin Hotel: The Radio Demon</title>
+                    <meta name="description" content="Explore the fascinating character of Vox from Hazbin Hotel! Known as the charismatic Radio Demon, Vox enchants fans with his unique charm and wit. Delve into his captivating role in the series and learn how he shapes the show's dynamics in this exciting universe. Perfect for new and returning fans alike!">
+                    <meta name="keywords" content="vox hazbin hotel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vox-hazbin-hotel">
+                            <span itemprop="name">vox hazbin hotel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Vox from Hazbin Hotel: The Radio Demon</h1>
+                <p>Vox from Hazbin Hotel is a popular character known for his charisma and unique abilities. As a radio demon, he captivates audiences with his captivating dialogues and flamboyant personality. His interactions within the hotel showcase his cunning, yet playful demeanor, contributing to the show's intriguing dynamics and world-building.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/5/5d/Vox_render.png/revision/latest?cb=20240606101329' alt='Vox | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2751">
+                                <meta itemprop="height" content="6334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/5/5d/Vox_render.png/revision/latest?cb=20240606101329' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hazbin Hotel Vox Spotlight ON by CPRKaaroo -- Fur Affinity [dot] net">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/cprkaaroo/1705784436/1705784436.cprkaaroo_vox_spotlight_f_resc.png' alt='Hazbin Hotel Vox Spotlight ON by CPRKaaroo -- Fur Affinity [dot] net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/cprkaaroo/1705784436/1705784436.cprkaaroo_vox_spotlight_f_resc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About VOX : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nbg9l1y3y91c1.jpg' alt='About VOX : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="1258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nbg9l1y3y91c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox | Hazbin Hotel: Dawn of the Darkness Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbin-hotel-dawn-of-the-darkness/images/f/ff/Vox_Himself_by_WUHEGUGE.png/revision/latest?cb=20241221161711' alt='Vox | Hazbin Hotel: Dawn of the Darkness Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1018">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel: Dawn of the Darkness Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbin-hotel-dawn-of-the-darkness/images/f/ff/Vox_Himself_by_WUHEGUGE.png/revision/latest?cb=20241221161711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox from Hazbin Hotel by CatwardTheGreat on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5641d0e5-5a4b-4a98-9096-dc33ca0e19a3/dh74trm-31534693-3ab3-491c-bccd-f8cd93044382.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NDFkMGU1LTVhNGItNGE5OC05MDk2LWRjMzNjYTBlMTlhM1wvZGg3NHRybS0zMTUzNDY5My0zYWIzLTQ5MWMtYmNjZC1mOGNkOTMwNDQzODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XNa7aHcE1RRJVQWz7ys3g-2Uy_c6DtoUz89kbgLsDNc' alt='Vox from Hazbin Hotel by CatwardTheGreat on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1255">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5641d0e5-5a4b-4a98-9096-dc33ca0e19a3/dh74trm-31534693-3ab3-491c-bccd-f8cd93044382.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NDFkMGU1LTVhNGItNGE5OC05MDk2LWRjMzNjYTBlMTlhM1wvZGg3NHRybS0zMTUzNDY5My0zYWIzLTQ5MWMtYmNjZC1mOGNkOTMwNDQzODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XNa7aHcE1RRJVQWz7ys3g-2Uy_c6DtoUz89kbgLsDNc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vox hazbin hotel | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5502498421.5921/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='vox hazbin hotel | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5502498421.5921/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honestly Vox is probably gonna be a genuinely dangerous villain S2 ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/honestly-vox-is-probably-gonna-be-a-genuinely-dangerous-v0-imbx244ganid1.jpeg?auto=webp&s=a16846782a100c8252527e05f7ad7126deda46a0' alt='Honestly Vox is probably gonna be a genuinely dangerous villain S2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/honestly-vox-is-probably-gonna-be-a-genuinely-dangerous-v0-imbx244ganid1.jpeg?auto=webp&s=a16846782a100c8252527e05f7ad7126deda46a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/7/70/Vox_needs_a_drink.png/revision/latest/scale-to-width/360?cb=20231015003017' alt='Vox | Hazbin Hotel: Journey to the Light Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel: Journey to the Light Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbin-hotel-journey-to-the-light/images/7/70/Vox_needs_a_drink.png/revision/latest/scale-to-width/360?cb=20231015003017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vox (Hazbin Hotel) by HecticWu on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/695842d7-4d38-4d06-9b39-67151dfc6164/deji2rr-fd4be11b-e4ca-411f-b7a5-ec6adc8d529e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5NTg0MmQ3LTRkMzgtNGQwNi05YjM5LTY3MTUxZGZjNjE2NFwvZGVqaTJyci1mZDRiZTExYi1lNGNhLTQxMWYtYjdhNS1lYzZhZGM4ZDUyOWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qtLNRTNXJ72F5oPGZxmYapARf-OJeWRAv665MZnDHVE' alt='Vox (Hazbin Hotel) by HecticWu on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/695842d7-4d38-4d06-9b39-67151dfc6164/deji2rr-fd4be11b-e4ca-411f-b7a5-ec6adc8d529e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5NTg0MmQ3LTRkMzgtNGQwNi05YjM5LTY3MTUxZGZjNjE2NFwvZGVqaTJyci1mZDRiZTExYi1lNGNhLTQxMWYtYjdhNS1lYzZhZGM4ZDUyOWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qtLNRTNXJ72F5oPGZxmYapARf-OJeWRAv665MZnDHVE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caio AD - Vox Hazbin Hotel Fanart">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/032/572/260/medium/caio-x-artes-vox-hazbin-hotel-x-media.jpg?1606837929' alt='Caio AD - Vox Hazbin Hotel Fanart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caio AD" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/032/572/260/medium/caio-x-artes-vox-hazbin-hotel-x-media.jpg?1606837929' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

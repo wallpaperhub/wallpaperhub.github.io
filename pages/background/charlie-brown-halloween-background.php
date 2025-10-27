@@ -1,0 +1,129 @@
+<title>Spooktacular Charlie Brown Halloween Backgrounds</title>
+                    <meta name="description" content="Discover charming Charlie Brown Halloween backgrounds that add a festive touch to your celebrations. Perfect for decor and seasonal fun, these whimsical designs capture the essence of the beloved Peanuts characters and bring joy to both kids and adults alike. Dive into nostalgia this Halloween!">
+                    <meta name="keywords" content="charlie brown halloween background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charlie-brown-halloween-background">
+                            <span itemprop="name">charlie brown halloween background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Charlie Brown Halloween Backgrounds</h1>
+                <p>Charlie Brown Halloween background captures the whimsical spirit of the Peanuts gang as they celebrate the spooky season. Featuring playful pumpkins, colorful leaves, and the iconic blanket-wrapped Charlie Brown, this backdrop evokes nostalgia and joy. Perfect for decorating parties or enhancing seasonal artwork, it brings smiles to all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's the Great Pumpkin, Charlie Brown:' Images from the classic ...">
+                                <img itemprop="contentUrl url" src='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/22469008-67498-001-ful-jpg.jpg?resize=900:*' alt='It's the Great Pumpkin, Charlie Brown:' Images from the classic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WTAE" />
+                                </span>
+                                <a href='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wtae/22469008-67498-001-ful-jpg.jpg?resize=900:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Charlie Brown Halloween Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/charlie-brown-during-halloween-dlgeb3iv4rm1hqy2.jpg' alt='100+] Charlie Brown Halloween Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/charlie-brown-during-halloween-dlgeb3iv4rm1hqy2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's the Great Pumpkin, Charlie Brown - Wallpaper : r/halloween">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/NbuBg.jpg' alt='It's the Great Pumpkin, Charlie Brown - Wallpaper : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/NbuBg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="charlie brown halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/e1/65/a1e1659c007e2e7506db644e7dd447ab.jpg' alt='charlie brown halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/e1/65/a1e1659c007e2e7506db644e7dd447ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Watch 'It's the Great Pumpkin, Charlie Brown' for Free">
+                                <img itemprop="contentUrl url" src='https://www.tasteofhome.com/wp-content/uploads/2021/10/its-the-great-pumpkin-charlie-brown-via-tv.apple_.com_-e1633641749315.jpg' alt='How to Watch 'It's the Great Pumpkin, Charlie Brown' for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taste of Home" />
+                                </span>
+                                <a href='https://www.tasteofhome.com/wp-content/uploads/2021/10/its-the-great-pumpkin-charlie-brown-via-tv.apple_.com_-e1633641749315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/45/6b/c8456b49a7ef8f21c479e9bb82262513.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/45/6b/c8456b49a7ef8f21c479e9bb82262513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: It's the Great Pumpkin, Charlie Brown Halloween Fun!">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/747/747019.jpg' alt='HD Wallpaper: It's the Great Pumpkin, Charlie Brown Halloween Fun!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/747/747019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Charlie Brown Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/charlie-brown-halloween-great-pumpkin-ujf4fmt3md9jh5gz.jpg' alt='100+] Charlie Brown Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1756">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/charlie-brown-halloween-great-pumpkin-ujf4fmt3md9jh5gz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It’s the Great Pumpkin Charlie Brown Ambience & Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7YMr5GCGI70/maxresdefault.jpg' alt='It’s the Great Pumpkin Charlie Brown Ambience & Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7YMr5GCGI70/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Combined photos from reddit posts to create my wallpaper. Charlie ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3vm9azdshks31.jpg' alt='Combined photos from reddit posts to create my wallpaper. Charlie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3vm9azdshks31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

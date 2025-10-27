@@ -1,0 +1,129 @@
+<title>Light Green Peel and Stick Wallpaper - Brighten Your Space!</title>
+                    <meta name="description" content="Discover the beauty of light green peel and stick wallpaper! Easy to apply and remove, it enhances any room with a vibrant, fresh look. Ideal for renters and DIY enthusiasts looking to revitalize their space quickly and effortlessly. Transform your decor today!">
+                    <meta name="keywords" content="light green peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/light-green-peel-and-stick-wallpaper">
+                            <span itemprop="name">light green peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Green Peel and Stick Wallpaper - Brighten Your Space!</h1>
+                <p>Transform your space effortlessly with light green peel and stick wallpaper. Perfect for adding a splash of color and a refreshing vibe to any room, this versatile wallpaper is easy to apply and remove, making it ideal for renters or anyone wanting to update their decor without commitment. Enjoy a vibrant, serene environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimoon 236"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Delicate Thicken Waterproof Light Green Vintage Flower Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' alt='Dimoon 236"x16.1" Wallpaper Green Peel and Stick Removable Contact Paper  Delicate Thicken Waterproof Light Green Vintage Flower Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HnZ6h+EQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="practicalWs Light Green Peel and Stick Wallpaper Green Contact Paper 17.7''  x 236.2'' Removable Wallpaper Self-Adhesive Vinyl Solid Wall Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61TRdZtlVEL._AC_UF894,1000_QL80_.jpg' alt='practicalWs Light Green Peel and Stick Wallpaper Green Contact Paper 17.7''  x 236.2'' Removable Wallpaper Self-Adhesive Vinyl Solid Wall Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61TRdZtlVEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Peel & Stick Removable Wallpaper | Peel&Stick – Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/PeytonWallpaperWithWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736948861&width=533' alt='Green Peel & Stick Removable Wallpaper | Peel&Stick – Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/PeytonWallpaperWithWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736948861&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light green botanical foliage removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Light-botanical-boho-nursery-wallpaper_1200x1200.jpg?v=1595364675' alt='Light green botanical foliage removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Light-botanical-boho-nursery-wallpaper_1200x1200.jpg?v=1595364675' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Green Sage Songbird Vinyl Peel and Stick Matte Wallpaper NUS4470">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/30bae302-fc41-496d-a72b-f4348037e419/svn/nuwallpaper-wallpaper-rolls-nus4470-64_600.jpg' alt='NuWallpaper Green Sage Songbird Vinyl Peel and Stick Matte Wallpaper NUS4470'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/30bae302-fc41-496d-a72b-f4348037e419/svn/nuwallpaper-wallpaper-rolls-nus4470-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Vintage Victorian Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - D224">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5113699197_oz51.jpg?v=1725097290&width=1946' alt='Light Green Vintage Victorian Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - D224'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5113699197_oz51.jpg?v=1725097290&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lichen Green Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-370839.jpg?v=1718818320' alt='Lichen Green Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-370839.jpg?v=1718818320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lichen Green Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-318691.jpg?v=1718818320' alt='Lichen Green Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-318691.jpg?v=1718818320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Consine Light Green Peel and Stick Wallpaper, 15.7 X 157 inches Renter  Friendly Wallpaper, Vinyl PVC Removable Wall Paper, Self-Adhesive Wall  Sticker ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61CRocrWGCL.jpg' alt='Consine Light Green Peel and Stick Wallpaper, 15.7 X 157 inches Renter  Friendly Wallpaper, Vinyl PVC Removable Wall Paper, Self-Adhesive Wall  Sticker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61CRocrWGCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaves Removable Mural Wallpaper - Fern Botanical Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_570xN.4006168033_12uw.jpg' alt='Green Leaves Removable Mural Wallpaper - Fern Botanical Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_570xN.4006168033_12uw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

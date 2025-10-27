@@ -1,0 +1,129 @@
+<title>Inspiring God's Protection Images for Spiritual Strength</title>
+                    <meta name="description" content="Explore powerful images of God's protection that inspire faith and provide reassurance. Perfect for homes and personal reflection, these visuals are reminders of divine safety and spiritual strength in challenging times. Discover the beauty of protection through faith.">
+                    <meta name="keywords" content="god's protection images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gods-protection-images">
+                            <span itemprop="name">god's protection images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring God's Protection Images for Spiritual Strength</h1>
+                <p>God's protection images often depict powerful symbols like angels, shields, and divine light, serving as reminders of faith and security. These visuals inspire hope and reassurance, fostering a sense of safety in times of uncertainty. Whether used in homes, during prayers, or for personal reflection, they elevate spiritual connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God's Protection Over Us – Sandra McCollom">
+                                <img itemprop="contentUrl url" src='https://www.sandramccollom.com/wp-content/uploads/2013/07/Gods-Protection-Over-Us.jpg' alt='God's Protection Over Us – Sandra McCollom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandra McCollom" />
+                                </span>
+                                <a href='https://www.sandramccollom.com/wp-content/uploads/2013/07/Gods-Protection-Over-Us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14 Bible Verses About God's Protection - Selah Home">
+                                <img itemprop="contentUrl url" src='https://aselahhome.com/wp-content/uploads/2020/03/verses-about-gods-protection-psalms.jpg' alt='14 Bible Verses About God's Protection - Selah Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selah Home -" />
+                                </span>
+                                <a href='https://aselahhome.com/wp-content/uploads/2020/03/verses-about-gods-protection-psalms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="January 13th 2019 – Under Gods Protection | Scriptural Seeds ...">
+                                <img itemprop="contentUrl url" src='https://scripturalseeds.org/wp-content/uploads/2019/01/2019-01-13-05-36-10.jpg' alt='January 13th 2019 – Under Gods Protection | Scriptural Seeds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptural Seeds Ministries" />
+                                </span>
+                                <a href='https://scripturalseeds.org/wp-content/uploads/2019/01/2019-01-13-05-36-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God Sometimes Withdraws Protection">
+                                <img itemprop="contentUrl url" src='https://redeeminggod.com/wp-content/uploads/2013/06/psalm37_281.jpg' alt='God Sometimes Withdraws Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redeeming God" />
+                                </span>
+                                <a href='https://redeeminggod.com/wp-content/uploads/2013/06/psalm37_281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Recognizing the Protection of God - Patricia Cameron Writes">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/patriciacameronwrites.com/wp-content/uploads/2023/03/always-on-the-lookout-for-the-protection-and-presence-and-power-of-God.jpg?resize=940%2C788' alt='Recognizing the Protection of God - Patricia Cameron Writes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patricia Cameron" />
+                                </span>
+                                <a href='https://i0.wp.com/patriciacameronwrites.com/wp-content/uploads/2023/03/always-on-the-lookout-for-the-protection-and-presence-and-power-of-God.jpg?resize=940%2C788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Bible Verses About Protection - Prayers for Protection">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bible-verses-for-protection13-640a213b6e739.jpg' alt='30 Best Bible Verses About Protection - Prayers for Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2083">
+                                <meta itemprop="height" content="3125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woman's Day" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bible-verses-for-protection13-640a213b6e739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do you want God's protection? | Faith - Grace - Jesus">
+                                <img itemprop="contentUrl url" src='https://faithgracejesus.com/wp-content/uploads/2017/07/Psalm-91-5-7.jpg' alt='Do you want God's protection? | Faith - Grace - Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Faith - Grace - Jesus" />
+                                </span>
+                                <a href='https://faithgracejesus.com/wp-content/uploads/2017/07/Psalm-91-5-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under God's Protection by Danny Hahlbohm">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/under-gods-protection-danny-hahlbohm.jpg' alt='Under God's Protection by Danny Hahlbohm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danny Hahlbohm - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/under-gods-protection-danny-hahlbohm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God's protection-A true story | GLORY TO GOD Blog">
+                                <img itemprop="contentUrl url" src='https://princessofjesusblog.wordpress.com/wp-content/uploads/2017/09/5142425892e0767311308e36b964d0b2-verse-of-the-day-psalm.jpg?w=624' alt='God's protection-A true story | GLORY TO GOD Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GLORY TO GOD Blog - WordPress.com" />
+                                </span>
+                                <a href='https://princessofjesusblog.wordpress.com/wp-content/uploads/2017/09/5142425892e0767311308e36b964d0b2-verse-of-the-day-psalm.jpg?w=624' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOD IS OUR PROTECTOR | Trust In God's Protection - Inspirational ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LxeOlvGwm9E/sddefault.jpg' alt='GOD IS OUR PROTECTOR | Trust In God's Protection - Inspirational ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LxeOlvGwm9E/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

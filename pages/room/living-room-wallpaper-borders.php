@@ -1,0 +1,129 @@
+<title>Enhance Your Living Room with Stunning Wallpaper Borders</title>
+                    <meta name="description" content="Discover the perfect wallpaper borders for your living room! Explore various designs and colors that elevate your decor, define spaces, and create a cohesive look. Transform your living space with stylish and easy-to-apply wallpaper borders that reflect your personality.">
+                    <meta name="keywords" content="living room wallpaper borders">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/living-room-wallpaper-borders">
+                            <span itemprop="name">living room wallpaper borders</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Living Room with Stunning Wallpaper Borders</h1>
+                <p>Living room wallpaper borders can transform your space, adding style and elegance. With a variety of patterns and colors, they can highlight architectural features or define areas within the room. From classic designs to modern prints, choose a border that complements your decor and enhances the overall ambiance of your living area.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco DDAZBD9212 Peel and Stick Wallpaper Border - Kitchen Purple  Beige Plates and Cups Wall Border Retro Design, 15 ft x 7 in (4.57m x ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VcJu4EXML.png' alt='Dundee Deco DDAZBD9212 Peel and Stick Wallpaper Border - Kitchen Purple  Beige Plates and Cups Wall Border Retro Design, 15 ft x 7 in (4.57m x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VcJu4EXML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://raven.contrado.app/resources/images/2016-3/40231/custom-printed-wallpaper-border-45552_l.jpg?w=1200&h=1200&q=80&auto=format&fit=crop' alt='Custom Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photo Gifts" />
+                                </span>
+                                <a href='https://raven.contrado.app/resources/images/2016-3/40231/custom-printed-wallpaper-border-45552_l.jpg?w=1200&h=1200&q=80&auto=format&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dundee Deco Border Multi Wallpaper Border BD3117">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7943c2be-aae8-45e0-9e93-2dd123d58884/svn/dundee-deco-wallpaper-borders-bd3117-c3_600.jpg' alt='Dundee Deco Border Multi Wallpaper Border BD3117'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7943c2be-aae8-45e0-9e93-2dd123d58884/svn/dundee-deco-wallpaper-borders-bd3117-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Border - Modern Indigo, Off-White You Are Awesome  Wall Border Retro Design, 15 ft x 7 in (4.57m x 17.78cm), Self Adhesive">
+                                <img itemprop="contentUrl url" src='https://dundeedeco.com/wp-content/uploads/2021/09/BD9011_st3-scaled.jpg' alt='Peel and Stick Wallpaper Border - Modern Indigo, Off-White You Are Awesome  Wall Border Retro Design, 15 ft x 7 in (4.57m x 17.78cm), Self Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dundee Deco" />
+                                </span>
+                                <a href='https://dundeedeco.com/wp-content/uploads/2021/09/BD9011_st3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concord Wallcoverings Wallpaper Border Floral Pattern Flowers Bouquet for  Living Room Bedroom Cottage, Red Pink Beige, 15 ft by 7 in WD76831 - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vlQxOCl9L.jpg' alt='Concord Wallcoverings Wallpaper Border Floral Pattern Flowers Bouquet for  Living Room Bedroom Cottage, Red Pink Beige, 15 ft by 7 in WD76831 - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vlQxOCl9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scalloped Bespoke Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://www.madeofsundays.com/cdn/shop/products/bespoke-wallpaper-border-made-of-sundays-601105_700x700.jpg?v=1710375039' alt='Scalloped Bespoke Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Made of Sundays" />
+                                </span>
+                                <a href='https://www.madeofsundays.com/cdn/shop/products/bespoke-wallpaper-border-made-of-sundays-601105_700x700.jpg?v=1710375039' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Border - Floral Red, Pink, Green, Blue ...">
+                                <img itemprop="contentUrl url" src='https://dundeedeco.com/wp-content/uploads/2021/09/BD9023_st1-scaled.jpg.webp' alt='Peel and Stick Wallpaper Border - Floral Red, Pink, Green, Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dundee Deco" />
+                                </span>
+                                <a href='https://dundeedeco.com/wp-content/uploads/2021/09/BD9023_st1-scaled.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Room Border, Abstract Shapes Wall Decal, Modern Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5993298/r/il/945eda/5948374402/il_fullxfull.5948374402_8kc6.jpg' alt='Geometric Room Border, Abstract Shapes Wall Decal, Modern Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5993298/r/il/945eda/5948374402/il_fullxfull.5948374402_8kc6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Border. Design Your Own Wall Border.">
+                                <img itemprop="contentUrl url" src='https://static.contrado.com/resources/images/2016-3/40251/city-skyline-wallpaper-border-950836_l.jpg' alt='Custom Wallpaper Border. Design Your Own Wall Border.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photo Gifts" />
+                                </span>
+                                <a href='https://static.contrado.com/resources/images/2016-3/40251/city-skyline-wallpaper-border-950836_l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are wallpaper borders really making a comeback? | Livingetc">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/RekaXPGyF3sv8nD6m3PaeC.jpg' alt='Are wallpaper borders really making a comeback? | Livingetc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livingetc" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/RekaXPGyF3sv8nD6m3PaeC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

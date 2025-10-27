@@ -1,0 +1,129 @@
+<title>Epic Gogeta Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant Gogeta phone wallpapers that bring the power of fusion to your screen. Perfect for Dragon Ball fans, these stunning designs are optimized for your device's display. Showcase your love for Gogeta with a unique wallpaper that stands out!">
+                    <meta name="keywords" content="gogeta phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gogeta-phone-wallpaper">
+                            <span itemprop="name">gogeta phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Gogeta Phone Wallpapers for Fans</h1>
+                <p>Transform your phone's aesthetic with stunning Gogeta wallpapers! Featuring vibrant colors, dynamic poses, and iconic scenes from the Dragon Ball universe, these wallpapers will elevate your device's look. Perfect for fans who want to showcase their love for this powerful fusion character. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some LR teq gogeta mobile wallpaper,hope y'all like it : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c0uxucqvwik81.jpg' alt='Made some LR teq gogeta mobile wallpaper,hope y'all like it : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2599">
+                                <meta itemprop="height" content="4616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c0uxucqvwik81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic  on X: "✨️ Gogeta Blue 4K Phone Wallpaper ✨️ ( Likes ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GSc22DXXYAAlCGk?format=jpg&name=4096x4096' alt='Rustic  on X: "✨️ Gogeta Blue 4K Phone Wallpaper ✨️ ( Likes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GSc22DXXYAAlCGk?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SSGSS Gogeta phone wallpaper : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g77u5i69bkg61.png' alt='SSGSS Gogeta phone wallpaper : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1648">
+                                <meta itemprop="height" content="3384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g77u5i69bkg61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/6/1213980-1080x1920-mobile-1080p-gogeta-wallpaper-photo.jpg' alt='Gogeta Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/6/1213980-1080x1920-mobile-1080p-gogeta-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Wallpaper Phone - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/d5/11/14d511118fb8a6067a02ececf757848a.jpg' alt='Gogeta Wallpaper Phone - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/d5/11/14d511118fb8a6067a02ececf757848a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made some LR teq gogeta mobile wallpaper,hope y'all like it : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/m8zyhnfvwik81.jpg?width=1062&format=pjpg&auto=webp&s=3456a4cafb5c341e47065bfbce5c9a08c301b842' alt='Made some LR teq gogeta mobile wallpaper,hope y'all like it : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="1883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/m8zyhnfvwik81.jpg?width=1062&format=pjpg&auto=webp&s=3456a4cafb5c341e47065bfbce5c9a08c301b842' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Blue Phone Wallpaper by blitztyler on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1482512-368c-42a5-8719-681c3e7c87d4/df7n6wj-7241a5e1-49ff-4c37-95fe-297d4130411c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNDgyNTEyLTM2OGMtNDJhNS04NzE5LTY4MWMzZTdjODdkNFwvZGY3bjZ3ai03MjQxYTVlMS00OWZmLTRjMzctOTVmZS0yOTdkNDEzMDQxMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FN2RVyye4cRKSDM7expTtZvRj9TYT70AUgdtroYkvgY' alt='Gogeta Blue Phone Wallpaper by blitztyler on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1482512-368c-42a5-8719-681c3e7c87d4/df7n6wj-7241a5e1-49ff-4c37-95fe-297d4130411c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxNDgyNTEyLTM2OGMtNDJhNS04NzE5LTY4MWMzZTdjODdkNFwvZGY3bjZ3ai03MjQxYTVlMS00OWZmLTRjMzctOTVmZS0yOTdkNDEzMDQxMWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FN2RVyye4cRKSDM7expTtZvRj9TYT70AUgdtroYkvgY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic  on X: "✨️ Gogeta Blue Phone Wallpaper ✨️ ( Likes and ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GScVN4hW4AAXwnd?format=jpg&name=4096x4096' alt='Rustic  on X: "✨️ Gogeta Blue Phone Wallpaper ✨️ ( Likes and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="4090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GScVN4hW4AAXwnd?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Blue, ball, dragon, super, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/28/827/HD-wallpaper-gogeta-blue-ball-dragon-super.jpg' alt='Gogeta Blue, ball, dragon, super, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/28/827/HD-wallpaper-gogeta-blue-ball-dragon-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Wallpaper iPhone - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/9d/6d/5d9d6dc629d018978900d68c514c36b4.jpg' alt='Gogeta Wallpaper iPhone - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/9d/6d/5d9d6dc629d018978900d68c514c36b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

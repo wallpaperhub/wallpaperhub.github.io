@@ -1,0 +1,129 @@
+<title>Stunning iPhone 11 Lock Screen Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Discover a variety of eye-catching lock screen wallpapers for your iPhone 11. From breathtaking landscapes to inspiring quotes, find the perfect wallpaper that reflects your style and make every unlock a delightful experience. Explore now to personalize your device!">
+                    <meta name="keywords" content="iphone 11 lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-11-lock-screen-wallpaper">
+                            <span itemprop="name">iphone 11 lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 11 Lock Screen Wallpapers: Personalize Your Device</h1>
+                <p>Enhance your iPhone 11's aesthetic with stunning lock screen wallpapers. Choose from vibrant nature scenes, minimalistic designs, or your favorite quotes to express your personality. Whether you prefer bold colors or serene landscapes, there's a perfect wallpaper for everyone. Unlock your device to a captivating new look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The best Lock screen wallpaper for iOS 11.. (Lock screen animation ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i0poowgbnzf01.jpg' alt='The best Lock screen wallpaper for iOS 11.. (Lock screen animation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i0poowgbnzf01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen wallpaper for iPhone 11 (make sure to turn of ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0lh4ccmz1r251.jpg' alt='Lock screen wallpaper for iPhone 11 (make sure to turn of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0lh4ccmz1r251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_fullxfull.2779013450_qrvy.jpg' alt='40 Mixed Wallpapers, Mixed iPhone Wallpaper, Lock Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26273220/r/il/f99605/2779013450/il_fullxfull.2779013450_qrvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new iPhone 11 and iPhone 11 Pro wallpapers - 9to5Mac">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/36/f4/0e36f4bcbe602d221592d2a1f06c0efe.jpg' alt='Download the new iPhone 11 and iPhone 11 Pro wallpapers - 9to5Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="815">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/36/f4/0e36f4bcbe602d221592d2a1f06c0efe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I P H O N E 11 {lock screens} | iphone background wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/59/87/8f/59878f21f63a1b7c2fe2e8045f08cc1e.jpg' alt='I P H O N E 11 {lock screens} | iphone background wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/59/87/8f/59878f21f63a1b7c2fe2e8045f08cc1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OLED Valley, homescreen, ios, iphone 11 pro, lockscreen, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/408/647/HD-wallpaper-oled-valley-homescreen-ios-iphone-11-pro-lockscreen.jpg' alt='OLED Valley, homescreen, ios, iphone 11 pro, lockscreen, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/408/647/HD-wallpaper-oled-valley-homescreen-ios-iphone-11-pro-lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Lock Screen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9580635.jpg' alt='iPhone 11 Lock Screen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9580635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Lock Screen Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9580633.jpg' alt='iPhone 11 Lock Screen Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1124">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9580633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors">
+                                <img itemprop="contentUrl url" src='https://images.macrumors.com/t/O_74qv0W-R2yna7siOuvBK8cAA8=/4137x/article-new/2023/02/lock-screen-photo-shuffle.jpg' alt='Tap iPhone Lock Screen to Change Wallpaper - How It Works - MacRumors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4137">
+                                <meta itemprop="height" content="2716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors" />
+                                </span>
+                                <a href='https://images.macrumors.com/t/O_74qv0W-R2yna7siOuvBK8cAA8=/4137x/article-new/2023/02/lock-screen-photo-shuffle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Shuffle Between Wallpapers on iPhone Lock Screen">
+                                <img itemprop="contentUrl url" src='https://cdn.osxdaily.com/wp-content/uploads/2023/01/shuffle-iphone-wallpapers-lock-screen.jpg' alt='How to Shuffle Between Wallpapers on iPhone Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://cdn.osxdaily.com/wp-content/uploads/2023/01/shuffle-iphone-wallpapers-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

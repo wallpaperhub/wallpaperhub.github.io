@@ -1,0 +1,129 @@
+<title>Chic Black & Green Peel and Stick Wallpaper for Easy Home Makeovers</title>
+                    <meta name="description" content="Discover the elegance of black and green peel and stick wallpaper, ideal for quick and stylish home transformations. Easy to apply and remove, this wallpaper is perfect for creating a fresh look without commitment. Explore trendy designs that suit any decor style!">
+                    <meta name="keywords" content="black and green peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/black-and-green-peel-and-stick-wallpaper">
+                            <span itemprop="name">black and green peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Black & Green Peel and Stick Wallpaper for Easy Home Makeovers</h1>
+                <p>Transform your space effortlessly with black and green peel and stick wallpaper. Perfect for renters or DIY enthusiasts, this stylish option adds depth and personality to any room. Easy to apply and remove, it's a hassle-free way to refresh walls without the mess of traditional wallpaper. Explore unique designs that elevate your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Black and Green Funky Jungle Peel and Stick Wallpaper (Covers  28.29 sq. ft.) RMK11576RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/da88a128-280a-4c16-a699-731aec953936/svn/roommates-wallpaper-rolls-rmk11576rl-64_600.jpg' alt='RoomMates Black and Green Funky Jungle Peel and Stick Wallpaper (Covers  28.29 sq. ft.) RMK11576RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/da88a128-280a-4c16-a699-731aec953936/svn/roommates-wallpaper-rolls-rmk11576rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Black Botanical Wallpaper | Premium Removable Peel Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32484627/r/il/37d209/5177551145/il_570xN.5177551145_ntwr.jpg' alt='Moody Black Botanical Wallpaper | Premium Removable Peel Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32484627/r/il/37d209/5177551145/il_570xN.5177551145_ntwr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryStyle 17.7"x118" Tropical Fern Leaf Peel and Stick Wallpaper Black  Green Floral Wallpaper Self Adhesive Removable Contact Paper Dark Green ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81TFcN4+KcL.jpg' alt='VaryStyle 17.7"x118" Tropical Fern Leaf Peel and Stick Wallpaper Black  Green Floral Wallpaper Self Adhesive Removable Contact Paper Dark Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81TFcN4+KcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick Farm Floral 236" x 17.3" Wildwood Wall  Paper Dark Self Adhesive Contact Paper Stick on Wallpaper Coverage 30 sq.ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bPu4HOxdL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick Farm Floral 236" x 17.3" Wildwood Wall  Paper Dark Self Adhesive Contact Paper Stick on Wallpaper Coverage 30 sq.ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bPu4HOxdL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Menagerie Premium Peel + Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/PSW1321RL_YWDE43Menagerie_1ex_ff8a10f5-1b28-43fa-b8fb-dfc8fe3882bf.jpg?v=1703798426&width=800' alt='Menagerie Premium Peel + Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/PSW1321RL_YWDE43Menagerie_1ex_ff8a10f5-1b28-43fa-b8fb-dfc8fe3882bf.jpg?v=1703798426&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' alt='Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_570xN.4240763516_g8k6.jpg' alt='Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_570xN.4240763516_g8k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Eh4j5m+SL.jpg' alt='VaryPaper Floral Peel and Stick Wallpaper Black Green Pink Floral Wallpaper  17.7''x118'' Self Adhesive Vinyl Roll Removable Floral Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Eh4j5m+SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ismoon Black Peel and Stick Wallpaper Dark Leaf Stick on Wallpaper  Botanical Tropical Fern Wallpaper Vintage Leaf Contact Paper Removable  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91CkqFh2QoL._AC_UF894,1000_QL80_.jpg' alt='Ismoon Black Peel and Stick Wallpaper Dark Leaf Stick on Wallpaper  Botanical Tropical Fern Wallpaper Vintage Leaf Contact Paper Removable  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91CkqFh2QoL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Forest Wallpaper Peel Stick Removable / Unpasted, Dark ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50224758/r/il/835b00/5741941960/il_570xN.5741941960_iq9z.jpg' alt='Whimsical Forest Wallpaper Peel Stick Removable / Unpasted, Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50224758/r/il/835b00/5741941960/il_570xN.5741941960_iq9z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

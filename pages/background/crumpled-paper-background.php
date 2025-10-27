@@ -1,0 +1,129 @@
+<title>Creative Crumpled Paper Backgrounds for Unique Designs</title>
+                    <meta name="description" content="Explore the beauty of crumpled paper backgrounds that enhance your design projects! Perfect for digital graphics and scrapbooking, these textures add a creative flair and depth to your visuals. Discover how to use them to elevate your work with unique, artistic appeal!">
+                    <meta name="keywords" content="crumpled paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/crumpled-paper-background">
+                            <span itemprop="name">crumpled paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Crumpled Paper Backgrounds for Unique Designs</h1>
+                <p>Crumpled paper backgrounds add a unique touch to design projects, evoking a sense of authenticity and creativity. Ideal for invitations, scrapbooking, or digital graphics, they provide depth and texture. This backdrop can transform ordinary visuals into artistic masterpieces, capturing attention and conveying emotion in an innovative way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | White crumpled paper texture background White old ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-crumpled-paper-texture-background-white-old-creased-wrinkled-paper-abstract-background_33867-2569.jpg' alt='Premium Photo | White crumpled paper texture background White old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-crumpled-paper-texture-background-white-old-creased-wrinkled-paper-abstract-background_33867-2569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Crumpled Paper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1617565085015-13cb9d366120?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J1bXBsZWQlMjBwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Crumpled Paper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1617565085015-13cb9d366120?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J1bXBsZWQlMjBwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Crumpled Paper Texture Background Vintage Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/old-crumpled-paper-texture-background-260nw-1675722421.jpg' alt='Old Crumpled Paper Texture Background Vintage Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/old-crumpled-paper-texture-background-260nw-1675722421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Brown crumpled paper texture background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/crumpled-paper-texture-background-various-purposes-white-wrinkled-paper-texture_526818-3237.jpg' alt='Premium Photo | Brown crumpled paper texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/crumpled-paper-texture-background-various-purposes-white-wrinkled-paper-texture_526818-3237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The texture of the crumpled paper is light brown. abstract paper ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/614/799/large_2x/the-texture-of-the-crumpled-paper-is-light-brown-abstract-paper-background-a-copy-of-the-space-layout-blank-template-photo.jpg' alt='The texture of the crumpled paper is light brown. abstract paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/614/799/large_2x/the-texture-of-the-crumpled-paper-is-light-brown-abstract-paper-background-a-copy-of-the-space-layout-blank-template-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White clean crumpled paper background. Vertical crumpled empty ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/028/624/499/non_2x/white-clean-crumpled-paper-background-vertical-crumpled-empty-paper-template-for-posters-and-banners-illustration-vector.jpg' alt='White clean crumpled paper background. Vertical crumpled empty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/028/624/499/non_2x/white-clean-crumpled-paper-background-vertical-crumpled-empty-paper-template-for-posters-and-banners-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Crumpled Paper Background With Space For Text Or ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20240821/pngtree-old-vintage-crumpled-paper-background-with-space-for-text-or-design-image_16171744.jpg' alt='Old Vintage Crumpled Paper Background With Space For Text Or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20240821/pngtree-old-vintage-crumpled-paper-background-with-space-for-text-or-design-image_16171744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Gray Crumpled Paper Texture Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1141445221/vector/crushed-paper.jpg?s=612x612&w=0&k=20&c=HzSITgxctusnVCTBp0GFQZhFQ_OvtnPjtPRzPl1e0QI=' alt='5,900+ Gray Crumpled Paper Texture Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1141445221/vector/crushed-paper.jpg?s=612x612&w=0&k=20&c=HzSITgxctusnVCTBp0GFQZhFQ_OvtnPjtPRzPl1e0QI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Crumpled Paper Texture and Background for Design Project ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/41/25/0b41253a4041ddb57004d633e4979430.jpg' alt='10+ Crumpled Paper Texture and Background for Design Project ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/41/25/0b41253a4041ddb57004d633e4979430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Texture Crumpled Paper Free (Paper) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/seamless-texture-crumpled-paper-free-thumb36.jpg' alt='Seamless Texture Crumpled Paper Free (Paper) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/seamless-texture-crumpled-paper-free-thumb36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

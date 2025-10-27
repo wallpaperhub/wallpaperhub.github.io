@@ -1,0 +1,129 @@
+<title>Engage, Connect, and Share: The Power of Social Media</title>
+                    <meta name="description" content="Explore the impactful world of social media, where connection meets communication. Discover how platforms enhance engagement and fuel brand visibility while shaping trends and public opinion. Join the conversation today!">
+                    <meta name="keywords" content="social media">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/social-media">
+                            <span itemprop="name">social media</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engage, Connect, and Share: The Power of Social Media</h1>
+                <p>Social media has transformed how we connect, communicate, and share information. It provides a platform for individuals and businesses to engage with audiences globally. With diverse platforms like Facebook, Instagram, and Twitter, it fosters community building and brand visibility, while also shaping public opinion and trends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social media - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Social_media_collection_2020s.png/414px-Social_media_collection_2020s.png' alt='Social media - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Social_media_collection_2020s.png/414px-Social_media_collection_2020s.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media: how to use it safely - NCSC.GOV.UK">
+                                <img itemprop="contentUrl url" src='https://www.ncsc.gov.uk/images/iStock-1704413556.jpg' alt='Social Media: how to use it safely - NCSC.GOV.UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2119">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Cyber Security Centre" />
+                                </span>
+                                <a href='https://www.ncsc.gov.uk/images/iStock-1704413556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FE News | Why is Social Media important for business?">
+                                <img itemprop="contentUrl url" src='https://www.fenews.co.uk/wp-content/uploads/2022/01/social-media-1200x800.jpg' alt='FE News | Why is Social Media important for business?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FE News" />
+                                </span>
+                                <a href='https://www.fenews.co.uk/wp-content/uploads/2022/01/social-media-1200x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Reasons Why Social Media Is Important to Your Company">
+                                <img itemprop="contentUrl url" src='https://www.searchenginejournal.com/wp-content/uploads/2021/09/16-reasons-why-social-media-is-important-to-your-company-616d3200e6dc6-sej-1280x720.png' alt='16 Reasons Why Social Media Is Important to Your Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Search Engine Journal" />
+                                </span>
+                                <a href='https://www.searchenginejournal.com/wp-content/uploads/2021/09/16-reasons-why-social-media-is-important-to-your-company-616d3200e6dc6-sej-1280x720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Impact of Social Media | St. Luke's Penn Foundation">
+                                <img itemprop="contentUrl url" src='https://www.pennfoundation.org/wp-content/uploads/2019/08/Social-Media-scaled.jpg' alt='The Impact of Social Media | St. Luke's Penn Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Luke's Penn Foundation" />
+                                </span>
+                                <a href='https://www.pennfoundation.org/wp-content/uploads/2019/08/Social-Media-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avoid Social Media Distractions in 7 Simple Tips - Wizdom">
+                                <img itemprop="contentUrl url" src='https://wizdomapp.com/wp-content/uploads/2024/10/photo-1683721003111-070bcc053d8b.jpeg' alt='Avoid Social Media Distractions in 7 Simple Tips - Wizdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wizdom app" />
+                                </span>
+                                <a href='https://wizdomapp.com/wp-content/uploads/2024/10/photo-1683721003111-070bcc053d8b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Social Media Algorithms | Sprout ...">
+                                <img itemprop="contentUrl url" src='https://media.sproutsocial.com/uploads/2021/03/Social-Media-Algorithm-Final-Final.svg' alt='Everything You Need to Know About Social Media Algorithms | Sprout ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sprout Social" />
+                                </span>
+                                <a href='https://media.sproutsocial.com/uploads/2021/03/Social-Media-Algorithm-Final-Final.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Social Media Platforms Ruling the World in 2025">
+                                <img itemprop="contentUrl url" src='https://blog.socialchamp.com/wp-content/uploads/2023/11/Content-Blog-Banner_Q3-2023_1125x600_73-Social-Media-Platforms.png' alt='20 Social Media Platforms Ruling the World in 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Champ" />
+                                </span>
+                                <a href='https://blog.socialchamp.com/wp-content/uploads/2023/11/Content-Blog-Banner_Q3-2023_1125x600_73-Social-Media-Platforms.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Media Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/930/433/non_2x/set-of-social-media-logo-on-white-background-social-media-icon-set-collection-vector.jpg' alt='Social Media Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1027">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/930/433/non_2x/set-of-social-media-logo-on-white-background-social-media-icon-set-collection-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Choose Which Social Media Platforms to Use">
+                                <img itemprop="contentUrl url" src='https://memberpress.com/wp-content/uploads/2019/10/Choosing-platforms@2x.png' alt='How to Choose Which Social Media Platforms to Use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MemberPress" />
+                                </span>
+                                <a href='https://memberpress.com/wp-content/uploads/2019/10/Choosing-platforms@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

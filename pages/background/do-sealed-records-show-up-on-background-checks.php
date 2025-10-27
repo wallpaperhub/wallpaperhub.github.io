@@ -1,0 +1,129 @@
+<title>Do Sealed Records Appear on Background Checks?</title>
+                    <meta name="description" content="Discover whether sealed records show up on background checks. Understand the implications of sealing records and what that means for job applications and background checks in your area. Get informed about your rights and how to protect your privacy!">
+                    <meta name="keywords" content="do sealed records show up on background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-sealed-records-show-up-on-background-checks">
+                            <span itemprop="name">do sealed records show up on background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Sealed Records Appear on Background Checks?</h1>
+                <p>Sealed records typically do not appear on background checks, as their primary purpose is to limit public access to sensitive information. However, certain exceptions may apply, depending on the type of check conducted and the laws in your jurisdiction. It's crucial to understand how each check works and any potential access to sealed records.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/will-sealed-records-appear-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Will-a-Sealed-Record-Show-Up-on-a-Background-Check.png' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/wp-content/uploads/Cover-Page-for-Will-a-Sealed-Record-Show-Up-on-a-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/disclosing-sealed-records-when-and-how/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/disclosing-sealed-records-when-and-how/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/the-benefits-of-sealing-records/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/the-benefits-of-sealing-records/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expunged Records on Fingerprint Background Checks: Explained">
+                                <img itemprop="contentUrl url" src='https://xpungechicago.com/wp-content/uploads/2022/02/Do_Expunged_Records_Show_Up_on_a_Fingerprint_Based_Background_Check_-_Chicago_Expungement_Lawyer-1.jpg' alt='Expunged Records on Fingerprint Background Checks: Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xpunge Chicago" />
+                                </span>
+                                <a href='https://xpungechicago.com/wp-content/uploads/2022/02/Do_Expunged_Records_Show_Up_on_a_Fingerprint_Based_Background_Check_-_Chicago_Expungement_Lawyer-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/your-rights-when-a-sealed-record-surfaces/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/your-rights-when-a-sealed-record-surfaces/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/how-and-why-of-self-background-checks/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/how-and-why-of-self-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are My Sealed or Expunged Records on my Background Check?">
+                                <img itemprop="contentUrl url" src='https://putclientsfirst.com/wp-content/uploads/2023/03/Sealed-or-Expunged-Records.png' alt='Are My Sealed or Expunged Records on my Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glassman & Zissimopulos Law Firm" />
+                                </span>
+                                <a href='https://putclientsfirst.com/wp-content/uploads/2023/03/Sealed-or-Expunged-Records.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/who-has-access-to-sealed-records/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/who-has-access-to-sealed-records/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a Sealed Record Show Up on a Background Check? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/proactive-management-of-your-sealed-record/' alt='Will a Sealed Record Show Up on a Background Check? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/will-a-sealed-record-show-up-on-a-background-check/proactive-management-of-your-sealed-record/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

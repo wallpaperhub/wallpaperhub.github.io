@@ -1,0 +1,129 @@
+<title>Celtics iPhone Wallpapers: Show Your Team Spirit</title>
+                    <meta name="description" content="Explore an exciting collection of Celtics iPhone wallpapers ideal for every fan! Enhance your mobile experience with high-quality, vibrant designs that celebrate Boston's basketball pride. Download now to give your iPhone a fresh, sporty look!">
+                    <meta name="keywords" content="celtics iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/celtics-iphone-wallpaper">
+                            <span itemprop="name">celtics iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celtics iPhone Wallpapers: Show Your Team Spirit</h1>
+                <p>Discover vibrant Celtics iPhone wallpapers to showcase your team spirit! Whether you're a die-hard fan or just love the sleek green and white, our selection offers stunning graphics perfect for any Celtics enthusiast. Download your favorite design today and turn your iPhone into a tribute to Boston's pride!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Boston Celtics | NBA ID">
+                                <img itemprop="contentUrl url" src='https://spain.id.nba.com/storage/images/wallpapers/1718694131.jpg' alt='Wallpapers Boston Celtics | NBA ID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA ID" />
+                                </span>
+                                <a href='https://spain.id.nba.com/storage/images/wallpapers/1718694131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys, I've made 13 phone wallpapers for the Celtics over the ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hey-guys-ive-made-13-phone-wallpapers-for-the-celtics-over-v0-0qh24yq4i7yb1.jpg?width=640&crop=smart&auto=webp&s=e51297010db3f603a12c2d7f9ccdef967aae2bc7' alt='Hey guys, I've made 13 phone wallpapers for the Celtics over the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hey-guys-ive-made-13-phone-wallpapers-for-the-celtics-over-v0-0qh24yq4i7yb1.jpg?width=640&crop=smart&auto=webp&s=e51297010db3f603a12c2d7f9ccdef967aae2bc7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celtics wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/de/80/a1de80b99e7c071fc2dac186e578a352.jpg' alt='Celtics wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/de/80/a1de80b99e7c071fc2dac186e578a352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Boston Celtics | NBA ID">
+                                <img itemprop="contentUrl url" src='https://spain.id.nba.com/storage/images/wallpapers/BostonCeltics_M3_750x1334.jpg' alt='Wallpapers Boston Celtics | NBA ID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA ID" />
+                                </span>
+                                <a href='https://spain.id.nba.com/storage/images/wallpapers/BostonCeltics_M3_750x1334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/972/972125.jpg' alt='Boston Celtics Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/972/972125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics 4K iPhone 11 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9116157.jpg' alt='Boston Celtics 4K iPhone 11 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9116157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Go celtics">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/51/99/135199d8fc5156d16a414187358fa172.jpg' alt='Go celtics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/51/99/135199d8fc5156d16a414187358fa172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey guys, I've made 13 phone wallpapers for the Celtics over the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hey-guys-ive-made-13-phone-wallpapers-for-the-celtics-over-v0-ghcv6zy7i7yb1.jpg?width=710&format=pjpg&auto=webp&s=5336ac12f95655109dde401234cc36f610c15182' alt='Hey guys, I've made 13 phone wallpapers for the Celtics over the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hey-guys-ive-made-13-phone-wallpapers-for-the-celtics-over-v0-ghcv6zy7i7yb1.jpg?width=710&format=pjpg&auto=webp&s=5336ac12f95655109dde401234cc36f610c15182' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers Boston Celtics | NBA ID">
+                                <img itemprop="contentUrl url" src='https://spain.id.nba.com/storage/images/wallpapers/1684317484.jpg' alt='Wallpapers Boston Celtics | NBA ID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA ID" />
+                                </span>
+                                <a href='https://spain.id.nba.com/storage/images/wallpapers/1684317484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boston Celtics (NBA) iPhone X/XS/11/Android Lock Screen Wa… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/49571982416_7946af1a99_c.jpg' alt='Boston Celtics (NBA) iPhone X/XS/11/Android Lock Screen Wa… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/49571982416_7946af1a99_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

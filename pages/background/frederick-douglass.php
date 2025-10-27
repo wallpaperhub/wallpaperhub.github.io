@@ -1,0 +1,129 @@
+<title>Frederick Douglass: Abolitionist Icon and Orator</title>
+                    <meta name="description" content="Explore the life and legacy of Frederick Douglass, a towering figure in the fight against slavery. Learn how his words and actions shaped the abolitionist movement and continue to inspire the quest for equality and justice today.">
+                    <meta name="keywords" content="frederick douglass">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frederick-douglass">
+                            <span itemprop="name">frederick douglass</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frederick Douglass: Abolitionist Icon and Orator</h1>
+                <p>Frederick Douglass was a former enslaved African American who became a national leader of the abolitionist movement. His powerful oratory and writings, including his autobiography, highlighted the injustices of slavery and advocated for equality and human rights. Douglass's legacy continues to inspire social justice movements today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/1200px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg' alt='Frederick Douglass - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/1200px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass - Frederick Douglass National Historic Site ...">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/frdo/learn/historyculture/images/Young-Portrait_2.jpg?maxwidth=650&autorotate=false' alt='Frederick Douglass - Frederick Douglass National Historic Site ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/frdo/learn/historyculture/images/Young-Portrait_2.jpg?maxwidth=650&autorotate=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TIME for Kids | Frederick Douglass">
+                                <img itemprop="contentUrl url" src='https://www.timeforkids.com/wp-content/uploads/2018/07/heroGettyImages-2673560.jpg?w=1024' alt='TIME for Kids | Frederick Douglass'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TIME for Kids" />
+                                </span>
+                                <a href='https://www.timeforkids.com/wp-content/uploads/2018/07/heroGettyImages-2673560.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass Statewide Readings - Black Heritage Trail NH">
+                                <img itemprop="contentUrl url" src='https://blackheritagetrailnh.org/wp-content/uploads/2020/06/frederick-douglass-5878854-239x300.jpg' alt='Frederick Douglass Statewide Readings - Black Heritage Trail NH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="239">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Heritage Trail NH" />
+                                </span>
+                                <a href='https://blackheritagetrailnh.org/wp-content/uploads/2020/06/frederick-douglass-5878854-239x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass | Accomplishments, Education, Early Life ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/61/70761-050-5D02FC56/Frederick-Douglass.jpg' alt='Frederick Douglass | Accomplishments, Education, Early Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1279">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/61/70761-050-5D02FC56/Frederick-Douglass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass | Accomplishments, Education, Early Life ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/04/8204-050-B694E31F/Frederick-Douglass.jpg' alt='Frederick Douglass | Accomplishments, Education, Early Life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1293">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/04/8204-050-B694E31F/Frederick-Douglass.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Narrative of the Life of Frederick Douglass, an American Slave (Signature  Classics)">
+                                <img itemprop="contentUrl url" src='https://prodimage.images-bn.com/pimages/9781435171930_p0_v2_s600x595.jpg' alt='Narrative of the Life of Frederick Douglass, an American Slave (Signature  Classics)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='https://prodimage.images-bn.com/pimages/9781435171930_p0_v2_s600x595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life of Frederick Douglass - UNCF">
+                                <img itemprop="contentUrl url" src='https://cdn.uncf.org/wp-content/uploads/Programs/frederick-douglass-new-reppublic-800.jpg' alt='The Life of Frederick Douglass - UNCF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UNCF" />
+                                </span>
+                                <a href='https://cdn.uncf.org/wp-content/uploads/Programs/frederick-douglass-new-reppublic-800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass' OTHER Fourth of July Speech: "The Slaveholders ...">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0525edee-b19a-4f70-844c-689d7e6ea740_800x450.png' alt='Frederick Douglass' OTHER Fourth of July Speech: "The Slaveholders ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Footnotes by Jemar Tisby - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0525edee-b19a-4f70-844c-689d7e6ea740_800x450.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frederick Douglass' colorblind Constitution">
+                                <img itemprop="contentUrl url" src='https://pacificlegal.org/wp-content/uploads/2024/02/Douglass-portrait--768x876.jpg' alt='Frederick Douglass' colorblind Constitution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pacific Legal Foundation" />
+                                </span>
+                                <a href='https://pacificlegal.org/wp-content/uploads/2024/02/Douglass-portrait--768x876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

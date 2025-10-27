@@ -1,0 +1,129 @@
+<title>Sha'Carri Richardson: A Look into Her Family Background</title>
+                    <meta name="description" content="Discover the family background of Sha'Carri Richardson, the renowned sprinter. Explore her upbringing, the influence of her grandmother, and the challenges she faced growing up. Learn how her family shaped her path to success in athletics.">
+                    <meta name="keywords" content="sha'carri richardson family background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shacarri-richardson-family-background">
+                            <span itemprop="name">sha'carri richardson family background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sha'Carri Richardson: A Look into Her Family Background</h1>
+                <p>Sha'Carri Richardson, the talented sprinter, was born on March 25, 2000, in Dallas, Texas. Raised in a close-knit family, Sha'Carri was heavily influenced by her grandmother, who played a pivotal role in her upbringing. Despite facing challenges, including her mother’s absence, Sha'Carri’s familial support fueled her athletic ambitions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Sha'Carri Richardson's Family, Including Her Mom and Grandma">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/txVUEDLx1Qn3nf01FiDGyY-w7lQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(807x469:809x471)/ShaCarri-Richardson-family-072424-tout-006cb9c429524b53b6d89bf1a3c6f0a7.jpg' alt='All About Sha'Carri Richardson's Family, Including Her Mom and Grandma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/txVUEDLx1Qn3nf01FiDGyY-w7lQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(807x469:809x471)/ShaCarri-Richardson-family-072424-tout-006cb9c429524b53b6d89bf1a3c6f0a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Sha'Carri Richardson's Family, Including Her Mom and Grandma">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/NMuVwuNpEG_jninNv4q8nPrvBc4=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ShaCarri-Richardson-family-072424-2-0a337427e9cf438abb2b3e6071fd182c.jpg' alt='All About Sha'Carri Richardson's Family, Including Her Mom and Grandma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/NMuVwuNpEG_jninNv4q8nPrvBc4=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ShaCarri-Richardson-family-072424-2-0a337427e9cf438abb2b3e6071fd182c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Sha'Carri Richardson's Family, Including Her Mom and Grandma">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/lIhJRe5pLFHnfGetTnTLgUOAHJs=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ShaCarri-Richardson-family-072424-5-6b7dcbcec10249209d3965540e6f7a49.jpg' alt='All About Sha'Carri Richardson's Family, Including Her Mom and Grandma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/lIhJRe5pLFHnfGetTnTLgUOAHJs=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ShaCarri-Richardson-family-072424-5-6b7dcbcec10249209d3965540e6f7a49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas' Sha'Carri Richardson nets Vogue digital cover – NBC 5 ...">
+                                <img itemprop="contentUrl url" src='https://media.nbcdfw.com/2024/07/ShaCarri-Richardson-Family-Vogue.jpg?quality=85&strip=all&w=1200' alt='Dallas' Sha'Carri Richardson nets Vogue digital cover – NBC 5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC 5 Dallas-Fort Worth" />
+                                </span>
+                                <a href='https://media.nbcdfw.com/2024/07/ShaCarri-Richardson-Family-Vogue.jpg?quality=85&strip=all&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Sha'Carri Richardson's Mom? All About Her Aunt And Grandma">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/shacarri-richardson-hugs-her-grandmother-betty-harp-after-news-photo-1719862813.jpg?resize=980:*' alt='Who Is Sha'Carri Richardson's Mom? All About Her Aunt And Grandma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/shacarri-richardson-hugs-her-grandmother-betty-harp-after-news-photo-1719862813.jpg?resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To know me is to know that family is everything! I am so grateful ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3408902930541760698' alt='To know me is to know that family is everything! I am so grateful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3408902930541760698' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sha'Carri Richardson family tree: Meet her grandmother, aunt, late ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-08/Shacarri%20Richardson%20Betty%20Harp.jpg?h=920929c4&itok=YVQrmxPG' alt='Sha'Carri Richardson family tree: Meet her grandmother, aunt, late ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-08/Shacarri%20Richardson%20Betty%20Harp.jpg?h=920929c4&itok=YVQrmxPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To know me is to know that family is everything! I am so grateful to get to  share moments like this with my family. So from my family to my new Vogue  family, this was special for all of us. It ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3408888838569539711' alt='To know me is to know that family is everything! I am so grateful to get to  share moments like this with my family. So from my family to my new Vogue  family, this was special for all of us. It ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3408888838569539711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Sha'Carri Richardson's Mom? All About Her Aunt And Grandma">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/shacarri-richardson-celebrates-winning-the-womens-100-meter-news-photo-1719862714.jpg' alt='Who Is Sha'Carri Richardson's Mom? All About Her Aunt And Grandma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4162">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/shacarri-richardson-celebrates-winning-the-womens-100-meter-news-photo-1719862714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@NBCOlympics's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E4SuA2sXwAA4yse.jpg' alt='@NBCOlympics's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E4SuA2sXwAA4yse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

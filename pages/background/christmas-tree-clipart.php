@@ -1,0 +1,129 @@
+<title>Festive Christmas Tree Clipart for Creative Projects</title>
+                    <meta name="description" content="Explore our vibrant Christmas tree clipart collection, perfect for all your holiday projects! Ideal for cards, crafts, and digital designs, our clipart brings festive joy to your creations. Shop now and let your creativity shine this holiday season!">
+                    <meta name="keywords" content="christmas tree clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-tree-clipart">
+                            <span itemprop="name">christmas tree clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Tree Clipart for Creative Projects</h1>
+                <p>Discover a delightful collection of Christmas tree clipart to enhance your holiday designs! From traditional evergreen shapes to whimsical styles, our clipart offers versatility for crafts, cards, and digital projects. Perfect for adding festive cheer to invitations or social media posts. Celebrate the season creatively!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Clipart Images – Browse 156,381 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/81/91/74/360_F_781917483_oha61SjI5XcSOasPNHPg9zvawMNLI0pj.jpg' alt='Christmas Tree Clipart Images – Browse 156,381 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/81/91/74/360_F_781917483_oha61SjI5XcSOasPNHPg9zvawMNLI0pj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Christmas Tree Clipart (Royalty-free) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2021/12/Christmas-Tree-Clipart-with-outline-WM.png' alt='FREE Christmas Tree Clipart (Royalty-free) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2021/12/Christmas-Tree-Clipart-with-outline-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Christmas Tree Clip Art - Blank Christmas Tree Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/christmas/christmas-tree-blank.png' alt='Blank Christmas Tree Clip Art - Blank Christmas Tree Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/christmas/christmas-tree-blank.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,300+ Christmas Tree Clip Art Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1431915889/vector/vector-christmas-tree-on-white-background.jpg?s=612x612&w=0&k=20&c=sE_fkeoGgESFKQURDoe9vC9oNTVAD-Ss5Ak3WLZK3y0=' alt='30,300+ Christmas Tree Clip Art Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1431915889/vector/vector-christmas-tree-on-white-background.jpg?s=612x612&w=0&k=20&c=sE_fkeoGgESFKQURDoe9vC9oNTVAD-Ss5Ak3WLZK3y0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Outline Clipart-simple christmas tree decoration with ...">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/simple-christmas-tree-decoration-with-black-outline-printable-64031.jpg' alt='Holiday Outline Clipart-simple christmas tree decoration with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/simple-christmas-tree-decoration-with-black-outline-printable-64031.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/coloured-sketch-christmas-tree_1308-35532.jpg?semt=ais_hybrid' alt='Christmas Tree Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/coloured-sketch-christmas-tree_1308-35532.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Clipart Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/896/060/small_2x/christmas-tree-decorated-with-golden-ribbons-red-bows-and-colorful-ornaments-cartoon-illustration-vector.jpg' alt='Christmas Tree Clipart Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/896/060/small_2x/christmas-tree-decorated-with-golden-ribbons-red-bows-and-colorful-ornaments-cartoon-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Tree Clip Art Stock Illustrations – 22,227 Christmas ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/watercolor-christmas-tree-clip-art-white-background-ai-generated-vector-icon-344737919.jpg' alt='Christmas Tree Clip Art Stock Illustrations – 22,227 Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/watercolor-christmas-tree-clip-art-white-background-ai-generated-vector-icon-344737919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas tree clipart free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/image/thumb/30942/pine-tree-clipart.png' alt='Christmas tree clipart free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/image/thumb/30942/pine-tree-clipart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Outline Clipart-christmas tree with no decorations">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/christmas-tree-with-no-decorations-60210.jpg' alt='Holiday Outline Clipart-christmas tree with no decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/christmas-tree-with-no-decorations-60210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

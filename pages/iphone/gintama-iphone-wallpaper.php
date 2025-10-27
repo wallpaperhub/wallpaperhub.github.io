@@ -1,0 +1,129 @@
+<title>Stunning Gintama iPhone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Explore our collection of Gintama iPhone wallpapers, featuring your favorite characters and iconic scenes. Perfect for fans wanting to personalize their devices with eye-catching designs. Download today and elevate your home screen with stunning artwork!">
+                    <meta name="keywords" content="gintama iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gintama-iphone-wallpaper">
+                            <span itemprop="name">gintama iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gintama iPhone Wallpapers: Download Now!</h1>
+                <p>Looking for the perfect Gintama iPhone wallpaper? Dive into a world of epic battles and hilarious moments with stunning Gintama backgrounds. Whether you're a fan of the quirky characters or the action-packed scenes, we've got a collection that fits your style. Download your favorite designs now and show off your love for Gintama!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintama iPhone Wallpapers - Top Free Gintama iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/7c/67/ee7c672fb420f74b88de6f0f37d5dbb5.jpg' alt='Gintama iPhone Wallpapers - Top Free Gintama iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/7c/67/ee7c672fb420f74b88de6f0f37d5dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintoki OLED wallpaper I remade : r/Gintama">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gintoki-oled-wallpaper-i-remade-v0-y5hmyrhugm0c1.jpg?auto=webp&s=179a84ebb7f5348b35792e10e0b3662c3b95590f' alt='Gintoki OLED wallpaper I remade : r/Gintama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gintoki-oled-wallpaper-i-remade-v0-y5hmyrhugm0c1.jpg?auto=webp&s=179a84ebb7f5348b35792e10e0b3662c3b95590f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="most beautiful gintama wallpaper. : r/Gintama">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/most-beautiful-gintama-wallpaper-v0-j9wem40cu44c1.jpg?width=640&crop=smart&auto=webp&s=81acd276769db6bf9a63410b91508a43a71da2ec' alt='most beautiful gintama wallpaper. : r/Gintama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/most-beautiful-gintama-wallpaper-v0-j9wem40cu44c1.jpg?width=640&crop=smart&auto=webp&s=81acd276769db6bf9a63410b91508a43a71da2ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintama Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/83/ef/3383efeaf68bfd09e0ceb979dc453dcc.jpg' alt='Gintama Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/83/ef/3383efeaf68bfd09e0ceb979dc453dcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="two mimir on X: "Gintama The Final phone wallpapers. With and ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EfxyU7nWoAAIbq_?format=jpg&name=large' alt='two mimir on X: "Gintama The Final phone wallpapers. With and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EfxyU7nWoAAIbq_?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintoki, tokyo, manga, japan, anime, gintama, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/705/952/HD-wallpaper-gintoki-tokyo-manga-japan-anime-gintama.jpg' alt='Gintoki, tokyo, manga, japan, anime, gintama, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/705/952/HD-wallpaper-gintoki-tokyo-manga-japan-anime-gintama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintama: The Final Wallpapers (37 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/b/7/27012-1080x1920-iphone-1080p-gintama-the-final-background-photo.jpg' alt='Gintama: The Final Wallpapers (37 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/b/7/27012-1080x1920-iphone-1080p-gintama-the-final-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gintama, cloud, gintoki, manga, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/403/746/HD-wallpaper-gintama-cloud-gintoki-manga-anime.jpg' alt='Gintama, cloud, gintoki, manga, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/403/746/HD-wallpaper-gintama-cloud-gintoki-manga-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakata Gintoki iPhone 6 wallpaper ❤️ by me – @gintama-is-life on ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/7799d0b3157ab103180cc7facae51eed/tumblr_o11kexSAvB1ujkqsgo1_1280.jpg' alt='Sakata Gintoki iPhone 6 wallpaper ❤️ by me – @gintama-is-life on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/7799d0b3157ab103180cc7facae51eed/tumblr_o11kexSAvB1ujkqsgo1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gintama wallpaper : r/Gintama">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gintama-wallpaper-v0-4wyvocfmrhma1.jpeg?width=2548&format=pjpg&auto=webp&s=ba791833457f468ee6e2b31d6047db3da152c295' alt='gintama wallpaper : r/Gintama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2548">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gintama-wallpaper-v0-4wyvocfmrhma1.jpeg?width=2548&format=pjpg&auto=webp&s=ba791833457f468ee6e2b31d6047db3da152c295' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

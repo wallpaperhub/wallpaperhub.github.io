@@ -1,0 +1,129 @@
+<title>Stunning Planet Wallpapers for iPhone: Download Now!</title>
+                    <meta name="description" content="Discover an amazing collection of planets wallpaper for your iPhone. Transform your screen with vibrant cosmic designs that showcase the beauty of the universe. Perfect for anyone who loves space! Download your favorite wallpaper today and give your device a stellar makeover!">
+                    <meta name="keywords" content="planets wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/planets-wallpaper-iphone">
+                            <span itemprop="name">planets wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Planet Wallpapers for iPhone: Download Now!</h1>
+                <p>Transform your iPhone with stunning planets wallpaper! Explore vibrant and breathtaking designs featuring galaxies, nebulae, and celestial bodies. Perfect for stargazers and space enthusiasts, these wallpapers will add a cosmic touch to your device. Download your favorite now and let your iPhone reflect the beauty of the universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Xs Planet Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-xs-planet-467vmzbzv1oexqb4.jpg' alt='100+] Iphone Xs Planet Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-xs-planet-467vmzbzv1oexqb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Solar System Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/planets-solar-system-cosmic-in-space-heavenly-celestial-19-09-2024-1726784260.webp' alt='Most Popular Solar System Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/planets-solar-system-cosmic-in-space-heavenly-celestial-19-09-2024-1726784260.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Wallpaper For iPhone | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/sRLzol0zuPYrWs7v7aBIZa8eOyk=/0x600:2401x3001/2401x3600/filters:format_auto():quality(85):extract_cover()/2022/01/04/686/n/1922507/6023a31161d467cac500f9.25034761_.jpg' alt='Planet Wallpaper For iPhone | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2401">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/sRLzol0zuPYrWs7v7aBIZa8eOyk=/0x600:2401x3001/2401x3600/filters:format_auto():quality(85):extract_cover()/2022/01/04/686/n/1922507/6023a31161d467cac500f9.25034761_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Earth/planets iPhone wallpaper ideas | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/93/29/44/932944a8dd021b1191ead104981b9dd9.jpg' alt='63 Earth/planets iPhone wallpaper ideas | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/93/29/44/932944a8dd021b1191ead104981b9dd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave 343">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f5/1b/03/f51b03f083deb86a9c6c26ffcc7faed7.jpg' alt='Iphone 11 Pro Max Planet Hd Wallpapers - Wallpaper Cave 343'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f5/1b/03/f51b03f083deb86a9c6c26ffcc7faed7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="planet wallpaper for iphone - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhQtHprbsxyoU53PXVxqbZKCSyJMKZHwHNL8OevhCLYGBcu8PpCAbC40Hlh48yYUTLC_uEbIuXxA75EepdogRuQabPS1z4AQxN060-AVAisiQMHx6HPyasppZ-vJXF_RoZ4KYheK3Yd18pGQkF2Fvc2i3Xkqdd8Y-XVJhevefv5HNVQrAjV2Vf_V2cijQ=w1600' alt='planet wallpaper for iphone - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhQtHprbsxyoU53PXVxqbZKCSyJMKZHwHNL8OevhCLYGBcu8PpCAbC40Hlh48yYUTLC_uEbIuXxA75EepdogRuQabPS1z4AQxN060-AVAisiQMHx6HPyasppZ-vJXF_RoZ4KYheK3Yd18pGQkF2Fvc2i3Xkqdd8Y-XVJhevefv5HNVQrAjV2Vf_V2cijQ=w1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The iOS 17 Astronomy wallpapers are amazing : r/Astronomy">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-ios-17-astronomy-wallpapers-are-amazing-v0-r94txp8rqyjb1.jpg?width=1169&format=pjpg&auto=webp&s=90546a847eaa93aeb55b16756e382c48c754c364' alt='The iOS 17 Astronomy wallpapers are amazing : r/Astronomy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="2295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-ios-17-astronomy-wallpapers-are-amazing-v0-r94txp8rqyjb1.jpg?width=1169&format=pjpg&auto=webp&s=90546a847eaa93aeb55b16756e382c48c754c364' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouds And Planet Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/clouds-and-planet-space-iphone-oqaswdbka3unj3gl.jpg' alt='Clouds And Planet Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/clouds-and-planet-space-iphone-oqaswdbka3unj3gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Planet iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/95827520329663536-99528999525825288.jpg' alt='Most Popular Planet iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/95827520329663536-99528999525825288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

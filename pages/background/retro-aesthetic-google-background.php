@@ -1,0 +1,129 @@
+<title>Retro Aesthetic Google Backgrounds: Embrace Nostalgia</title>
+                    <meta name="description" content="Discover stunning retro aesthetic Google backgrounds that bring a touch of nostalgia to your screen. Explore vibrant colors, vintage designs, and creative patterns that personalize your browsing experience. Transform your online world with a unique style that reflects your love for all things retro!">
+                    <meta name="keywords" content="retro aesthetic google background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-aesthetic-google-background">
+                            <span itemprop="name">retro aesthetic google background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Aesthetic Google Backgrounds: Embrace Nostalgia</h1>
+                <p>Transform your Google background with a retro aesthetic that blends nostalgia and creativity. Choose vibrant colors, vintage patterns, and iconic imagery that evoke the charm of past decades. Celebrate individuality while enhancing your online experience. Create a unique digital space that captures the essence of retro vibes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Aesthetic Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-retro-60s-70s-background_23-2149969240.jpg' alt='Retro Aesthetic Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-retro-60s-70s-background_23-2149969240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Retro Aesthetic Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-anime-aesthetic-empty-streets-xbi66nv6byjyln5w.jpg' alt='300+] Retro Aesthetic Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-anime-aesthetic-empty-streets-xbi66nv6byjyln5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Retro Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/retro-aesthetic-pictures-bty02myx9kf7i13v.jpg' alt='400+] Retro Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/retro-aesthetic-pictures-bty02myx9kf7i13v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Retro Background Google Slides & PowerPoint">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2024/01/RETRO-BACKGROUND.jpg' alt='Free Retro Background Google Slides & PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2024/01/RETRO-BACKGROUND.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro aesthetic Chrome Themes - ThemeBeta">
+                                <img itemprop="contentUrl url" src='https://www.themebeta.com/thumbnail/400x225/2547752/files/chrome/images/201910/29/20e479ff9e8ed1cd18e172edf2abeec5.webp' alt='Retro aesthetic Chrome Themes - ThemeBeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThemeBeta" />
+                                </span>
+                                <a href='https://www.themebeta.com/thumbnail/400x225/2547752/files/chrome/images/201910/29/20e479ff9e8ed1cd18e172edf2abeec5.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 35 | Aesthetic 80s Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148898888.jpg' alt='Page 35 | Aesthetic 80s Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148898888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro aesthetic Chrome Themes - ThemeBeta">
+                                <img itemprop="contentUrl url" src='https://www.themebeta.com/thumbnail/400x225/2605470/files/chrome/images/202002/20/67a1d56b19aab955e399be2c85a7fcca.webp' alt='Retro aesthetic Chrome Themes - ThemeBeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThemeBeta" />
+                                </span>
+                                <a href='https://www.themebeta.com/thumbnail/400x225/2605470/files/chrome/images/202002/20/67a1d56b19aab955e399be2c85a7fcca.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro aesthetic Chrome Themes - ThemeBeta">
+                                <img itemprop="contentUrl url" src='https://www.themebeta.com/thumbnail/400x225/2547750/files/chrome/images/201910/29/2c74f34a2e56d43df989347c38e1a3bd.webp' alt='Retro aesthetic Chrome Themes - ThemeBeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThemeBeta" />
+                                </span>
+                                <a href='https://www.themebeta.com/thumbnail/400x225/2547750/files/chrome/images/201910/29/2c74f34a2e56d43df989347c38e1a3bd.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Desktop City Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-desktop-city-a56svyv07wefmq5y.jpg' alt='Download Aesthetic Desktop City Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-desktop-city-a56svyv07wefmq5y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Aesthetic Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_52683-58477.jpg' alt='Retro Aesthetic Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_52683-58477.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

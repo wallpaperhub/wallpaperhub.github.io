@@ -1,0 +1,129 @@
+<title>“Fun Fire Cartoons: Safety Through Laughter”</title>
+                    <meta name="description" content="Explore the exciting world of fire cartoons! Discover entertaining characters and stories that teach kids about fire safety in a fun way. Perfect for education and laughs, our collection of fire-themed cartoons brings important lessons to life! Ideal for parents and educators alike.">
+                    <meta name="keywords" content="fire cartoon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fire-cartoon">
+                            <span itemprop="name">fire cartoon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Fun Fire Cartoons: Safety Through Laughter”</h1>
+                <p>Fire cartoons bring a playful twist to a serious subject! From animated flames dancing joyfully to cartoon fire safety mascots, these illustrations teach important lessons in a fun format. Kids can learn to be cautious while being entertained by lively characters. Fire cartoons emphasize safety while sparking creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,900+ Cartoon Flames Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1323529010/vector/fire-vector-isolated.jpg?s=612x612&w=0&k=20&c=ta6bKkXZDuqy2H3tRhR79sSl_-fdGhKyoenbbjEr3l0=' alt='48,900+ Cartoon Flames Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1323529010/vector/fire-vector-isolated.jpg?s=612x612&w=0&k=20&c=ta6bKkXZDuqy2H3tRhR79sSl_-fdGhKyoenbbjEr3l0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Flames Images – Browse 536,161 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/26/96/93/360_F_526969328_vwzrgQikVlwaZhKI6BaseUR61tcmVEVc.jpg' alt='Cartoon Flames Images – Browse 536,161 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/26/96/93/360_F_526969328_vwzrgQikVlwaZhKI6BaseUR61tcmVEVc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Fire flat vector illustration Fire cartoon hand ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/fire-flat-vector-illustration-fire-cartoon-hand-drawing-isolated-vector-illustration_501705-7049.jpg' alt='Premium Vector | Fire flat vector illustration Fire cartoon hand ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/fire-flat-vector-illustration-fire-cartoon-hand-drawing-isolated-vector-illustration_501705-7049.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Fire Flames transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/58469c62cef1014c0b5e47f6.png' alt='Cartoon Fire Flames transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="482">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/58469c62cef1014c0b5e47f6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfire icon. Cartoon fire on woods. Bonfire symbol">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/l015e-16-e13-mainpreview-aea5fe0d4ab5f3ace2aae3aed30dc2ab06b262ce20eacaec488cce50b32cb950.jpg' alt='Campfire icon. Cartoon fire on woods. Bonfire symbol'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/l015e-16-e13-mainpreview-aea5fe0d4ab5f3ace2aae3aed30dc2ab06b262ce20eacaec488cce50b32cb950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon fire flames. Fireball flame, red hot fire and campfire ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_3674068_3y9suiaadcpsvdz1tqoubzjw6nhq66wl07erx68n_cartoon-fire-flames-fireball-flame-red-hot-fire-and-campfire-fiery-s.jpg' alt='Cartoon fire flames. Fireball flame, red hot fire and campfire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_3674068_3y9suiaadcpsvdz1tqoubzjw6nhq66wl07erx68n_cartoon-fire-flames-fireball-flame-red-hot-fire-and-campfire-fiery-s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Cartoon Flame Illustration PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/137265/isolated/preview/0ce8081c9875c9aedea316899d7e6369-fire-cartoon-flame-illustration.png?w=360' alt='Fire Cartoon Flame Illustration PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/137265/isolated/preview/0ce8081c9875c9aedea316899d7e6369-fire-cartoon-flame-illustration.png?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Fire Cartoon Character Design, Fire Cartoon, Fire Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240709/original/pngtree-cute-fire-cartoon-character-design-png-image_15517187.png' alt='Cute Fire Cartoon Character Design, Fire Cartoon, Fire Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240709/original/pngtree-cute-fire-cartoon-character-design-png-image_15517187.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Flames Images – Browse 536,161 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/93/49/41/360_F_93494169_2dYD83QbisfreOXUUMowH1wRhnbWp07h.jpg' alt='Cartoon Flames Images – Browse 536,161 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/93/49/41/360_F_93494169_2dYD83QbisfreOXUUMowH1wRhnbWp07h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon fire effect 47308549 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/308/549/non_2x/cartoon-fire-effect-free-png.png' alt='Cartoon fire effect 47308549 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/308/549/non_2x/cartoon-fire-effect-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

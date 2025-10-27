@@ -1,0 +1,129 @@
+<title>Adorable Cute Pixel Wallpapers for Your Screens</title>
+                    <meta name="description" content="Discover a delightful collection of cute pixel wallpapers to enhance your device's look! Perfect for adding a touch of personality, these charming designs feature everything from whimsical characters to colorful patterns. Browse now for your ideal pixel art wallpaper!">
+                    <meta name="keywords" content="cute pixel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-pixel-wallpaper">
+                            <span itemprop="name">cute pixel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Pixel Wallpapers for Your Screens</h1>
+                <p>Looking for the perfect cute pixel wallpaper? Transform your devices with delightful pixel art designs that showcase your personality! From adorable animals to vibrant landscapes, these pixel wallpapers add charm and uniqueness to your screens. Explore a range of styles and colors to find your favorite fit today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Aesthetic Japanese Pixel Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-aesthetic-japanese-pixel-art-q6y02ismgybk67ob.jpg' alt='Cute Aesthetic Japanese Pixel Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-aesthetic-japanese-pixel-art-q6y02ismgybk67ob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Pixel Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-kawaii-pixel-art-3krv8om70gmes7lc.jpg' alt='Cute Kawaii Pixel Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-kawaii-pixel-art-3krv8om70gmes7lc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 Pixel ideas | pixel art, pixel, aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/64/b7/a1/64b7a1b0705827ac6417d962a3a440b6.jpg' alt='65 Pixel ideas | pixel art, pixel, aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/64/b7/a1/64b7a1b0705827ac6417d962a3a440b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by mieseyo on Aesthetic- Background- Wallpaper | Vaporwave ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/95/3d/62/953d6293043961c9af73ddf667045378.jpg' alt='Pin by mieseyo on Aesthetic- Background- Wallpaper | Vaporwave ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/95/3d/62/953d6293043961c9af73ddf667045378.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pixel Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pixel-desktop-5e4b2uoy4f8ry8dt.jpg' alt='100+] Cute Pixel Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pixel-desktop-5e4b2uoy4f8ry8dt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pixel Art Wallpapers - Pentel Singapore">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0616/1340/8509/files/Pentel_Energel_Kawaii_5_Mobile_Wallpapers_Kuma.png?v=1646378080' alt='Kawaii Pixel Art Wallpapers - Pentel Singapore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2588">
+                                <meta itemprop="height" content="4601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pentel Singapore" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0616/1340/8509/files/Pentel_Energel_Kawaii_5_Mobile_Wallpapers_Kuma.png?v=1646378080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Night Pixel Farm Star Valley Wallpapers Pack Cute Art Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/96ebd3/5679899244/il_fullxfull.5679899244_18b6.jpg' alt='Lofi Night Pixel Farm Star Valley Wallpapers Pack Cute Art Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/96ebd3/5679899244/il_fullxfull.5679899244_18b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] Made myself a cute wallpaper for my phone! : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wikps15jebr31.jpg' alt='OC] Made myself a cute wallpaper for my phone! : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wikps15jebr31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Pixel Art Wallpapers - Pentel Singapore">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0616/1340/8509/files/Pentel_Energel_Kawaii_5_Mobile_Wallpapers_Tokyo.png?v=1646378080' alt='Kawaii Pixel Art Wallpapers - Pentel Singapore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2588">
+                                <meta itemprop="height" content="4601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pentel Singapore" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0616/1340/8509/files/Pentel_Energel_Kawaii_5_Mobile_Wallpapers_Tokyo.png?v=1646378080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple Aesthetic Street Cat Pixel Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-purple-aesthetic-street-cat-pixel-art-bfpofevcojaz6rqx.jpg' alt='Cute Purple Aesthetic Street Cat Pixel Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-purple-aesthetic-street-cat-pixel-art-bfpofevcojaz6rqx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

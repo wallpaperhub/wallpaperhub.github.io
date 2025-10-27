@@ -1,0 +1,129 @@
+<title>Dynamic Pixel Jungle Backgrounds for Creatives</title>
+                    <meta name="description" content="Explore vibrant pixel jungle backgrounds to elevate your creative projects. Ideal for games, wallpapers, and digital art, these stunning designs bring a lively, adventurous atmosphere. Perfect for anyone seeking to infuse their work with energy and imagination, discover the beauty of pixelated nature today!">
+                    <meta name="keywords" content="pixel jungle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-jungle-background">
+                            <span itemprop="name">pixel jungle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Pixel Jungle Backgrounds for Creatives</h1>
+                <p>Immerse yourself in the exotic allure of a pixel jungle background. This vibrant digital art showcases lush greenery, pixelated wildlife, and a sense of adventure. Perfect for games, wallpapers, or creative projects, a pixel jungle transports you into a lively, cartoonish wilderness, igniting imagination and excitement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Background (OC) : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fnw8iuknds261.png?width=640&crop=smart&auto=webp&s=6a4644c169c57c4d3b4c5c15e94f9bbdac231123' alt='Jungle Background (OC) : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fnw8iuknds261.png?width=640&crop=smart&auto=webp&s=6a4644c169c57c4d3b4c5c15e94f9bbdac231123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Jungle Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-260nw-2399224531.jpg' alt='Pixel Art Jungle Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-260nw-2399224531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Pixel Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/jungle-landscape-pixel-art-style_23-2151557050.jpg' alt='Jungle Pixel Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/jungle-landscape-pixel-art-style_23-2151557050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art jungle seamless background detailed Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/06/68/pixel-art-jungle-seamless-background-detailed-vector-23730668.jpg' alt='Pixel art jungle seamless background detailed Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/06/68/pixel-art-jungle-seamless-background-detailed-vector-23730668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8bit Pixel Jungle Landscape Game Level Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1404630379/vector/8bit-pixel-jungle-landscape-game-level-background.jpg?s=612x612&w=0&k=20&c=BlGmcaGYseeUyQL5MmGOA6IBIixKYv18EQbw8VKqg7Q=' alt='8bit Pixel Jungle Landscape Game Level Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1404630379/vector/8bit-pixel-jungle-landscape-game-level-background.jpg?s=612x612&w=0&k=20&c=BlGmcaGYseeUyQL5MmGOA6IBIixKYv18EQbw8VKqg7Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art jungle : r/PixelArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lprf940es3u71.gif?format=png8&s=9c14154edcd9d69c22fafbea4037c4678c9e9788' alt='Pixel art jungle : r/PixelArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lprf940es3u71.gif?format=png8&s=9c14154edcd9d69c22fafbea4037c4678c9e9788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 bit pixel jungle forest landscape, AI... - Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://t.pimg.jp/105/718/176/1/105718176.jpg' alt='8 bit pixel jungle forest landscape, AI... - Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PIXTA" />
+                                </span>
+                                <a href='https://t.pimg.jp/105/718/176/1/105718176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art seamless landscape with tropical forest, lake and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2TA713C/pixel-art-seamless-landscape-with-tropical-forest-lake-and-hanging-liana-vines-8-bit-retro-video-game-style-jungle-background-2TA713C.jpg' alt='Pixel art seamless landscape with tropical forest, lake and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2TA713C/pixel-art-seamless-landscape-with-tropical-forest-lake-and-hanging-liana-vines-8-bit-retro-video-game-style-jungle-background-2TA713C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8bit pixel jungles landscape, game level background with for ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX56200741.jpg?width=800&height=800&quality=70' alt='8bit pixel jungles landscape, game level background with for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX56200741.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle 2D Game Backgrounds">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2017/10/jungle-2d-game-backgrounds-3.webp' alt='Jungle 2D Game Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2017/10/jungle-2d-game-backgrounds-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

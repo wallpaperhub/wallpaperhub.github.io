@@ -1,0 +1,129 @@
+<title>LAPD Background Check: What You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of the LAPD background check process, including what records are examined, how it affects job prospects, and tips for a smooth application. Stay informed to navigate your future opportunities with confidence.">
+                    <meta name="keywords" content="lapd background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lapd-background-check">
+                            <span itemprop="name">lapd background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>LAPD Background Check: What You Need to Know</h1>
+                <p>LAPD background checks are crucial for individuals seeking employment, housing, or firearm permits in Los Angeles. These checks verify criminal history, driving records, and any other relevant information. It's essential to be aware of the process, as this checks could impact your future opportunities. Always ensure to have all necessary documentation ready when applying.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lapd Form Police - Fill Online, Printable, Fillable, Blank | pdfFiller">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/39/694/39694860/large.png' alt='Lapd Form Police - Fill Online, Printable, Fillable, Blank | pdfFiller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/39/694/39694860/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step 3 Personal History Statement PHS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63db1d04e804176dcb525fc5/63f7cf104fe619121455fb8e_LAPD-Rewarding-Square-Silver-SM2.png' alt='Step 3 Personal History Statement PHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Join LAPD" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63db1d04e804176dcb525fc5/63f7cf104fe619121455fb8e_LAPD-Rewarding-Square-Silver-SM2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Join LAPD - Background Investigation Division Officer...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=255990438876432&get_thumbnail=1' alt='Join LAPD - Background Investigation Division Officer...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=255990438876432&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LAPD hiring down 8% due to background check delays">
+                                <img itemprop="contentUrl url" src='https://lexipol.brightspotcdn.com/dims4/default/d55fffb/2147483647/strip/true/crop/300x169+0+94/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F46%2Faf%2F762b03a9e904d85e36799d2683da%2Flapd-1.jpg' alt='LAPD hiring down 8% due to background check delays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Police1" />
+                                </span>
+                                <a href='https://lexipol.brightspotcdn.com/dims4/default/d55fffb/2147483647/strip/true/crop/300x169+0+94/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F46%2Faf%2F762b03a9e904d85e36799d2683da%2Flapd-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does this mean I passed backgrounds? : r/lapd">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-this-mean-i-passed-backgrounds-v0-3ndctfp086hd1.jpeg?width=640&crop=smart&auto=webp&s=085a373130103a36228ef8ddfc13a72013363d7e' alt='Does this mean I passed backgrounds? : r/lapd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-this-mean-i-passed-backgrounds-v0-3ndctfp086hd1.jpeg?width=640&crop=smart&auto=webp&s=085a373130103a36228ef8ddfc13a72013363d7e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Application for LAPD Crime or Traffic Report - PrintFriendly">
+                                <img itemprop="contentUrl url" src='https://www.printfriendly.com/pf-next-static-files/thumbnails/f593d85b-80fd-4d65-808b-8971e90c78e3-400.webp' alt='Application for LAPD Crime or Traffic Report - PrintFriendly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Print Friendly" />
+                                </span>
+                                <a href='https://www.printfriendly.com/pf-next-static-files/thumbnails/f593d85b-80fd-4d65-808b-8971e90c78e3-400.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step 3 Personal History Statement PHS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63db1d04e804176dcb525fc5/63db77c67b05475ebe01cb8e_CAD19E39B7B41D79.png' alt='Step 3 Personal History Statement PHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1359">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Join LAPD" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63db1d04e804176dcb525fc5/63db77c67b05475ebe01cb8e_CAD19E39B7B41D79.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LAPD academy is graduating 30 officers per class, analysis shows ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/7002827/2147483647/strip/true/crop/7283x4097+0+380/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F52%2Ff599818141c6a059fe8913499d4d%2F1384414-me-1207-bass-lapd-009-ik.jpg' alt='LAPD academy is graduating 30 officers per class, analysis shows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/7002827/2147483647/strip/true/crop/7283x4097+0+380/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F52%2Ff599818141c6a059fe8913499d4d%2F1384414-me-1207-bass-lapd-009-ik.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phs denied : r/lapd">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phs-denied-v0-cokyold0c2md1.jpeg?width=640&crop=smart&auto=webp&s=40a980ed895fbf6f11e0a17fdbf8c8534a68a66a' alt='Phs denied : r/lapd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phs-denied-v0-cokyold0c2md1.jpeg?width=640&crop=smart&auto=webp&s=40a980ed895fbf6f11e0a17fdbf8c8534a68a66a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calendar • LAPD Entrance Exam">
+                                <img itemprop="contentUrl url" src='https://anaheim.net/ImageRepository/Document?documentID=29823' alt='Calendar • LAPD Entrance Exam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anaheim.net" />
+                                </span>
+                                <a href='https://anaheim.net/ImageRepository/Document?documentID=29823' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring Van Gogh's Starry Night: A Visual Masterpiece</title>
+                    <meta name="description" content="Uncover the beauty and emotion in Vincent Van Gogh's "Starry Night." This iconic painting captivates with its swirling sky and vibrant colors, inviting you into a dreamlike experience. Perfect for art lovers and history enthusiasts alike, learn more about this masterpiece and its impact on modern art.">
+                    <meta name="keywords" content="van gogh starry night background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/van-gogh-starry-night-background">
+                            <span itemprop="name">van gogh starry night background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Van Gogh's Starry Night: A Visual Masterpiece</h1>
+                <p>Van Gogh's "Starry Night" is an iconic masterpiece that depicts a swirling night sky filled with vibrant stars over a sleepy village. The intense colors and dynamic brushstrokes create an emotional depth, inviting viewers into a dreamlike world. This captivating background reflects the artist's unique vision and turbulent thoughts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Starry Night Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Van-Gogh-Starry-Night-Mural-Wallpaper_a08bca97-2248-4dbe-8ea5-5d413f142875_grande.jpg?v=1628797173' alt='Van Gogh Starry Night Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Van-Gogh-Starry-Night-Mural-Wallpaper_a08bca97-2248-4dbe-8ea5-5d413f142875_grande.jpg?v=1628797173' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh's Starry Night Inspiration - Creative Flair Blog">
+                                <img itemprop="contentUrl url" src='https://blog.creativeflair.org/wp-content/uploads/images/starry-night-van-gogh-masterpiece-2.jpeg' alt='Van Gogh's Starry Night Inspiration - Creative Flair Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flair Blog" />
+                                </span>
+                                <a href='https://blog.creativeflair.org/wp-content/uploads/images/starry-night-van-gogh-masterpiece-2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry night van gogh hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/MNY6FH/vincent-van-goghs-painting-starry-night-taken-from-the-file-below-and-minimally-adjusted-to-eliminate-some-over-intensity-and-yellowing-and-attempt-to-bring-out-the-true-nature-of-the-colours-ie-prussian-blue-ultramarine-cobalt-and-cerulean-blues-all-occur-in-the-sky-burnt-siena-brown-in-the-tree-and-crimson-on-the-stripy-house-these-colours-are-lost-in-auto-digital-corrections-1238-vincent-van-gogh-starry-night-MNY6FH.jpg' alt='Starry night van gogh hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/MNY6FH/vincent-van-goghs-painting-starry-night-taken-from-the-file-below-and-minimally-adjusted-to-eliminate-some-over-intensity-and-yellowing-and-attempt-to-bring-out-the-true-nature-of-the-colours-ie-prussian-blue-ultramarine-cobalt-and-cerulean-blues-all-occur-in-the-sky-burnt-siena-brown-in-the-tree-and-crimson-on-the-stripy-house-these-colours-are-lost-in-auto-digital-corrections-1238-vincent-van-gogh-starry-night-MNY6FH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Baocicco 7x5ft Vincent Van Gogh Artwork Starry Sky Backdrop  Famous Post-Impressionism Oil Painting Photography Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81TeCkomzHL.jpg' alt='Amazon.com : Baocicco 7x5ft Vincent Van Gogh Artwork Starry Sky Backdrop  Famous Post-Impressionism Oil Painting Photography Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81TeCkomzHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Van Gogh Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjYxLWUwMDMtbDB0NXYyNXguanBn.jpg' alt='Starry Night Van Gogh Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjYxLWUwMDMtbDB0NXYyNXguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Starry Night mobile wallpaper, Van ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f8/a4/c4/f8a4c46d00f9f0b5b614ef1077b26707.jpg' alt='Download premium image of Starry Night mobile wallpaper, Van ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f8/a4/c4/f8a4c46d00f9f0b5b614ef1077b26707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Background Images – Browse 3,035 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/75/10/10/360_F_475101004_5EyfhlZWZCUNhBl3qBWq6eYC3fXGGQCx.jpg' alt='Van Gogh Background Images – Browse 3,035 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/75/10/10/360_F_475101004_5EyfhlZWZCUNhBl3qBWq6eYC3fXGGQCx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here is 5 different versions of the 'Starry Night' wallpaper that ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/c3mxz01d9ak91.jpg?width=640&crop=smart&auto=webp&s=c092b581bb7c2640487daa6d7b62f8fa5c845b4b' alt='Here is 5 different versions of the 'Starry Night' wallpaper that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/c3mxz01d9ak91.jpg?width=640&crop=smart&auto=webp&s=c092b581bb7c2640487daa6d7b62f8fa5c845b4b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Van Gogh Starry Night Moving 3D Animation Wallpaper Screensaver  Background With Music 4K">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LDwTjVhSwok/hqdefault.jpg' alt='Vincent Van Gogh Starry Night Moving 3D Animation Wallpaper Screensaver  Background With Music 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LDwTjVhSwok/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,084 Van Gogh Sky Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2526416823/display_1500/stock-photo-the-starry-night-background-inspired-by-van-gogh-s-artwork-vintage-night-sky-background-art-2526416823.jpg' alt='3,084 Van Gogh Sky Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2526416823/display_1500/stock-photo-the-starry-night-background-inspired-by-van-gogh-s-artwork-vintage-night-sky-background-art-2526416823.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>NYT Timeline: A Journey Through History</title>
+                    <meta name="description" content="Explore the NYT timeline detailing pivotal moments in history as covered by The New York Times. Discover how this iconic publication has chronicled major events since 1851, offering insights into its evolution and impact on journalism. Perfect for history buffs and news enthusiasts alike!">
+                    <meta name="keywords" content="nyt timeline">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nyt-timeline">
+                            <span itemprop="name">nyt timeline</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NYT Timeline: A Journey Through History</h1>
+                <p>The NYT timeline outlines key milestones and historical events featured in The New York Times. From its founding in 1851 to pivotal moments like the Civil Rights movement and major world events, this timeline showcases how the publication has evolved over the years, reflecting societal changes and journalistic integrity throughout its history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline: Start-Up U. - NYTimes.com">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2012/07/22/education/22timeline-graphic/22timeline-graphic-popup.gif' alt='Timeline: Start-Up U. - NYTimes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2012/07/22/education/22timeline-graphic/22timeline-graphic-popup.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The New York Times > New York Region > Image > A Timeline of ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2006/09/10/nyregion/0911-spj-WEBTIMELINEch.jpg' alt='The New York Times > New York Region > Image > A Timeline of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2006/09/10/nyregion/0911-spj-WEBTIMELINEch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NYT Graphics on X: "In today's print New York Times, a ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Et-jxMKWgAsgIvY.jpg' alt='NYT Graphics on X: "In today's print New York Times, a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Et-jxMKWgAsgIvY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The New York Times > Washington > Image > Timeline of a Troubled Deal">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2006/03/09/politics/10ports-graphic.large.gif' alt='The New York Times > Washington > Image > Timeline of a Troubled Deal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times Web Archive" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2006/03/09/politics/10ports-graphic.large.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COVID Over Time | NYU Rory Meyers College of Nursing">
+                                <img itemprop="contentUrl url" src='https://nursing.nyu.edu/sites/default/files/inline-images/Timeline_1.png' alt='COVID Over Time | NYU Rory Meyers College of Nursing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5057">
+                                <meta itemprop="height" content="3592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYU Rory Meyers College of Nursing" />
+                                </span>
+                                <a href='https://nursing.nyu.edu/sites/default/files/inline-images/Timeline_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The New York Times > Washington > Image > Harriet Miers: A Timeline">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2005/10/04/politics/04miers_lg.gif' alt='The New York Times > Washington > Image > Harriet Miers: A Timeline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1295">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times Web Archive" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2005/10/04/politics/04miers_lg.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Population Control, Marauder Style - NYTimes.com">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2011/11/06/opinion/06atrocities_timeline/06atrocities_timeline-popup.jpg' alt='Population Control, Marauder Style - NYTimes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2011/11/06/opinion/06atrocities_timeline/06atrocities_timeline-popup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2021: The Year in Visual Stories and Graphics - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/newsgraphics/2021/12/18/year-in-graphics/3b25194d321e4ff7f8141b4c8274659c550c5a66/impeachment.jpg' alt='2021: The Year in Visual Stories and Graphics - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/newsgraphics/2021/12/18/year-in-graphics/3b25194d321e4ff7f8141b4c8274659c550c5a66/impeachment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wordle and beyond: How games are impacting newsletters.">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63757b6d3f051922fbdc1152/652997592f86d68b123577f6_TheNewYorkTimes_Games_TheNewsletterNewsletter_1.png' alt='Wordle and beyond: How games are impacting newsletters.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1292">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Newsletter Newsletter" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63757b6d3f051922fbdc1152/652997592f86d68b123577f6_TheNewYorkTimes_Games_TheNewsletterNewsletter_1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An American Fitness Timeline - Graphic - NYTimes.com">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2011/01/30/weekinreview/30marsh/30marsh-custom1.jpg' alt='An American Fitness Timeline - Graphic - NYTimes.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2011/01/30/weekinreview/30marsh/30marsh-custom1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

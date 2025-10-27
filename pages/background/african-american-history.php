@@ -1,0 +1,129 @@
+<title>Explore the Depths of African American History</title>
+                    <meta name="description" content="Discover the impactful journey of African Americans through history, highlighting struggles, achievements, and cultural contributions. Learn about the resilience and activism that shaped the nation, and appreciate the profound influence of Black experiences on American society.">
+                    <meta name="keywords" content="african american history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/african-american-history">
+                            <span itemprop="name">african american history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Depths of African American History</h1>
+                <p>African American history encompasses the rich and diverse experiences of Black individuals in the United States, from the struggles of enslavement and the fight for civil rights to cultural contributions in arts, music, and literature. Exploring this history reveals resilience, activism, and a profound impact on American society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COMMENTARY: Black History Month, A reflection of African-American ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2021/Feb/11/2002586559/1200/1200/0/210208-F-AR051-9001.JPG' alt='COMMENTARY: Black History Month, A reflection of African-American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="960th Cyberspace Wing" />
+                                </span>
+                                <a href='https://media.defense.gov/2021/Feb/11/2002586559/1200/1200/0/210208-F-AR051-9001.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African-American history - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Illustrations_of_the_American_anti-slavery_almanac_for_1840_%28cropped%29.tif/lossy-page1-1200px-Illustrations_of_the_American_anti-slavery_almanac_for_1840_%28cropped%29.tif.jpg' alt='African-American history - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Illustrations_of_the_American_anti-slavery_almanac_for_1840_%28cropped%29.tif/lossy-page1-1200px-Illustrations_of_the_American_anti-slavery_almanac_for_1840_%28cropped%29.tif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Museum of African American History and Culture ...">
+                                <img itemprop="contentUrl url" src='https://ids.si.edu/ids/deliveryService?max_w=800&id=https://www.si.edu/sites/default/files/unit-nmaahc.jpg' alt='National Museum of African American History and Culture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Institution" />
+                                </span>
+                                <a href='https://ids.si.edu/ids/deliveryService?max_w=800&id=https://www.si.edu/sites/default/files/unit-nmaahc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holt African American History: Lisbeth Gant-Britton: 9780030969546 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51jxQpRivtL._AC_UF1000,1000_QL80_.jpg' alt='Holt African American History: Lisbeth Gant-Britton: 9780030969546 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51jxQpRivtL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African Americans (1821 to Present-day) - Castillo de San Marcos ...">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/casa/learn/historyculture/images/USCT-Recruiting-Poster.jpg?maxwidth=650&autorotate=false' alt='African Americans (1821 to Present-day) - Castillo de San Marcos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/casa/learn/historyculture/images/USCT-Recruiting-Poster.jpg?maxwidth=650&autorotate=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black History Month: Celebrating the achievements of black ...">
+                                <img itemprop="contentUrl url" src='https://si.usembassy.gov/wp-content/uploads/sites/113/2023/02/01262022Black-History-Month1TW-1140x675-1.jpg' alt='Black History Month: Celebrating the achievements of black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="U.S. Embassy in Slovenia" />
+                                </span>
+                                <a href='https://si.usembassy.gov/wp-content/uploads/sites/113/2023/02/01262022Black-History-Month1TW-1140x675-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African American History | National Archives">
+                                <img itemprop="contentUrl url" src='https://www.archives.gov/files/news/images/African%20American%20banner.jpg' alt='African American History | National Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Archives" />
+                                </span>
+                                <a href='https://www.archives.gov/files/news/images/African%20American%20banner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Readings on Transnational African American History - AAIHS">
+                                <img itemprop="contentUrl url" src='https://cdn.aaihs.org/2018/12/NARA-Robeson-Moore-Shipyard-1-1024x704.jpg' alt='Readings on Transnational African American History - AAIHS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAIHS" />
+                                </span>
+                                <a href='https://cdn.aaihs.org/2018/12/NARA-Robeson-Moore-Shipyard-1-1024x704.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Black History Poster African American Classroom Print, 24"x18", Unframed">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/152782291604704.jpg' alt='Our Black History Poster African American Classroom Print, 24"x18", Unframed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1331">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/152782291604704.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African American History: Research Guides & Websites •">
+                                <img itemprop="contentUrl url" src='https://www.blackpast.org/wp-content/uploads/prodimages/files/Academic_class_Roger_Williams_University_Nashville_1899.jpg' alt='African American History: Research Guides & Websites •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackPast" />
+                                </span>
+                                <a href='https://www.blackpast.org/wp-content/uploads/prodimages/files/Academic_class_Roger_Williams_University_Nashville_1899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

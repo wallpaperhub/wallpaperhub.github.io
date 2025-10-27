@@ -1,0 +1,129 @@
+<title>Minimalist White World Map for Modern Decor</title>
+                    <meta name="description" content="Discover the beauty of a white world map, perfect for modern decor and educational purposes. This minimalist design enhances any space, making it ideal for home, office, or classroom. Explore geographical boundaries with elegance and style in a clean, scalable format.">
+                    <meta name="keywords" content="world map white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/world-map-white">
+                            <span itemprop="name">world map white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist White World Map for Modern Decor</h1>
+                <p>A world map in white offers a minimalist yet striking visual representation of our planet. Perfect for modern decor, this elegant design highlights geographical boundaries and major landmarks subtly. Ideal for educational settings or design projects, a white world map complements any color scheme while encouraging exploration and curiosity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White World Map Images – Browse 617,847 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/55/66/76/360_F_155667610_43ATApKYqwpm81rwFErjAkzy7HDjb53W.jpg' alt='White World Map Images – Browse 617,847 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/55/66/76/360_F_155667610_43ATApKYqwpm81rwFErjAkzy7HDjb53W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White World Map Images – Browse 617,847 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/15/44/56/360_F_315445649_00DrF55vABpPacVw63X6Cqq00UWNMWqD.jpg' alt='White World Map Images – Browse 617,847 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/15/44/56/360_F_315445649_00DrF55vABpPacVw63X6Cqq00UWNMWqD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White-transparent outline world map - b2b | Outline World Map Images">
+                                <img itemprop="contentUrl url" src='https://www.outline-world-map.com/map-images-original/outline-blank-white-transparent-world-map-b2b.png' alt='White-transparent outline world map - b2b | Outline World Map Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outline World Map" />
+                                </span>
+                                <a href='https://www.outline-world-map.com/map-images-original/outline-blank-white-transparent-world-map-b2b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:World blank map (grey & white).png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4c/World_blank_map_%28grey_%26_white%29.png' alt='File:World blank map (grey & white).png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4454">
+                                <meta itemprop="height" content="2135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4c/World_blank_map_%28grey_%26_white%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World map outline Black and White Stock Photos & Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2C57PPG/vector-world-map-outline-made-of-perpendicular-lines-2C57PPG.jpg' alt='World map outline Black and White Stock Photos & Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2C57PPG/vector-world-map-outline-made-of-perpendicular-lines-2C57PPG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White blank world map. Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/07/73/32/1000_F_107733254_1mKC2z4XDOwrDqnADf8QZ4lMJKvUGJQ7.jpg' alt='White blank world map. Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/07/73/32/1000_F_107733254_1mKC2z4XDOwrDqnADf8QZ4lMJKvUGJQ7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contour world map black and white colors Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/19/44/contour-world-map-black-and-white-colors-vector-21681944.jpg' alt='Contour world map black and white colors Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/19/44/contour-world-map-black-and-white-colors-vector-21681944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map White PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/012/071/437/small/world-map-template-with-continents-north-and-south-america-europe-and-asia-africa-and-australia-png.png' alt='World Map White PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/012/071/437/small/world-map-template-with-continents-north-and-south-america-europe-and-asia-africa-and-australia-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,200+ World Map White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1146703707/vector/vector-world-map-on-transparent-background.jpg?s=612x612&w=0&k=20&c=AJXOIo5QXeYbtc8Ty0_kEMSmdrC3x94QmnnY2LdsGNs=' alt='84,200+ World Map White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1146703707/vector/vector-world-map-on-transparent-background.jpg?s=612x612&w=0&k=20&c=AJXOIo5QXeYbtc8Ty0_kEMSmdrC3x94QmnnY2LdsGNs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,200+ World Map White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1780141124/vector/world-map-with-national-borders-pacific-ocean-blank-map.jpg?s=612x612&w=0&k=20&c=k2QwxwygznHAuBrxwZXWdeVSkEJG3Sv1UNLRe7Ty8i0=' alt='84,200+ World Map White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1780141124/vector/world-map-with-national-borders-pacific-ocean-blank-map.jpg?s=612x612&w=0&k=20&c=k2QwxwygznHAuBrxwZXWdeVSkEJG3Sv1UNLRe7Ty8i0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Solid Red: A Color of Passion</title>
+                    <meta name="description" content="Discover the power of solid red! This bold color symbolizes passion and energy, making it perfect for design and fashion. Explore how solid red can enhance your spaces and convey strong emotions, creating an unforgettable impact in any setting.">
+                    <meta name="keywords" content="solid red">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/solid-red">
+                            <span itemprop="name">solid red</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Solid Red: A Color of Passion</h1>
+                <p>Solid red is a bold, vibrant color representing passion, energy, and strength. Often associated with love and desire, this striking hue can energize spaces and create an eye-catching focal point in design. Whether used in fashion, art, or interiors, solid red evokes strong emotions and commands attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Solid red.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/2048px-Solid_red.svg.png' alt='File:Solid red.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/2048px-Solid_red.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16008277/p/f/m/LCAa0WZy9JIfq9oiM-brI_GI1WLaX3PuGdlrYPC3rdxeL3FdaTgs/Rich%20Ruby%20Red%20Printed%20Solid.jpg' alt='Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16008277/p/f/m/LCAa0WZy9JIfq9oiM-brI_GI1WLaX3PuGdlrYPC3rdxeL3FdaTgs/Rich%20Ruby%20Red%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Red Images – Browse 360,519 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/28/69/41/360_F_928694144_M6w8h8xSIWnLCPk6j90qnowSZToyEyL2.jpg' alt='Solid Red Images – Browse 360,519 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/28/69/41/360_F_928694144_M6w8h8xSIWnLCPk6j90qnowSZToyEyL2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Red Glossy Gift Wrap">
+                                <img itemprop="contentUrl url" src='https://www.underwrapsgiftwrap.com/wp-content/uploads/2016/06/red_glossy.jpg' alt='Solid Red Glossy Gift Wrap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under Wraps" />
+                                </span>
+                                <a href='https://www.underwrapsgiftwrap.com/wp-content/uploads/2016/06/red_glossy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Red Solid Color" Poster for Sale by Whoopsidoodle | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2528957387.1506/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Bright Red Solid Color" Poster for Sale by Whoopsidoodle | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2528957387.1506/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Red Fabric by the Yard | OnlineFabricStore">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/RAIRED_1.jpg?aspect_ratio=1:1.183&width=400' alt='Solid Red Fabric by the Yard | OnlineFabricStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/RAIRED_1.jpg?aspect_ratio=1:1.183&width=400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,800+ Solid Red Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1196215434/photo/red-blurred-background-for-decor.jpg?s=612x612&w=0&k=20&c=eLlVi5rXeLlhicoIQNwvB7MtEfYv_dx3CnheFYSoZVU=' alt='90,800+ Solid Red Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1196215434/photo/red-blurred-background-for-decor.jpg?s=612x612&w=0&k=20&c=eLlVi5rXeLlhicoIQNwvB7MtEfYv_dx3CnheFYSoZVU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PLAIN SOLID DARK RED - 100 RED SHADES ON OZCUSHIONS ON ALL PRODUCTS | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.413200313.3452/fposter,small,wall_texture,product,750x1000.u3.jpg' alt='PLAIN SOLID DARK RED - 100 RED SHADES ON OZCUSHIONS ON ALL PRODUCTS | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.413200313.3452/fposter,small,wall_texture,product,750x1000.u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Bright Red Solid Color Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/plain-bright-red-solid-color-260nw-1675015729.jpg' alt='Plain Bright Red Solid Color Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/plain-bright-red-solid-color-260nw-1675015729.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Solid Basic Red Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17391741/p/f/m/OqwIR3KYx8h8aK6snFnblnT6MAr-2l-JAg8HRkKpEqfDxhI_LEEqruM/Solid%20Red%20Oxide%20Fabric%20-%20Hex%20code%20%20%2350171d%20%20Coordinate%20to%20mix%20and%20Match%20with%20Vintage%20Sunflowers%20-%20Brown.jpg' alt='Red Solid Basic Red Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17391741/p/f/m/OqwIR3KYx8h8aK6snFnblnT6MAr-2l-JAg8HRkKpEqfDxhI_LEEqruM/Solid%20Red%20Oxide%20Fabric%20-%20Hex%20code%20%20%2350171d%20%20Coordinate%20to%20mix%20and%20Match%20with%20Vintage%20Sunflowers%20-%20Brown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

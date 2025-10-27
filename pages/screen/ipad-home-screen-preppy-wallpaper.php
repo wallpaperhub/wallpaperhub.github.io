@@ -1,0 +1,129 @@
+<title>Stylish Preppy Wallpapers for Your iPad Home Screen</title>
+                    <meta name="description" content="Discover trendy preppy wallpapers for your iPad home screen! Elevate your device's aesthetic with vibrant colors and chic patterns. Perfect for a stylish look, our selection of wallpapers allows you to express your personality and keep your iPad fresh and fun!">
+                    <meta name="keywords" content="ipad home screen preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/ipad-home-screen-preppy-wallpaper">
+                            <span itemprop="name">ipad home screen preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Preppy Wallpapers for Your iPad Home Screen</h1>
+                <p>Transform your iPad home screen with stylish preppy wallpapers that embody a fun, vibrant aesthetic! From pastel patterns to nautical themes, these wallpapers enhance your home screen's look and bring a touch of sophistication. Choose designs that reflect your personality and make your iPad uniquely yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' alt='Preppy wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPad ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/18/b5/9c/18b59c0dba7c0b627b5c12e2c1f88f52.jpg' alt='Preppy iPad ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/18/b5/9c/18b59c0dba7c0b627b5c12e2c1f88f52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Waves">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/73/bf/5c73bf0dc4078823c826f9cffada73fd.jpg' alt='Pink Waves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/73/bf/5c73bf0dc4078823c826f9cffada73fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 IPad ios ideas | preppy wallpaper, aesthetic iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/13/28/bc/1328bce9e0da086b6c98e3513170a521.jpg' alt='10 IPad ios ideas | preppy wallpaper, aesthetic iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/13/28/bc/1328bce9e0da086b6c98e3513170a521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper for iPad - Etsy UK">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44012635/r/il/bcbdff/4952070908/il_300x300.4952070908_2up6.jpg' alt='Preppy Wallpaper for iPad - Etsy UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44012635/r/il/bcbdff/4952070908/il_300x300.4952070908_2up6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPad ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e3/d2/0c/e3d20cd68624fdf3be8f46ce20fb72b4.jpg' alt='Preppy iPad ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e3/d2/0c/e3d20cd68624fdf3be8f46ce20fb72b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper for iPad - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' alt='Preppy Wallpaper for iPad - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/da/e9/3fdae97afe9f06052fc1d78ef4c2e8f3.jpg' alt='preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/da/e9/3fdae97afe9f06052fc1d78ef4c2e8f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Preppy Wallpaper Ideas To Elevate Your Screen Style : Pastel ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/smiley-face-wallpaper-1.jpg' alt='50 Preppy Wallpaper Ideas To Elevate Your Screen Style : Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/smiley-face-wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/91/fb/c391fb49f060be1690ed8e8f8bf3fa15.jpg' alt='Wallpaper       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/91/fb/c391fb49f060be1690ed8e8f8bf3fa15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

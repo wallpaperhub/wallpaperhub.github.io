@@ -1,0 +1,129 @@
+<title>Discover the Story Behind Taylor Swift's "Red" Album</title>
+                    <meta name="description" content="Explore the background and significance of Taylor Swift's "Red" album! Learn how it transformed her music career and delves into themes of love and heartbreak. Perfect for fans wanting to understand the evolution of this iconic artist!">
+                    <meta name="keywords" content="taylor swift red album background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/taylor-swift-red-album-background">
+                            <span itemprop="name">taylor swift red album background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Story Behind Taylor Swift's "Red" Album</h1>
+                <p>Taylor Swift's "Red" album, released in 2012, marks a pivotal moment in her evolution from country to pop. It features renowned tracks like "I Knew You Were Trouble" and "All Too Well," showcasing her lyrical brilliance and emotional depth. The album's themes explore love, heartbreak, and self-discovery through a diverse soundscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift: Red (Taylor's Version) Album Review | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/618c3ab295b32339a9955837/master/w_1280%2Cc_limit/Taylor-Swift-Red-Taylors-Version.jpeg' alt='Taylor Swift: Red (Taylor's Version) Album Review | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/618c3ab295b32339a9955837/master/w_1280%2Cc_limit/Taylor-Swift-Red-Taylors-Version.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red (Taylor Swift album) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png' alt='Red (Taylor Swift album) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red': How Taylor Swift Made Her Move Towards Global Domination">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2018/09/Taylor-Swift-Red-album-cover-web-optimised-820-e1624321260711.jpg' alt='Red': How Taylor Swift Made Her Move Towards Global Domination'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscoverMusic" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2018/09/Taylor-Swift-Red-album-cover-web-optimised-820-e1624321260711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - Red (Taylor's Version) | wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e0/4f/4d/e04f4d58150a4a39b92d7da34cd9f8c6.jpg' alt='Taylor Swift - Red (Taylor's Version) | wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e0/4f/4d/e04f4d58150a4a39b92d7da34cd9f8c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy Taylor Swift's new album Red Taylor's Version ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-taylors-version-1241-x-2208-tr5xffufiprsd8lw.jpg' alt='Download Enjoy Taylor Swift's new album Red Taylor's Version ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-taylors-version-1241-x-2208-tr5xffufiprsd8lw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy Taylor Swift's Red Re-Recorded Album Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-taylors-version-1800-x-1179-0n41h6c1s258x844.jpg' alt='Download Enjoy Taylor Swift's Red Re-Recorded Album Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-taylors-version-1800-x-1179-0n41h6c1s258x844.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylorswift #red #redalbum #redtaylorsversion #redtaylorswift ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8b/cb/55/8bcb55b508df4ed169be9c6c50d64ab4.jpg' alt='taylorswift #red #redalbum #redtaylorsversion #redtaylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8b/cb/55/8bcb55b508df4ed169be9c6c50d64ab4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red (Taylor's Version)' Improves an Already Great Album: Review ...">
+                                <img itemprop="contentUrl url" src='https://www.ehstigertimesonline.com/wp-content/uploads/2021/11/Taylor-Swift--694x900.jpg' alt='Red (Taylor's Version)' Improves an Already Great Album: Review ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiger Times" />
+                                </span>
+                                <a href='https://www.ehstigertimesonline.com/wp-content/uploads/2021/11/Taylor-Swift--694x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38472259/r/il/d1c372/5935483866/il_fullxfull.5935483866_r0xp.jpg' alt='Red Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Eras Vault" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38472259/r/il/d1c372/5935483866/il_fullxfull.5935483866_r0xp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Red Taylor's Version – The Redesigned Taylor Swift Album ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-taylors-version-oe1ruqxr17577uk7.jpg' alt='Download Red Taylor's Version – The Redesigned Taylor Swift Album ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1078">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-taylors-version-oe1ruqxr17577uk7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

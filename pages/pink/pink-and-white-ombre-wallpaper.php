@@ -1,0 +1,129 @@
+<title>Stylish Pink and White Ombre Wallpaper for Your Home</title>
+                    <meta name="description" content="Add elegance to your decor with our pink and white ombre wallpaper. Perfect for any room, it creates a gentle gradient effect, transforming your space into a serene retreat. Easy to install and stylish, this wallpaper is a must-have for modern interiors!">
+                    <meta name="keywords" content="pink and white ombre wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-white-ombre-wallpaper">
+                            <span itemprop="name">pink and white ombre wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pink and White Ombre Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning pink and white ombre wallpaper! This trendy design seamlessly blends soft pink hues into classic white, creating an elegant and calming atmosphere. Ideal for nurseries, bedrooms, or accent walls, it adds a touch of modern charm while bringing depth and character to any room. Easy to apply and remove!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/55/bd/3d55bd9974f2d99c61ad802645445607.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/55/bd/3d55bd9974f2d99c61ad802645445607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-background_87374-57.jpg' alt='Pink White Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-background_87374-57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Barbie™ Land Ombre' Wallpaper by Barbie™ - Pink / Creamsicle">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Barbie_Land_Ombre_Wallpaper_Barbie_Pink_Creamsicle_Design_20945c48-27ee-4406-92aa-cde3fba3f7da_1080x.jpg?v=1689897945' alt=''Barbie™ Land Ombre' Wallpaper by Barbie™ - Pink / Creamsicle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Barbie_Land_Ombre_Wallpaper_Barbie_Pink_Creamsicle_Design_20945c48-27ee-4406-92aa-cde3fba3f7da_1080x.jpg?v=1689897945' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Pink Images – Browse 80,020 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/51/50/15/360_F_351501504_BO4aEYIu2JTsT0HaSuS4l0WJWKNInuvp.jpg' alt='Ombre Pink Images – Browse 80,020 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/51/50/15/360_F_351501504_BO4aEYIu2JTsT0HaSuS4l0WJWKNInuvp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Ombre Background 1824 X 2736 | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-ombre-background-1824-x-2736-swccp7kmabhwuwnf.jpg' alt='Download Pink Ombre Background 1824 X 2736 | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-ombre-background-1824-x-2736-swccp7kmabhwuwnf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Pink Ombre Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1390051170/vector/light-pale-pastel-pink-or-peach-and-faded-white-coloured-ombre-rustic-and-smudged-painted.jpg?s=612x612&w=0&k=20&c=VEuSfGabTjiphb7cTyXsw9uJBXVFfFxgRnAS7hjnDPU=' alt='2,000+ Pink Ombre Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1390051170/vector/light-pale-pastel-pink-or-peach-and-faded-white-coloured-ombre-rustic-and-smudged-painted.jpg?s=612x612&w=0&k=20&c=VEuSfGabTjiphb7cTyXsw9uJBXVFfFxgRnAS7hjnDPU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Pink Ombre Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1169656624/vector/bright-pink-and-white-coloured-ombre-vector-background-illustration.jpg?s=612x612&w=0&k=20&c=L38XWNXXli1OOP2G_l0Kzb6QJ1q8E0XXuYKYR0shzdw=' alt='2,000+ Pink Ombre Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1169656624/vector/bright-pink-and-white-coloured-ombre-vector-background-illustration.jpg?s=612x612&w=0&k=20&c=L38XWNXXli1OOP2G_l0Kzb6QJ1q8E0XXuYKYR0shzdw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Colourful ombre background in pink and white">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/colourful-ombre-background-pink-white_218148-724.jpg' alt='Premium Photo | Colourful ombre background in pink and white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/colourful-ombre-background-pink-white_218148-724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/dd/9c/17dd9c99c199be7fa02d08d510bae445.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/dd/9c/17dd9c99c199be7fa02d08d510bae445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink Watercolour Background Paper, Pastel Pink ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-watercolour-background-paper-pastel-pink-ombre-texture_199112-179.jpg' alt='Premium Photo | Pink Watercolour Background Paper, Pastel Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-watercolour-background-paper-pastel-pink-ombre-texture_199112-179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

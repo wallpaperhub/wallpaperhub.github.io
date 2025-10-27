@@ -1,0 +1,129 @@
+<title>Hilarious Video Wallpapers: Fun & Lively Backgrounds</title>
+                    <meta name="description" content="Discover the joy of funny video wallpapers! Transform your device with lively and amusing backgrounds that bring smiles. Perfect for personal expression, our collection features hilarious clips that will make your screen come alive. Download now for endless fun and laughter with every glance at your phone!">
+                    <meta name="keywords" content="funny video wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-video-wallpaper">
+                            <span itemprop="name">funny video wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious Video Wallpapers: Fun & Lively Backgrounds</h1>
+                <p>Funny video wallpapers are a delightful way to express your personality on your device! Imagine having a hilarious cat video or a funny movie scene as your background. It brings a smile every time you unlock your phone. In a world filled with static images, a lively video wallpaper is sure to make your screen pop with humor and joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic Pussycat Moves in Blue Environment in Stylish Rhythm stock video  1171483712">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1171483712/video/comic-pussycat-moves-in-blue-environment-in-stylish-rhythm.jpg?s=640x640&k=20&c=jAcCiZ1kjV2bg9k1A4KrQTSw-9BLv5GlEnNtWP-JAcE=' alt='Comic Pussycat Moves in Blue Environment in Stylish Rhythm stock video  1171483712'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1171483712/video/comic-pussycat-moves-in-blue-environment-in-stylish-rhythm.jpg?s=640x640&k=20&c=jAcCiZ1kjV2bg9k1A4KrQTSw-9BLv5GlEnNtWP-JAcE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat, Pet, Music, Animal">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/02/11/32218-390916595_tiny.jpg' alt='Cat, Pet, Music, Animal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/02/11/32218-390916595_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink hairy 3d cartoon character dancing on pink background, person wearing  furry costume, funny mascot looping animation, modern minimal seamless  motion design stock video stock video 1469018003">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1469018003/video/pink-hairy-3d-cartoon-character-dancing-on-pink-background-person-wearing-furry-costume-funny.jpg?s=640x640&k=20&c=kBDjAAsYI_Vh9RCMpKZQrBMfUnSMsQ6qgKqNAG20RN8=' alt='Pink hairy 3d cartoon character dancing on pink background, person wearing  furry costume, funny mascot looping animation, modern minimal seamless  motion design stock video stock video 1469018003'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1469018003/video/pink-hairy-3d-cartoon-character-dancing-on-pink-background-person-wearing-furry-costume-funny.jpg?s=640x640&k=20&c=kBDjAAsYI_Vh9RCMpKZQrBMfUnSMsQ6qgKqNAG20RN8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Video Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/256/187/non_2x/funny-video-text-effect-font-editable-typography-3d-text-template-vector.jpg' alt='Funny Video Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/256/187/non_2x/funny-video-text-effect-font-editable-typography-3d-text-template-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny image of man in casual clothes headed with cat muzzles dancing  against yellow background. Stop motion, animation stock video 1629110355">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1629110355/video/funny-image-of-man-in-casual-clothes-headed-with-cat-muzzles-dancing-against-yellow.jpg?s=640x640&k=20&c=sqkMFGB4yJt03bOquij309E2C29RyZJRmoIA1oAMydM=' alt='Funny image of man in casual clothes headed with cat muzzles dancing  against yellow background. Stop motion, animation stock video 1629110355'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1629110355/video/funny-image-of-man-in-casual-clothes-headed-with-cat-muzzles-dancing-against-yellow.jpg?s=640x640&k=20&c=sqkMFGB4yJt03bOquij309E2C29RyZJRmoIA1oAMydM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Videos YouTube">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=672165109658097' alt='Funny Videos YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=672165109658097' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat, Beautiful Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/11/14/56375-479358459_tiny.jpg' alt='Cat, Beautiful Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/11/14/56375-479358459_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD funny videos wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/936/674/HD-wallpaper-tom-and-jerry-video-games-funny-videos-games-thumbnail.jpg' alt='HD funny videos wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/936/674/HD-wallpaper-tom-and-jerry-video-games-funny-videos-games-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spongebob live wallpaper #spongebobsquarepants #wallpaperaesthetic  #anime">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7382711142696733957&location=0&aid=1988' alt='Funny Spongebob live wallpaper #spongebobsquarepants #wallpaperaesthetic  #anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7382711142696733957&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Videos - Funny Pranks - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/vMOWmxi54JO805AtdMZxDF6_OqMFGE6wKakSdaeaXPw5Tpr_iw6f32eOI6_7mc2fWX6l' alt='Funny Videos - Funny Pranks - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/vMOWmxi54JO805AtdMZxDF6_OqMFGE6wKakSdaeaXPw5Tpr_iw6f32eOI6_7mc2fWX6l' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

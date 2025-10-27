@@ -1,0 +1,129 @@
+<title>Vibrant Blue and Yellow Flower Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Explore our stunning blue and yellow flower wallpaper to invigorate your home decor. Perfect for creating a cheerful atmosphere, this lively design enhances any room effortlessly. Shop now to add a splash of color and nature-inspired beauty to your walls!">
+                    <meta name="keywords" content="blue and yellow flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/blue-and-yellow-flower-wallpaper">
+                            <span itemprop="name">blue and yellow flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue and Yellow Flower Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with vibrant blue and yellow flower wallpaper that brings nature indoors. The elegant floral patterns create a cheerful ambiance, perfect for any room. Ideal for both modern and classic interiors, this wallpaper adds a fresh touch and lively energy to your walls, making your home feel more inviting and vibrant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow & Blue Watercolor Flowers Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716279156/articles/FL5052YE07R_product.jpg' alt='Yellow & Blue Watercolor Flowers Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716279156/articles/FL5052YE07R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2903-25837 | Blue Bell, Orla Yellow Floral - A Street Prints Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/2903-25837_dac762aa-72b4-4411-9cd8-a11520ff7640.jpg?v=1664258418' alt='2903-25837 | Blue Bell, Orla Yellow Floral - A Street Prints Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/2903-25837_dac762aa-72b4-4411-9cd8-a11520ff7640.jpg?v=1664258418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless floral natural abstract pattern white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-floral-natural-abstract-pattern-white-background-millefleurs-blue-yellow-flowers_510988-763.jpg' alt='Premium Vector | Seamless floral natural abstract pattern white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-floral-natural-abstract-pattern-white-background-millefleurs-blue-yellow-flowers_510988-763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Yellow & Blue Floral Print - Vibrant Flowers by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/85/4e/64854e292f170b4c3012f0e23c5fcbd8.jpg' alt='Bright Yellow & Blue Floral Print - Vibrant Flowers by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/85/4e/64854e292f170b4c3012f0e23c5fcbd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Yellow Floral Wallpaper - Nature-Inspired Home Decor">
+                                <img itemprop="contentUrl url" src='http://haokhome.com/cdn/shop/files/HAOKHOME_93378-1_Removable_Boho_Wallpaper_for_Bedroom_Stick_On_Adhesive_Wallpaper_Vintage_Blue_Flower_Wallpaper_for_Cabinet_Home_Decor.jpg?v=1726207583' alt='Blue and Yellow Floral Wallpaper - Nature-Inspired Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='http://haokhome.com/cdn/shop/files/HAOKHOME_93378-1_Removable_Boho_Wallpaper_for_Bedroom_Stick_On_Adhesive_Wallpaper_Vintage_Blue_Flower_Wallpaper_for_Cabinet_Home_Decor.jpg?v=1726207583' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Veronica Yellow Peonies Pattern Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2018/08/21/veronica-peonies-modern-yellow-blue-floral-wallpaper.jpeg' alt='Veronica Yellow Peonies Pattern Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2018/08/21/veronica-peonies-modern-yellow-blue-floral-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper flowers, chamomile, white, chrysanthemum, yellow ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/6000x4000/3/44/tsvety-romashki-white-yellow-flowers-background-goluboi-fo-1.jpg' alt='Wallpaper flowers, chamomile, white, chrysanthemum, yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/6000x4000/3/44/tsvety-romashki-white-yellow-flowers-background-goluboi-fo-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Yellow flowers on blue background for textiles ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/yellow-flowers-blue-background-textiles-fabric-cotton-fabric-cover-wallpaper_36430-581.jpg' alt='Premium Vector | Yellow flowers on blue background for textiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/yellow-flowers-blue-background-textiles-fabric-cotton-fabric-cover-wallpaper_36430-581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Yellow Flowers Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/b3/7d/8eb37d686b8ab6688e33e51f2fcbf643.jpg' alt='Blue and Yellow Flowers Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/b3/7d/8eb37d686b8ab6688e33e51f2fcbf643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper flowers, blue, background, yellow, yellow, blue, flowers ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/1/d8/lyutiki-zheltye-cvety-siniy-fon.webp' alt='Wallpaper flowers, blue, background, yellow, yellow, blue, flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/1/d8/lyutiki-zheltye-cvety-siniy-fon.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>“Discover the Rich History of Sushi: From Tradition to Global Delight”</title>
+                    <meta name="description" content="Explore the fascinating origins of sushi, its evolution from a preservation method to a global favorite, and the diverse styles that have emerged. Uncover the cultural significance and modern interpretations of this iconic Japanese dish.">
+                    <meta name="keywords" content="sushi background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sushi-background">
+                            <span itemprop="name">sushi background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Discover the Rich History of Sushi: From Tradition to Global Delight”</h1>
+                <p>Sushi, originating from Japan, dates back to the 8th century as a method of preserving fish in fermented rice. Over time, this evolved into the modern sushi we know today, featuring fresh ingredients, vinegared rice, and various rolls. Sushi has transcended borders, becoming a beloved global cuisine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origin of Sushi | Vital Choice">
+                                <img itemprop="contentUrl url" src='https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt6542458a3d1e8c6f/664cbc3d213dc5f7fd48a20e/origin-of-sushi-hero.jpeg?q=70&width=3840&auto=webp' alt='The Origin of Sushi | Vital Choice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vital Choice" />
+                                </span>
+                                <a href='https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt6542458a3d1e8c6f/664cbc3d213dc5f7fd48a20e/origin-of-sushi-hero.jpeg?q=70&width=3840&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,300+ Sushi Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1387289879/vector/cute-sushi-rolls-seamless-pattern-cartoon-funny-foods-characters-yummy-little-pieces-with.jpg?s=612x612&w=0&k=20&c=EAE-_Zi1uI01Rp_BcrX100ZCAkPmFORgjpyXw_jmbTE=' alt='11,300+ Sushi Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1387289879/vector/cute-sushi-rolls-seamless-pattern-cartoon-funny-foods-characters-yummy-little-pieces-with.jpg?s=612x612&w=0&k=20&c=EAE-_Zi1uI01Rp_BcrX100ZCAkPmFORgjpyXw_jmbTE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Sushi Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1611143669185-af224c5e3252?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VzaGl8ZW58MHx8MHx8fDA%3D' alt='500+ Sushi Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1611143669185-af224c5e3252?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VzaGl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Sushi Background Seamless Pattern Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/177474209/display_1500/stock-vector-cute-sushi-background-seamless-pattern-177474209.jpg' alt='Cute Sushi Background Seamless Pattern Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/177474209/display_1500/stock-vector-cute-sushi-background-seamless-pattern-177474209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Set of sushi rolls with ginger, wasabi and soy ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/set-sushi-rolls-with-ginger-wasabi-soy-sauce-black-stone-background-japanese-traditional-cuisine-top-view-rustic-style_187166-2388.jpg' alt='Premium Photo | Set of sushi rolls with ginger, wasabi and soy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/set-sushi-rolls-with-ginger-wasabi-soy-sauce-black-stone-background-japanese-traditional-cuisine-top-view-rustic-style_187166-2388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 3 Sushi Recipes - Casa Sensei">
+                                <img itemprop="contentUrl url" src='https://casasensei.com/wp-content/uploads/2020/04/Japanese-sushi-on-a-rustic-dark-background.jpg' alt='Top 3 Sushi Recipes - Casa Sensei'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casa Sensei" />
+                                </span>
+                                <a href='https://casasensei.com/wp-content/uploads/2020/04/Japanese-sushi-on-a-rustic-dark-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicious Sushi Pattern Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/delicious-sushi-pattern-art-sx5qr0ar8hl5ar8h.jpg' alt='Delicious Sushi Pattern Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/delicious-sushi-pattern-art-sx5qr0ar8hl5ar8h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sushi Background Stock Illustrations – 55,791 Sushi Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sushi-background-air-ingredient-white-natural-light-copy-space-generative-ai-336518805.jpg' alt='Sushi Background Stock Illustrations – 55,791 Sushi Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sushi-background-air-ingredient-white-natural-light-copy-space-generative-ai-336518805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sushi background with various sushi menu sets: summer rolls,sushi ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/05/08/75/1000_F_105087520_p3Xu2GEOThRroZsgoWZkc8Nr6cSac2iI.jpg' alt='Sushi background with various sushi menu sets: summer rolls,sushi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/05/08/75/1000_F_105087520_p3Xu2GEOThRroZsgoWZkc8Nr6cSac2iI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sushi Art Print A4, Japanese Food Wall Art, Foody Gift, Japan ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26378704/r/il/703121/5049463711/il_570xN.5049463711_osjf.jpg' alt='Sushi Art Print A4, Japanese Food Wall Art, Foody Gift, Japan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26378704/r/il/703121/5049463711/il_570xN.5049463711_osjf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

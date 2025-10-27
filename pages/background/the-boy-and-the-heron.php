@@ -1,0 +1,129 @@
+<title>The Boy and the Heron: A Journey of Hope</title>
+                    <meta name="description" content="Discover the captivating tale of "The Boy and the Heron." Follow a young boy as he embarks on a magical journey of self-discovery, facing grief and finding hope through enchanting adventures. Explore themes of love and healing in this beautifully woven narrative.">
+                    <meta name="keywords" content="the boy and the heron">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-boy-and-the-heron">
+                            <span itemprop="name">the boy and the heron</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Boy and the Heron: A Journey of Hope</h1>
+                <p>The story of "The Boy and the Heron" centers on a young boy navigating his grief and the complexities of life after loss. Enchanted by a mysterious heron, he embarks on a magical journey filled with self-discovery and adventure. Through challenges and encounters, he learns valuable lessons about love, healing, and the power of hope.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron (2023) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Boy and the Heron (2023) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron – The Brattle">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06110031/zbMRm6P6wPe9SQ6qJ7ZTAvCMS6e-scaled.jpg' alt='The Boy and the Heron – The Brattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Brattle" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06110031/zbMRm6P6wPe9SQ6qJ7ZTAvCMS6e-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron' review: Miyazaki's latest (and last?) - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/153f042/2147483647/strip/true/crop/3000x1623+0+0/resize/1200x649!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fdc%2F6ac989f2464da661421c72b2355b%2Fboyandtheheron.jpg' alt='The Boy and the Heron' review: Miyazaki's latest (and last?) - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/153f042/2147483647/strip/true/crop/3000x1623+0+0/resize/1200x649!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Fdc%2F6ac989f2464da661421c72b2355b%2Fboyandtheheron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron review – overplotted Miyazaki still delights ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/403b1e1ff6538dc6dc481b109720f38a06efdf40/125_0_3970_2383/master/3970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMjMucG5n&s=8ea6c14c122f33ae87a3bab52a0376c2' alt='The Boy and the Heron review – overplotted Miyazaki still delights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/403b1e1ff6538dc6dc481b109720f38a06efdf40/125_0_3970_2383/master/3970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMjMucG5n&s=8ea6c14c122f33ae87a3bab52a0376c2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron - GKIDS Films">
+                                <img itemprop="contentUrl url" src='https://gkids.com/wp-content/uploads/2024/05/HERON_TheBoyAndTheHeron_KeyStill_1.jpg' alt='The Boy and the Heron - GKIDS Films'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1038">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gkids" />
+                                </span>
+                                <a href='https://gkids.com/wp-content/uploads/2024/05/HERON_TheBoyAndTheHeron_KeyStill_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Boy and the Heron - Limited Edition Steelbook 4K ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713SgUp-HLL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: The Boy and the Heron - Limited Edition Steelbook 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713SgUp-HLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/4/41/How_Do_You_Live_poster.jpg' alt='The Boy and the Heron - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/4/41/How_Do_You_Live_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and The Heron' a confusing story about grief – The Graphic">
+                                <img itemprop="contentUrl url" src='http://thegraphic.arps.org/wp-content/uploads/2024/01/IMG_4776.jpeg' alt='The Boy and The Heron' a confusing story about grief – The Graphic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Graphic" />
+                                </span>
+                                <a href='http://thegraphic.arps.org/wp-content/uploads/2024/01/IMG_4776.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron | Museum of Fine Arts Boston">
+                                <img itemprop="contentUrl url" src='https://d1nn9x4fgzyvn4.cloudfront.net/styles/scaled_562_wide/s3/2024-08/02c162d3-b07f-4442-956d-f34f237549bc_1000x561.jpg?itok=CvKf2xFn' alt='The Boy and the Heron | Museum of Fine Arts Boston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Museum of Fine Arts Boston" />
+                                </span>
+                                <a href='https://d1nn9x4fgzyvn4.cloudfront.net/styles/scaled_562_wide/s3/2024-08/02c162d3-b07f-4442-956d-f34f237549bc_1000x561.jpg?itok=CvKf2xFn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Boy and the Heron' | CITYVIEW">
+                                <img itemprop="contentUrl url" src='https://www.dmcityview.com/wp-content/uploads/2023/12/heron.jpeg' alt='The Boy and the Heron' | CITYVIEW'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cityview" />
+                                </span>
+                                <a href='https://www.dmcityview.com/wp-content/uploads/2023/12/heron.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

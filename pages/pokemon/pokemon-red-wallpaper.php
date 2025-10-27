@@ -1,0 +1,129 @@
+<title>Vibrant Pokemon Red Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best Pokemon Red wallpapers for your phone or desktop! Elevate your screen with colorful designs featuring beloved characters. Perfect for avid fans and collectors. Download your favorite wallpaper today and celebrate the magic of Pokemon!">
+                    <meta name="keywords" content="pokemon red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-red-wallpaper">
+                            <span itemprop="name">pokemon red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pokemon Red Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Pokemon Red wallpaper! Explore iconic characters like Pikachu and Charizard, capturing the nostalgia of the classic game. Perfect for fans and trainers alike, these vibrant wallpapers add a touch of adventure to your screen. Download now and showcase your love for the Pokemon world!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Trainer Red Wallpaper : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-JJFO0hoxNrPrKWvCQo1mMnrPzmQuC9KOf1xp2qx6T4.jpg?auto=webp&s=7e3dbc237fbdd2fdd09652f3f65b18db686b27d6' alt='Pokemon Trainer Red Wallpaper : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-JJFO0hoxNrPrKWvCQo1mMnrPzmQuC9KOf1xp2qx6T4.jpg?auto=webp&s=7e3dbc237fbdd2fdd09652f3f65b18db686b27d6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon - Trainer Red Wallpaper by Lakurza on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07166a5b-e817-40ac-99aa-8f1f8898caaf/d9o6hje-c5045a59-f70b-4b71-9a90-ed9eaaed51df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3MTY2YTViLWU4MTctNDBhYy05OWFhLThmMWY4ODk4Y2FhZlwvZDlvNmhqZS1jNTA0NWE1OS1mNzBiLTRiNzEtOWE5MC1lZDllYWFlZDUxZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7Kg-ZKCDkMAurlcrEbbwkrq-_LMWqS4Omqre1iM0yjU' alt='Pokemon - Trainer Red Wallpaper by Lakurza on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07166a5b-e817-40ac-99aa-8f1f8898caaf/d9o6hje-c5045a59-f70b-4b71-9a90-ed9eaaed51df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3MTY2YTViLWU4MTctNDBhYy05OWFhLThmMWY4ODk4Y2FhZlwvZDlvNmhqZS1jNTA0NWE1OS1mNzBiLTRiNzEtOWE5MC1lZDllYWFlZDUxZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7Kg-ZKCDkMAurlcrEbbwkrq-_LMWqS4Omqre1iM0yjU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pokémon Anime HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/769/769896.png' alt='Red Pokémon Anime HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/769/769896.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My retro Pokemon Red & Blue wallpaper. Super high resolution ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/o97YdYKhPhp7dPPPNPsxtFze0AAAiZON7tzlHZ2Wxnk.jpg?auto=webp&s=b262e63d535514dddf8f889ac4b92615f26f91b4' alt='My retro Pokemon Red & Blue wallpaper. Super high resolution ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/o97YdYKhPhp7dPPPNPsxtFze0AAAiZON7tzlHZ2Wxnk.jpg?auto=webp&s=b262e63d535514dddf8f889ac4b92615f26f91b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Red (Pokémon) Pikachu Anime Pokemon HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/122/1228187.jpg' alt='Download Red (Pokémon) Pikachu Anime Pokemon HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="2067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/122/1228187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Red Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pokemon-red-screen-jv29b4vvhu20agrf.jpg' alt='Pokemon Red Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pokemon-red-screen-jv29b4vvhu20agrf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Trainers: Red and Charizard Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2022/09/pokemon-trainers-red-charizard-1080x1920-1.jpg' alt='Pokémon Trainers: Red and Charizard Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2022/09/pokemon-trainers-red-charizard-1080x1920-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/ca/d5/1fcad5f94c4772812b6d967acd16852c.jpg' alt='Pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/ca/d5/1fcad5f94c4772812b6d967acd16852c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon, Red (Pokémon), Pikachu, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/553/HD-wallpaper-pokemon-red-pokemon-pikachu.jpg' alt='Pokémon, Red (Pokémon), Pikachu, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/553/HD-wallpaper-pokemon-red-pokemon-pikachu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon, Red (Pokémon), Pikachu, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/954/592/HD-wallpaper-pokemon-red-pokemon-pikachu.jpg' alt='Pokémon, Red (Pokémon), Pikachu, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/954/592/HD-wallpaper-pokemon-red-pokemon-pikachu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Magic of Disney's Hollywood Studios: A Thrilling Adventure Awaits</title>
+                    <meta name="description" content="Experience the excitement of Disney's Hollywood Studios! Explore thrilling rides, enchanting shows, and iconic characters in an immersive film-inspired setting. Perfect for families and movie fans alike, it's a must-see destination for unforgettable memories.">
+                    <meta name="keywords" content="disney's hollywood studios">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/disneys-hollywood-studios">
+                            <span itemprop="name">disney's hollywood studios</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Disney's Hollywood Studios: A Thrilling Adventure Awaits</h1>
+                <p>Disney's Hollywood Studios transports guests into a world of film, television, and theater. Home to thrilling attractions like Star Wars: Galaxy's Edge and Toy Story Land, visitors can enjoy immersive experiences, captivating shows, and delicious dining options. A must-visit for movie lovers and families alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Twilight_Zone_Tower_of_Terror%2C_2024.jpg' alt='Disney's Hollywood Studios - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6240">
+                                <meta itemprop="height" content="4160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Twilight_Zone_Tower_of_Terror%2C_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios Guide: Visiting Star Wars Galaxy's Edge ...">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/WMyAexbXbjU_nrtbAcOyPZmaqNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/toy-story-land-disney-world-WDWHOLLYWOOD0219-1b5be260d5484769a5745e98f1dca8a8.jpg' alt='Disney's Hollywood Studios Guide: Visiting Star Wars Galaxy's Edge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="938">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/WMyAexbXbjU_nrtbAcOyPZmaqNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/toy-story-land-disney-world-WDWHOLLYWOOD0219-1b5be260d5484769a5745e98f1dca8a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios in Orlando | Guide & Tickets Info">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_640,q_65,w_640/v1/clients/orlandofl-redesign/WaltDisneyWorldResortVirtualTour_2030_3_fdfd6a7e-99ef-4299-ad9f-6a93bd953e51.jpg' alt='Disney's Hollywood Studios in Orlando | Guide & Tickets Info'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visit Orlando" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_640,q_65,w_640/v1/clients/orlandofl-redesign/WaltDisneyWorldResortVirtualTour_2030_3_fdfd6a7e-99ef-4299-ad9f-6a93bd953e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios | Walt Disney World Resort">
+                                <img itemprop="contentUrl url" src='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/lifestyle/0621ZS_DHS_Toy_Story_Texture_A_PMM_0352_JB_1-16x9.jpg?2022-09-13T18:45:03+00:00' alt='Disney's Hollywood Studios | Walt Disney World Resort'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walt Disney World" />
+                                </span>
+                                <a href='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/lifestyle/0621ZS_DHS_Toy_Story_Texture_A_PMM_0352_JB_1-16x9.jpg?2022-09-13T18:45:03+00:00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios Overview - AllEars.Net">
+                                <img itemprop="contentUrl url" src='https://allears.net/wp-content/uploads/2020/03/Mickey-and-Minnies-Runaway-Railway-Entrance-Hollywood-Studios-Chinese-Theatre-General.jpg' alt='Disney's Hollywood Studios Overview - AllEars.Net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllEars.Net" />
+                                </span>
+                                <a href='https://allears.net/wp-content/uploads/2020/03/Mickey-and-Minnies-Runaway-Railway-Entrance-Hollywood-Studios-Chinese-Theatre-General.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios | Walt Disney World Resort">
+                                <img itemprop="contentUrl url" src='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1349/464/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/hollywood-studios/service/HollywoodStudios_Thumbnail-16x9.jpg?2024-03-08T18:47:59+00:00' alt='Disney's Hollywood Studios | Walt Disney World Resort'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walt Disney World" />
+                                </span>
+                                <a href='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1349/464/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/hollywood-studios/service/HollywoodStudios_Thumbnail-16x9.jpg?2024-03-08T18:47:59+00:00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Hollywood Studios Map - Walt Disney World - WDW Magazine">
+                                <img itemprop="contentUrl url" src='https://www.wdw-magazine.com/wp-content/uploads/2022/06/Blog-featured-image-1200-%C3%97-628-px-1200-%C3%97-628-px.png' alt='2025 Hollywood Studios Map - Walt Disney World - WDW Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WDW Magazine" />
+                                </span>
+                                <a href='https://www.wdw-magazine.com/wp-content/uploads/2022/06/Blog-featured-image-1200-%C3%97-628-px-1200-%C3%97-628-px.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios - Then and Now">
+                                <img itemprop="contentUrl url" src='https://www.mainstreetwishes.com/wp-content/uploads/2019/10/fullsizeoutput_31a4.jpeg' alt='Disney's Hollywood Studios - Then and Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Main Street Wishes" />
+                                </span>
+                                <a href='https://www.mainstreetwishes.com/wp-content/uploads/2019/10/fullsizeoutput_31a4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios® Tours - Book Now | Expedia">
+                                <img itemprop="contentUrl url" src='https://a.travel-assets.com/findyours-php/viewfinder/images/res70/448000/448989-Disneys-Hollywood-Studios.jpg' alt='Disney's Hollywood Studios® Tours - Book Now | Expedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Expedia" />
+                                </span>
+                                <a href='https://a.travel-assets.com/findyours-php/viewfinder/images/res70/448000/448989-Disneys-Hollywood-Studios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Hollywood Studios Map at Walt Disney World">
+                                <img itemprop="contentUrl url" src='https://www.wdwinfo.com/maps/hollywood-studios-map-ten24.jpg' alt='Disney's Hollywood Studios Map at Walt Disney World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney World" />
+                                </span>
+                                <a href='https://www.wdwinfo.com/maps/hollywood-studios-map-ten24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Remembering Princess Diana: Legacy of Compassion</title>
+                    <meta name="description" content="Explore the enduring legacy of Princess Diana, the "People's Princess," who inspired millions with her compassion and dedication to humanitarian causes. Discover her impact on charity and how her spirit continues to influence us today.">
+                    <meta name="keywords" content="diana">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diana">
+                            <span itemprop="name">diana</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Remembering Princess Diana: Legacy of Compassion</h1>
+                <p>Princess Diana, a beloved figure, captivated hearts worldwide with her compassion and elegance. Known as the "People's Princess," she dedicated her life to charitable causes, from advocating for AIDS awareness to landmine removal. Her legacy continues to inspire, reminding us of the power of empathy and kindness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diana, Princess of Wales - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg' alt='Diana, Princess of Wales - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diana, princess of Wales | Biography, Wedding, Children, Funeral ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/67/194367-050-908BD6E8/Diana-princess-Wales-1989.jpg' alt='Diana, princess of Wales | Biography, Wedding, Children, Funeral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/67/194367-050-908BD6E8/Diana-princess-Wales-1989.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Diana: Biography, British Princess, Humanitarian">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/Diana_GettyImages-515185764.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Princess Diana: Biography, British Princess, Humanitarian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/Diana_GettyImages-515185764.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Princess Diana's fashion inspires designers, style icons - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/b8a0a74/2147483647/strip/true/crop/1800x1200+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F53%2F76e109d34537be656b992900a1b2%2Fla-ig-the-crown-triptych-web-lead.jpg' alt='How Princess Diana's fashion inspires designers, style icons - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/b8a0a74/2147483647/strip/true/crop/1800x1200+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F53%2F76e109d34537be656b992900a1b2%2Fla-ig-the-crown-triptych-web-lead.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Diana's Wedding - India Hicks at Princess Diana's Wedding">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/hbz-princess-diana-wedding-india-hicks-index-1526583399.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*' alt='Princess Diana's Wedding - India Hicks at Princess Diana's Wedding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harper's BAZAAR" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/hbz-princess-diana-wedding-india-hicks-index-1526583399.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Princess Diana Life and Legacy Meant for Black British Women">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/hbz-diana-gettyimages-79731167-1605898484.jpg?crop=1.00xw:0.649xh;0,0.174xh&resize=640:*' alt='What Princess Diana Life and Legacy Meant for Black British Women'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.harpersbazaar.com" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/hbz-diana-gettyimages-79731167-1605898484.jpg?crop=1.00xw:0.649xh;0,0.174xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Women in History- Diana, Princess of Wales | St. Tammany Parish ...">
+                                <img itemprop="contentUrl url" src='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/44/2019/11/37382590136_f08b9b630c_c.jpg' alt='Women in History- Diana, Princess of Wales | St. Tammany Parish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Tammany Parish Library" />
+                                </span>
+                                <a href='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/44/2019/11/37382590136_f08b9b630c_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diana, Princess of Wales | The Royal Family">
+                                <img itemprop="contentUrl url" src='https://www.royal.uk/sites/default/files/styles/460x460/public/images/encyclopaedia/encyc-diana.jpg?itok=0scGiYEO' alt='Diana, Princess of Wales | The Royal Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Royal Family" />
+                                </span>
+                                <a href='https://www.royal.uk/sites/default/files/styles/460x460/public/images/encyclopaedia/encyc-diana.jpg?itok=0scGiYEO' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A look back at the life of Princess Diana - ABC7 Chicago">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/1408697_063016-cc-diana-birthday-final.jpg' alt='A look back at the life of Princess Diana - ABC7 Chicago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7 Chicago" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/1408697_063016-cc-diana-birthday-final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iconic Princess Diana Fashion Looks In The Crown & IRL">
+                                <img itemprop="contentUrl url" src='https://www.refinery29.com/images/10160218.jpg?format=webp&width=720&height=864&quality=85&crop=5%3A6' alt='Iconic Princess Diana Fashion Looks In The Crown & IRL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Refinery29" />
+                                </span>
+                                <a href='https://www.refinery29.com/images/10160218.jpg?format=webp&width=720&height=864&quality=85&crop=5%3A6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

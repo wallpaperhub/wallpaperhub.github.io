@@ -1,0 +1,129 @@
+<title>Adorable Anime iPhone Wallpapers: Elevate Your Home Screen</title>
+                    <meta name="description" content="Explore a delightful selection of cute anime wallpapers designed for iPhones. Personalize your home screen with charming characters and vibrant designs that express your unique style. Perfect for anime lovers looking to brighten up their devices!">
+                    <meta name="keywords" content="cute home screen anime wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-home-screen-anime-wallpaper-iphone">
+                            <span itemprop="name">cute home screen anime wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Anime iPhone Wallpapers: Elevate Your Home Screen</h1>
+                <p>Transform your iPhone with adorable anime home screen wallpapers! Discover a collection of cute characters, vibrant colors, and enchanting scenes that reflect your personality. Whether you're a fan of magical girls or slice-of-life anime, find the perfect wallpaper to brighten your day and personalize your device beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute anime inspired wallpapers for iphone |ios 14 home screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0d/35/a6/0d35a6b2f9eb121b90f7c4f9f33ec6f9.jpg' alt='Cute anime inspired wallpapers for iphone |ios 14 home screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0d/35/a6/0d35a6b2f9eb121b90f7c4f9f33ec6f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ʚ                          ꔛ ⁺ ♡̷̷̷">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/9d/6f/559d6f3bc2da95e0269d9a029be4cd90.jpg' alt='ʚ                          ꔛ ⁺ ♡̷̷̷'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/9d/6f/559d6f3bc2da95e0269d9a029be4cd90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpaper on X: "Anime iPhone Home Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EOfcNRqWAAQ_3ZW.jpg:large' alt='Cute iPhone Wallpaper on X: "Anime iPhone Home Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EOfcNRqWAAQ_3ZW.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Anime Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' alt='300+] Anime Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-iphone-psdmm565oizldbbg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/13/31/fb133146be822aaa78dac42c06c5e25b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/13/31/fb133146be822aaa78dac42c06c5e25b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/73/b9/ea73b9c768f6dd847c891c0b172cdfc8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/73/b9/ea73b9c768f6dd847c891c0b172cdfc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl Pastel Skies Phone Wallpaper Instant Download Iphone Home Screen  Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39791532/r/il/a1cee2/4514540107/il_fullxfull.4514540107_3nn0.jpg' alt='Anime Girl Pastel Skies Phone Wallpaper Instant Download Iphone Home Screen  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1664">
+                                <meta itemprop="height" content="2432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39791532/r/il/a1cee2/4514540107/il_fullxfull.4514540107_3nn0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen | pastel | rose | cute | anime">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/e3/03/bee30372f837bed8565222946fef7013.jpg' alt='Lockscreen | pastel | rose | cute | anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/e3/03/bee30372f837bed8565222946fef7013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime lock screen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' alt='HD anime lock screen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/273/149/HD-wallpaper-gojo-satoru-jjk-lock-screen-anime-lock-screen-anime-lock-screen-in-2022-anime-lock-screen-anime-lock-screen-anime-iphone-funny-gojo-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pack of 20 Anime Girl Wallpapers, Screensaver Wallpaper, Cute Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/51913267/r/il/99bae8/6010587616/il_570xN.6010587616_hl1b.jpg' alt='Pack of 20 Anime Girl Wallpapers, Screensaver Wallpaper, Cute Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/51913267/r/il/99bae8/6010587616/il_570xN.6010587616_hl1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

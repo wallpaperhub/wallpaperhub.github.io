@@ -1,0 +1,129 @@
+<title>Illuminate Your Space: Neon Light Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover stunning neon light wallpaper that brings your walls to life! Perfect for adding a modern flair to any room, these vibrant designs create a stunning atmosphere. Explore our collection and find the ideal neon wallpaper to elevate your interior space today!">
+                    <meta name="keywords" content="neon:io0ijde121a= light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/neonio0ijde121a-light-wallpaper">
+                            <span itemprop="name">neon:io0ijde121a= light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminate Your Space: Neon Light Wallpaper for Your Home</h1>
+                <p>Transform your space with vibrant neon light wallpapers! These eye-catching designs illuminate any room, adding a modern touch to your décor. Perfect for creating a fun and energetic atmosphere, our collection offers various styles to suit your taste. Brighten your walls and make a statement effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon light Wallpaper 4K, Ring, Huawei MediaPad, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/neon-light-ring-huawei-mediapad-stock-1179x2556-716.jpg' alt='Neon light Wallpaper 4K, Ring, Huawei MediaPad, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/neon-light-ring-huawei-mediapad-stock-1179x2556-716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon I, I Alphabet, I Neon, Neon Light, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/263/978/HD-wallpaper-neon-i-i-alphabet-i-neon-neon-light.jpg' alt='Neon I, I Alphabet, I Neon, Neon Light, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/263/978/HD-wallpaper-neon-i-i-alphabet-i-neon-neon-light.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Neon Light Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681426322370-c99a29f6f0cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmVvbiUyMGxpZ2h0fGVufDB8fDB8fHww' alt='500+ Neon Light Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681426322370-c99a29f6f0cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmVvbiUyMGxpZ2h0fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Current - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/5b/b6/545bb69decafc9938620d0f1e713e2d3.jpg' alt='Current - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/5b/b6/545bb69decafc9938620d0f1e713e2d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Stunning Neon Phone Wallpapers Created Using AI - Imagine with ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/06/rashidckk_A_neon_sign_of_cactus_in_the_style_of_glowing_light_4fc3e991-93c3-4f26-a9cf-18bcecdf5bdf_3.webp?resize=574%2C1024&ssl=1' alt='17 Stunning Neon Phone Wallpapers Created Using AI - Imagine with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imagine with Rashid" />
+                                </span>
+                                <a href='https://i0.wp.com/imaginewithrashid.com/wp-content/uploads/2024/06/rashidckk_A_neon_sign_of_cactus_in_the_style_of_glowing_light_4fc3e991-93c3-4f26-a9cf-18bcecdf5bdf_3.webp?resize=574%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/d4/e9/89d4e91c0de1ef1ade85708eef077854.jpg' alt='neon.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/d4/e9/89d4e91c0de1ef1ade85708eef077854.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon lights wallpapers for iphone and android. | Premium AI ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/neon-lights-wallpapers-iphone-android_739292-16430.jpg?w=360' alt='Neon lights wallpapers for iphone and android. | Premium AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/neon-lights-wallpapers-iphone-android_739292-16430.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Free Trendy Neon Wallpapers For iPhone (HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9b/8c/d7/9b8cd7e68e3d633fb9d78ef7eaf6d607.jpg' alt='45 Free Trendy Neon Wallpapers For iPhone (HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9b/8c/d7/9b8cd7e68e3d633fb9d78ef7eaf6d607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IO blue neon lights, Paladins, creative, Paladins characters, IO ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/756/750/HD-wallpaper-neon-frame-black-blue-edge-lights-neon-neon-lights-pink-screen-thumbnail.jpg' alt='IO blue neon lights, Paladins, creative, Paladins characters, IO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/756/750/HD-wallpaper-neon-frame-black-blue-edge-lights-neon-neon-lights-pink-screen-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D neon lights background | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/d-neon-lights-background_974629-10316.jpg' alt='D neon lights background | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/d-neon-lights-background_974629-10316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

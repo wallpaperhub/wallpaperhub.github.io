@@ -1,0 +1,129 @@
+<title>Stunning Fantasy Anime Galaxy Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking fantasy beautiful anime galaxy wallpapers. Perfect for anime fans looking to elevate their devices with stunning visuals that bring the cosmos to life. Explore and download now for a captivating experience!">
+                    <meta name="keywords" content="fantasy beautiful anime galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/fantasy-beautiful-anime-galaxy-wallpaper">
+                            <span itemprop="name">fantasy beautiful anime galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fantasy Anime Galaxy Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning fantasy beautiful anime galaxy wallpapers! These vibrant designs feature mesmerizing colors and dreamy landscapes, perfect for anime lovers and space enthusiasts alike. Elevate your screen with enchanting visuals that inspire creativity and adventure, making every glance a journey through the cosmos!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Galaxy ideas | anime galaxy, galaxy art, galaxy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/43/47/fa43476cd5529ae50d36883324b3d6d6.jpg' alt='150 Galaxy ideas | anime galaxy, galaxy art, galaxy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/43/47/fa43476cd5529ae50d36883324b3d6d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy, fantasy, girl, mystic, night, star, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/263/370/HD-wallpaper-anime-galaxy-fantasy-girl-mystic-night-star.jpg' alt='Anime Galaxy, fantasy, girl, mystic, night, star, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/263/370/HD-wallpaper-anime-galaxy-fantasy-girl-mystic-night-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Galaxy wallpaper ideas | galaxy wallpaper, wallpaper, pretty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/43/d9/ef/43d9ef74545de2d0f0b65a20c68d76c9.jpg' alt='9 Galaxy wallpaper ideas | galaxy wallpaper, wallpaper, pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/43/d9/ef/43d9ef74545de2d0f0b65a20c68d76c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Almis on Protector de Pantalla | Anime scenery wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fd/01/74/fd017456f580222878a54e4151e3563a.jpg' alt='Pin by Almis on Protector de Pantalla | Anime scenery wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fd/01/74/fd017456f580222878a54e4151e3563a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy Stock Illustrations – 3,356 Anime Galaxy Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/captivating-pastel-anime-galaxy-wallpaper-featuring-falling-star-dreamy-night-sky-escape-your-desktop-immerse-yourself-356058316.jpg' alt='Anime Galaxy Stock Illustrations – 3,356 Anime Galaxy Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/captivating-pastel-anime-galaxy-wallpaper-featuring-falling-star-dreamy-night-sky-escape-your-desktop-immerse-yourself-356058316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Luneru on art | Anime scenery wallpaper, Cute galaxy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/a2/6d/50a26d3a5c892cac9e31fdb551727328.jpg' alt='Pin by Luneru on art | Anime scenery wallpaper, Cute galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/a2/6d/50a26d3a5c892cac9e31fdb551727328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/71/f1/21/71f121cf2e97760ade1d7eb9668ca3bc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/71/f1/21/71f121cf2e97760ade1d7eb9668ca3bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Beautiful Anime Galaxy Night Sky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/beautiful-anime-galaxy-night-sky-pdjom6x3u23xf846.webp' alt='Download free Beautiful Anime Galaxy Night Sky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/beautiful-anime-galaxy-night-sky-pdjom6x3u23xf846.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fantasy Anime Forest Anime Forest HD Wallpaper by 防人">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/119/1196125.jpg' alt='Download Fantasy Anime Forest Anime Forest HD Wallpaper by 防人'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/119/1196125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oil Painting By Numbers Acrylic Handmade Moon Tree Reflection ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/S5gAAOSw3GZkJdox/s-l1200.jpg' alt='Oil Painting By Numbers Acrylic Handmade Moon Tree Reflection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/S5gAAOSw3GZkJdox/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

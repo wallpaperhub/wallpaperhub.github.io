@@ -1,0 +1,129 @@
+<title>Black and White Cowboys Logo: A Timeless Representation</title>
+                    <meta name="description" content="Explore the bold and striking black and white cowboys logo, a symbol of strength and tradition. Perfect for fans of classic Western aesthetics, this iconic design captures the adventurous spirit of cowboy culture with a minimalist touch. Ideal for merchandise and fans alike.">
+                    <meta name="keywords" content="cowboys logo black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cowboys-logo-black-and-white">
+                            <span itemprop="name">cowboys logo black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black and White Cowboys Logo: A Timeless Representation</h1>
+                <p>The iconic cowboys logo in black and white embodies the spirit of the Wild West, showcasing a bold and fearless aesthetic. Its striking design highlights tradition and strength, appealing to fans who appreciate minimalist yet powerful imagery. Perfect for merchandise or as a statement piece, it captures the essence of cowboy culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas cowboys clipart logo free on jpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/22/06/0b2206c949fa28ae892a27f147d7a36d.jpg' alt='Dallas cowboys clipart logo free on jpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/22/06/0b2206c949fa28ae892a27f147d7a36d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/033/879/174/non_2x/starry-nightscapes-artistry-guiding-the-way-star-illustrations-vector.jpg' alt='Dallas Cowboys Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/033/879/174/non_2x/starry-nightscapes-artistry-guiding-the-way-star-illustrations-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Dallas Cowboys 16'' Team Logo Cutout">
+                                <img itemprop="contentUrl url" src='https://fanatics.frgimages.com/dallas-cowboys/black-dallas-cowboys-16-team-logo-cutout_pi5008000_altimages_ff_5008633-7672e27c6b996efc2a76alt1_full.jpg?_hv=2&w=900' alt='Black Dallas Cowboys 16'' Team Logo Cutout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dallas Cowboys Pro Shop" />
+                                </span>
+                                <a href='https://fanatics.frgimages.com/dallas-cowboys/black-dallas-cowboys-16-team-logo-cutout_pi5008000_altimages_ff_5008633-7672e27c6b996efc2a76alt1_full.jpg?_hv=2&w=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Star With Cowboys Text - Black Star with Cowboys Text ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180426/hpw/avez4sj3p.webp' alt='Black Star With Cowboys Text - Black Star with Cowboys Text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180426/hpw/avez4sj3p.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas cowboys logo black online and white">
+                                <img itemprop="contentUrl url" src='https://www.skinit.com/cdn/shop/products/NFLBWHX9_56d25e99-b3e9-4808-896f-cd4734e06c5f_300x.jpg' alt='Dallas cowboys logo black online and white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lib.emerycounty.com" />
+                                </span>
+                                <a href='https://www.skinit.com/cdn/shop/products/NFLBWHX9_56d25e99-b3e9-4808-896f-cd4734e06c5f_300x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Aluminum Embossed Football Logo Emblem">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-lq6s7zbxc7/images/stencil/1280x1280/products/26732/116731/dallas-cowboys-aluminum-embossed-football-logo-emblem-19__16590.1701705819.jpg?c=1?imbypass=on' alt='Dallas Cowboys Aluminum Embossed Football Logo Emblem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mainely Urns" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-lq6s7zbxc7/images/stencil/1280x1280/products/26732/116731/dallas-cowboys-aluminum-embossed-football-logo-emblem-19__16590.1701705819.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/images/large/2x/dallas-cowboys-logo-black-and-white.png' alt='Dallas Cowboys Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/images/large/2x/dallas-cowboys-logo-black-and-white.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas cowboys clipart logo free on jpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/0e/72/ee0e722daa456895bb9b999671170b7b.jpg' alt='Dallas cowboys clipart logo free on jpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/0e/72/ee0e722daa456895bb9b999671170b7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Animal NFL Dallas Cowboys Laser Cut Metal Sign">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71C3wjU+JtL._AC_UF1000,1000_QL80_.jpg' alt='Party Animal NFL Dallas Cowboys Laser Cut Metal Sign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71C3wjU+JtL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2016/12/Shape-of-the-Dallas-Cowboys-Logo.jpg' alt='Dallas Cowboys Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2016/12/Shape-of-the-Dallas-Cowboys-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

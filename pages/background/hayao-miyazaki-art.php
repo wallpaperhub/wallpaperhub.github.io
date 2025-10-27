@@ -1,0 +1,129 @@
+<title>Explore the Enchanting Art of Hayao Miyazaki</title>
+                    <meta name="description" content="Discover the magical world of Hayao Miyazaki’s art. From breathtaking landscapes to charming characters, delve into the unique style and themes that define the legendary filmmaker’s animated masterpieces.">
+                    <meta name="keywords" content="hayao miyazaki art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hayao-miyazaki-art">
+                            <span itemprop="name">hayao miyazaki art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enchanting Art of Hayao Miyazaki</h1>
+                <p>Hayao Miyazaki's art captivates viewers with its breathtaking landscapes and enchanting characters. Renowned for creating fantastical worlds in films like "Spirited Away" and "My Neighbor Totoro," Miyazaki's unique style fuses traditional techniques with stunning detail. His work inspires wonder, exploring themes of nature, innocence, and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of Hayao Miyazaki">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527039868140-PFDDQKQW3YIEN02PU51K/9d57b2cf833319756c15cd355c8728fa.jpg' alt='The Art of Hayao Miyazaki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527039868140-PFDDQKQW3YIEN02PU51K/9d57b2cf833319756c15cd355c8728fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint Like Hayao Miyazaki - Animation Obsessive">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c446466-8e1e-49ac-b406-6449cffa518d_2143x1128.png' alt='How to Paint Like Hayao Miyazaki - Animation Obsessive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animation Obsessive - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c446466-8e1e-49ac-b406-6449cffa518d_2143x1128.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of Hayao Miyazaki">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527040448648-X6GFUC4PO71B73MW1LQ7/Hayao+Miyazaki89.jpg' alt='The Art of Hayao Miyazaki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527040448648-X6GFUC4PO71B73MW1LQ7/Hayao+Miyazaki89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It took me over thirty years to appreciate the creative genius of ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*vLT7pmG7AZw91pVrzL5Esg.jpeg' alt='It took me over thirty years to appreciate the creative genius of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*vLT7pmG7AZw91pVrzL5Esg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore the magical world of Hayao Miyazaki in the Academy ...">
+                                <img itemprop="contentUrl url" src='https://www.creativeboom.com/upload/articles/ac/ac2ab720d9139343df8be987fb8a4e5cc6d320f9_1280.jpg' alt='Explore the magical world of Hayao Miyazaki in the Academy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Boom" />
+                                </span>
+                                <a href='https://www.creativeboom.com/upload/articles/ac/ac2ab720d9139343df8be987fb8a4e5cc6d320f9_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/m3qyzuwrf176/5KPziKP0SlO9SbZ5S1LGpD/1f7f30c6d2d870e51c0d03843f13a0e9/Film_still_from_Spirited_Away__2001.jpg?fm=webp' alt='Hayao Miyazaki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1263">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academy Museum of Motion Pictures" />
+                                </span>
+                                <a href='https://images.ctfassets.net/m3qyzuwrf176/5KPziKP0SlO9SbZ5S1LGpD/1f7f30c6d2d870e51c0d03843f13a0e9/Film_still_from_Spirited_Away__2001.jpg?fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Art of Hayao Miyazaki">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527040556763-RD68DC4L4M56VYPN9PTL/Hayao+Miyazaki113.jpg' alt='The Art of Hayao Miyazaki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character Design References" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1527040556763-RD68DC4L4M56VYPN9PTL/Hayao+Miyazaki113.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dgWUHnchL._AC_UF1000,1000_QL80_.jpg' alt='Hayao Miyazaki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dgWUHnchL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hayao Miyazaki Rare Sketches Collection">
+                                <img itemprop="contentUrl url" src='https://www.iamag.co/wp-content/uploads/2017/01/mrarecover.jpg' alt='Hayao Miyazaki Rare Sketches Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iamag" />
+                                </span>
+                                <a href='https://www.iamag.co/wp-content/uploads/2017/01/mrarecover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The art of living, according to Miyazaki | Lifestyle | EL PAÍS English">
+                                <img itemprop="contentUrl url" src='https://imagenes.elpais.com/resizer/v2/JZC25WN6TVBHZDIOAWCX2ISRGE.jpg?auth=6a120cb018f7284fcb1dfaa55027dde5411d71da7f2fe611a34f2e5c0344ea70&width=1960&height=1470&smart=true' alt='The art of living, according to Miyazaki | Lifestyle | EL PAÍS English'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="elpais english - EL PAÍS" />
+                                </span>
+                                <a href='https://imagenes.elpais.com/resizer/v2/JZC25WN6TVBHZDIOAWCX2ISRGE.jpg?auth=6a120cb018f7284fcb1dfaa55027dde5411d71da7f2fe611a34f2e5c0344ea70&width=1960&height=1470&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

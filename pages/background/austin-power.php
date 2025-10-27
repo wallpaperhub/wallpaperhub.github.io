@@ -1,0 +1,129 @@
+<title>Austin Powers: The Ultimate Spy Parody</title>
+                    <meta name="description" content="Discover the hilarious world of Austin Powers, the ultimate parody of spy films. Join Austin in his outrageous adventures filled with humor, nostalgia, and unforgettable characters. Perfect for fans of comedy! Explore the charm and wit that makes Austin Powers a cult classic.">
+                    <meta name="keywords" content="austin power">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/austin-power">
+                            <span itemprop="name">austin power</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Austin Powers: The Ultimate Spy Parody</h1>
+                <p>Austin Powers is an iconic satirical character created by Mike Myers, who parodies spy films of the 1960s. With his flamboyant style, catchphrases, and outrageous antics, Austin becomes a symbol of comedy and nostalgia. The film series, starting with "Austin Powers: International Man of Mystery," combines espionage with humor, making it a cult classic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Austin Powers (character) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/4/42/Mike-Myers-Austin-Powers-1-.jpg' alt='Austin Powers (character) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="339">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/4/42/Mike-Myers-Austin-Powers-1-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Austin Powers | Austin Powers | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/austinpowers/images/1/10/Austin_Powers_render.png/revision/latest?cb=20240727094405' alt='Austin Powers | Austin Powers | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Powers - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/austinpowers/images/1/10/Austin_Powers_render.png/revision/latest?cb=20240727094405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Criterion Channel Presents the Legendary Director Peter ...">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/5f3fed3caf58080946711359/master/pass/Schilling-Goldmember.jpg' alt='The Criterion Channel Presents the Legendary Director Peter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/5f3fed3caf58080946711359/master/pass/Schilling-Goldmember.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does 'Austin Powers' Hold Up? | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/5acce70a3809a7510346b8e6/16:9/w_1280,c_limit/austin-powers-does-it-hold-up-gq.jpg' alt='Does 'Austin Powers' Hold Up? | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/5acce70a3809a7510346b8e6/16:9/w_1280,c_limit/austin-powers-does-it-hold-up-gq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Austin Powers International Man Of Mystery">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91q3tP4KkoL._AC_UF894,1000_QL80_.jpg' alt='Austin Powers International Man Of Mystery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91q3tP4KkoL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Harsh Realities Of Rewatching The Austin Powers Movies">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/collage-of-austin-powers-and-dr-evil-against-a-psychedelic-backdrop.jpg' alt='10 Harsh Realities Of Rewatching The Austin Powers Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/collage-of-austin-powers-and-dr-evil-against-a-psychedelic-backdrop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Austin Powers in Goldmember - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/9/9d/Austin_Powers_in_Goldmember.jpg' alt='Austin Powers in Goldmember - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/9/9d/Austin_Powers_in_Goldmember.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mike Myers says he 'would love' a fourth 'Austin Powers' film">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2022/05/mike-myers-austin-powers-1.jpg?quality=75&strip=all&w=1200' alt='Mike Myers says he 'would love' a fourth 'Austin Powers' film'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2022/05/mike-myers-austin-powers-1.jpg?quality=75&strip=all&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mike Myers on Austin Powers' Fat Bastard, Mini-Me, Dr. Evil">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/a3J3lJG8oiLwvTLnBVGaD6t6VFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/austin-powers-2000-c271620e2d2a4456b650c35c33a40148.jpg' alt='Mike Myers on Austin Powers' Fat Bastard, Mini-Me, Dr. Evil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/a3J3lJG8oiLwvTLnBVGaD6t6VFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/austin-powers-2000-c271620e2d2a4456b650c35c33a40148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Austin Powers - Mike Myers - International man of mystery ...">
+                                <img itemprop="contentUrl url" src='https://www.writeups.org/wp-content/uploads/Austin-Powers-movies-Mike-Myers-a.jpg' alt='Austin Powers - Mike Myers - International man of mystery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Writeups.org" />
+                                </span>
+                                <a href='https://www.writeups.org/wp-content/uploads/Austin-Powers-movies-Mike-Myers-a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

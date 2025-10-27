@@ -1,0 +1,129 @@
+<title>Floral Ceiling Wallpaper: Elevate Your Decor</title>
+                    <meta name="description" content="Discover how floral wallpaper on your ceiling can transform your home decor. This eye-catching trend adds charm and depth, making any space feel more inviting. Perfect for cozy rooms or vibrant living areas, floral ceilings breathe life into your interior design. Explore your options today!">
+                    <meta name="keywords" content="floral wallpaper on ceiling">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-on-ceiling">
+                            <span itemprop="name">floral wallpaper on ceiling</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Floral Ceiling Wallpaper: Elevate Your Decor</h1>
+                <p>Transform your space with floral wallpaper on the ceiling, a bold design choice that adds charm and vibrancy to any room. This unique method draws the eye upwards, creating an illusion of height and spaciousness. Perfect for bedrooms and living areas, floral ceilings bring nature indoors, enhancing your home's overall aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Ceiling Wall Mural Decal, Beautiful Flowers Peel and Stick  Self-Adhesive Wallpaper Removable Large Sticker Foil Print Picture,for  Living Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51iEh7fPpFL._AC_UF894,1000_QL80_.jpg' alt='Floral Ceiling Wall Mural Decal, Beautiful Flowers Peel and Stick  Self-Adhesive Wallpaper Removable Large Sticker Foil Print Picture,for  Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51iEh7fPpFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Retro Flowers CA1276 Ceiling Wallpaper Removable Self Adhesive Wallpaper  Large Peel & Stick Wallpaper Wallpaper Mural AJ WALLPAPERS - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/5dc38d/3358697536/il_1080xN.3358697536_shr8.jpg' alt='3D Retro Flowers CA1276 Ceiling Wallpaper Removable Self Adhesive Wallpaper  Large Peel & Stick Wallpaper Wallpaper Mural AJ WALLPAPERS - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/5dc38d/3358697536/il_1080xN.3358697536_shr8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Secret Flower World CA2127 Ceiling Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/3d7623/3388083390/il_570xN.3388083390_3043.jpg' alt='3D Secret Flower World CA2127 Ceiling Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/3d7623/3388083390/il_570xN.3388083390_3043.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Install Wallpaper on a Ceiling like a Pro! - A Life Unfolding">
+                                <img itemprop="contentUrl url" src='https://alifeunfolding.com/wp-content/uploads/2022/11/Bold-Floral-wallpaper-on-ceiling-762x1024.png' alt='How to Install Wallpaper on a Ceiling like a Pro! - A Life Unfolding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Life Unfolding" />
+                                </span>
+                                <a href='https://alifeunfolding.com/wp-content/uploads/2022/11/Bold-Floral-wallpaper-on-ceiling-762x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Hang Wallpaper On The Ceiling : Ceiling Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/southernyankeediy.com/wp-content/uploads/2020/10/IMG_0227-scaled.jpg?fit=1280%2C960&ssl=1' alt='How To Hang Wallpaper On The Ceiling : Ceiling Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Yankee DIY" />
+                                </span>
+                                <a href='https://i0.wp.com/southernyankeediy.com/wp-content/uploads/2020/10/IMG_0227-scaled.jpg?fit=1280%2C960&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joanna Gaines' ceiling wallpaper: this idea is trend-setting ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/25TCAkeqWSh75abRz5QWa8.jpg' alt='Joanna Gaines' ceiling wallpaper: this idea is trend-setting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6788">
+                                <meta itemprop="height" content="8146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homes & Gardens" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/25TCAkeqWSh75abRz5QWa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ceiling Wallpaper Feature – Painted Paper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0819/2992/8977/files/rosalind-floral-wallpaperpainted-paper-761361_large.jpg?v=1740413346' alt='Ceiling Wallpaper Feature – Painted Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painted Paper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0819/2992/8977/files/rosalind-floral-wallpaperpainted-paper-761361_large.jpg?v=1740413346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Noble Flower Life CA2877 Ceiling Wallpaper Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/924c0b/3408759670/il_570xN.3408759670_mnnk.jpg' alt='3D Noble Flower Life CA2877 Ceiling Wallpaper Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/924c0b/3408759670/il_570xN.3408759670_mnnk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Install Wallpaper on a Ceiling like a Pro! - A Life Unfolding">
+                                <img itemprop="contentUrl url" src='https://alifeunfolding.com/wp-content/uploads/2022/12/Bold-Floral-Wallpaper-on-Ceiling-1024x683.jpg' alt='How to Install Wallpaper on a Ceiling like a Pro! - A Life Unfolding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Life Unfolding" />
+                                </span>
+                                <a href='https://alifeunfolding.com/wp-content/uploads/2022/12/Bold-Floral-Wallpaper-on-Ceiling-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Black Saturated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/6c/42/116c42e85b85d0137433da69a91506ea.jpg' alt='Dark Floral II Black Saturated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/6c/42/116c42e85b85d0137433da69a91506ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

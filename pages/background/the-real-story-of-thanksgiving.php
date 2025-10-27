@@ -1,0 +1,129 @@
+<title>Uncovering the Real Story of Thanksgiving</title>
+                    <meta name="description" content="Explore the true origins of Thanksgiving, a holiday rooted in cooperation and cultural exchange. Delve into the historical significance of the 1621 feast between Pilgrims and the Wampanoag tribe, and discover how this event evolved into the national holiday we celebrate today.">
+                    <meta name="keywords" content="the real story of thanksgiving">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-real-story-of-thanksgiving">
+                            <span itemprop="name">the real story of thanksgiving</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncovering the Real Story of Thanksgiving</h1>
+                <p>The real story of Thanksgiving dates back to 1621 when Pilgrims celebrated a successful harvest with the Wampanoag tribe in Plymouth, Massachusetts. This feast, often misconceived, symbolized cooperation rather than conflict. Over the years, Thanksgiving evolved, merging various cultural practices, leading to its recognition as a national holiday in 1863.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Real Story of Thanksgiving?">
+                                <img itemprop="contentUrl url" src='https://today.charleston.edu/wp-content/uploads/sites/2/2022/11/First-Thanksgiving-Featured.jpg' alt='What is the Real Story of Thanksgiving?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The College Today - College of Charleston" />
+                                </span>
+                                <a href='https://today.charleston.edu/wp-content/uploads/sites/2/2022/11/First-Thanksgiving-Featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story of the First Thanksgiving (What Really Happened?)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81O6qPEbzLL._AC_UF1000,1000_QL80_.jpg' alt='The True Story of the First Thanksgiving (What Really Happened?)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81O6qPEbzLL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Tell the Thanksgiving Story on Its 400th Anniversary ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/oTQ_INamG9I65nZNDbALO_-TPoY=/1000x750/filters:no_upscale():focal(1280x963:1281x964)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/bf/1dbfbe1e-15a7-41a2-b637-56ddb518b3d0/2560px-thanksgiving_at_plymouth_1925_brownscombe.jpeg' alt='How to Tell the Thanksgiving Story on Its 400th Anniversary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/oTQ_INamG9I65nZNDbALO_-TPoY=/1000x750/filters:no_upscale():focal(1280x963:1281x964)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/bf/1dbfbe1e-15a7-41a2-b637-56ddb518b3d0/2560px-thanksgiving_at_plymouth_1925_brownscombe.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Thanksgiving: Native people reflect on real story">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/presto/2020/09/22/NLED/2367a2c9-7922-459b-b1be-56442dc1d6e8-AP20262667592641.jpg' alt='First Thanksgiving: Native people reflect on real story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3190">
+                                <meta itemprop="height" content="2106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/presto/2020/09/22/NLED/2367a2c9-7922-459b-b1be-56442dc1d6e8-AP20262667592641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First Thanksgiving: What the Real Story Tells Us About Loving ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91bvCYGNnAL.jpg' alt='The First Thanksgiving: What the Real Story Tells Us About Loving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91bvCYGNnAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The true story behind Thanksgiving is a bloody one, and some ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/liSpOyOS9tPTjBlBuCbXjq_E3WJFtYM0npbGoyyQqFo.jpg?auto=webp&s=1740f1adbaa2fc93dfab4c2edd57686d741c9040' alt='The true story behind Thanksgiving is a bloody one, and some ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/liSpOyOS9tPTjBlBuCbXjq_E3WJFtYM0npbGoyyQqFo.jpg?auto=webp&s=1740f1adbaa2fc93dfab4c2edd57686d741c9040' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first Thanksgiving is a key chapter in America's origin story ...">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/432920/original/file-20211119-22767-1auehyy.jpg?ixlib=rb-4.1.0&rect=7%2C888%2C4695%2C2347&q=45&auto=format&w=1356&h=668&fit=crop' alt='The first Thanksgiving is a key chapter in America's origin story ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/432920/original/file-20211119-22767-1auehyy.jpg?ixlib=rb-4.1.0&rect=7%2C888%2C4695%2C2347&q=45&auto=format&w=1356&h=668&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Learned About Thanksgiving Is Wrong - The New York ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/11/30/us/xp-ThanksgivingMyths-slide-FFCL/xp-ThanksgivingMyths-slide-FFCL-videoSixteenByNineJumbo1600-v3.jpg?year=2017&h=592&w=1053&s=1d8d71a6a93ec484f515c141e33d461ca66424966850d1f0a1ec9c4d8944196a&k=ZQJBKqZ0VN&tw=1' alt='Everything You Learned About Thanksgiving Is Wrong - The New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1053">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/11/30/us/xp-ThanksgivingMyths-slide-FFCL/xp-ThanksgivingMyths-slide-FFCL-videoSixteenByNineJumbo1600-v3.jpg?year=2017&h=592&w=1053&s=1d8d71a6a93ec484f515c141e33d461ca66424966850d1f0a1ec9c4d8944196a&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The (True) Story of Thanksgiving - Peace & Justice Center">
+                                <img itemprop="contentUrl url" src='https://www.pjcvt.org/wp-content/uploads/2022/03/123641-004-1827792B.jpg' alt='The (True) Story of Thanksgiving - Peace & Justice Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peace & Justice Center" />
+                                </span>
+                                <a href='https://www.pjcvt.org/wp-content/uploads/2022/03/123641-004-1827792B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The True Story of Thanksgiving | Creative by Nature">
+                                <img itemprop="contentUrl url" src='https://creativesystemsthinking.wordpress.com/wp-content/uploads/2015/11/pequot_war-800x430.jpg?w=640' alt='The True Story of Thanksgiving | Creative by Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative by Nature - WordPress.com" />
+                                </span>
+                                <a href='https://creativesystemsthinking.wordpress.com/wp-content/uploads/2015/11/pequot_war-800x430.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

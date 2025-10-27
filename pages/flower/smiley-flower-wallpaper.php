@@ -1,0 +1,129 @@
+<title>Smiley Flower Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover the joy of smiley flower wallpaper! Perfect for kids' rooms or any cheerful space, this wallpaper combines vibrant colors with playful designs, bringing happiness to your walls. Easy to apply and perfect for adding a whimsical touch to any room! Shop now for a brighter home!">
+                    <meta name="keywords" content="smiley flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/smiley-flower-wallpaper">
+                            <span itemprop="name">smiley flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smiley Flower Wallpaper: Brighten Your Space</h1>
+                <p>Brighten up your space with cheerful smiley flower wallpaper! Perfect for children’s rooms, play areas, or any space needing a splash of color and joy. With vibrant floral patterns and smiling faces, this wallpaper adds fun and positivity to your walls. Transform your environment with a touch of whimsy today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/smileyflowersSHOPIFY.jpg?v=1678462258&width=1710' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1710">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/smileyflowersSHOPIFY.jpg?v=1678462258&width=1710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❀ｉｎｄｉｅ ｆｌｏｗｅｒ❀">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/0a/00/560a00e887737c4e750b0997d5381dc7.jpg' alt='❀ｉｎｄｉｅ ｆｌｏｗｅｒ❀'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/0a/00/560a00e887737c4e750b0997d5381dc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Preppy Smiley Face Flower Phone Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26898177/r/il/6838e9/2913872549/il_570xN.2913872549_ev5u.jpg' alt='Retro Preppy Smiley Face Flower Phone Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26898177/r/il/6838e9/2913872549/il_570xN.2913872549_ev5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Flower Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13242408/p/f/m/4aiT3FtO19w0BfKGdTKNvJkmuD_s9GVsUKg4DleR6HJaEICEN3RoR0I/Tiny%20Micro%20Pastel%20Smiley%20Face%20Flowers%20on%20Checks%20colorful%20Bold%20Playful%20Fun%20Boho%20Kids.jpg' alt='Smiley Face Flower Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13242408/p/f/m/4aiT3FtO19w0BfKGdTKNvJkmuD_s9GVsUKg4DleR6HJaEICEN3RoR0I/Tiny%20Micro%20Pastel%20Smiley%20Face%20Flowers%20on%20Checks%20colorful%20Bold%20Playful%20Fun%20Boho%20Kids.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Pattern 73 - Flower Smiley Face">
+                                <img itemprop="contentUrl url" src='https://threadmama.com/cdn/shop/products/Pattern-73_watermark_900x.jpg?v=1619023394' alt='Background Pattern 73 - Flower Smiley Face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thread Mama" />
+                                </span>
+                                <a href='https://threadmama.com/cdn/shop/products/Pattern-73_watermark_900x.jpg?v=1619023394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Smiley Face Flower Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370873632/vector/70s-seamless-vector-pattern-with-vintage-daisy-flowers.jpg?s=612x612&w=0&k=20&c=rT-cCwekpd_KSBss29n9SJVh2VKvpJvm7CKYDiZwwrc=' alt='2,300+ Smiley Face Flower Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370873632/vector/70s-seamless-vector-pattern-with-vintage-daisy-flowers.jpg?s=612x612&w=0&k=20&c=rT-cCwekpd_KSBss29n9SJVh2VKvpJvm7CKYDiZwwrc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley face flower">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/40/77/c8407717121c03727793126d71becd8b.jpg' alt='smiley face flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/40/77/c8407717121c03727793126d71becd8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Artwork">
+                                <img itemprop="contentUrl url" src='https://threadmama.com/cdn/shop/products/Pattern_64_watermark_360x.jpg?v=1619021336' alt='Printable Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thread Mama" />
+                                </span>
+                                <a href='https://threadmama.com/cdn/shop/products/Pattern_64_watermark_360x.jpg?v=1619021336' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Power Wallpaper with Smiley Faces">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/37/d0/6337d0c571b3f767e9dfdc7f3394e94a.jpg' alt='Flower Power Wallpaper with Smiley Faces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/37/d0/6337d0c571b3f767e9dfdc7f3394e94a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD smiley flowers wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/14/1012/HD-wallpaper-murakami-flower-gshock-smiley-vans-thumbnail.jpg' alt='HD smiley flowers wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/14/1012/HD-wallpaper-murakami-flower-gshock-smiley-vans-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

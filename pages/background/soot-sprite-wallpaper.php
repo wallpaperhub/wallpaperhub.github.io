@@ -1,0 +1,129 @@
+<title>Whimsical Soot Sprite Wallpaper for Enchanting Spaces</title>
+                    <meta name="description" content="Transform your room with our enchanting soot sprite wallpaper! Perfect for anime lovers, this whimsical design adds a charming touch to any space. Easy to apply and remove, it’s ideal for creating a cozy, magical atmosphere in your home. Explore our collection today!">
+                    <meta name="keywords" content="soot sprite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soot-sprite-wallpaper">
+                            <span itemprop="name">soot sprite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Soot Sprite Wallpaper for Enchanting Spaces</h1>
+                <p>Soot sprite wallpaper brings a whimsical touch to your space, featuring the beloved fluffy black creatures from Studio Ghibli’s films. Perfect for fans of anime and magical aesthetics, this wallpaper design adds a playful charm to bedrooms, nurseries, or any room needing a sprinkle of enchantment. Brighten your walls with these adorable sprites!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot Sprite wallpaper for smartphones. All scenes with the soot ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/soot-sprite-wallpaper-for-smartphones-all-scenes-with-the-v0-emjhrf4b526d1.png?width=1080&crop=smart&auto=webp&s=62d80df383a21ab481186f40e6cd7a1c7d658caf' alt='Soot Sprite wallpaper for smartphones. All scenes with the soot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/soot-sprite-wallpaper-for-smartphones-all-scenes-with-the-v0-emjhrf4b526d1.png?width=1080&crop=smart&auto=webp&s=62d80df383a21ab481186f40e6cd7a1c7d658caf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot Sprite Hot Topic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/49/c9/b549c93bb0d2453e03387b7779179c4d.jpg' alt='Soot Sprite Hot Topic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/49/c9/b549c93bb0d2453e03387b7779179c4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ghibli soot sprite wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/bb/06/31bb067987ef78fa570e9effc7e83bde.jpg' alt='ghibli soot sprite wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/bb/06/31bb067987ef78fa570e9effc7e83bde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a soot sprite pattern I made! which one is your favorite? : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aurk1z3k52z81.jpg' alt='a soot sprite pattern I made! which one is your favorite? : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aurk1z3k52z81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot Sprites Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12223919/p/f/m/fXKLGP1LDJ9rcnGQ1jvMP_99Em2T9Y4Hen5tKjZdAf1iIEphNSOY07w/The%20Labor.jpg' alt='Soot Sprites Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12223919/p/f/m/fXKLGP1LDJ9rcnGQ1jvMP_99Em2T9Y4Hen5tKjZdAf1iIEphNSOY07w/The%20Labor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot sprite wallpaper - brookedesu's Ko-fi Shop - Ko-fi ❤️ Where ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/10032781-30bd-415e-881e-d1e5d0255119_c44cb769-9a57-45d3-862c-78f9a570868a.png' alt='Soot sprite wallpaper - brookedesu's Ko-fi Shop - Ko-fi ❤️ Where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/10032781-30bd-415e-881e-d1e5d0255119_c44cb769-9a57-45d3-862c-78f9a570868a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a soot sprite pattern I made! which one is your favorite? : r/ghibli">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e3ao7z3k52z81.jpg' alt='a soot sprite pattern I made! which one is your favorite? : r/ghibli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e3ao7z3k52z81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="soot sprites">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3f/3d/09/3f3d09accfd9caa00140e70e23db18dd.jpg' alt='soot sprites'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3f/3d/09/3f3d09accfd9caa00140e70e23db18dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot Sprite Wallpaper - Astral Arts - Digital Art & AI ...">
+                                <img itemprop="contentUrl url" src='https://img.artpal.com/235411/1-19-3-27-0-34-12m.jpg' alt='Soot Sprite Wallpaper - Astral Arts - Digital Art & AI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtPal" />
+                                </span>
+                                <a href='https://img.artpal.com/235411/1-19-3-27-0-34-12m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soot Sprites Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10109147/p/f/l/4a2H8u__f214_lt3Pq25UjJEeHiyeTWoMlSTLKEIPHisWWLkr-ut7V2bAg/White%20Soot%20Sweet.jpg' alt='Soot Sprites Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10109147/p/f/l/4a2H8u__f214_lt3Pq25UjJEeHiyeTWoMlSTLKEIPHisWWLkr-ut7V2bAg/White%20Soot%20Sweet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

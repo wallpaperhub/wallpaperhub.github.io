@@ -1,0 +1,129 @@
+<title>Rilakkuma Christmas Wallpapers: Festive & Cute Designs</title>
+                    <meta name="description" content="Discover delightful Rilakkuma Christmas wallpapers to brighten your holiday spirit! Perfect for fans of the adorable bear and his friends, these festive designs offer a cute touch to your screens. Download now for a dose of joy and cheer this Christmas season!">
+                    <meta name="keywords" content="rilakkuma christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/rilakkuma-christmas-wallpaper">
+                            <span itemprop="name">rilakkuma christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rilakkuma Christmas Wallpapers: Festive & Cute Designs</h1>
+                <p>Celebrate the joyous season with charming Rilakkuma Christmas wallpapers! Featuring adorable illustrations of Rilakkuma and his friends in festive settings, these wallpapers will add a touch of whimsy to your holiday decor. Perfect for your phone or computer, embrace the warmth and cuteness of Christmas with Rilakkuma!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma Christmas Wallpaper #rilakkuma #wallpaper #cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/69/04/b06904636fbaa40dbc2e38ce9a8ae7c0.jpg' alt='Rilakkuma Christmas Wallpaper #rilakkuma #wallpaper #cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/69/04/b06904636fbaa40dbc2e38ce9a8ae7c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c4/32/93/c4329360458aaa71ba8ee50ff3e9b278.jpg' alt='Cute Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c4/32/93/c4329360458aaa71ba8ee50ff3e9b278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma-Christmas-Wallpaper-San-X-Christmas-Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/c4/96/73c49666ce8a433fef69d50b99cb6ff7.jpg' alt='Rilakkuma-Christmas-Wallpaper-San-X-Christmas-Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/c4/96/73c49666ce8a433fef69d50b99cb6ff7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas from modes4u | modeS Blog">
+                                <img itemprop="contentUrl url" src='http://blog.modes4u.com/images/Merry-Christmas-from-modes4u/Merry-Christmas-from-modes4u-1.jpg' alt='Merry Christmas from modes4u | modeS Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="modeS Blog - modeS4u" />
+                                </span>
+                                <a href='http://blog.modes4u.com/images/Merry-Christmas-from-modes4u/Merry-Christmas-from-modes4u-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink rilakkuma sweet christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/77/0c/e4770c390a40e42042673fe484616638.jpg' alt='pink rilakkuma sweet christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/77/0c/e4770c390a40e42042673fe484616638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8e/40/e6/8e40e6d2bd252000a1f037d3ffb39512.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8e/40/e6/8e40e6d2bd252000a1f037d3ffb39512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rilakkuma Global - Seeing all the lights out during the holidays ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1164864311672983' alt='Rilakkuma Global - Seeing all the lights out during the holidays ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1164864311672983' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy holidays from Rilakkuma Lifestyle! | RilakkumaLifestyle">
+                                <img itemprop="contentUrl url" src='https://rilakkumalifestyle.com/wp-content/uploads/2013/12/christmas2013-600px.jpg?w=584' alt='Happy holidays from Rilakkuma Lifestyle! | RilakkumaLifestyle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RilakkumaLifestyle" />
+                                </span>
+                                <a href='https://rilakkumalifestyle.com/wp-content/uploads/2013/12/christmas2013-600px.jpg?w=584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Rilakkuma ideas | rilakkuma, rilakkuma wallpaper, kawaii">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8a/55/ea/8a55eacc92baef5d599538bd475cce8c.jpg' alt='17 Rilakkuma ideas | rilakkuma, rilakkuma wallpaper, kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8a/55/ea/8a55eacc92baef5d599538bd475cce8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Rilakkuma Christmas">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2282824015453098455/5C1CD99C0124430FCEF63F112001C798BC89BD7F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Rilakkuma Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2282824015453098455/5C1CD99C0124430FCEF63F112001C798BC89BD7F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

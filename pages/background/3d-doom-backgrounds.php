@@ -1,0 +1,129 @@
+<title>Stunning 3D Doom Backgrounds for Gamers</title>
+                    <meta name="description" content="Explore our collection of stunning 3D Doom backgrounds designed for gamers. Transform your screen with captivating visuals that capture the essence of this iconic game, perfect for desktop or mobile display. Elevate your gaming experience today!">
+                    <meta name="keywords" content="3d doom backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-doom-backgrounds">
+                            <span itemprop="name">3d doom backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Doom Backgrounds for Gamers</h1>
+                <p>3D Doom backgrounds immerse you in a hauntingly beautiful world of chaos and shadows. These striking visuals capture the essence of the iconic game, featuring dystopian landscapes, eerie environments, and the adrenaline-filled atmosphere fans love. Perfect for gaming enthusiasts wanting to set the mood for their desktops or gaming setups.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Doom Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/doom-game-agp59ervo4y5wbob.jpg' alt='100+] Doom Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/doom-game-agp59ervo4y5wbob.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a home screen background from my 3D printed DooM Guy : r/Doom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d25cmq7w0ij21.jpg' alt='I made a home screen background from my 3D printed DooM Guy : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2675">
+                                <meta itemprop="height" content="5498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d25cmq7w0ij21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Doom Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/doomguy-doom-slayer-1920-x-1080-gaming-axy67bqjcy1f34bq.jpg' alt='100+] Doom Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/doomguy-doom-slayer-1920-x-1080-gaming-axy67bqjcy1f34bq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/f0/78/60f078932cecfbbf37eb1e9eb380ddf2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/f0/78/60f078932cecfbbf37eb1e9eb380ddf2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Doom, DOOM Eternal, Dark">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/7e/17/577e17c740fbdfcfab0980f6977adf7c.jpg' alt='HD wallpaper: Doom, DOOM Eternal, Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/7e/17/577e17c740fbdfcfab0980f6977adf7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Doom 3 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/doom-3-um1oeawoumdtnggi.jpg' alt='100+] Doom 3 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/doom-3-um1oeawoumdtnggi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D MODEL] Doom Eternal Main Menu recreated by Mrattilla ...">
+                                <img itemprop="contentUrl url" src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/4/4/0/440d6e07171de1ff9ffaee1b15fd526fe150c449.jpeg' alt='3D MODEL] Doom Eternal Main Menu recreated by Mrattilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Developer Forum | Roblox" />
+                                </span>
+                                <a href='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/4/4/0/440d6e07171de1ff9ffaee1b15fd526fe150c449.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom Logo Wallpaper by erickfael">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/133/1337343.png' alt='Doom Logo Wallpaper by erickfael'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/133/1337343.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom 3D Wallpapers: Immerse in Hellish Realms with Stunning Detail!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/91/b9/6791b94c141a1d9e3d354e6965ebe5e4.jpg' alt='Doom 3D Wallpapers: Immerse in Hellish Realms with Stunning Detail!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/91/b9/6791b94c141a1d9e3d354e6965ebe5e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool doom eternal backgrounds : r/Doom">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cool-doom-eternal-backgrounds-v0-z38l1svhpzid1.jpg?width=1920&format=pjpg&auto=webp&s=d6263a9102196a1e8312cfc700ea7a784c6416dd' alt='Cool doom eternal backgrounds : r/Doom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cool-doom-eternal-backgrounds-v0-z38l1svhpzid1.jpg?width=1920&format=pjpg&auto=webp&s=d6263a9102196a1e8312cfc700ea7a784c6416dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Retro Beach Art Wallpaper: Vivid Nostalgia for Your Walls</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="retro beach art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/retro-beach-art-wallpaper">
+                            <span itemprop="name">retro beach art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro Beach Art Wallpaper: Vivid Nostalgia for Your Walls</h1>
+                <p>Transform your space with retro beach art wallpaper, perfect for adding a nostalgic vibe to any room. Featuring vibrant colors, iconic surf motifs, and palm tree silhouettes, this wallpaper captures the essence of carefree summer days. Ideal for beach houses or to evoke a seaside escape, it's an artful choice for your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach Background Images – Browse 416,758 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/56/89/68/360_F_256896810_6MYD5cMjunKCgZVIf9zBdJTe9fe66pe3.jpg' alt='Retro Beach Background Images – Browse 416,758 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/56/89/68/360_F_256896810_6MYD5cMjunKCgZVIf9zBdJTe9fe66pe3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Beach - Retro-Futuristic Collage Beach Art Design Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/128583.jpg' alt='Space Beach - Retro-Futuristic Collage Beach Art Design Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1019">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/128583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro vintage beach with coconut tree at sunset ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-vintage-beach-with-coconut-tree-sunset-background-illustration_26507-927.jpg' alt='Premium Vector | Retro vintage beach with coconut tree at sunset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-vintage-beach-with-coconut-tree-sunset-background-illustration_26507-927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD retro beach wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/809/634/HD-wallpaper-8bit-car-8bit-retro-beach-landscape.jpg' alt='HD retro beach wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/809/634/HD-wallpaper-8bit-car-8bit-retro-beach-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Retro Wave Wallpaper, HD Artist 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/beach-retro-wave_a25ramWUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Beach Retro Wave Wallpaper, HD Artist 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/beach-retro-wave_a25ramWUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach HDR | Beach wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/15/f0/ee15f006d585a8155ad60f813e582f8e.jpg' alt='Retro Beach HDR | Beach wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/15/f0/ee15f006d585a8155ad60f813e582f8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Beautiful tropical beach with silhouettes of palm trees at  sunset. Travel background with retro vintage instagram filter">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_pat(s3:700/PI/25/18/00/27/3/700_PI251800273_f656ca87f7e783a438115c85b8cf40c7_5b7abf69b9613_.,0.2381w,0.2381h,475,700,jpg)/wallpapers-beautiful-tropical-beach-with-silhouettes-of-palm-trees-at-sunset-travel-background-with-retro-vintage-instagram-filter.jpg.jpg' alt='Wallpaper Beautiful tropical beach with silhouettes of palm trees at  sunset. Travel background with retro vintage instagram filter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_pat(s3:700/PI/25/18/00/27/3/700_PI251800273_f656ca87f7e783a438115c85b8cf40c7_5b7abf69b9613_.,0.2381w,0.2381h,475,700,jpg)/wallpapers-beautiful-tropical-beach-with-silhouettes-of-palm-trees-at-sunset-travel-background-with-retro-vintage-instagram-filter.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Beach Scene Illustration Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/cartoon-car-surfboard-on-the-beach-mural.jpg?v=1649930687' alt='Vintage Beach Scene Illustration Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/cartoon-car-surfboard-on-the-beach-mural.jpg?v=1649930687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALL ART DESIRE Vintage Miami Beach Sunset Palm Trees Paradise ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818d3q1LEFL.jpg' alt='WALL ART DESIRE Vintage Miami Beach Sunset Palm Trees Paradise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818d3q1LEFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Charcoal Tropical Palm Tree and Summer Beach Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/n/a/nature-wallpaper-vintage-charcoal-landscape-wall-murals-tropical_h1z2awl3bghmaqz_3d_1.jpg' alt='Vintage Charcoal Tropical Palm Tree and Summer Beach Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/n/a/nature-wallpaper-vintage-charcoal-landscape-wall-murals-tropical_h1z2awl3bghmaqz_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

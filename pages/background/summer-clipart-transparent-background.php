@@ -1,0 +1,129 @@
+<title>Bright and Fun Summer Clipart with Transparent Background</title>
+                    <meta name="description" content="Discover vibrant summer clipart with a transparent background! Perfect for crafts, invitations, and digital designs, these images bring the joy of summer to your projects. Download and enhance your creative works with colorful graphics that fit seamlessly into any design. Ideal for quick and easy use!">
+                    <meta name="keywords" content="summer clipart transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-clipart-transparent-background">
+                            <span itemprop="name">summer clipart transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright and Fun Summer Clipart with Transparent Background</h1>
+                <p>Summer clipart with a transparent background is perfect for your seasonal projects! Whether you're designing invitations, social media graphics, or web content, these graphics add a bright, cheerful touch. Enjoy a variety of images, from sunny beaches to vibrant flowers, all without unsightly borders. Use them freely for fun and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210601/ourmid/pngtree-summer-circle-vector-png-image_3396976.jpg' alt='Summer Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210601/ourmid/pngtree-summer-circle-vector-png-image_3396976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sunshine-sun-clip-art-with-transparent-background-free-free ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/norfolkpl.org/wp-content/uploads/2019/05/sunshine-sun-clip-art-with-transparent-background-free-free-clipart-sun-2361_2358-2.png?ssl=1' alt='sunshine-sun-clip-art-with-transparent-background-free-free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2361">
+                                <meta itemprop="height" content="2358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Norfolk Public Library" />
+                                </span>
+                                <a href='https://i0.wp.com/norfolkpl.org/wp-content/uploads/2019/05/sunshine-sun-clip-art-with-transparent-background-free-free-clipart-sun-2361_2358-2.png?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Clipart PNG Images, Summer, Summer Clipart, Great PNG Image ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190603/original/pngtree-summer-png-image_734661.jpg' alt='Summer Clipart PNG Images, Summer, Summer Clipart, Great PNG Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190603/original/pngtree-summer-png-image_734661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/sm/20180410/sm_5acc5f5d244b6.png' alt='Summer PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/sm/20180410/sm_5acc5f5d244b6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ground Transparent PNG Clip Art​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/16706' alt='Summer Ground Transparent PNG Clip Art​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="4415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/16706' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Clipart Images – Browse 783,294 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/01/34/45/360_F_601344590_a1IxrWoalG9771MorXku3JaF4nAmo3rb.jpg' alt='Summer Clipart Images – Browse 783,294 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/01/34/45/360_F_601344590_a1IxrWoalG9771MorXku3JaF4nAmo3rb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Beach Scene Clipart Transparent PNG Hd, The Beach In Summer ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210718/original/pngtree-the-beach-in-summer-png-image_6526985.jpg' alt='Summer Beach Scene Clipart Transparent PNG Hd, The Beach In Summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210718/original/pngtree-the-beach-in-summer-png-image_6526985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Summer Clipart Transparent Background, Cute Summer Sticker ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/f2/1a/36f21a1b9c6a440ecd348e859f1f84c7.jpg' alt='Cute Summer Clipart Transparent Background, Cute Summer Sticker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/f2/1a/36f21a1b9c6a440ecd348e859f1f84c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Summer Clipart Transparent Background, Sun Hello Summer ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220429/original/pngtree-sun-hello-summer-swimming-cute-cartoon-lettering-png-image_7572653.png' alt='Hello Summer Clipart Transparent Background, Sun Hello Summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220429/original/pngtree-sun-hello-summer-swimming-cute-cartoon-lettering-png-image_7572653.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Summer PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/f5/1d/abf51d90051378597ba789fd05737021.jpg' alt='Hello Summer PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/f5/1d/abf51d90051378597ba789fd05737021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

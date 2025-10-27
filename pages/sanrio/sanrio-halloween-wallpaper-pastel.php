@@ -1,0 +1,129 @@
+<title>Pastel Sanrio Halloween Wallpapers for a Spooky Chic Look</title>
+                    <meta name="description" content="Discover adorable Sanrio Halloween wallpapers in pastel colors! Perfect for adding a cute and spooky vibe to your device, these wallpapers showcase beloved characters like Hello Kitty and My Melody. Download today and elevate your Halloween aesthetic!">
+                    <meta name="keywords" content="sanrio halloween wallpaper pastel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio">
+                            <span itemprop="name">Sanrio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/sanrio/sanrio-halloween-wallpaper-pastel">
+                            <span itemprop="name">sanrio halloween wallpaper pastel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Sanrio Halloween Wallpapers for a Spooky Chic Look</h1>
+                <p>Transform your device with enchanting Sanrio Halloween wallpapers in pastel shades! These delightful and whimsical designs feature your favorite Sanrio characters, like Hello Kitty and My Melody, celebrating Halloween in a charming, soft color palette. Perfect for adding a touch of spooky sweetness to your screens this season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="halloween sanrio wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/11/70/bf117099c54f138422ed163c56a58d3d.jpg' alt='halloween sanrio wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/11/70/bf117099c54f138422ed163c56a58d3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Cinnamoroll Halloween Desktop & Mobile Background - Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/10/cinnamoroll-halloween-black-wallpaper-desktop-1536x864.jpeg' alt='Sanrio Cinnamoroll Halloween Desktop & Mobile Background - Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/10/cinnamoroll-halloween-black-wallpaper-desktop-1536x864.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="daily hello kitty ♡ on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/02/14/72021458c7706b29602a2c49e6fe20d9.jpg' alt='daily hello kitty ♡ on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/02/14/72021458c7706b29602a2c49e6fe20d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡サンリオ♡ —    sanrio · halloween lockscreens ✿ like or reblog...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2d31a06b1266e7f105231d34dc7ddba1/bb2e29a4b8edd419-b8/s1280x1920/d0e269881b247f20ed8b22c62f723f2973779ee9.png' alt='♡サンリオ♡ —    sanrio · halloween lockscreens ✿ like or reblog...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="823">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="♡サンリオ♡ - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2d31a06b1266e7f105231d34dc7ddba1/bb2e29a4b8edd419-b8/s1280x1920/d0e269881b247f20ed8b22c62f723f2973779ee9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Halloween Wallpapers [26+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/275/sanrio-hello-kitty-halloween-wallpaper-1280x720.jpg' alt='Hello Kitty Halloween Wallpapers [26+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/275/sanrio-hello-kitty-halloween-wallpaper-1280x720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty Witch Halloween Sanrio Pfp Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-witch-halloween-sanrio-pfp-0w7e4frr6ux7rrsw.jpg' alt='Download Hello Kitty Witch Halloween Sanrio Pfp Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-witch-halloween-sanrio-pfp-0w7e4frr6ux7rrsw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween sanrio wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/17/b6/b117b6dc48d466fb8f0c7c881c01b899.jpg' alt='Halloween sanrio wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/17/b6/b117b6dc48d466fb8f0c7c881c01b899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper 4K, Halloween costume, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/hello-kitty-2880x1800-13581.png' alt='Hello Kitty Wallpaper 4K, Halloween costume, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/hello-kitty-2880x1800-13581.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Sanrio Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-halloween-pastel-pattern-background_23-2149712338.jpg' alt='Halloween Sanrio Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-halloween-pastel-pattern-background_23-2149712338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween with Sanrio – Cookies and Wallpaper – kaoani">
+                                <img itemprop="contentUrl url" src='https://kaoani.home.blog/wp-content/uploads/2019/08/f5369-sanrio-hello-kitty-halloween-1.jpg?w=720' alt='Halloween with Sanrio – Cookies and Wallpaper – kaoani'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kaoani" />
+                                </span>
+                                <a href='https://kaoani.home.blog/wp-content/uploads/2019/08/f5369-sanrio-hello-kitty-halloween-1.jpg?w=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

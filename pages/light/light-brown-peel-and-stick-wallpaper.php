@@ -1,0 +1,129 @@
+<title>Transform Your Space with Light Brown Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of light brown peel and stick wallpaper, perfect for effortless home makeovers. Easy application and removal make it ideal for renters. Elevate your decor with a cozy, stylish touch today!">
+                    <meta name="keywords" content="light brown peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-brown-peel-and-stick-wallpaper">
+                            <span itemprop="name">light brown peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Light Brown Peel and Stick Wallpaper</h1>
+                <p>Light brown peel and stick wallpaper offers a versatile and stylish solution for enhancing your home decor. Easy to apply and remove, this wallpaper allows you to refresh any room without commitment. Its warm tones blend seamlessly with various styles, adding a cozy atmosphere. Perfect for renters and DIY enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Textured Grasscloth Light Brown Peel And Stick ...">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899904544814_5.jpg?v=1694156006' alt='Decoratorsbest Textured Grasscloth Light Brown Peel And Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899904544814_5.jpg?v=1694156006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Peel & Stick Removable Wallpaper | Peel&Paper – Peel & Paper">
+                                <img itemprop="contentUrl url" src='https://peelandpaper.com/cdn/shop/files/OliveWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736949036&width=533' alt='Brown Peel & Stick Removable Wallpaper | Peel&Paper – Peel & Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peel & Paper" />
+                                </span>
+                                <a href='https://peelandpaper.com/cdn/shop/files/OliveWhiteSofaWithBlueCushionsandOpenBooksonCoffeeTable.jpg?v=1736949036&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Textured Grasscloth Light Brown Peel And Stick ...">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899904544814_2.jpg?v=1694156404' alt='Decoratorsbest Textured Grasscloth Light Brown Peel And Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899904544814_2.jpg?v=1694156404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Light Tan Peel and Stick Wallpaper Removable Brown Vinyl  Wallpaper Stick and Peel Waterproof Contact Paper for Cabinets Bathroom  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81tuTLZZu4L.jpg' alt='ReWallpaper Light Tan Peel and Stick Wallpaper Removable Brown Vinyl  Wallpaper Stick and Peel Waterproof Contact Paper for Cabinets Bathroom  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81tuTLZZu4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Peel and Stick Wallpaper Light Brown Wood Slats Wallpaper  15.7"x118" Self-adhesive Removable Wood Grain Contact Wall Paper Waterproof  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Abyssaly-15-7-x118-1-Peel-Stick-Wallpaper-light-brown-wood-wallpaper-Self-adhesive-grain-contact-paper-Suitable-bedroom-wall-cabinets-Furniture-refur_559a132b-ddbb-4162-8f84-5e306b2051e2.fd4107244d6b4e859c4b9596d2e00630.jpeg' alt='Abyssaly Peel and Stick Wallpaper Light Brown Wood Slats Wallpaper  15.7"x118" Self-adhesive Removable Wood Grain Contact Wall Paper Waterproof  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Abyssaly-15-7-x118-1-Peel-Stick-Wallpaper-light-brown-wood-wallpaper-Self-adhesive-grain-contact-paper-Suitable-bedroom-wall-cabinets-Furniture-refur_559a132b-ddbb-4162-8f84-5e306b2051e2.fd4107244d6b4e859c4b9596d2e00630.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Peel and Stick Wallpaper 30"x236" Wide Self Adhesive Tan Brown  Textured Wallpaper Removable Fabric Contact Paper for Walls Grass Cloth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1B9869SroL._AC_UF894,1000_QL80_.jpg' alt='Grasscloth Peel and Stick Wallpaper 30"x236" Wide Self Adhesive Tan Brown  Textured Wallpaper Removable Fabric Contact Paper for Walls Grass Cloth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1B9869SroL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Peel and Stick Removable Wallpaper | 2023 Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/catalog/category/brown_2023.jpg' alt='Brown Peel and Stick Removable Wallpaper | 2023 Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2022">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/catalog/category/brown_2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper Matte Light Brown Wallpaper Peel and Stick Brown Contact Paper  for Walls Removable Self Adhesive Waterproof Cabinet Vinyl Wrap Brown Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/517yS8lO7BL.jpg' alt='VaryPaper Matte Light Brown Wallpaper Peel and Stick Brown Contact Paper  for Walls Removable Self Adhesive Waterproof Cabinet Vinyl Wrap Brown Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/517yS8lO7BL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Peel and Stick Wallpaper Light Brown Wood Slats Wallpaper  15.7"x118" Self-adhesive Removable Wood Grain Contact Wall Paper Waterproof  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/41ecac06-3c67-4e61-9007-96f425c55a07.180d174bf4a98ede0accbf39499e5a39.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' alt='Abyssaly Peel and Stick Wallpaper Light Brown Wood Slats Wallpaper  15.7"x118" Self-adhesive Removable Wood Grain Contact Wall Paper Waterproof  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart Business" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/41ecac06-3c67-4e61-9007-96f425c55a07.180d174bf4a98ede0accbf39499e5a39.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick Matte Brown Wallpaper Stick and Peel for Bedroom Living Room Solid  Brown Contact Paper Self Adhesive Peel and Stick Brown Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eD6edTyxL._AC_UF894,1000_QL80_.jpg' alt='FunStick Matte Brown Wallpaper Stick and Peel for Bedroom Living Room Solid  Brown Contact Paper Self Adhesive Peel and Stick Brown Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eD6edTyxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cute Cowgirl Wallpaper: Adorable Designs for Your Screen</title>
+                    <meta name="description" content="Discover the cutest cowgirl wallpaper for your devices! Our collection features charming designs that add a playful touch to your screen. Perfect for cowgirl enthusiasts, these wallpapers are vibrant, eye-catching, and ready for download. Transform your digital space with a rustic flair!">
+                    <meta name="keywords" content="cute cowgirl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-cowgirl-wallpaper">
+                            <span itemprop="name">cute cowgirl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Cowgirl Wallpaper: Adorable Designs for Your Screen</h1>
+                <p>Transform your device with our adorable cowgirl wallpaper! Featuring charming cowgirl illustrations and vibrant colors, these wallpapers bring a touch of rustic charm and fun to your screens. Perfect for fans of the wild west and those who appreciate a cute aesthetic. Download your favorite now and stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cowgirl Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' alt='Pink Cowgirl Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14661457/p/f/m/sv59dXvND2R6gUTdoyrrvt-EITamh_q-81kepm11JPT6ExwlrYcKeS8/Pink%20Cowgirl%20Boots%20and%20Hats.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a cute wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/07/40/a107402078eacdae5c06c510c6b50ea9.jpg' alt='a cute wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/07/40/a107402078eacdae5c06c510c6b50ea9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Cute Rodeo Cowgirl Seamless Pattern Howdy Cowboy  Desert Repeating Canvas Wallpaper Wall Decals Removable Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CjMZp7+sL.jpg' alt='Peel and Stick Wallpaper Cute Rodeo Cowgirl Seamless Pattern Howdy Cowboy  Desert Repeating Canvas Wallpaper Wall Decals Removable Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CjMZp7+sL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cowgirl    | Country backgrounds, Western aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/eb/f8/18ebf829893973ebb0b3227ba94c7438.jpg' alt='cowgirl    | Country backgrounds, Western aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/eb/f8/18ebf829893973ebb0b3227ba94c7438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' alt='135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/groovy-western-halloween-cute-cartoon-600nw-2440831295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fyp #fypshuffle #vintage #nature #vibes #wallpaper #quotes #yeehaw ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/bf/98/2cbf987ea84b1d6660c2e73b2c6b3008.jpg' alt='fyp #fypshuffle #vintage #nature #vibes #wallpaper #quotes #yeehaw ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/bf/98/2cbf987ea84b1d6660c2e73b2c6b3008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Gemstone Cowgirl Hat Distressed Background Png Design, Cowgirl Hat  Png, Cowgirl Background Png, Leopard Cowgirl Hat, Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30999522/r/il/80eafe/3425203043/il_fullxfull.3425203043_3evd.jpg' alt='Floral Gemstone Cowgirl Hat Distressed Background Png Design, Cowgirl Hat  Png, Cowgirl Background Png, Leopard Cowgirl Hat, Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2280">
+                                <meta itemprop="height" content="1824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30999522/r/il/80eafe/3425203043/il_fullxfull.3425203043_3evd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vintage western cowgirl toile western Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15698877/p/f/m/oBCox-aFx-AbCo6jKmWZT1idjpxaaPedmTTEtM_QGacjMvwbahWJlvU/vintage_western_cowgirl_toile_western_toile_hot_pink_on_light_pink_WB23.jpg' alt='vintage western cowgirl toile western Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15698877/p/f/m/oBCox-aFx-AbCo6jKmWZT1idjpxaaPedmTTEtM_QGacjMvwbahWJlvU/vintage_western_cowgirl_toile_western_toile_hot_pink_on_light_pink_WB23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/draw-seamless-pattern-coquette-bows-600nw-2425215219.jpg' alt='135 Cowboy Aesthetic Wallpaper Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/draw-seamless-pattern-coquette-bows-600nw-2425215219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fancy Cowgirl  ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/3d/7b/fa3d7bb0cef911dab12f6ab9c28832fa.jpg' alt='Fancy Cowgirl  ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/3d/7b/fa3d7bb0cef911dab12f6ab9c28832fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Device with Stunning 4K Gradient Wallpapers</title>
+                    <meta name="description" content="Discover a captivating collection of 4K gradient wallpapers to enhance your screens. Perfect for desktops and mobile devices, these vibrant, high-resolution backgrounds add a touch of artistry and inspiration to your digital experience. Explore now and transform your visual environment!">
+                    <meta name="keywords" content="4k gradient wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-gradient-wallpaper">
+                            <span itemprop="name">4k gradient wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Device with Stunning 4K Gradient Wallpapers</h1>
+                <p>Transform your digital space with stunning 4K gradient wallpapers! These visually appealing backgrounds blend vibrant colors seamlessly, creating a dynamic atmosphere for your desktop or mobile device. Whether you're seeking a calming aesthetic or a bold statement, our collection offers diverse styles to inspire creativity and elevate your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Wallpapers (65 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/4/a/795093-3840x2160-desktop-4k-gradient-wallpaper-photo.jpg' alt='Gradient Wallpapers (65 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/4/a/795093-3840x2160-desktop-4k-gradient-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Wallpapers (65 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/e/2/795081-3840x2160-desktop-4k-gradient-wallpaper.jpg' alt='Gradient Wallpapers (65 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/e/2/795081-3840x2160-desktop-4k-gradient-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Color | 21 best free abstract, background, color, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1548159417-f283998827c1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' alt='Gradient Color | 21 best free abstract, background, color, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1548159417-f283998827c1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made these Gradient 4k Mac Wallpapers! (Links in the comments ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-these-gradient-4k-mac-wallpapers-links-in-the-v0-8978rjssza7a1.png?width=2332&format=png&auto=webp&s=750688c6b945c8b0c4dd1e6972b6fad77d0f5e0b' alt='I made these Gradient 4k Mac Wallpapers! (Links in the comments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2332">
+                                <meta itemprop="height" content="1531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-these-gradient-4k-mac-wallpapers-links-in-the-v0-8978rjssza7a1.png?width=2332&format=png&auto=webp&s=750688c6b945c8b0c4dd1e6972b6fad77d0f5e0b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper 4K, Gradient background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/gradient-background-3840x2160-9837.png' alt='Modern Wallpaper 4K, Gradient background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/gradient-background-3840x2160-9837.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Gradient Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1557683316-973673baf926?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhZGllbnQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='900+ Gradient Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1557683316-973673baf926?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhZGllbnQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Abstract Gradient 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/102/1026345.jpg' alt='Download Abstract Gradient 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/102/1026345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DESKTOP WALLPAPER 4K - SIMPLE GRADIENT - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgign-EIetpzYRGjn1GV6uKmdon2sbiFFCSxxoAiw6j0vGBMwdhLrii1mwNh-N1UCBIiC2lFxXl72ICSMwc1SiIzO_7bAtYBBI14QkcYxWsTd9soZIADKr7gO8x-KwUH-jueIVZpX8w7z0s/d/GRADIENT-WALLPAPER-4k.png' alt='DESKTOP WALLPAPER 4K - SIMPLE GRADIENT - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgign-EIetpzYRGjn1GV6uKmdon2sbiFFCSxxoAiw6j0vGBMwdhLrii1mwNh-N1UCBIiC2lFxXl72ICSMwc1SiIzO_7bAtYBBI14QkcYxWsTd9soZIADKr7gO8x-KwUH-jueIVZpX8w7z0s/d/GRADIENT-WALLPAPER-4k.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient background Wallpaper 4K, Sphere, Dark background, Blue, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/gradient-background-6016x3384-11027.jpg' alt='Gradient background Wallpaper 4K, Sphere, Dark background, Blue, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="3384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/gradient-background-6016x3384-11027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titanium Gradient — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' alt='Titanium Gradient — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1513">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

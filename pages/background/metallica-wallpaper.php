@@ -1,0 +1,129 @@
+<title>Metallica Wallpaper: Rock Your Screen!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="metallica wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/metallica-wallpaper">
+                            <span itemprop="name">metallica wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Metallica Wallpaper: Rock Your Screen!</h1>
+                <p>Transform your device with striking Metallica wallpaper! Celebrate the legendary band's powerful music and iconic imagery with a selection of stunning backgrounds that capture the essence of rock. Whether you're a lifelong fan or a new listener, these wallpapers will energize your screens and showcase your passion for Metallica.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica - Ride the Lightning [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oyizmmxsflqa1.png' alt='Metallica - Ride the Lightning [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oyizmmxsflqa1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Metallica Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/metallica-1983-white-logo-897jxacb5usqbbmq.jpg' alt='100+] Metallica Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/metallica-1983-white-logo-897jxacb5usqbbmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I finally made iPhone wallpapers out of all of Metallica's album ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-finally-made-iphone-wallpapers-out-of-all-of-metallicas-v0-abql3jaj0wi91.jpg?width=1125&format=pjpg&auto=webp&s=3c41f5fe9a1083a89cc679dbc3a4d7c5e3f5219a' alt='I finally made iPhone wallpapers out of all of Metallica's album ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-finally-made-iphone-wallpapers-out-of-all-of-metallicas-v0-abql3jaj0wi91.jpg?width=1125&format=pjpg&auto=webp&s=3c41f5fe9a1083a89cc679dbc3a4d7c5e3f5219a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I finally made iPhone wallpapers out of all of Metallica's album ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-finally-made-iphone-wallpapers-out-of-all-of-metallicas-v0-v99c1qaj0wi91.jpg?width=591&format=pjpg&auto=webp&s=085f4163d2bf5dfbc67c037e989cdc13a406b0dd' alt='I finally made iPhone wallpapers out of all of Metallica's album ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-finally-made-iphone-wallpapers-out-of-all-of-metallicas-v0-v99c1qaj0wi91.jpg?width=591&format=pjpg&auto=webp&s=085f4163d2bf5dfbc67c037e989cdc13a406b0dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/58/37/f958377c024d26a57822a79870d5d6f8.jpg' alt='Metallica Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/58/37/f958377c024d26a57822a79870d5d6f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica Wallpaper 4K, Skull, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/metallica-skull-2048x2048-16848.jpg' alt='Metallica Wallpaper 4K, Skull, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/metallica-skull-2048x2048-16848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica HD Wallpaper: Justice for All Theme">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/262/262037.jpg' alt='Metallica HD Wallpaper: Justice for All Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/262/262037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica Wallpaper 4K, AMOLED, Skull, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/metallica-skull-1920x1200-18921.png' alt='Metallica Wallpaper 4K, AMOLED, Skull, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/metallica-skull-1920x1200-18921.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="680 Best Metallica wallpaper ideas | metallica, metallica art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/aa/c3/83/aac383683f75773201622475f274ffaf.jpg' alt='680 Best Metallica wallpaper ideas | metallica, metallica art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/aa/c3/83/aac383683f75773201622475f274ffaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metallica Kill 'em All Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/scary-skull-metallica-e85fgb0i3awya27s.webp' alt='Metallica Kill 'em All Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/scary-skull-metallica-e85fgb0i3awya27s.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

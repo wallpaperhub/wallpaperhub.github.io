@@ -1,0 +1,129 @@
+<title>Elevate Your Space with a Wine Red Background</title>
+                    <meta name="description" content="Discover the beauty of a wine red background! Perfect for adding sophistication to any space, it enhances designs and sets a romantic tone. Explore ideas for décor, events, and digital designs that embrace this luxurious color. Transform your ambiance with wine red!">
+                    <meta name="keywords" content="wine red background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wine-red-background">
+                            <span itemprop="name">wine red background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with a Wine Red Background</h1>
+                <p>A wine red background creates an atmosphere of elegance and depth. This rich, warm color is perfect for various settings, whether for event decor, website design, or home interiors. It evokes a sense of sophistication and passion, making it ideal for romantic themes or upscale events. Use wine red to make a bold statement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Dark Red Wine Color Abstract Weave Pattern Texture ...">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/SDB90127.jpg?v=1687106292&width=1200' alt='Kate Dark Red Wine Color Abstract Weave Pattern Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/SDB90127.jpg?v=1687106292&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,100+ Wine Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1458021552/vector/viva-magenta-tropical-forest-foliage-vector-background-dark-palm-leaves-wedding-invitation.jpg?s=612x612&w=0&k=20&c=l0c9L_wBO1SJgkzkbsn8zATRJT7HoimQck5sOA7uzZk=' alt='60,100+ Wine Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1458021552/vector/viva-magenta-tropical-forest-foliage-vector-background-dark-palm-leaves-wedding-invitation.jpg?s=612x612&w=0&k=20&c=l0c9L_wBO1SJgkzkbsn8zATRJT7HoimQck5sOA7uzZk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wine Red Haver Backgrounds Images & Pictures | Free Download On ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210920/pngtree-red-pattern-wine-red-texture-image_892413.jpg' alt='Wine Red Haver Backgrounds Images & Pictures | Free Download On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210920/pngtree-red-pattern-wine-red-texture-image_892413.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oxblood Wine Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13675503/p/f/m/DtqGMqJWyqRbQv7wq24vpjzTFkh9UMppb9_5Co-LVB8ju4NieISX/Oxblood%20Red%20Printed%20Solid.jpg' alt='Oxblood Wine Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13675503/p/f/m/DtqGMqJWyqRbQv7wq24vpjzTFkh9UMppb9_5Co-LVB8ju4NieISX/Oxblood%20Red%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors | wine red elegant background">
+                                <img itemprop="contentUrl url" src='https://thumb.ac-illust.com/ae/aefbcbe39e43301b36f0c50421d01074_t.jpeg' alt='Free Vectors | wine red elegant background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="illustAC" />
+                                </span>
+                                <a href='https://thumb.ac-illust.com/ae/aefbcbe39e43301b36f0c50421d01074_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/0c/da/650cda68cca2b222d785fb71357618ab.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/0c/da/650cda68cca2b222d785fb71357618ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wine Color Background: Over 52,310 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/abstract-blurred-red-background-260nw-782461921.jpg' alt='Red Wine Color Background: Over 52,310 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/abstract-blurred-red-background-260nw-782461921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Texture Reddish-brown Watercolor Wine Red Background | PSD ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210914/bg/54923dfff204f.jpg!w700wp' alt='Brown Texture Reddish-brown Watercolor Wine Red Background | PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210914/bg/54923dfff204f.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Plain Red Wine Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/plain-red-wine-tx99lh144uic8b32.jpg' alt='Download Plain Red Wine Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/plain-red-wine-tx99lh144uic8b32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Luxury Velvet Cloth Wine Red Wave Background, Abstract ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-abstract-luxury-velvet-cloth-wine-red-wave-background-picture-image_1468750.jpg' alt='Abstract Luxury Velvet Cloth Wine Red Wave Background, Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-abstract-luxury-velvet-cloth-wine-red-wave-background-picture-image_1468750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

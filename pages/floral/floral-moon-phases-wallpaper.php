@@ -1,0 +1,129 @@
+<title>Floral Moon Phases Wallpaper: A Celestial Touch to Your Decor</title>
+                    <meta name="description" content="Discover charming floral moon phases wallpaper for a unique home decor upgrade. This captivating design combines floral elegance with the mystique of lunar phases, creating a serene and enchanting atmosphere. Perfect for any room, it's a whimsical addition that brings nature indoors!">
+                    <meta name="keywords" content="floral moon phases wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-moon-phases-wallpaper">
+                            <span itemprop="name">floral moon phases wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Floral Moon Phases Wallpaper: A Celestial Touch to Your Decor</h1>
+                <p>Transform your space with stunning floral moon phases wallpaper! This enchanting design intertwines the beauty of blooming flowers with the celestial dance of the moon. Perfect for creating a serene atmosphere in any room, it adds a touch of whimsy and nature to your decor. Explore the harmony of flora and lunar elegance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phases Watercolor Images – Browse 3,344 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/01/44/48/360_F_401444870_SvpzfkQy2EEqz88ShvXs5DdMdbpDGlgZ.jpg' alt='Moon Phases Watercolor Images – Browse 3,344 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/01/44/48/360_F_401444870_SvpzfkQy2EEqz88ShvXs5DdMdbpDGlgZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Phases of the Moon by Nadja">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7b/91/57/7b9157e69f04f187adf71c7a494b21b6.jpg' alt='Floral Phases of the Moon by Nadja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7b/91/57/7b9157e69f04f187adf71c7a494b21b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral moon phases desktop, phone and tablet wallpaper – Make and Tell">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/92/0d/58920d37d0e0a5cef63b1b42cc74abd5.jpg' alt='Floral moon phases desktop, phone and tablet wallpaper – Make and Tell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/92/0d/58920d37d0e0a5cef63b1b42cc74abd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Moon Phases Images – Browse 3,346 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/42/32/66/360_F_342326645_4Wl9dtgEtqrQbJ8z5SukMNXnNQNc4XWz.jpg' alt='Watercolor Moon Phases Images – Browse 3,346 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="394">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/42/32/66/360_F_342326645_4Wl9dtgEtqrQbJ8z5SukMNXnNQNc4XWz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,502 Moon Phases Boho Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-illustration-phases-moon-flower-260nw-2059612307.jpg' alt='8,502 Moon Phases Boho Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-illustration-phases-moon-flower-260nw-2059612307.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phases and flowers on a purple background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/38/75/moon-phases-and-flowers-on-a-purple-background-vector-37423875.jpg' alt='Moon phases and flowers on a purple background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/38/75/moon-phases-and-flowers-on-a-purple-background-vector-37423875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Moon phases with floral Bohemian phases of the ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/moon-phases-with-floral-bohemian-phases-moon-illustration-silhouette-outline_402015-31.jpg' alt='Premium Vector | Moon phases with floral Bohemian phases of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/moon-phases-with-floral-bohemian-phases-moon-illustration-silhouette-outline_402015-31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phases bundle SVG & PNG Celestial clipart, Peony Floral By ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4120435_fu7natduyeeuw5dogds92k1uilvyqqlkli7nqqhm_moon-phases-bundle-svg-amp-png-celestial-clipart-peony-floral.jpg' alt='Moon phases bundle SVG & PNG Celestial clipart, Peony Floral By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4120435_fu7natduyeeuw5dogds92k1uilvyqqlkli7nqqhm_moon-phases-bundle-svg-amp-png-celestial-clipart-peony-floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phases with Flowers">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/270x380/displate/2023-05-29/4e97862eb47266d62c244a679e736dba_ea93ef8f86df44bd3e36df76ad1d3ab6.jpg' alt='Moon phases with Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/270x380/displate/2023-05-29/4e97862eb47266d62c244a679e736dba_ea93ef8f86df44bd3e36df76ad1d3ab6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Floral Moon Phase with Peony Flower Graphic by FlipLineArt ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/07/19/Boho-Floral-Moon-Phase-with-Peony-Flower-Graphics-14908835-1.jpg' alt='Boho Floral Moon Phase with Peony Flower Graphic by FlipLineArt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/07/19/Boho-Floral-Moon-Phase-with-Peony-Flower-Graphics-14908835-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

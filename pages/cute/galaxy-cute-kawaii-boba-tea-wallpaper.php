@@ -1,0 +1,129 @@
+<title>Galaxy Kawaii Boba Tea Wallpaper: Cute & Cosmic Delight</title>
+                    <meta name="description" content="Discover our adorable galaxy kawaii boba tea wallpaper! Perfect for adding charm to any device, this colorful design combines cute boba tea elements with a cosmic backdrop. Ideal for fans of pastel aesthetics and lovable motifs. Download now for a delightful screen transformation!">
+                    <meta name="keywords" content="galaxy cute kawaii boba tea wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/galaxy-cute-kawaii-boba-tea-wallpaper">
+                            <span itemprop="name">galaxy cute kawaii boba tea wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Galaxy Kawaii Boba Tea Wallpaper: Cute & Cosmic Delight</h1>
+                <p>Immerse yourself in the dreamy world of galaxy kawaii boba tea with our enchanting wallpaper. This vibrant design features cute boba cups surrounded by colorful cosmic elements, adding a playful touch to your device. Perfect for lovers of all things cute, this wallpaper is ideal for brightening up your screens and sparking joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Boba Tea with Planet Boba">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0e/79/57/0e7957cc828ccbef348d521669bb1728.jpg' alt='Galaxy Boba Tea with Planet Boba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0e/79/57/0e7957cc828ccbef348d521669bb1728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubble Tea Universe - Starry Kawaii Boba Galaxy Pattern by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b4/a4/f9/b4a4f905126d955446b97113f6eeabd7.jpg' alt='Bubble Tea Universe - Starry Kawaii Boba Galaxy Pattern by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b4/a4/f9/b4a4f905126d955446b97113f6eeabd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Starry Cute Boba Tea Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/starry-cute-boba-tea-kca6kdnsuujaa31w.jpg' alt='Download Starry Cute Boba Tea Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/starry-cute-boba-tea-kca6kdnsuujaa31w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Planet Bubble Tea by averiillustrates on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69073ec-2110-4517-a245-53966e88d1f8/der28lg-e31bc7db-19dd-41a7-902b-612a89766b64.jpg/v1/fill/w_928,h_861,q_70,strp/galaxy_planet_bubble_tea_by_averiillustrates_der28lg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4NyIsInBhdGgiOiJcL2ZcL2E2OTA3M2VjLTIxMTAtNDUxNy1hMjQ1LTUzOTY2ZTg4ZDFmOFwvZGVyMjhsZy1lMzFiYzdkYi0xOWRkLTQxYTctOTAyYi02MTJhODk3NjZiNjQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.62iIuSNztAXU81br5ejRNFOvQ9W9GlvuEVMaJnR5kd4' alt='Galaxy Planet Bubble Tea by averiillustrates on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69073ec-2110-4517-a245-53966e88d1f8/der28lg-e31bc7db-19dd-41a7-902b-612a89766b64.jpg/v1/fill/w_928,h_861,q_70,strp/galaxy_planet_bubble_tea_by_averiillustrates_der28lg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4NyIsInBhdGgiOiJcL2ZcL2E2OTA3M2VjLTIxMTAtNDUxNy1hMjQ1LTUzOTY2ZTg4ZDFmOFwvZGVyMjhsZy1lMzFiYzdkYi0xOWRkLTQxYTctOTAyYi02MTJhODk3NjZiNjQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.62iIuSNztAXU81br5ejRNFOvQ9W9GlvuEVMaJnR5kd4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubble Tea Kawii Cilpart Set,galaxy Boba Tea Clipart, Bubble Tea ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47851404/r/il/95a36e/6023816742/il_fullxfull.6023816742_75br.jpg' alt='Bubble Tea Kawii Cilpart Set,galaxy Boba Tea Clipart, Bubble Tea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47851404/r/il/95a36e/6023816742/il_fullxfull.6023816742_75br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii bubble tea Wallpaper 4K, Love hearts, Rainbow">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2880x1800-11099.png' alt='Kawaii bubble tea Wallpaper 4K, Love hearts, Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kawaii-bubble-tea-2880x1800-11099.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Boba Drink Wall Art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/15/f7/ed/15f7edab53542605f1a919808c1c1a64.jpg' alt='Cute Boba Drink Wall Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/15/f7/ed/15f7edab53542605f1a919808c1c1a64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Boba Tea Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' alt='Kawaii Boba Tea Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33823914/r/il/515f70/3634493505/il_1080xN.3634493505_djzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mochi Cats Galaxy Bubble Tea | Greeting Card">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5475176793.5166/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='Mochi Cats Galaxy Bubble Tea | Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5475176793.5166/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Chibi Galaxy Tea Cute Happy Boba · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/01/13/Kawaii-Chibi-Galaxy-Tea-Cute-Happy-Boba-57562965-1.png' alt='Kawaii Chibi Galaxy Tea Cute Happy Boba · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/01/13/Kawaii-Chibi-Galaxy-Tea-Cute-Happy-Boba-57562965-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

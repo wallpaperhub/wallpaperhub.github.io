@@ -1,0 +1,129 @@
+<title>Awesome Guardians of the Galaxy Zoom Backgrounds</title>
+                    <meta name="description" content="Discover stunning Guardians of the Galaxy zoom backgrounds that elevate your video calls. Choose from a variety of vibrant designs featuring your favorite characters. Stand out in your virtual meetings while showcasing your love for this epic space adventure. Perfect for fans looking to add fun to their chats!">
+                    <meta name="keywords" content="guardians of the galaxy zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/guardians-of-the-galaxy-zoom-background">
+                            <span itemprop="name">guardians of the galaxy zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Guardians of the Galaxy Zoom Backgrounds</h1>
+                <p>Transform your virtual meetings with a Guardians of the Galaxy zoom background! Showcase your love for the galaxy's most eccentric heroes while adding a touch of cosmic style to your chats. Choose from vibrant scenes featuring Star-Lord, Gamora, and Groot, ensuring every call is an interstellar adventure. Beam up your video presence today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-virtual-background-for-zoom-and-meet-300x169.jpeg' alt='Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-virtual-background-for-zoom-and-meet-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy Xandar View Virtual Background ...">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-Xandar-from-the-sky-virtual-background-for-zoom-and-meet.jpeg' alt='Guardians of the Galaxy Xandar View Virtual Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-Xandar-from-the-sky-virtual-background-for-zoom-and-meet.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Even More Backgrounds For Your Worthy Video Chats | Marvel">
+                                <img itemprop="contentUrl url" src='https://cdn.marvel.com/content/1x/04-4.14.20-marvel-videocallbackgrounds-1920x1080.jpg' alt='Even More Backgrounds For Your Worthy Video Chats | Marvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvel.com" />
+                                </span>
+                                <a href='https://cdn.marvel.com/content/1x/04-4.14.20-marvel-videocallbackgrounds-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-planet-sovereign-virtual-background-for-zoom-and-meet-300x169.jpeg' alt='Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-planet-sovereign-virtual-background-for-zoom-and-meet-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-Xandar-City-virtual-background-for-zoom-and-meet-1-300x169.jpeg' alt='Guardians of the Galaxy Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/Guardians-of-the-Galaxy-Xandar-City-virtual-background-for-zoom-and-meet-1-300x169.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Guardians Of The Galaxy Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/motley-crew-guardians-of-the-galaxy-5fch4g7yhaj3a1sn.jpg' alt='100+] Guardians Of The Galaxy Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/motley-crew-guardians-of-the-galaxy-5fch4g7yhaj3a1sn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Marvel Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://blog.zoombackground.io/en/full/1396553/guardians-galaxy.jpg' alt='Best Marvel Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Background Image Collections - Zoom Background Images" />
+                                </span>
+                                <a href='https://blog.zoombackground.io/en/full/1396553/guardians-galaxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Guardians Of The Galaxy Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-guardians-of-the-galaxy-groot-tablet-ijfjsg8wrlrsjetw.jpg' alt='100+] Guardians Of The Galaxy Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4310">
+                                <meta itemprop="height" content="2425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-guardians-of-the-galaxy-groot-tablet-ijfjsg8wrlrsjetw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Need to Know About the Heroes in Guardians of the Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/59326fb64dc9b45ccec5df76/master/pass/guardians.jpg' alt='What You Need to Know About the Heroes in Guardians of the Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/59326fb64dc9b45ccec5df76/master/pass/guardians.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Guardians Of The Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rocket-and-groot-guardians-of-the-galaxy-n3k9z3pojucb1cun.jpg' alt='200+] Guardians Of The Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rocket-and-groot-guardians-of-the-galaxy-n3k9z3pojucb1cun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

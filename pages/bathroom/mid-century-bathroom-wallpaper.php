@@ -1,0 +1,129 @@
+<title>Chic Mid-Century Bathroom Wallpaper Ideas</title>
+                    <meta name="description" content="Discover the essence of mid-century bathroom wallpaper. Explore chic designs that add a retro flair to your decor. From bold patterns to subtle hues, transform your space into a stylish retreat. Perfect for those seeking timeless elegance in their bathrooms. Elevate your home with nostalgic charm!">
+                    <meta name="keywords" content="mid century bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/mid-century-bathroom-wallpaper">
+                            <span itemprop="name">mid century bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Mid-Century Bathroom Wallpaper Ideas</h1>
+                <p>Mid-century bathroom wallpaper is a timeless choice, offering vibrant patterns and retro aesthetics that bring charm to any space. From geometric designs to floral prints, these wallpapers evoke nostalgia while enhancing modern bathrooms. Revitalize your decor with a touch of elegance and history, creating a stylish, inviting haven.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Geo Mid Century Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11004-B_2000x2000.jpg?v=1673131611' alt='Starburst Geo Mid Century Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11004-B_2000x2000.jpg?v=1673131611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Gold Hexagon Peel and Stick Mid Century Modern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='http://www.d-marie-interiors.com/cdn/shop/products/RMK10704WP-1.jpg?v=1584461144' alt='Geometric Gold Hexagon Peel and Stick Mid Century Modern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D. Marie Interiors" />
+                                </span>
+                                <a href='http://www.d-marie-interiors.com/cdn/shop/products/RMK10704WP-1.jpg?v=1584461144' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midcentury Peel and Stick Wallpaper (Removable)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/midcentury-peel-and-stick-wallpaper-removable-798076.png?v=1718902433' alt='Midcentury Peel and Stick Wallpaper (Removable)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/midcentury-peel-and-stick-wallpaper-removable-798076.png?v=1718902433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern, Geometric, Taupe, Gray, Orange, Peel And Stick  Wallpaper Panels - 7656654373019">
+                                <img itemprop="contentUrl url" src='https://midcenturymoderngal.com/cdn/shop/files/mid-century-modern-geometric-taupe-gray-orange-peel-and-stick-wallpaper-panels-35509600288923.jpg?v=1683438815&width=1500' alt='Mid Century Modern, Geometric, Taupe, Gray, Orange, Peel And Stick  Wallpaper Panels - 7656654373019'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='https://midcenturymoderngal.com/cdn/shop/files/mid-century-modern-geometric-taupe-gray-orange-peel-and-stick-wallpaper-panels-35509600288923.jpg?v=1683438815&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid-Century Modern Wallpaper Styles • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/11/Palm-Springs-Insta.jpg.optimal.jpg' alt='Mid-Century Modern Wallpaper Styles • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/11/Palm-Springs-Insta.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro 70s atomic teardrops circles colorful orange green mid ...">
+                                <img itemprop="contentUrl url" src='https://danadudesign.com/wp-content/uploads/bathroom-wallpaper-retro-70s-atomic-teardrops-circles-colorful-orange-green-mid-century-modern-wallpaper-by-danadudesign.jpg' alt='Retro 70s atomic teardrops circles colorful orange green mid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dana Du Design" />
+                                </span>
+                                <a href='https://danadudesign.com/wp-content/uploads/bathroom-wallpaper-retro-70s-atomic-teardrops-circles-colorful-orange-green-mid-century-modern-wallpaper-by-danadudesign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Embrace Mid-Century Modern Style with Tempaper's Wallpaper ...">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/collections/526cafff792e499194cbd718fd5152cb_0ecbb3eb-4b34-4011-bc61-7777e24fa513.jpg?v=1687356923' alt='Embrace Mid-Century Modern Style with Tempaper's Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/collections/526cafff792e499194cbd718fd5152cb_0ecbb3eb-4b34-4011-bc61-7777e24fa513.jpg?v=1687356923' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern, Geometric, Aqua Blue, Lime Green, Black, Peel And Stick  Wallpaper Panels - 7593208447131">
+                                <img itemprop="contentUrl url" src='https://midcenturymoderngal.com/cdn/shop/products/mid-century-modern-geometric-aqua-blue-lime-green-black-peel-and-stick-wallpaper-panels-35223553540251.jpg?v=1674695675&width=1500' alt='Mid Century Modern, Geometric, Aqua Blue, Lime Green, Black, Peel And Stick  Wallpaper Panels - 7593208447131'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='https://midcenturymoderngal.com/cdn/shop/products/mid-century-modern-geometric-aqua-blue-lime-green-black-peel-and-stick-wallpaper-panels-35223553540251.jpg?v=1674695675&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Orange Daisy Wallpaper Retro Floral Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/9f8182/6208893346/il_570xN.6208893346_8ygg.jpg' alt='Funky Orange Daisy Wallpaper Retro Floral Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/9f8182/6208893346/il_570xN.6208893346_8ygg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid-Century Modern Removable Wallpaper: Bold Navy Geometric Pattern –  Wallflora">
+                                <img itemprop="contentUrl url" src='https://wallflorashop.com/cdn/shop/files/3_44cbf168-509b-4f7c-b816-8d1056f1906c.jpg?v=1715712153' alt='Mid-Century Modern Removable Wallpaper: Bold Navy Geometric Pattern –  Wallflora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallflora" />
+                                </span>
+                                <a href='https://wallflorashop.com/cdn/shop/files/3_44cbf168-509b-4f7c-b816-8d1056f1906c.jpg?v=1715712153' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

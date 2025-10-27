@@ -1,0 +1,129 @@
+<title>Star Wars Wallpaper Engine: Bringing the Force to Your Screen</title>
+                    <meta name="description" content="Discover stunning Star Wars wallpapers for the Wallpaper Engine! Immerse yourself in the galaxy's iconic characters and scenes with high-quality visuals. Perfect for any fan, customize your device and enjoy an epic backdrop that celebrates the legendary saga wherever you go!">
+                    <meta name="keywords" content="star wars wallpaper engine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-wallpaper-engine">
+                            <span itemprop="name">star wars wallpaper engine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Wallpaper Engine: Bringing the Force to Your Screen</h1>
+                <p>Transform your screen with mesmerizing Star Wars Wallpaper Engine creations! Dive into a galaxy far, far away with dynamic wallpapers featuring iconic characters, breathtaking landscapes, and epic battles. Personalize your device with high-quality visuals that capture the essence of the Star Wars saga and bring your love for the franchise to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::StarWars - Darth Vader [2560x1600]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2422250057103884562/C976483DD656675EDBF692E55A9F77EE7CB0E5CA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::StarWars - Darth Vader [2560x1600]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2422250057103884562/C976483DD656675EDBF692E55A9F77EE7CB0E5CA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Would love it if someone animated this star wars wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OFTr1Z8pP6yR_pqVOMxRp0n-N3qyhEhqi7LpEqQkqps.png?auto=webp&s=df27c7b83b2a9b648a3f701d5b75bdf4c68232d9' alt='Would love it if someone animated this star wars wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OFTr1Z8pP6yR_pqVOMxRp0n-N3qyhEhqi7LpEqQkqps.png?auto=webp&s=df27c7b83b2a9b648a3f701d5b75bdf4c68232d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Desktop (Wallpaper Engine and FalconX) [hopefully OK to ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pa2wq6w65po41.png?auto=webp&s=0aaafea5fa755b2d1049fe0cc95d5d7029f2d46c' alt='Minimalist Desktop (Wallpaper Engine and FalconX) [hopefully OK to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pa2wq6w65po41.png?auto=webp&s=0aaafea5fa755b2d1049fe0cc95d5d7029f2d46c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Star Wars Collection - Wallpaper Engine">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2504637799918846451/3D40BC2BF5AA53CC6C345B8658B650FD38D3836D/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Star Wars Collection - Wallpaper Engine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2504637799918846451/3D40BC2BF5AA53CC6C345B8658B650FD38D3836D/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Wallpaper Engine - Star Wars - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rjYGQz9W-fY/mqdefault.jpg' alt='Top 10 Wallpaper Engine - Star Wars - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rjYGQz9W-fY/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Star Wars Wallpapers for Ultimate Fans — Wallpaper Engine Space">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/beb84158-dcef-45c1-b732-ec9b50f5c597/Darth+Revan' alt='Best Star Wars Wallpapers for Ultimate Fans — Wallpaper Engine Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/beb84158-dcef-45c1-b732-ec9b50f5c597/Darth+Revan' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Star Wars Battlefront Darth Vader Endor Rain Ultra ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/146759880543471519/8530C9D09369E398490EAD78DB365557869FAF12/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Star Wars Battlefront Darth Vader Endor Rain Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/146759880543471519/8530C9D09369E398490EAD78DB365557869FAF12/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Star Wars Wallpapers for Ultimate Fans — Wallpaper Engine Space">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/5057fd82-76a3-44fc-bc06-39917b60ca64/The+Mandalorian+Stance' alt='Best Star Wars Wallpapers for Ultimate Fans — Wallpaper Engine Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Engine Space" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/5057fd82-76a3-44fc-bc06-39917b60ca64/The+Mandalorian+Stance' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Maw Installation from Legends - Wallpaper I animated (Wallpaper Engine  link in comments)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/the-maw-installation-from-legends-wallpaper-i-animated-v0-bjRtcHl6YTQzcWVjMYM9Txn0B0NSVysbFgguKkz8fuiWFVFNnT0SEI-Nu-y2.png?format=pjpg&auto=webp&s=30ced4d0c21c518459f2b24fc92aae2f5bb4e225' alt='The Maw Installation from Legends - Wallpaper I animated (Wallpaper Engine  link in comments)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/the-maw-installation-from-legends-wallpaper-i-animated-v0-bjRtcHl6YTQzcWVjMYM9Txn0B0NSVysbFgguKkz8fuiWFVFNnT0SEI-Nu-y2.png?format=pjpg&auto=webp&s=30ced4d0c21c518459f2b24fc92aae2f5bb4e225' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Star Wars background">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/794242597039092723/9DB880DD49BD2A571282541875BAD4E108650976/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Star Wars background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/794242597039092723/9DB880DD49BD2A571282541875BAD4E108650976/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

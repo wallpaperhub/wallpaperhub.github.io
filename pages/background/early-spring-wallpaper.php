@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Early Spring Wallpapers</title>
+                    <meta name="description" content="Discover the perfect early spring wallpapers to refresh your home. Vibrant floral designs and soft pastels capture the season's essence, bringing warmth and renewal to any space. Explore our collection and transform your environment effortlessly!">
+                    <meta name="keywords" content="early spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/early-spring-wallpaper">
+                            <span itemprop="name">early spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Early Spring Wallpapers</h1>
+                <p>Embrace the beauty of early spring with vibrant wallpapers that capture the essence of renewal. Floral patterns, gentle pastels, and lively greenery bring freshness to your space. Perfect for revitalizing your home decor or workspace, these wallpapers evoke the warmth of sunny days and blooming flowers. Transform your atmosphere today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Spring" Images – Browse 62,340 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/75/52/74/360_F_675527477_LU4k1gW37cGoz8WV7pfcuNeSjJuw9J9E.jpg' alt='Early Spring" Images – Browse 62,340 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/75/52/74/360_F_675527477_LU4k1gW37cGoz8WV7pfcuNeSjJuw9J9E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Spring Images – Browse 443,914 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/28/89/51/360_F_728895116_RwLcd1Uc2K97uwS85oEnnVBaTKbh1wNJ.jpg' alt='Early Spring Images – Browse 443,914 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/28/89/51/360_F_728895116_RwLcd1Uc2K97uwS85oEnnVBaTKbh1wNJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Spring Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1485148470689-9e57a229c0f8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWFybHklMjBzcHJpbmd8ZW58MHx8MHx8fDA%3D' alt='Early Spring Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1485148470689-9e57a229c0f8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWFybHklMjBzcHJpbmd8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/125546212/photo/purple-crocus-growing-in-the-early-spring-through-snow.jpg?s=612x612&w=0&k=20&c=IsWBk2V16iok-8vHkThbUmkdpcVHP5OHeMMjewqyR9k=' alt='784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/125546212/photo/purple-crocus-growing-in-the-early-spring-through-snow.jpg?s=612x612&w=0&k=20&c=IsWBk2V16iok-8vHkThbUmkdpcVHP5OHeMMjewqyR9k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/182027571/photo/backlight-view-through-apple-tree-summer-meadow-in-bavaria-germany.jpg?s=612x612&w=0&k=20&c=x0WMRiJz2RX87SHN2A4JobozSgiHM9LTKazi92NyNRo=' alt='784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/182027571/photo/backlight-view-through-apple-tree-summer-meadow-in-bavaria-germany.jpg?s=612x612&w=0&k=20&c=x0WMRiJz2RX87SHN2A4JobozSgiHM9LTKazi92NyNRo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Winter Images – Browse 2,170,145 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/34/92/83/360_F_634928385_jCpRh3Rj7ZGRdV2KtVh82ectNScaIBAf.jpg' alt='Spring Winter Images – Browse 2,170,145 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/34/92/83/360_F_634928385_jCpRh3Rj7ZGRdV2KtVh82ectNScaIBAf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="early-spring-wallpaper">
+                                <img itemprop="contentUrl url" src='https://nollfuneral.com/wp-content/uploads/2017/02/early-spring-wallpaper.jpg' alt='early-spring-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Noll Funeral Home" />
+                                </span>
+                                <a href='https://nollfuneral.com/wp-content/uploads/2017/02/early-spring-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Spring Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/700/205/small_2x/snowdrops-bloom-in-a-sunlit-garden-during-early-spring-signaling-the-end-of-winters-chill-free-photo.jpeg' alt='Winter Spring Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/700/205/small_2x/snowdrops-bloom-in-a-sunlit-garden-during-early-spring-signaling-the-end-of-winters-chill-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Spring Images – Browse 393,024 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/25/01/47/360_F_425014770_JazxqoQ6opGGqxuUJ0Czd8GPuq9DOZ2Y.jpg' alt='Early Spring Images – Browse 393,024 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="811">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/25/01/47/360_F_425014770_JazxqoQ6opGGqxuUJ0Czd8GPuq9DOZ2Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/510479542/photo/snowdrop-flowers-blooming-in-winter.jpg?s=612x612&w=0&k=20&c=_C04K2ULxbfNr4jI371mS-qFJtKO33eXRX34VeXjRtM=' alt='784,300+ Early Spring Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/510479542/photo/snowdrop-flowers-blooming-in-winter.jpg?s=612x612&w=0&k=20&c=_C04K2ULxbfNr4jI371mS-qFJtKO33eXRX34VeXjRtM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Cherry Blossoms on Black: A Visual Delight</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="japanese cherry blossom black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/japanese-cherry-blossom-black-background">
+                            <span itemprop="name">japanese cherry blossom black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cherry Blossoms on Black: A Visual Delight</h1>
+                <p>Japanese cherry blossoms, known as sakura, create a stunning contrast against a black background. The delicate pink petals and intricate details of each flower become even more prominent, evoking a sense of tranquility and beauty. This striking visual representation captures the essence of spring and the fleeting nature of life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="46,122 Cherry Blossom Black Background Royalty-Free Photos and ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/branch-blossoming-sakura-cherry-on-600nw-2305602663.jpg' alt='46,122 Cherry Blossom Black Background Royalty-Free Photos and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/branch-blossoming-sakura-cherry-on-600nw-2305602663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ Cherry Blossom On Black Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1363433876/vector/watercolor-illustration-of-weeping-cherry-blossoms-and-falling-petals-banner-background.jpg?s=612x612&w=0&k=20&c=lDq1FZ8SxJBbVf5Mtj6KKWKPrWp7jHe8QE8NNY0zf6c=' alt='350+ Cherry Blossom On Black Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1363433876/vector/watercolor-illustration-of-weeping-cherry-blossoms-and-falling-petals-banner-background.jpg?s=612x612&w=0&k=20&c=lDq1FZ8SxJBbVf5Mtj6KKWKPrWp7jHe8QE8NNY0zf6c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Cherry Blossom Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/branches-cherry-blossoms-cascade-towards-600nw-2357447321.jpg' alt='Dark Cherry Blossom Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/branches-cherry-blossoms-cascade-towards-600nw-2357447321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry blossom isolated on natural black background fine art photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/7d682b78a065433a863f577c05e4f438/2axxebc.jpg' alt='Cherry blossom isolated on natural black background fine art photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/7d682b78a065433a863f577c05e4f438/2axxebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cherry Blossom in Black Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/7316810/pexels-photo-7316810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='Pink Cherry Blossom in Black Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/7316810/pexels-photo-7316810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Black, Beautiful, Japanese Style Background Images, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/b2/b2/37b2b257cbd4f54ce3cc17f9e67ee0ad.jpg' alt='Free Black, Beautiful, Japanese Style Background Images, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/b2/b2/37b2b257cbd4f54ce3cc17f9e67ee0ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,776 Cherry Blossom Dark Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/beautiful-cherry-blossom-flower-blooming-600nw-2144949601.jpg' alt='20,776 Cherry Blossom Dark Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/beautiful-cherry-blossom-flower-blooming-600nw-2144949601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oriental Japanese style abstract pattern background design black ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/49/23/64/1000_F_349236400_73qXKx4TeNoh3V0p5US5gH5pEZgvlTwj.jpg' alt='Oriental Japanese style abstract pattern background design black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/49/23/64/1000_F_349236400_73qXKx4TeNoh3V0p5US5gH5pEZgvlTwj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakura Black Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' alt='Sakura Black Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural cherry blossom, black background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/30/35/51/77/700_FO30355177_bff2bfefefd5ad65eb7213b437185428.jpg,700,525,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,475,jpg)/wall-murals-cherry-blossom-black-background.jpg.jpg' alt='Wall Mural cherry blossom, black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/30/35/51/77/700_FO30355177_bff2bfefefd5ad65eb7213b437185428.jpg,700,525,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,475,jpg)/wall-murals-cherry-blossom-black-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

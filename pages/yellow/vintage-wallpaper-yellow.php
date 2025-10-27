@@ -1,0 +1,129 @@
+<title>Embrace Timeless Charm with Vintage Yellow Wallpaper</title>
+                    <meta name="description" content="Explore the beauty of vintage yellow wallpaper! Ideal for adding character and warmth to any room, our collection features unique patterns that evoke nostalgia. Transform your space effortlessly with this timeless decor choice. Discover the perfect vintage touch today!">
+                    <meta name="keywords" content="vintage wallpaper yellow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/vintage-wallpaper-yellow">
+                            <span itemprop="name">vintage wallpaper yellow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Timeless Charm with Vintage Yellow Wallpaper</h1>
+                <p>Vintage yellow wallpaper brings warmth and nostalgia to any space. Its unique patterns and faded hues add character to rooms, evoking a charming retro vibe. Perfect for accent walls or DIY projects, this wallpaper choice can transform your home with a touch of vintage style. Discover the elegance of yellow hues in timeless designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Yellow Damask Design">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' alt='1960s Vintage Wallpaper Yellow Damask Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Retro Vintage Wallpaper Yellow Orange Flowers">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3729/13716/vintage-wallpaper-220__43582.1677869780.jpg?c=2' alt='1970s Retro Vintage Wallpaper Yellow Orange Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3729/13716/vintage-wallpaper-220__43582.1677869780.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Petit Yellow Floral Wallpaper Remnants, 2 Vintage Pages for Scrapbooking,  Decoupage, Collage, Paper Arts & Mixed Media PSS 3627">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5253075/r/il/a18d93/1513101694/il_fullxfull.1513101694_ttkm.jpg' alt='Petit Yellow Floral Wallpaper Remnants, 2 Vintage Pages for Scrapbooking,  Decoupage, Collage, Paper Arts & Mixed Media PSS 3627'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5253075/r/il/a18d93/1513101694/il_fullxfull.1513101694_ttkm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Vintage Wallpaper - Yellow Floral Stripe, Sold by the Yard ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5342408/r/il/f0ab3e/5262120259/il_fullxfull.5262120259_ke7n.jpg' alt='1970s Vintage Wallpaper - Yellow Floral Stripe, Sold by the Yard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2057">
+                                <meta itemprop="height" content="2057">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5342408/r/il/f0ab3e/5262120259/il_fullxfull.5262120259_ke7n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Flowers Damask MF40303">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' alt='Painted Flowers Damask MF40303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Yellow Floral Wallpaper Vintage Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5418758134_kc34.jpg?v=1706944281' alt='Retro Yellow Floral Wallpaper Vintage Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5418758134_kc34.jpg?v=1706944281' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Essex Damask in Yellow Wallpaper by Bradbury and Bradbury">
+                                <img itemprop="contentUrl url" src='https://dollhousesandmore.com/wp-content/uploads/2019/07/JIW0814.jpeg' alt='Vintage Essex Damask in Yellow Wallpaper by Bradbury and Bradbury'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dollhouses and More" />
+                                </span>
+                                <a href='https://dollhousesandmore.com/wp-content/uploads/2019/07/JIW0814.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Vintage Floral Wallpaper – Koko Art Shop">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/001_Front_Interior_Scenecopy_a202bc08-0fb9-4dec-a6ac-8786e9f1a721.jpg?v=1631218061&width=1080' alt='Boho Vintage Floral Wallpaper – Koko Art Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/001_Front_Interior_Scenecopy_a202bc08-0fb9-4dec-a6ac-8786e9f1a721.jpg?v=1631218061&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Yellow Vintage Wallpaper Pattern Background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/484236289/display_1500/stock-photo-old-yellow-vintage-wallpaper-pattern-background-repaper-decorating-484236289.jpg' alt='Old Yellow Vintage Wallpaper Pattern Background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/484236289/display_1500/stock-photo-old-yellow-vintage-wallpaper-pattern-background-repaper-decorating-484236289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage Asian Wall  Decor">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/13465956/compr-r85/3094/309482523/elegant-chinoiserie-wallpaper-yellow-floral-bird-pattern-vintage-asian-wall-decor.jpg' alt='Elegant Chinoiserie Wallpaper Yellow Floral Bird Pattern Vintage Asian Wall  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2540">
+                                <meta itemprop="height" content="3441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/13465956/compr-r85/3094/309482523/elegant-chinoiserie-wallpaper-yellow-floral-bird-pattern-vintage-asian-wall-decor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Revitalize Your Space with Fern Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the ease and elegance of fern peel and stick wallpaper. Perfect for any room, this removable option breathes life into your decor without the hassle of traditional wallpaper. Ideal for renters and quick updates, transform your walls into a lush escape with just a peel and stick!">
+                    <meta name="keywords" content="fern peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/fern-peel-and-stick-wallpaper">
+                            <span itemprop="name">fern peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revitalize Your Space with Fern Peel and Stick Wallpaper</h1>
+                <p>Transform your space effortlessly with fern peel and stick wallpaper. This stylish, removable wallpaper offers a natural aesthetic, bringing the beauty of nature indoors. Easy to apply and remove, it’s perfect for renters or anyone wanting to refresh their decor without commitment. Give your walls a fresh look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaves Removable Mural Wallpaper - Fern Botanical Self Adhesive Wall  Decor - Peel and Stick Wallpaper - Temporary Decal CCM081 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_1080xN.4006168033_12uw.jpg' alt='Green Leaves Removable Mural Wallpaper - Fern Botanical Self Adhesive Wall  Decor - Peel and Stick Wallpaper - Temporary Decal CCM081 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14415723/r/il/ebf12d/4006168033/il_1080xN.4006168033_12uw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ismoon Fern Botanical Peel and Stick Wallpaper - Black Leaf Sticky  Wallpaper, 16.1x196in - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' alt='Ismoon Fern Botanical Peel and Stick Wallpaper - Black Leaf Sticky  Wallpaper, 16.1x196in - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1850">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Green And White Butterfly Ferns Boho  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 3767">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3677478700_br49.jpg?v=1645846058&width=2781' alt='Wallpaper Peel and Stick Wallpaper Green And White Butterfly Ferns Boho  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 3767'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2781">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3677478700_br49.jpg?v=1645846058&width=2781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Ferns Wallpaper, Fern Removable Wallpaper or Traditional ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17193926/r/il/52503c/1905980468/il_570xN.1905980468_gaje.jpg' alt='Black Ferns Wallpaper, Fern Removable Wallpaper or Traditional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17193926/r/il/52503c/1905980468/il_570xN.1905980468_gaje.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Fern Self Adhesive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2023/01/fern_botanical_wallpaper_peel_and_stick_wallberry2.jpg' alt='Green Fern Self Adhesive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2023/01/fern_botanical_wallpaper_peel_and_stick_wallberry2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ferns in White">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-ferns-in-white-6663873757284.jpg?v=1668623661' alt='Ferns in White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-ferns-in-white-6663873757284.jpg?v=1668623661' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Botanical Fern Peel and Stick Leaf Wallpaper - Green Grunge Ferns,  Removable, Self-Adhesive, 17.73" x 393.7" Covering 47.36 sq.ft - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91SxRKxmxGL.jpg' alt='JiffDiff Botanical Fern Peel and Stick Leaf Wallpaper - Green Grunge Ferns,  Removable, Self-Adhesive, 17.73" x 393.7" Covering 47.36 sq.ft - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1580">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91SxRKxmxGL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/LeavesandPlants2.jpg?v=1739232163&width=1214' alt='Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/LeavesandPlants2.jpg?v=1739232163&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Wallpaper | Peel and Stick Wallpaper | Fern Mural">
+                                <img itemprop="contentUrl url" src='http://miamiwallsanddecor.com/cdn/shop/files/10_Product_142_Botanical_Fern_Peel_and_Stick_Wallpaper.jpg?v=1690577591' alt='Dark Botanical Wallpaper | Peel and Stick Wallpaper | Fern Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Walls and Decor" />
+                                </span>
+                                <a href='http://miamiwallsanddecor.com/cdn/shop/files/10_Product_142_Botanical_Fern_Peel_and_Stick_Wallpaper.jpg?v=1690577591' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Fern Wall Mural CCM082">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/zoom_49e16af9-1723-4a2f-a309-668beb09a1b4_1024x1024.jpg?v=1674964202' alt='Light Green Fern Wall Mural CCM082'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/zoom_49e16af9-1723-4a2f-a309-668beb09a1b4_1024x1024.jpg?v=1674964202' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

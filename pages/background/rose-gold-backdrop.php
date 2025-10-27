@@ -1,0 +1,129 @@
+<title>Elegant Rose Gold Backdrop for Events and Photoshoots</title>
+                    <meta name="description" content="Transform your events with a stunning rose gold backdrop. Ideal for weddings, parties, and photoshoots, its luxurious shimmer adds sophistication and charm. Create unforgettable visuals and enhance your decor effortlessly with this versatile backdrop, perfect for any occasion.">
+                    <meta name="keywords" content="rose gold backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rose-gold-backdrop">
+                            <span itemprop="name">rose gold backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Rose Gold Backdrop for Events and Photoshoots</h1>
+                <p>Discover the elegance of a rose gold backdrop, perfect for events and photoshoots. Its warm, shimmering tones add a stylish and sophisticated touch to any theme, making it ideal for weddings, parties, or corporate events. Choose rose gold to enhance your decor and create unforgettable memorable moments with a stunning aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : COKAOBE Rose Gold Shimmer Wall Backdrop 24PCS Rose Gold  Sequins Backdrop Decoration Panels, Photo Backdrops for Birthday,  Anniversary ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81PG1jKRJYL.jpg' alt='Amazon.com : COKAOBE Rose Gold Shimmer Wall Backdrop 24PCS Rose Gold  Sequins Backdrop Decoration Panels, Photo Backdrops for Birthday,  Anniversary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81PG1jKRJYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WISPET Rose Gold Sequin Backdrop Curtains 1 Panel 10FTx10FT  Glitter Rose Gold Photo Backdrop Drapes Party Wedding Baby Shower Curtain  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61rp3SquVJL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: WISPET Rose Gold Sequin Backdrop Curtains 1 Panel 10FTx10FT  Glitter Rose Gold Photo Backdrop Drapes Party Wedding Baby Shower Curtain  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61rp3SquVJL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Backdrop Curtain Happy Birthday Wedding Party Decoration Foil  Wall Background Birthday Baby Shower Party Curtain - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13515920/r/il/c641ba/3516373069/il_1080xN.3516373069_l47m.jpg' alt='Rose Gold Backdrop Curtain Happy Birthday Wedding Party Decoration Foil  Wall Background Birthday Baby Shower Party Curtain - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13515920/r/il/c641ba/3516373069/il_1080xN.3516373069_l47m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Shimmer Wall Backdrop Rose Gold Wall Panels 24Pcs Square Sequin  Shimmer Wall Backdrop Decoration for Birthday Party,Wedding, Anniversary :  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81YXuPwwFDL.jpg' alt='Amazon.com: Shimmer Wall Backdrop Rose Gold Wall Panels 24Pcs Square Sequin  Shimmer Wall Backdrop Decoration for Birthday Party,Wedding, Anniversary :  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="1351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81YXuPwwFDL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheereveal Rose Gold Birthday Backdrop 4.9x3.2ft Vinyl Photo Studio  Background, Birthday, Pink">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Rose-Gold-Happy-Birthday-Backdrop-Decorations-Women-Party-Supplies-Pink-Background-Supplies-Photography-Girls-Wedding-Baby-Shower-Decor_103ee63a-22d4-4a0e-b08d-c117232dabee.354954a091496fb98cca4f7c61673f85.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Cheereveal Rose Gold Birthday Backdrop 4.9x3.2ft Vinyl Photo Studio  Background, Birthday, Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Rose-Gold-Happy-Birthday-Backdrop-Decorations-Women-Party-Supplies-Pink-Background-Supplies-Photography-Girls-Wedding-Baby-Shower-Decor_103ee63a-22d4-4a0e-b08d-c117232dabee.354954a091496fb98cca4f7c61673f85.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Metallic Shimmer Tinsel Backdrop Drape Curtain, Event Background  Divider Panel - 20ftx10ft">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1552/7691/files/rose-gold-metallic-shimmer-tinsel-backdrop-drape-curtain-event-background-divider-panel-20ftx10ft.jpg?v=1738748384' alt='Rose Gold Metallic Shimmer Tinsel Backdrop Drape Curtain, Event Background  Divider Panel - 20ftx10ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eFavormart" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1552/7691/files/rose-gold-metallic-shimmer-tinsel-backdrop-drape-curtain-event-background-divider-panel-20ftx10ft.jpg?v=1738748384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer wall panel Shimmer backdrop shimmer wall panels backdrop ...">
+                                <img itemprop="contentUrl url" src='https://www.whoopeeparty.com/cdn/shop/files/Shimmer-Wall-Party-Event-Sequin-Decor-Panel-Birthday-Decoration-Photo-Zone-Glitter-Rose-Gold-Diy-Backdrop.webp?v=1721987071&width=416' alt='Shimmer wall panel Shimmer backdrop shimmer wall panels backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WhoopeeParty" />
+                                </span>
+                                <a href='https://www.whoopeeparty.com/cdn/shop/files/Shimmer-Wall-Party-Event-Sequin-Decor-Panel-Birthday-Decoration-Photo-Zone-Glitter-Rose-Gold-Diy-Backdrop.webp?v=1721987071&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1Mx2M Rose Gold Foil Fringe Shimmer Curtain Door Wedding Birthday Party  Rain Decoration Photo Booth Backdrop Sequin Wall">
+                                <img itemprop="contentUrl url" src='https://canary.contestimg.wish.com/api/webimage/61319b248000f41e0fa7a8c3-large.jpg?cache_buster=0452cf571a14138192820e15fabe2e1e' alt='1Mx2M Rose Gold Foil Fringe Shimmer Curtain Door Wedding Birthday Party  Rain Decoration Photo Booth Backdrop Sequin Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wish" />
+                                </span>
+                                <a href='https://canary.contestimg.wish.com/api/webimage/61319b248000f41e0fa7a8c3-large.jpg?cache_buster=0452cf571a14138192820e15fabe2e1e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SoarDream Rose Gold Backdrop Curtains 2 Pieces 2ftx8ft Sequin Fabric  Backdrop Glitter Prom Drapes Baby Shower Photo Background Backdrops">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/7cafa8f5-b188-46a6-987c-bb054886ac61.d1bfd3e4d5e2e97f86fab626295f11ce.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='SoarDream Rose Gold Backdrop Curtains 2 Pieces 2ftx8ft Sequin Fabric  Backdrop Glitter Prom Drapes Baby Shower Photo Background Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/7cafa8f5-b188-46a6-987c-bb054886ac61.d1bfd3e4d5e2e97f86fab626295f11ce.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Rose Gold Party Streamers Backdrop | Ginger Ray">
+                                <img itemprop="contentUrl url" src='https://www.gingerray.com/tco-images/unsafe/513x513/filters:upscale():fill(white)/https://www.gingerray.com/static/media/catalog/product/a/s/MIX-190_1.jpg' alt='Pink And Rose Gold Party Streamers Backdrop | Ginger Ray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ginger Ray" />
+                                </span>
+                                <a href='https://www.gingerray.com/tco-images/unsafe/513x513/filters:upscale():fill(white)/https://www.gingerray.com/static/media/catalog/product/a/s/MIX-190_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

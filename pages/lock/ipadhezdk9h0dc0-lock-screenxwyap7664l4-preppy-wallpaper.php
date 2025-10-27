@@ -1,0 +1,129 @@
+<title>Preppy iPad Lock Screen Wallpaper: Stylish Designs for Your Device</title>
+                    <meta name="description" content="Discover trendy preppy wallpapers perfect for your iPad lock screen. Elevate your device's style with vibrant, stylish designs. Explore our collection now and personalize your iPad effortlessly!">
+                    <meta name="keywords" content="ipad:hezdk9h0dc0= lock screen:xwyap7664l4= preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/ipadhezdk9h0dc0-lock-screenxwyap7664l4-preppy-wallpaper">
+                            <span itemprop="name">ipad:hezdk9h0dc0= lock screen:xwyap7664l4= preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy iPad Lock Screen Wallpaper: Stylish Designs for Your Device</h1>
+                <p>Transform your iPad's lock screen with stunning preppy wallpapers! Whether you adore pastel colors or classic patterns, these wallpapers add a fresh, vibrant touch to your device. Elevate your iPad aesthetics and showcase your personality with stylish designs that make every glance a delight. Find your perfect match today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' alt='Preppy wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ipad-preppy-uuqcebo1uw7xco6e.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ipad-preppy-uuqcebo1uw7xco6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper for iPad - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' alt='Preppy Wallpaper for iPad - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-patterni-pad-wallpaper-glmdf7a9mmxnfuse.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-patterni-pad-wallpaper-glmdf7a9mmxnfuse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-pink-leopard-printi-pad-background-hy9du1gozkv4l87r.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-pink-leopard-printi-pad-background-hy9du1gozkv4l87r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-aesthetic-collage-g8wsaxr98ogqr05x.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-aesthetic-collage-g8wsaxr98ogqr05x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPhone and iPad Wallpaper, Stars Wallpaper, Glitter Wallpaper,  Digital Wallpaper, Instant Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35649904/r/il/3c747c/4079805329/il_1080xN.4079805329_5hst.jpg' alt='Preppy iPhone and iPad Wallpaper, Stars Wallpaper, Glitter Wallpaper,  Digital Wallpaper, Instant Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35649904/r/il/3c747c/4079805329/il_1080xN.4079805329_5hst.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy For iPad Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/9b/69/2b9b695511eb66202ffdbe98341bdd69.jpg' alt='Preppy For iPad Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/9b/69/2b9b695511eb66202ffdbe98341bdd69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brookenyren in 2022 | Ipad wallpaper, Wallpaper, Phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/8e/29/a78e291c5fbae3de7d755e70790d23c5.jpg' alt='brookenyren in 2022 | Ipad wallpaper, Wallpaper, Phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/8e/29/a78e291c5fbae3de7d755e70790d23c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy lock screen idea for ipad/phone  ✨  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/5e/e7/bd5ee7c5274494c11074b5a687191387.jpg' alt='preppy lock screen idea for ipad/phone  ✨  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/5e/e7/bd5ee7c5274494c11074b5a687191387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

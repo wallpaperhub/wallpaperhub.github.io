@@ -1,0 +1,129 @@
+<title>States That Restrict Pending Charges on Background Checks</title>
+                    <meta name="description" content="Discover which states prohibit pending charges from being included in background checks. Learn about your rights and ensure fair employment practices. Stay informed to navigate the hiring process effectively.">
+                    <meta name="keywords" content="what states prohibit pending charges on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-states-prohibit-pending-charges-on-a-background-check">
+                            <span itemprop="name">what states prohibit pending charges on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>States That Restrict Pending Charges on Background Checks</h1>
+                <p>Several states in the U.S. prohibit employers from considering pending charges during background checks. Notably, California, New York, and Illinois have regulations ensuring individuals are not unfairly judged based on charges that have not yet resulted in a conviction, promoting fair employment practices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What States Prohibit Pending Charges on a Background Check? | The ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/What-States-Prohibit-Pending-Charges-on-a-Background-Check.png' alt='What States Prohibit Pending Charges on a Background Check? | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/What-States-Prohibit-Pending-Charges-on-a-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States That Prohibit Pending Charges on Background Checks - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/States-That-Prohibit-Pending-Charges-on-Background-Checks-visual-selection.png' alt='States That Prohibit Pending Charges on Background Checks - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/States-That-Prohibit-Pending-Charges-on-Background-Checks-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Background Check: A Complete Guide for Employers [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2023/02/state-background-checks-a-complete-guide-for-employers-.jpg' alt='State Background Check: A Complete Guide for Employers [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2023/02/state-background-checks-a-complete-guide-for-employers-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show Up On A Background Check?">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/What-States-Prohibit-Pending-Charges-on-a-Background-Check-1.png' alt='Do Pending Charges Show Up On A Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/What-States-Prohibit-Pending-Charges-on-a-Background-Check-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/81b8d15fafc4315f98f6204d847e3b98/da8b6/1-Safest-City-Each-State.png' alt='Criminal Background Checks For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/81b8d15fafc4315f98f6204d847e3b98/da8b6/1-Safest-City-Each-State.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States That Prohibit Pending Charges on Background Checks - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Legal-Aspects-of-Pending-Charges-on-Background-Checks-visual-selection.png' alt='States That Prohibit Pending Charges on Background Checks - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/Legal-Aspects-of-Pending-Charges-on-Background-Checks-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show up on a Background Check">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/671bb22e76706169ea819449_AD_4nXfKHJDAP6bmxDeCaQoV6nvRHqGGtY_bwqlZg-zZ989K2R6Dv-CAmV4PMHn389Ik-gnPKTYCQ_CVzV9JmqfatL5UbtRfSEZzlVpbI2BQFg0aAfSRYqZgRewrIUYKol9-xWJCIdKX0MnJd-khl237k52XWpk.png' alt='Do Pending Charges Show up on a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/671bb22e76706169ea819449_AD_4nXfKHJDAP6bmxDeCaQoV6nvRHqGGtY_bwqlZg-zZ989K2R6Dv-CAmV4PMHn389Ik-gnPKTYCQ_CVzV9JmqfatL5UbtRfSEZzlVpbI2BQFg0aAfSRYqZgRewrIUYKol9-xWJCIdKX0MnJd-khl237k52XWpk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States That Prohibit Pending Charges on Background Checks - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/How-Do-Pending-Charges-Differ-from-Convictions_-visual-selection.png' alt='States That Prohibit Pending Charges on Background Checks - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/How-Do-Pending-Charges-Differ-from-Convictions_-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which States Prohibit Pending Charges on Background Checks?">
+                                <img itemprop="contentUrl url" src='https://media.assettype.com/resident%2F2024-07%2Fdc0c5938-7948-476e-9d61-9f1592d5e7a6%2Fshutterstock_2056414424.jpg' alt='Which States Prohibit Pending Charges on Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resident Magazine" />
+                                </span>
+                                <a href='https://media.assettype.com/resident%2F2024-07%2Fdc0c5938-7948-476e-9d61-9f1592d5e7a6%2Fshutterstock_2056414424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Pending Charges Show up on a Background Check">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/671bb2304888a37a5f8efd0b_AD_4nXdV6TaZHSPSf5ebqrrmUwx7LKRJuqyfJvKUw_M7_loDsTK3qJVZG--Xm399uXP301UXk01xyfeH6nbB4-XMx_ujMj0Xctzon8SIICpeG_HoiPt48kcANXplusBY7WLwPqwzCnqo4KEs4xRaSRL385Aw4MU-.png' alt='Do Pending Charges Show up on a Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/671bb2304888a37a5f8efd0b_AD_4nXdV6TaZHSPSf5ebqrrmUwx7LKRJuqyfJvKUw_M7_loDsTK3qJVZG--Xm399uXP301UXk01xyfeH6nbB4-XMx_ujMj0Xctzon8SIICpeG_HoiPt48kcANXplusBY7WLwPqwzCnqo4KEs4xRaSRL385Aw4MU-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

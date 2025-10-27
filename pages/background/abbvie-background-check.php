@@ -1,0 +1,129 @@
+<title>Understanding AbbVie Background Checks: What to Expect</title>
+                    <meta name="description" content="Explore AbbVie's background check process, covering what to expect during hiring. Learn about the checks conducted, including employment history and criminal records, to ensure a safe and ethical work environment. Get insights to prepare for your job application effectively.">
+                    <meta name="keywords" content="abbvie background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abbvie-background-check">
+                            <span itemprop="name">abbvie background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding AbbVie Background Checks: What to Expect</h1>
+                <p>AbbVie conducts thorough background checks as part of its hiring process to ensure the integrity and safety of its workforce. These checks typically include employment history, criminal records, and education verification. The company aims to hire individuals who align with its values and commitment to ethical practices, enhancing organizational trust.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AbbVie: Selection and Interview process, Questions/Answers ...">
+                                <img itemprop="contentUrl url" src='https://www.devopsschool.com/blog/wp-content/uploads/2024/03/image-183-1024x500.png' alt='AbbVie: Selection and Interview process, Questions/Answers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DevOps School" />
+                                </span>
+                                <a href='https://www.devopsschool.com/blog/wp-content/uploads/2024/03/image-183-1024x500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does an Employment Background usually Check Take?">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2024/01/TSK-7152-ST-Blog-Criminal-03-1024x478.png' alt='How Long Does an Employment Background usually Check Take?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2024/01/TSK-7152-ST-Blog-Criminal-03-1024x478.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete Guide to “Failed” Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='Complete Guide to “Failed” Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Background Check - Help for Sterling Job Candidates">
+                                <img itemprop="contentUrl url" src='https://mybackgroundcheck.sterlingcheck.com/wp-content/themes/candidatesus/resources/assets/images/slider/IconEmail.png' alt='My Background Check - Help for Sterling Job Candidates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://mybackgroundcheck.sterlingcheck.com/wp-content/themes/candidatesus/resources/assets/images/slider/IconEmail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does AbbVie drug test or do a background check? - AbbVie Questions ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/abbvie/questions/i-364/does-abbvie-drug-test-or-do-a-background-check' alt='Does AbbVie drug test or do a background check? - AbbVie Questions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/abbvie/questions/i-364/does-abbvie-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete Guide to “Failed” Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1bd1bd4ae49bb33be2f15593ec5299e7/aabf3/Article-failed-background-check.jpg' alt='Complete Guide to “Failed” Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1bd1bd4ae49bb33be2f15593ec5299e7/aabf3/Article-failed-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Curious about the Slalom background check, does an... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/curious-about-the-slalom-background-check-does-anyone-know-what-it-consists-of-criminal-education-employment-nothing.png' alt='Curious about the Slalom background check, does an... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/curious-about-the-slalom-background-check-does-anyone-know-what-it-consists-of-criminal-education-employment-nothing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Abbvie an ALPFA sponsor at the career fair this ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3463655556110864511' alt='Check out Abbvie an ALPFA sponsor at the career fair this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3463655556110864511' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can Disqualify You on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.betterteam.com/images/betterteam-background-check-disqualification-3500x3500-20242102.jpg?crop=1:1,smart&width=1200&dpr=2&format=pjpg&auto=webp&quality=85' alt='What Can Disqualify You on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Betterteam" />
+                                </span>
+                                <a href='https://www.betterteam.com/images/betterteam-background-check-disqualification-3500x3500-20242102.jpg?crop=1:1,smart&width=1200&dpr=2&format=pjpg&auto=webp&quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jersey Cares | Verified Volunteers">
+                                <img itemprop="contentUrl url" src='https://cdn0.handsonconnect.org/00010d/images/Verified%20Volunteers.png' alt='Jersey Cares | Verified Volunteers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1340">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jersey Cares" />
+                                </span>
+                                <a href='https://cdn0.handsonconnect.org/00010d/images/Verified%20Volunteers.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Preppy Dinosaur Wallpaper: Fun & Stylish Decor for Kids</title>
+                    <meta name="description" content="Explore our preppy dinosaur wallpaper for a playful and stylish touch to your child's room. Bright colors and cute designs create an engaging atmosphere that inspires creativity and imagination. Perfect for nurseries or playrooms, this wallpaper makes decorating easy and fun!">
+                    <meta name="keywords" content="preppy dinosaur wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-dinosaur-wallpaper">
+                            <span itemprop="name">preppy dinosaur wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Dinosaur Wallpaper: Fun & Stylish Decor for Kids</h1>
+                <p>Transform your child's space with preppy dinosaur wallpaper! This delightful decor features charming dinosaurs in vibrant colors and playful patterns, perfect for any prehistoric enthusiast. Ideal for nurseries or playrooms, it adds a fun, educational twist to the room while sparking imagination and creativity in little ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b7/ea/dc/b7eadcfc93b9a6a3a5e93ed45bd9688e.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b7/ea/dc/b7eadcfc93b9a6a3a5e93ed45bd9688e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/75/cf/10/75cf100724fcf20aa643f3b731464818.jpg' alt='66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/75/cf/10/75cf100724fcf20aa643f3b731464818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b5/80/d2/b580d21d01205a58ac3d3bba359f8ab4.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b5/80/d2/b580d21d01205a58ac3d3bba359f8ab4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/25/88/552588f0a390bfe71e3377df4ffc855f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/25/88/552588f0a390bfe71e3377df4ffc855f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/ab/d6/f4abd627b1c3bfefa551f3b959f1894f.jpg' alt='Aesthetic Dinosaur Wallpaper Cute Dino Wallpaper Neutrals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/ab/d6/f4abd627b1c3bfefa551f3b959f1894f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/89/09/96/890996156c73760b820bd0999661c662.jpg' alt='66 Best Cute dinosaur wallpaper ideas | dinosaur wallpaper, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/89/09/96/890996156c73760b820bd0999661c662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink dinosaur wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c3/b5/34/c3b5342fafc38902c238e30591d6b367.jpg' alt='pink dinosaur wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c3/b5/34/c3b5342fafc38902c238e30591d6b367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If i haven’t replied to your comment for a couple days, please comment  again on one of my more recent vids <3333 thank you for all the love       #cute #dino #donosaur #wallpaper #dinowallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7187439227167116549&location=0&aid=1988' alt='If i haven’t replied to your comment for a couple days, please comment  again on one of my more recent vids <3333 thank you for all the love       #cute #dino #donosaur #wallpaper #dinowallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7187439227167116549&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download White Peach Aesthetic Dino Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-peach-aesthetic-dino-8ojwyxauvq1ddfvc.jpg' alt='Download White Peach Aesthetic Dino Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="157">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-peach-aesthetic-dino-8ojwyxauvq1ddfvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink esthetic Dino wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/44/cd/2944cd8c08cdc24bfc8ecffaa0aacef0.jpg' alt='pink esthetic Dino wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/44/cd/2944cd8c08cdc24bfc8ecffaa0aacef0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

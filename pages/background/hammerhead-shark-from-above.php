@@ -1,0 +1,129 @@
+<title>Stunning Aerial Views of Hammerhead Sharks</title>
+                    <meta name="description" content="Discover the awe-inspiring beauty of hammerhead sharks from above. Learn about their unique head shape, hunting skills, and the stunning views these majestic creatures create in the ocean. Perfect for marine enthusiasts and nature lovers! Dive into the world of hammerheads today.">
+                    <meta name="keywords" content="hammerhead shark from above">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hammerhead-shark-from-above">
+                            <span itemprop="name">hammerhead shark from above</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aerial Views of Hammerhead Sharks</h1>
+                <p>Hammerhead sharks offer a mesmerizing view from above. Their unique, flattened heads spread out like a wing, creating a striking silhouette against the water. This bird's-eye perspective showcases their agility and grace as they patrol the ocean depths. Viewers can appreciate their prehistoric elegance and unique hunting tactics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grace, Power And Mystery: The Hammerheads - Dive Training Magazine ...">
+                                <img itemprop="contentUrl url" src='https://dtmag.com/wp-content/uploads/2004/11/hammerheadshark3.jpg' alt='Grace, Power And Mystery: The Hammerheads - Dive Training Magazine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dive Training Magazine" />
+                                </span>
+                                <a href='https://dtmag.com/wp-content/uploads/2004/11/hammerheadshark3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate, Written in The Stars // Great hammerheads, Amphitrite and ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3202714046540980191' alt='Fate, Written in The Stars // Great hammerheads, Amphitrite and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3202714046540980191' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Today | Hammerheads hang in the balance: they deserve a ...">
+                                <img itemprop="contentUrl url" src='https://cdn-img.newstory.nl/naturetoday/images/optimized/eccfda33-5fc9-4cc5-a58a-a62632732b69.jpg&w=370' alt='Nature Today | Hammerheads hang in the balance: they deserve a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Today" />
+                                </span>
+                                <a href='https://cdn-img.newstory.nl/naturetoday/images/optimized/eccfda33-5fc9-4cc5-a58a-a62632732b69.jpg&w=370' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="With A Twist // Great hammerhead shark scanning the sandy sea ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3279414923338723337' alt='With A Twist // Great hammerhead shark scanning the sandy sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3279414923338723337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAMMERHEAD SHARKS: UP CLOSE AND PERSONAL… | ROLLING HARBOUR ABACO">
+                                <img itemprop="contentUrl url" src='https://rollingharbour.com/wp-content/uploads/2016/09/13495007_1759485940931639_2131110011713591584_n.jpg' alt='HAMMERHEAD SHARKS: UP CLOSE AND PERSONAL… | ROLLING HARBOUR ABACO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="858">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ROLLING HARBOUR ABACO" />
+                                </span>
+                                <a href='https://rollingharbour.com/wp-content/uploads/2016/09/13495007_1759485940931639_2131110011713591584_n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take Action For Sharks | Shark Angels Shark Conservation">
+                                <img itemprop="contentUrl url" src='https://sharkangels.org/wp-content/uploads/2023/04/Screen-Shot-2021-01-14-at-3.57.27-PM.png' alt='Take Action For Sharks | Shark Angels Shark Conservation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shark Angels" />
+                                </span>
+                                <a href='https://sharkangels.org/wp-content/uploads/2023/04/Screen-Shot-2021-01-14-at-3.57.27-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great hammerhead shark in the deep blue      This spring season ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3372107478244895920' alt='Great hammerhead shark in the deep blue      This spring season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3372107478244895920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hammer Head Shark" Images – Browse 12,124 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/75/52/04/360_F_575520491_gFDKoJvX8Y8AZtWQD685Drq26DV3hwIx.jpg' alt='Hammer Head Shark" Images – Browse 12,124 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/75/52/04/360_F_575520491_gFDKoJvX8Y8AZtWQD685Drq26DV3hwIx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great hammerhead shark - Sphyrna mokarran — Shark Research Institute">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5bae466429f2cc29475d636e/1550535781352-K1JEPCHC7FIFME2KT3PI/great-hammerhead-shark-sphyrna-mokarran.jpg' alt='Great hammerhead shark - Sphyrna mokarran — Shark Research Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shark Research Institute" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5bae466429f2cc29475d636e/1550535781352-K1JEPCHC7FIFME2KT3PI/great-hammerhead-shark-sphyrna-mokarran.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger and Great Hammerhead Photo Gallery 2 — SDM Diving">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57c8fb18ebbd1ada66ecff91/1550149870888-7X00819ENEVX698DX3DH/areial.jpg' alt='Tiger and Great Hammerhead Photo Gallery 2 — SDM Diving'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SDM Diving" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57c8fb18ebbd1ada66ecff91/1550149870888-7X00819ENEVX698DX3DH/areial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

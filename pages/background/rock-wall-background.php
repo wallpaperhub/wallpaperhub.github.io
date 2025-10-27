@@ -1,0 +1,129 @@
+<title>Stunning Rock Wall Backgrounds for All Needs</title>
+                    <meta name="description" content="Explore captivating rock wall backgrounds that enhance your photos, videos, and designs. Ideal for creative projects, these textured and natural backdrops bring an earthy aesthetic. Discover the perfect balance of rugged beauty and versatility for any setting, both indoors and outdoors.">
+                    <meta name="keywords" content="rock wall background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rock-wall-background">
+                            <span itemprop="name">rock wall background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rock Wall Backgrounds for All Needs</h1>
+                <p>A rock wall background adds a rugged, natural touch to various environments, perfect for photography, video shoots, or artistic displays. Its textured contrasts and earthy tones create an engaging visual experience. Whether used indoors or outdoors, a rock wall background evokes strength, durability, and a connection to nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Wall Images – Browse 6,537,044 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/95/39/91/360_F_295399104_p5AoMraquI7nppOEcMlEPwtMEuf4LMR0.jpg' alt='Rock Wall Images – Browse 6,537,044 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/95/39/91/360_F_295399104_p5AoMraquI7nppOEcMlEPwtMEuf4LMR0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75,200+ Rock Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/186883289/photo/red-rock-background.jpg?s=612x612&w=0&k=20&c=uuFJwMit7HhcYYCwFfK-rx38ijOFOshb7n7m41R4ygc=' alt='75,200+ Rock Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/186883289/photo/red-rock-background.jpg?s=612x612&w=0&k=20&c=uuFJwMit7HhcYYCwFfK-rx38ijOFOshb7n7m41R4ygc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO 12x8ft Fabric Stone Rock Wall Backdrop Old ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Zd+4h4jIL.jpg' alt='Amazon.com : CORFOTO 12x8ft Fabric Stone Rock Wall Backdrop Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Zd+4h4jIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Rock Wall Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673766648439-02c86c4ad197?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cm9jayUyMHdhbGx8ZW58MHx8MHx8fDA%3D' alt='45,628+ Rock Wall Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673766648439-02c86c4ad197?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cm9jayUyMHdhbGx8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75,200+ Rock Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/976328548/photo/stone-wall-background.jpg?s=612x612&w=0&k=20&c=gAqhJDSVV1U_K1wh6cgPoGEzfwyuTdPrb_xtvr6goOI=' alt='75,200+ Rock Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/976328548/photo/stone-wall-background.jpg?s=612x612&w=0&k=20&c=gAqhJDSVV1U_K1wh6cgPoGEzfwyuTdPrb_xtvr6goOI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Wall Images – Browse 6,537,044 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/20/65/17/360_F_420651720_JS9PhMM4vcZxq8OrdOYUAKy90H7u4PME.jpg' alt='Rock Wall Images – Browse 6,537,044 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/20/65/17/360_F_420651720_JS9PhMM4vcZxq8OrdOYUAKy90H7u4PME.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Wallpaper, Stone Wall, Rock Background, Natural Stone Cave ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16007381/r/il/73aee3/3447517768/il_570xN.3447517768_5u3m.jpg' alt='Stone Wallpaper, Stone Wall, Rock Background, Natural Stone Cave ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16007381/r/il/73aee3/3447517768/il_570xN.3447517768_5u3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock texture background Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://www.canvasartrocks.com/cdn/shop/products/Rock_texture_background_Wall_Mural_Wallpaper_a_700x.jpg?v=1735832671' alt='Rock texture background Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://www.canvasartrocks.com/cdn/shop/products/Rock_texture_background_Wall_Mural_Wallpaper_a_700x.jpg?v=1735832671' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 15x10ft Fabric Vintage Brick Stone Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81F4xezRRJL.jpg' alt='Amazon.com : BELECO 15x10ft Fabric Vintage Brick Stone Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81F4xezRRJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone rock wall with beautiful pattern for background. Texture and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/RX0N1E/stone-rock-wall-with-beautiful-pattern-for-background-texture-and-design-in-this-stonework-aged-structure-RX0N1E.jpg' alt='Stone rock wall with beautiful pattern for background. Texture and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/RX0N1E/stone-rock-wall-with-beautiful-pattern-for-background-texture-and-design-in-this-stonework-aged-structure-RX0N1E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

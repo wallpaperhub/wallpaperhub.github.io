@@ -1,0 +1,129 @@
+<title>Spooky Summer Wallpaper: Unleash Eerie Vibes</title>
+                    <meta name="description" content="Discover the perfect blend of summer and spookiness with our collection of spooky summer wallpaper. These unique designs add a haunting charm to your screens, blending bright sunny themes with eerie visuals. Perfect for creating a captivating atmosphere on your devices. Embrace the unusual this summer!">
+                    <meta name="keywords" content="spooky summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/spooky-summer-wallpaper">
+                            <span itemprop="name">spooky summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Summer Wallpaper: Unleash Eerie Vibes</h1>
+                <p>Transform your summer vibes with spooky summer wallpaper! Merging the warmth of sunny days with eerie elements, this unique decor will fascinate and thrill. Perfect for your phone or desktop, these wallpapers feature haunted beaches, ghostly sunsets, and supernatural summer nights, bringing a haunting twist to your seasonal aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/c4/98/dbc498f95be5cee608b727989aad38fd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/c4/98/dbc498f95be5cee608b727989aad38fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Summer Summer Night Purple Grove River Background, Day ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-halloween-summer-summer-night-purple-grove-river-background-picture-image_1473998.jpg' alt='Halloween Summer Summer Night Purple Grove River Background, Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-halloween-summer-summer-night-purple-grove-river-background-picture-image_1473998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Summer Stripes Spooky, Summer, Seamless, Digital Design ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28445579/r/il/eed96d/5844271558/il_570xN.5844271558_ispy.jpg' alt='Spooky Summer Stripes Spooky, Summer, Seamless, Digital Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28445579/r/il/eed96d/5844271558/il_570xN.5844271558_ispy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d1/a0/45/d1a045d165acdd7386da5dace1eda90e.jpg' alt='Spooky Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d1/a0/45/d1a045d165acdd7386da5dace1eda90e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Phone wallpaper ideas | halloween wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1c/66/97/1c669729345c5d2ce51877c988e0e97e.jpg' alt='19 Phone wallpaper ideas | halloween wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1c/66/97/1c669729345c5d2ce51877c988e0e97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Summer Stripes Spooky, Summer, Seamless, Digital Design ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28445579/r/il/b8693d/5844271522/il_570xN.5844271522_4cpe.jpg' alt='Spooky Summer Stripes Spooky, Summer, Seamless, Digital Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28445579/r/il/b8693d/5844271522/il_570xN.5844271522_4cpe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,192 Beach Halloween Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/summer-vibes-pumpkin-watermelon-ghost-260nw-2372544727.jpg' alt='4,192 Beach Halloween Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/summer-vibes-pumpkin-watermelon-ghost-260nw-2372544727.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printed Vinyl - Spooky Summer Black — The Glitter Guy">
+                                <img itemprop="contentUrl url" src='https://www.theglitterguy.com/cdn/shop/files/54123ddd0e05cff4cf6e6a778d4ae501_512x523.jpg?v=1721189361' alt='Printed Vinyl - Spooky Summer Black — The Glitter Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Glitter Guy" />
+                                </span>
+                                <a href='https://www.theglitterguy.com/cdn/shop/files/54123ddd0e05cff4cf6e6a778d4ae501_512x523.jpg?v=1721189361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Summer Camp Halloween Illustration Wall Art for Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12816411/r/il/b54a4b/5134762435/il_570xN.5134762435_fhir.jpg' alt='Spooky Summer Camp Halloween Illustration Wall Art for Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12816411/r/il/b54a4b/5134762435/il_570xN.5134762435_fhir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Summer Dark Pink BBB44">
+                                <img itemprop="contentUrl url" src='https://jaxfabrix.com/cdn/shop/files/Spookysummer.jpg?v=1686863490&width=1920' alt='Spooky Summer Dark Pink BBB44'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jax Fabrix" />
+                                </span>
+                                <a href='https://jaxfabrix.com/cdn/shop/files/Spookysummer.jpg?v=1686863490&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

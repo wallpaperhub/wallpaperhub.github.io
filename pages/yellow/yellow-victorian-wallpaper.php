@@ -1,0 +1,129 @@
+<title>Shop Stunning Yellow Victorian Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover beautiful yellow Victorian wallpaper to enhance your home décor. Ideal for adding elegance and charm, our selection features exquisite patterns that embody timeless style. Transform your space with vibrant colors and classic designs for a perfect blend of history and modern living.">
+                    <meta name="keywords" content="yellow victorian wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-victorian-wallpaper">
+                            <span itemprop="name">yellow victorian wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shop Stunning Yellow Victorian Wallpaper for Your Home</h1>
+                <p>Yellow Victorian wallpaper adds a touch of elegance and warmth to any room. Characterized by intricate patterns and rich colors, it captures the essence of the Victorian era. Perfect for creating a cozy atmosphere, this wallpaper can transform modern spaces, breathing life into interiors while celebrating classic design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Yellow Damask Design">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' alt='1960s Vintage Wallpaper Yellow Damask Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/2660/13805/vintage-wallpaper-71__08385.1679254534.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="M50027 Victorian Wallpaper Yellow ivory gold metallic damask faux fabric  textured rolls">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/VictorianYellowivorygoldmetallicdamaskfauxfabrictexturedWallpaperrolls-3.jpg?v=1661166288' alt='M50027 Victorian Wallpaper Yellow ivory gold metallic damask faux fabric  textured rolls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/VictorianYellowivorygoldmetallicdamaskfauxfabrictexturedWallpaperrolls-3.jpg?v=1661166288' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Flowers Damask MF40303">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' alt='Painted Flowers Damask MF40303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-damask-mf40303-642396.jpg?v=1675882001' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Essex Damask in Yellow Wallpaper by Bradbury and Bradbury">
+                                <img itemprop="contentUrl url" src='https://dollhousesandmore.com/wp-content/uploads/2019/07/JIW0814.jpeg' alt='Vintage Essex Damask in Yellow Wallpaper by Bradbury and Bradbury'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dollhouses and More" />
+                                </span>
+                                <a href='https://dollhousesandmore.com/wp-content/uploads/2019/07/JIW0814.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fonteyn by Cole & Son - Vintage Yellow - Wallpaper - 108/7038">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/136453/tiled/cole-and-son-fonteyn-vintage-yellow-wallpaper-tiled-136453.jpg' alt='Fonteyn by Cole & Son - Vintage Yellow - Wallpaper - 108/7038'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/136453/tiled/cole-and-son-fonteyn-vintage-yellow-wallpaper-tiled-136453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherub and Floral on Yellow Victorian Wallpaper CH22539 FREE SHIPPING">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/YoIAAOSwiLdV8aP-/s-l1200.jpg' alt='Cherub and Floral on Yellow Victorian Wallpaper CH22539 FREE SHIPPING'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/YoIAAOSwiLdV8aP-/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Traditional Wallpaper - Bed Bath & Beyond">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/8a31ebae2dd2e8cd1add851ee270393e54665b04/Seabrook-Designs-Joannie-Victorian-Unpasted-Wallpaper.jpg' alt='Yellow Traditional Wallpaper - Bed Bath & Beyond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/8a31ebae2dd2e8cd1add851ee270393e54665b04/Seabrook-Designs-Joannie-Victorian-Unpasted-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,309 Victorian Wallpaper Yellow Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/seamless-wallpaper-pattern-victorian-style-ornate-floral-background-vector-illustration-339126617.jpg' alt='1,309 Victorian Wallpaper Yellow Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/seamless-wallpaper-pattern-victorian-style-ornate-floral-background-vector-illustration-339126617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for the yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/a1/69/78a16930ee1e35890890aa7b42c7cd0f.jpg' alt='Image result for the yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/a1/69/78a16930ee1e35890890aa7b42c7cd0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Victorian Style Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #401">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16721890/r/il/ff12be/2517305391/il_570xN.2517305391_glfi.jpg' alt='Gold Victorian Style Wallpaper | Self Adhesive Wallpaper, Removable  Wallpaper, Temporary Wallpaper, Peel and Stick Wallpaper #401'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16721890/r/il/ff12be/2517305391/il_570xN.2517305391_glfi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

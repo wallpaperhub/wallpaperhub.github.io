@@ -1,0 +1,129 @@
+<title>Extend Your Background in Photoshop: A Quick Guide</title>
+                    <meta name="description" content="Learn how to effortlessly extend your background in Photoshop with our quick guide. Discover tips and tricks to seamlessly blend and adjust backgrounds for stunning visuals. Perfect for beginners and experienced users alike. Enhance your Photoshop skills today!">
+                    <meta name="keywords" content="how to extend background in photoshop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-extend-background-in-photoshop">
+                            <span itemprop="name">how to extend background in photoshop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Extend Your Background in Photoshop: A Quick Guide</h1>
+                <p>To extend the background in Photoshop, start by selecting the area around your subject using the Lasso or Magic Wand tool. Then, copy the selection and paste it to a new layer. Use the Transform tool to stretch or reposition the background. Finally, utilize the Clone Stamp or Healing Brush to blend edges and create a seamless look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Extend Background Using Content Aware Scale in Photoshop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wjfCmCs-I8g/maxresdefault.jpg' alt='How to Extend Background Using Content Aware Scale in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wjfCmCs-I8g/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Steps to Easily Extend Background in Photoshop">
+                                <img itemprop="contentUrl url" src='https://retutstudio.com/wp-content/uploads/2021/02/ebiph-5.jpg' alt='3 Steps to Easily Extend Background in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RetutStudio" />
+                                </span>
+                                <a href='https://retutstudio.com/wp-content/uploads/2021/02/ebiph-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Easy Ways To EXTEND BACKGROUNDS In Photoshop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cTf8ZKktU3M/maxresdefault.jpg' alt='2 Easy Ways To EXTEND BACKGROUNDS In Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cTf8ZKktU3M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Steps to Easily Extend Background in Photoshop">
+                                <img itemprop="contentUrl url" src='https://retutstudio.com/wp-content/uploads/2021/02/ebiph-3.jpg' alt='3 Steps to Easily Extend Background in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RetutStudio" />
+                                </span>
+                                <a href='https://retutstudio.com/wp-content/uploads/2021/02/ebiph-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Extend Backgrounds in Photoshop with Content Aware">
+                                <img itemprop="contentUrl url" src='https://slrlounge.com/wp-content/uploads/2018/03/piximperfect-contenet-aware-stretch-background-2-e1522085668280.png' alt='How to Extend Backgrounds in Photoshop with Content Aware'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1878">
+                                <meta itemprop="height" content="1263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLR Lounge" />
+                                </span>
+                                <a href='https://slrlounge.com/wp-content/uploads/2018/03/piximperfect-contenet-aware-stretch-background-2-e1522085668280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Extend a Background in Photoshop">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/c70914_ffcfb897f1c74e4b8d5fe1b075f04e95~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/c70914_ffcfb897f1c74e4b8d5fe1b075f04e95~mv2.jpg' alt='How Extend a Background in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virginia Photos and Films" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/c70914_ffcfb897f1c74e4b8d5fe1b075f04e95~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/c70914_ffcfb897f1c74e4b8d5fe1b075f04e95~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extending a Background in Photoshop in 3 Simple Steps - Pretty ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0173/9358/files/How_to_Extend_Background_in_Photoshop_4_1_1024x1024.jpg?v=1559153435' alt='Extending a Background in Photoshop in 3 Simple Steps - Pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Presets" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0173/9358/files/How_to_Extend_Background_in_Photoshop_4_1_1024x1024.jpg?v=1559153435' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Easy Ways To Extend Backgrounds in Photos Using Photoshop ...">
+                                <img itemprop="contentUrl url" src='https://cdn.fstoppers.com/styles/full/s3/media/2021/02/09/1.marquee-tool-extend.jpg' alt='2 Easy Ways To Extend Backgrounds in Photos Using Photoshop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fstoppers" />
+                                </span>
+                                <a href='https://cdn.fstoppers.com/styles/full/s3/media/2021/02/09/1.marquee-tool-extend.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Tip: How To Extend a Background in Photoshop CC - Instagram Style |  Adobe Creative Cloud">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tpn_l6vH8R8/sddefault.jpg' alt='Quick Tip: How To Extend a Background in Photoshop CC - Instagram Style |  Adobe Creative Cloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tpn_l6vH8R8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide on How to Extend Background in Photoshop">
+                                <img itemprop="contentUrl url" src='https://d31u1j2vbx6ya5.cloudfront.net/gei-assets/uploads/2022/09/enlarge-image-background.jpg' alt='A Guide on How to Extend Background in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Experts India" />
+                                </span>
+                                <a href='https://d31u1j2vbx6ya5.cloudfront.net/gei-assets/uploads/2022/09/enlarge-image-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

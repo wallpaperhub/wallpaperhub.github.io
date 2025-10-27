@@ -1,0 +1,129 @@
+<title>Cute Pumpkin Wallpaper: Fall Vibes for Your Screen</title>
+                    <meta name="description" content="Discover the cutest pumpkin wallpapers to brighten your device this fall! Perfect for adding a charming, seasonal touch to your screens, our collection features playful designs that celebrate autumn vibes. Enhance your background and enjoy the warmth of the harvest every day!">
+                    <meta name="keywords" content="cute pumpkin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-pumpkin-wallpaper">
+                            <span itemprop="name">cute pumpkin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Pumpkin Wallpaper: Fall Vibes for Your Screen</h1>
+                <p>Adorn your screen with enchanting cute pumpkin wallpaper, perfect for the fall season! These delightful designs bring a playful touch to your device, featuring jack-o'-lanterns, smiling pumpkins, and whimsical autumn themes. Make your background pop with warmth and charm, capturing the spirit of harvest time beautifully!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Smiley Pumpkin Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40927243/r/il/83630f/5447975630/il_570xN.5447975630_4r4h.jpg' alt='Cute Smiley Pumpkin Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40927243/r/il/83630f/5447975630/il_570xN.5447975630_4r4h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pumpkin Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/ec/84/3bec841f4163b7a2ca1faa720d913d32.jpg' alt='Cute Pumpkin Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/ec/84/3bec841f4163b7a2ca1faa720d913d32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,132 Cute Pink Pumpkin Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/pumpkin-pink-coquette-bow-trellis-600nw-2483891881.jpg' alt='2,132 Cute Pink Pumpkin Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/pumpkin-pink-coquette-bow-trellis-600nw-2483891881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pumpkin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pumpkin-1920-x-1080-wallpaper-8rymyervucg9fmvy.jpg' alt='100+] Cute Pumpkin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pumpkin-1920-x-1080-wallpaper-8rymyervucg9fmvy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Pumpkin Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/endearing-autumn-scenery-cute-pumpkin-background-5r3co5agxumt5kmr.jpg' alt='100+] Cute Pumpkin Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/endearing-autumn-scenery-cute-pumpkin-background-5r3co5agxumt5kmr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cute Autumn Wallpaper Ideas : Pumpkin Spice + Pumpkin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/ec/1c/2aec1c647651e53e951200db61786c0d.jpg' alt='20 Cute Autumn Wallpaper Ideas : Pumpkin Spice + Pumpkin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/ec/1c/2aec1c647651e53e951200db61786c0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2017 Pumpkin Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2017/10/11_2017_ipad_art.jpg' alt='November 2017 Pumpkin Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3201">
+                                <meta itemprop="height" content="4268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2017/10/11_2017_ipad_art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pirateer | Fun pumpkin patches near you!">
+                                <img itemprop="contentUrl url" src='https://thepirateer.com/wp-content/uploads/2022/09/pumpkin-patch-desktop-wallpaper-5653-5939-hd-wallpapers-900x600.jpg' alt='The Pirateer | Fun pumpkin patches near you!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pirateer" />
+                                </span>
+                                <a href='https://thepirateer.com/wp-content/uploads/2022/09/pumpkin-patch-desktop-wallpaper-5653-5939-hd-wallpapers-900x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/40/44/9d40448e8d6ed5cc1b7ccf8956da7c04.jpg' alt='Pumpkin wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/40/44/9d40448e8d6ed5cc1b7ccf8956da7c04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James">
+                                <img itemprop="contentUrl url" src='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october.jpg' alt='FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy James" />
+                                </span>
+                                <a href='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

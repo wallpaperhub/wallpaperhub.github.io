@@ -1,0 +1,129 @@
+<title>Stylish iPhone Wallpapers Featuring Kyle from South Park</title>
+                    <meta name="description" content="Transform your iPhone with unique Kyle from South Park wallpapers. Explore a selection of vibrant designs perfect for fans, ensuring your device stands out with character and fun. Download now for a fresh new look!">
+                    <meta name="keywords" content="iphone south park kyle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-south-park-kyle-wallpaper">
+                            <span itemprop="name">iphone south park kyle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish iPhone Wallpapers Featuring Kyle from South Park</h1>
+                <p>Looking for the perfect iPhone wallpaper featuring Kyle from South Park? Discover a variety of vibrant, high-quality images showcasing Kyle's iconic looks and expressions. Whether you're a fan of the show or just love unique designs, these wallpapers will give your device a fun twist while keeping your screen looking fresh!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle iPhone Wallpaper by dlife on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/26/d2/a5/26d2a569a38e58b98c2e3a8b81625f62.jpg' alt='Kyle iPhone Wallpaper by dlife on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/26/d2/a5/26d2a569a38e58b98c2e3a8b81625f62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made this wallpaper of kyle, just wanted to show it off : r/southpark">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/652slmibetm81.jpg' alt='made this wallpaper of kyle, just wanted to show it off : r/southpark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/652slmibetm81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South park, kyle, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/300/685/HD-wallpaper-south-park-kyle.jpg' alt='South park, kyle, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/300/685/HD-wallpaper-south-park-kyle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Broflovski South Park Series Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kyle-broflovski-south-park-series-jl25ibn4x5a3c5vx.jpg' alt='Kyle Broflovski South Park Series Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kyle-broflovski-south-park-series-jl25ibn4x5a3c5vx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c7/47/ea/c747ea8e2d3376609f9427ca6e7b0f51.jpg' alt='Kyle Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c7/47/ea/c747ea8e2d3376609f9427ca6e7b0f51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle, South park, sp, southpark, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/247/810/HD-wallpaper-kyle-south-park-sp-southpark.jpg' alt='Kyle, South park, sp, southpark, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/247/810/HD-wallpaper-kyle-south-park-sp-southpark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KYLE BROFLOVSKI WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/f7/80/2ff7800eab747f0eade77ea7450d6185.jpg' alt='KYLE BROFLOVSKI WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/f7/80/2ff7800eab747f0eade77ea7450d6185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Broflovski, kyle broflovski, south park, south park, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/598/HD-wallpaper-kyle-broflovski-kyle-broflovski-south-park-south-park.jpg' alt='Kyle Broflovski, kyle broflovski, south park, south park, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/598/HD-wallpaper-kyle-broflovski-kyle-broflovski-south-park-south-park.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kyle Broflovski Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kyle-broflovski-57dh3waflkcwe81j.jpg' alt='100+] Kyle Broflovski Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kyle-broflovski-57dh3waflkcwe81j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="South Park colors 2, cartman, cartoon, cool, kenny, kyle, south ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/950/372/HD-wallpaper-south-park-colors-2-cartman-cartoon-cool-kenny-kyle-south-park-stan-tv.jpg' alt='South Park colors 2, cartman, cartoon, cool, kenny, kyle, south ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/950/372/HD-wallpaper-south-park-colors-2-cartman-cartoon-cool-kenny-kyle-south-park-stan-tv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

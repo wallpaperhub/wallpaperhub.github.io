@@ -1,0 +1,129 @@
+<title>Powerful Black Quote Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the perfect black wallpaper quotes for your iPhone! Our collection of inspiring and stylish designs will boost your mood while enhancing your device's aesthetic. Transform your screen with motivational phrases and sleek visuals that resonate with you. Explore now!">
+                    <meta name="keywords" content="iphone wallpaper quotes black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-quotes-black">
+                            <span itemprop="name">iphone wallpaper quotes black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Powerful Black Quote Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone experience with stunning black wallpaper quotes. These striking designs combine powerful messages with sleek aesthetics, perfect for making a bold statement on your home screen. Whether it's motivation, love, or inspiration, find the ideal quote to reflect your personality while keeping your iPhone stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/10/4a/c3/104ac379418564eb6ed2af073deccf7a.jpg' alt='Black Aesthetic Wallpapers | Download 45 Free Black Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/10/4a/c3/104ac379418564eb6ed2af073deccf7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Black Aesthetic Wallpapers For 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/42/32/bd/4232bd2057970363bd218684e8164d63.jpg' alt='50+ Black Aesthetic Wallpapers For 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/42/32/bd/4232bd2057970363bd218684e8164d63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forever Quote Dark Grey Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/forever-quote-dark-grey-iphone-yjj21xi81tfx7lnr.jpg' alt='Forever Quote Dark Grey Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2267">
+                                <meta itemprop="height" content="4030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/forever-quote-dark-grey-iphone-yjj21xi81tfx7lnr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Lockscreen. Black quotes, Black background quotes ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/816/341/HD-wallpaper-minimalist-lockscreen-black-quotes-black-background-quotes-deserve-better-quotes-motivational-quotes-black.jpg' alt='Minimalist Lockscreen. Black quotes, Black background quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/816/341/HD-wallpaper-minimalist-lockscreen-black-quotes-black-background-quotes-deserve-better-quotes-motivational-quotes-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Black-285">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/30/ec/c9/30ecc91b55be181db703a5fa721676c5.jpg' alt='Iphone Wallpaper Black-285'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/30/ec/c9/30ecc91b55be181db703a5fa721676c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Quote | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL2Z0MTQwMzI0LWZyZWVzdHlsZTEtaGktMDEyLXN0b3J5LmpwZw.jpg' alt='Iphone Wallpaper Quote | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL2Z0MTQwMzI0LWZyZWVzdHlsZTEtaGktMDEyLXN0b3J5LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Tumblr Iphone Inspirational Quotes Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-aesthetic-tumblr-iphone-inspirational-quotes-25ipef8mt4i8bzd2.jpg' alt='Black Aesthetic Tumblr Iphone Inspirational Quotes Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-aesthetic-tumblr-iphone-inspirational-quotes-25ipef8mt4i8bzd2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Inspirational Quotes Black Aesthetic Tumblr iPhone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/inspirational-quotes-black-aesthetic-tumblr-iphone-qvpjb1bsljcms67b.jpg' alt='Download Inspirational Quotes Black Aesthetic Tumblr iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/inspirational-quotes-black-aesthetic-tumblr-iphone-qvpjb1bsljcms67b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/45/bc/5b45bc885a6275bc2d8878d8bac5cc94.jpg' alt='iPhone #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/45/bc/5b45bc885a6275bc2d8878d8bac5cc94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Wallpaper for iPhone - 45 Aesthetic & Inspirational Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.saturdaygift.com/wp-content/uploads/30.-All-Things-Are-Difficult-Before-They-Are-Easy-Motivational-Quote-Wallpaper-SaturdayGift-473x1024.jpg' alt='Quote Wallpaper for iPhone - 45 Aesthetic & Inspirational Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Gift" />
+                                </span>
+                                <a href='https://www.saturdaygift.com/wp-content/uploads/30.-All-Things-Are-Difficult-Before-They-Are-Easy-Motivational-Quote-Wallpaper-SaturdayGift-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

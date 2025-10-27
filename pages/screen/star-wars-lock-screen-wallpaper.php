@@ -1,0 +1,129 @@
+<title>Stunning Star Wars Lock Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of captivating Star Wars lock screen wallpapers! Perfect for fans of all ages, these stunning designs feature beloved characters and epic scenes. Give your device a cinematic touch that reflects your love for the iconic franchise. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="star wars lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/star-wars-lock-screen-wallpaper">
+                            <span itemprop="name">star wars lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars Lock Screen Wallpapers for Your Device</h1>
+                <p>Transform your device with mesmerizing Star Wars lock screen wallpapers! Dive into the galaxy far, far away with stunning images of iconic characters, spaceships, and epic battles. Whether you’re a Jedi, Sith, or just a fan, these wallpapers will showcase your love for the saga while keeping your screen stylish and unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="star wars ios16 lock screen : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/star-wars-ios16-lock-screen-v0-a1eg8rjox2c91.jpg?width=2160&format=pjpg&auto=webp&s=41a7c48edc3531dd7ae181da27256c992e122554' alt='star wars ios16 lock screen : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/star-wars-ios16-lock-screen-v0-a1eg8rjox2c91.jpg?width=2160&format=pjpg&auto=webp&s=41a7c48edc3531dd7ae181da27256c992e122554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This cover makes an amazing wallpaper for my lock screen! : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/k0fnewroik831.jpg' alt='This cover makes an amazing wallpaper for my lock screen! : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/k0fnewroik831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars [1080x1920] : r/Amoledbackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y1iuvbn8fqj21.png' alt='Star Wars [1080x1920] : r/Amoledbackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y1iuvbn8fqj21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lockscreen / Wallpaper : Star Wars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/f3/cb/11f3cb1222422eaa2865a30f94b30ef4.jpg' alt='Aesthetic Lockscreen / Wallpaper : Star Wars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/f3/cb/11f3cb1222422eaa2865a30f94b30ef4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Amoled, lock screen, master yoda, star wars, super ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/532/456/HD-wallpaper-star-wars-amoled-lock-screen-master-yoda-star-wars-super-amoled-yoda.jpg' alt='Star Wars Amoled, lock screen, master yoda, star wars, super ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/532/456/HD-wallpaper-star-wars-amoled-lock-screen-master-yoda-star-wars-super-amoled-yoda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Phone Wallpapers | Star Wars Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6104/a62f03ca9baddddfbbd4528771c25c8118c30706_hq.jpg' alt='Star Wars Phone Wallpapers | Star Wars Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6104/a62f03ca9baddddfbbd4528771c25c8118c30706_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mandalorian lockscreen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d4/39/39/d43939d14c416396ae732a00967c8e1f.jpg' alt='mandalorian lockscreen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d4/39/39/d43939d14c416396ae732a00967c8e1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars lock screen wallpaper for Samsung">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/54/6a/a2/546aa244bf5db143dc88d3d00ab17c77.jpg' alt='Star Wars lock screen wallpaper for Samsung'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/54/6a/a2/546aa244bf5db143dc88d3d00ab17c77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lockscreen starwars wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/536/444/HD-wallpaper-star-wars-720x1280-starwars-iphone5-lockscreen-lumia-nokia.jpg' alt='HD lockscreen starwars wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/536/444/HD-wallpaper-star-wars-720x1280-starwars-iphone5-lockscreen-lumia-nokia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Aesthetic Images Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6408978.jpg' alt='Star Wars Aesthetic Images Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6408978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

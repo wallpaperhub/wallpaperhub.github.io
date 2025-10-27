@@ -1,0 +1,129 @@
+<title>Professional Notebook Slides Template for Engaging Presentations</title>
+                    <meta name="description" content="Discover our customizable notebook slides template designed for impactful presentations. Perfect for academics and professionals, it helps you showcase your ideas effectively. Boost engagement and clarity with our user-friendly designs, optimized for mobile viewing. Elevate your presentation game today!">
+                    <meta name="keywords" content="notebook slides template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/notebook-slides-template">
+                            <span itemprop="name">notebook slides template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Professional Notebook Slides Template for Engaging Presentations</h1>
+                <p>Enhance your presentations with our professionally designed notebook slides template. Perfect for students and professionals alike, these templates are customizable, allowing for easy integration of notes, diagrams, and charts. Make your ideas stand out and keep your audience engaged with our visually appealing layouts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook Lesson Google Slides theme and PowerPoint template">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/39129310/conversions/0-notebook-lesson-thumb.jpg' alt='Notebook Lesson Google Slides theme and PowerPoint template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/39129310/conversions/0-notebook-lesson-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiral Notebook Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2023/11/spiral-notebook-cover-template-powerpoint.jpg' alt='Spiral Notebook Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2023/11/spiral-notebook-cover-template-powerpoint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Book. Free PPT & Google Slides Template — SlidesCarnival">
+                                <img itemprop="contentUrl url" src='https://www.slidescarnival.com/wp-content/uploads/free-powerpoint-template-or-google-slides-theme-that-looks-like-a-composition-notebook.jpeg' alt='Composition Book. Free PPT & Google Slides Template — SlidesCarnival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCarnival" />
+                                </span>
+                                <a href='https://www.slidescarnival.com/wp-content/uploads/free-powerpoint-template-or-google-slides-theme-that-looks-like-a-composition-notebook.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Notebook Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/22534189/online-notebook1655995364.jpg' alt='Free Notebook Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/22534189/online-notebook1655995364.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Notebook Education and Learning Powerpoint Template and ...">
+                                <img itemprop="contentUrl url" src='https://stg-uploads.slidenest.com/template_1362/templateColor_1381/previewImages/open-notebook-education-and-learning-powerpoint-google-slides-keynote-presentation-template-13.jpeg' alt='Open Notebook Education and Learning Powerpoint Template and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidenest" />
+                                </span>
+                                <a href='https://stg-uploads.slidenest.com/template_1362/templateColor_1381/previewImages/open-notebook-education-and-learning-powerpoint-google-slides-keynote-presentation-template-13.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Notebook Templates for Use With Google Slides™: Personal ...">
+                                <img itemprop="contentUrl url" src='https://shelleygrayteaching.com/wp-content/uploads/2020/08/Digital-Notebook-Templates-1.png' alt='Digital Notebook Templates for Use With Google Slides™: Personal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelley Gray" />
+                                </span>
+                                <a href='https://shelleygrayteaching.com/wp-content/uploads/2020/08/Digital-Notebook-Templates-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Digital Notebooks for Google Slides and PowerPoint - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2024/05/Pastel-Notebook-free-template-for-google-slides-and-ppt.jpg' alt='Free Digital Notebooks for Google Slides and PowerPoint - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2024/05/Pastel-Notebook-free-template-for-google-slides-and-ppt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Notebook Google Slide Template - Classful">
+                                <img itemprop="contentUrl url" src='https://classful.com/wp-content/uploads/2022/08/63066e6e426fb3056790671661365868527-notebookpage.png' alt='Composition Notebook Google Slide Template - Classful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classful" />
+                                </span>
+                                <a href='https://classful.com/wp-content/uploads/2022/08/63066e6e426fb3056790671661365868527-notebookpage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Notebook Education and Learning Powerpoint Template and ...">
+                                <img itemprop="contentUrl url" src='https://stg-uploads.slidenest.com/template_1362/templateColor_1381/previewImages/open-notebook-education-and-learning-powerpoint-google-slides-keynote-presentation-template-1.jpeg' alt='Open Notebook Education and Learning Powerpoint Template and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidenest" />
+                                </span>
+                                <a href='https://stg-uploads.slidenest.com/template_1362/templateColor_1381/previewImages/open-notebook-education-and-learning-powerpoint-google-slides-keynote-presentation-template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Notebook Templates for Use With Google Slides™: Personal ...">
+                                <img itemprop="contentUrl url" src='https://shelleygrayteaching.com/wp-content/uploads/2020/08/Slide4.png' alt='Digital Notebook Templates for Use With Google Slides™: Personal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1687">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shelley Gray" />
+                                </span>
+                                <a href='https://shelleygrayteaching.com/wp-content/uploads/2020/08/Slide4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

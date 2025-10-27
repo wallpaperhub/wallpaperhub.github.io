@@ -1,0 +1,129 @@
+<title>Cool Springtrap Phone Wallpapers for FNAF Fans</title>
+                    <meta name="description" content="Discover a collection of cool Springtrap phone wallpapers, perfect for Five Nights at Freddy's enthusiasts. Transform your device with unique, thrilling designs that showcase the iconic animatronic. Download now to elevate your phone's style and make a bold statement!">
+                    <meta name="keywords" content="springtrap wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/springtrap-wallpaper-phone">
+                            <span itemprop="name">springtrap wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Springtrap Phone Wallpapers for FNAF Fans</h1>
+                <p>Enhance your phone's look with striking Springtrap wallpapers! Perfect for fans of Five Nights at Freddy's, these wallpapers showcase intricate designs featuring the haunted animatronic. Customize your home or lock screen with chilling and vibrant visuals. Stand out among your friends with these unique and captivating backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Springtrap Phone Wallpaper (Model by Mistberg) (Render by Me) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/spcdl3go5h011.jpg' alt='Springtrap Phone Wallpaper (Model by Mistberg) (Render by Me) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/spcdl3go5h011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Springtrap Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/springtrap-1037-x-2304-wallpaper-g712grjhd5q4pacx.jpg' alt='100+] Springtrap Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/springtrap-1037-x-2304-wallpaper-g712grjhd5q4pacx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Springtrap Wallpaper : r/fivenightsatfreddys">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u40rq6j29pz31.png' alt='Springtrap Wallpaper : r/fivenightsatfreddys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1890">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u40rq6j29pz31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylized Springtrap V6: Mobile Wallpaper= by Theyseemerollan on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62590bc5-9a26-4aa1-97c2-142b1fa424d7/dh39yed-6a0306b0-81c3-45b4-96e5-b03ce31d926c.png/v1/fill/w_711,h_1123,q_70,strp/_stylized_springtrap_v6__mobile_wallpaper__by_theyseemerollan_dh39yed-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAyMCIsInBhdGgiOiJcL2ZcLzYyNTkwYmM1LTlhMjYtNGFhMS05N2MyLTE0MmIxZmE0MjRkN1wvZGgzOXllZC02YTAzMDZiMC04MWMzLTQ1YjQtOTZlNS1iMDNjZTMxZDkyNmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zXOu0aAKsKSto0lOeLzq2syGpbza8CDXW8donifw-1U' alt='Stylized Springtrap V6: Mobile Wallpaper= by Theyseemerollan on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62590bc5-9a26-4aa1-97c2-142b1fa424d7/dh39yed-6a0306b0-81c3-45b4-96e5-b03ce31d926c.png/v1/fill/w_711,h_1123,q_70,strp/_stylized_springtrap_v6__mobile_wallpaper__by_theyseemerollan_dh39yed-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAyMCIsInBhdGgiOiJcL2ZcLzYyNTkwYmM1LTlhMjYtNGFhMS05N2MyLTE0MmIxZmE0MjRkN1wvZGgzOXllZC02YTAzMDZiMC04MWMzLTQ1YjQtOTZlNS1iMDNjZTMxZDkyNmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zXOu0aAKsKSto0lOeLzq2syGpbza8CDXW8donifw-1U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Springtrap Leads Fnaf Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/springtrap-leads-fnaf-gpufsadaem3q95ea.jpg' alt='Download Springtrap Leads Fnaf Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/springtrap-leads-fnaf-gpufsadaem3q95ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBR Springtrap Test Render (W/Post processing so it's actually not ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jzbecy6w51331.png?width=640&crop=smart&auto=webp&s=138e03192df72186509b980ba2e28502962cc631' alt='PBR Springtrap Test Render (W/Post processing so it's actually not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jzbecy6w51331.png?width=640&crop=smart&auto=webp&s=138e03192df72186509b980ba2e28502962cc631' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD springtrap wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/709/426/HD-wallpaper-springtrap-fnaf-mike.jpg' alt='HD springtrap wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1173">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/709/426/HD-wallpaper-springtrap-fnaf-mike.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Springtrap Phone Wallpaper (FNAF/SFM) by whaaman on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad428664-bffa-497c-ac47-9c104d3f0cf0/deytfet-22ac8dba-966e-4bd5-beb3-ad43ff793bc0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkNDI4NjY0LWJmZmEtNDk3Yy1hYzQ3LTljMTA0ZDNmMGNmMFwvZGV5dGZldC0yMmFjOGRiYS05NjZlLTRiZDUtYmViMy1hZDQzZmY3OTNiYzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sW56vabC2LLtNS_d90WAJETk-IrzS2SSLDSHqt2ZdXM' alt='Springtrap Phone Wallpaper (FNAF/SFM) by whaaman on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad428664-bffa-497c-ac47-9c104d3f0cf0/deytfet-22ac8dba-966e-4bd5-beb3-ad43ff793bc0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkNDI4NjY0LWJmZmEtNDk3Yy1hYzQ3LTljMTA0ZDNmMGNmMFwvZGV5dGZldC0yMmFjOGRiYS05NjZlLTRiZDUtYmViMy1hZDQzZmY3OTNiYzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sW56vabC2LLtNS_d90WAJETk-IrzS2SSLDSHqt2ZdXM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Springtrap FNaF AR, fnaf ar, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/199/963/HD-wallpaper-springtrap-fnaf-ar-fnaf-ar.jpg' alt='Springtrap FNaF AR, fnaf ar, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/199/963/HD-wallpaper-springtrap-fnaf-ar-fnaf-ar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="springtrap wallpaper phone case">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/43/eb/9543eb2b27c563451f068a43d47e87ac.jpg' alt='springtrap wallpaper phone case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/43/eb/9543eb2b27c563451f068a43d47e87ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cost of Firearm Background Checks Explained</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="how much does a background check cost for a firearm">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-much-does-a-background-check-cost-for-a-firearm">
+                            <span itemprop="name">how much does a background check cost for a firearm</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cost of Firearm Background Checks Explained</h1>
+                <p>The cost of a background check for a firearm typically ranges from $10 to $50, depending on the state and type of check (NICS vs. state). Fees may vary by dealer or local law enforcement agency. It’s essential to factor in any additional costs incurred during the firearm purchase process. Always consult local regulations for specifics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Pennsylvania, taxpayers subsidize background checks for gun ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/publicsource.org/wp-content/uploads/2016/06/backgroundcheck1-02_6.png?resize=2024%2C903' alt='In Pennsylvania, taxpayers subsidize background checks for gun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2024">
+                                <meta itemprop="height" content="903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PublicSource" />
+                                </span>
+                                <a href='https://i0.wp.com/publicsource.org/wp-content/uploads/2016/06/backgroundcheck1-02_6.png?resize=2024%2C903' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buying Guns in CA - CALIFORNIA CARRY">
+                                <img itemprop="contentUrl url" src='https://www.californiacarry.org/uploads/5/4/2/6/54262223/how-to-buy-a-gun_orig.png' alt='Buying Guns in CA - CALIFORNIA CARRY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="california carry" />
+                                </span>
+                                <a href='https://www.californiacarry.org/uploads/5/4/2/6/54262223/how-to-buy-a-gun_orig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Questions About Gun Background Checks - WSJ.com">
+                                <img itemprop="contentUrl url" src='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' alt='Five Questions About Gun Background Checks - WSJ.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="from WSJ Graphics" />
+                                </span>
+                                <a href='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chart: Firearms Background Checks at Record Levels | Statista">
+                                <img itemprop="contentUrl url" src='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' alt='Chart: Firearms Background Checks at Record Levels | Statista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Statista" />
+                                </span>
+                                <a href='http://cdn.statcdn.com/Infographic/images/normal/12920.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delayed or Denied a Firearm Purchase? - The Firearm Firm">
+                                <img itemprop="contentUrl url" src='https://thefirearmfirm.com/wp-content/uploads/2022/08/firearm-purchase.webp' alt='Delayed or Denied a Firearm Purchase? - The Firearm Firm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Firearm Firm" />
+                                </span>
+                                <a href='https://thefirearmfirm.com/wp-content/uploads/2022/08/firearm-purchase.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The FBI didn't finish over 1 million gun background checks in time ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-07/220701-background-gun-check-229pp-d24b11.jpg' alt='The FBI didn't finish over 1 million gun background checks in time ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-07/220701-background-gun-check-229pp-d24b11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buying Ammo in CA - CALIFORNIA CARRY">
+                                <img itemprop="contentUrl url" src='https://www.californiacarry.org/uploads/5/4/2/6/54262223/how-to-buy-ammo-in-ca_orig.png' alt='Buying Ammo in CA - CALIFORNIA CARRY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="california carry" />
+                                </span>
+                                <a href='https://www.californiacarry.org/uploads/5/4/2/6/54262223/how-to-buy-ammo-in-ca_orig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Gun Background Checks">
+                                <img itemprop="contentUrl url" src='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' alt='The History of Gun Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEE.org" />
+                                </span>
+                                <a href='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Much Do Employment Background Checks Cost?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/cost-bg-check-types-of-Access-Fee.png' alt='How Much Do Employment Background Checks Cost?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/cost-bg-check-types-of-Access-Fee.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun laws: What goes into a federal background check?">
+                                <img itemprop="contentUrl url" src='http://media2.foxnews.com/BrightCove/694940094001/2018/02/20/694940094001_5737350902001_5737306017001-vs.jpg' alt='Gun laws: What goes into a federal background check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox News" />
+                                </span>
+                                <a href='http://media2.foxnews.com/BrightCove/694940094001/2018/02/20/694940094001_5737350902001_5737306017001-vs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

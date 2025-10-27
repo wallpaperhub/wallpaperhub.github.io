@@ -1,0 +1,129 @@
+<title>Sweet Conversation Hearts Wallpaper for Playful Decor</title>
+                    <meta name="description" content="Discover delightful conversation hearts wallpaper that brings joy and whimsy to any room. Perfect for creating a loving atmosphere, our vibrant designs feature fun messages that resonate with all ages. Easy to install and remove, transform your space effortlessly with this unique decor choice!">
+                    <meta name="keywords" content="conversation hearts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/conversation-hearts-wallpaper">
+                            <span itemprop="name">conversation hearts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sweet Conversation Hearts Wallpaper for Playful Decor</h1>
+                <p>Transform your space with charming conversation hearts wallpaper! Perfect for adding a playful touch to nurseries, bedrooms, or festive events, these colorful designs feature sweet messages that evoke romance and nostalgia. Easy to apply and remove, this wallpaper is ideal for making your decor pop and celebrating love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's a Colorful Life ~">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/08/4e/c7084e1bd19ac92af08ece40c606c019.jpg' alt='It's a Colorful Life ~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/08/4e/c7084e1bd19ac92af08ece40c606c019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Candy Hearts Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1452625107/vector/candy-hearts-pattern.jpg?s=612x612&w=gi&k=20&c=IaIZfT-BfuEsfnzhPe6XB5hBvhVQivRkQlJr06VCJBE=' alt='130 Candy Hearts Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1452625107/vector/candy-hearts-pattern.jpg?s=612x612&w=gi&k=20&c=IaIZfT-BfuEsfnzhPe6XB5hBvhVQivRkQlJr06VCJBE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Heart Phone Wallpaper Download - The Crafted Life">
+                                <img itemprop="contentUrl url" src='https://thecraftedlife.com/wp-content/uploads/2020/02/Candy_Heart_Download-1260.jpg' alt='Candy Heart Phone Wallpaper Download - The Crafted Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="1887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Crafted Life" />
+                                </span>
+                                <a href='https://thecraftedlife.com/wp-content/uploads/2020/02/Candy_Heart_Download-1260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="(3) conversation Hearts - random saying">
+                                <img itemprop="contentUrl url" src='https://ohsocutebyjessica.com/cdn/shop/products/image_2a88d64a-5643-4103-9469-f20e950d6ed9.jpg?v=1640539452&width=1445' alt='(3) conversation Hearts - random saying'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="2365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Cute by Jessica" />
+                                </span>
+                                <a href='https://ohsocutebyjessica.com/cdn/shop/products/image_2a88d64a-5643-4103-9469-f20e950d6ed9.jpg?v=1640539452&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,200+ Candy Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1222283045/vector/candy-hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=6H4C66sXnz830eqxaXPSiIzVwU3WfMWo_eiS7MyMhJ4=' alt='5,200+ Candy Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1222283045/vector/candy-hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=6H4C66sXnz830eqxaXPSiIzVwU3WfMWo_eiS7MyMhJ4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Conversation Hearts ideas | heart candy, converse with heart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/222x/c4/13/5d/c4135dffe3cf36675a108c46beb0ffc5.jpg' alt='47 Conversation Hearts ideas | heart candy, converse with heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/222x/c4/13/5d/c4135dffe3cf36675a108c46beb0ffc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Hearts Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/lovely-conversation-hearts-pattern_23-2149226103.jpg' alt='Candy Hearts Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/lovely-conversation-hearts-pattern_23-2149226103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversation Hearts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16165906/p/f/m/ExuoBSXH25kkSH2wN2dzM1-LFe7DyUoJP_yANyPoR0LHC0io-9hzPVo/(small%20scale)%20Doggy%20Valentine%20Conversation%20Hearts%20-%20Love%20-%20Pink%20-%20LAD23.jpg' alt='Conversation Hearts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16165906/p/f/m/ExuoBSXH25kkSH2wN2dzM1-LFe7DyUoJP_yANyPoR0LHC0io-9hzPVo/(small%20scale)%20Doggy%20Valentine%20Conversation%20Hearts%20-%20Love%20-%20Pink%20-%20LAD23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Hearts Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1484979045040-0ab3854b6acb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjBoZWFydHN8ZW58MHx8MHx8fDA%3D' alt='Candy Hearts Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1484979045040-0ab3854b6acb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjBoZWFydHN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine Digital Background/Digital Backdrop/Candy Conversation  Hearts/High Resolution JPG/Instant Download/JPG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17230745/r/il/dca311/2870983504/il_fullxfull.2870983504_h84j.jpg' alt='Valentine Digital Background/Digital Backdrop/Candy Conversation  Hearts/High Resolution JPG/Instant Download/JPG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1720">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17230745/r/il/dca311/2870983504/il_fullxfull.2870983504_h84j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

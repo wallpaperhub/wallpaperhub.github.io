@@ -1,0 +1,129 @@
+<title>Kehinde Wiley: A Master of Contemporary Portraiture</title>
+                    <meta name="description" content="Discover the captivating world of Kehinde Wiley, an influential American painter renowned for his striking portraits that blend classical artistry with modern cultural themes. Explore his unique style and the rich backgrounds of his subjects, reshaping art history and representation.">
+                    <meta name="keywords" content="kehinde wiley background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kehinde-wiley-background">
+                            <span itemprop="name">kehinde wiley background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kehinde Wiley: A Master of Contemporary Portraiture</h1>
+                <p>Kehinde Wiley is a renowned American painter, famous for his vibrant and large-scale portraits that celebrate African American culture. Born in Los Angeles in 1977 to a Nigerian father and an African American mother, Wiley's work often features subjects posed in the styles of classical European art, challenging historical representation and identity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming with Life: Kehinde Wiley's Fabric – the thread">
+                                <img itemprop="contentUrl url" src='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley_2-1.jpg' alt='Blooming with Life: Kehinde Wiley's Fabric – the thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the thread" />
+                                </span>
+                                <a href='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley_2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley and William Morris | Alberti's Window">
+                                <img itemprop="contentUrl url" src='https://albertis-window.com/wp-content/uploads/2016/02/IMG_1882.jpg' alt='Kehinde Wiley and William Morris | Alberti's Window'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alberti's Window" />
+                                </span>
+                                <a href='https://albertis-window.com/wp-content/uploads/2016/02/IMG_1882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley and William Morris | Alberti's Window">
+                                <img itemprop="contentUrl url" src='https://mattsko.files.wordpress.com/2013/02/william-morris.jpg' alt='Kehinde Wiley and William Morris | Alberti's Window'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alberti's Window" />
+                                </span>
+                                <a href='https://mattsko.files.wordpress.com/2013/02/william-morris.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming with Life: Kehinde Wiley's Fabric – the thread">
+                                <img itemprop="contentUrl url" src='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley.jpg' alt='Blooming with Life: Kehinde Wiley's Fabric – the thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the thread" />
+                                </span>
+                                <a href='https://blog.fabrics-store.com/wp-content/uploads/2021/10/Kahinde-Wiley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley Inspired Portraits - ART ED GURU">
+                                <img itemprop="contentUrl url" src='https://www.artedguru.com/uploads/3/0/6/1/30613521/2015-kehinde-wiley-el137-39-2797w-600-748_orig.jpg' alt='Kehinde Wiley Inspired Portraits - ART ED GURU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ART ED GURU" />
+                                </span>
+                                <a href='https://www.artedguru.com/uploads/3/0/6/1/30613521/2015-kehinde-wiley-el137-39-2797w-600-748_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kehinde Wiley Puts a Classical Spin on His Contemporary Subjects ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2015/02/01/arts/design/20150201-KEHINDE-slide-ILC0/20150201-KEHINDE-slide-ILC0-superJumbo.jpg' alt='Kehinde Wiley Puts a Classical Spin on His Contemporary Subjects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1523">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2015/02/01/arts/design/20150201-KEHINDE-slide-ILC0/20150201-KEHINDE-slide-ILC0-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SchoolArtsRoom | Art Education Blog for K-12 Art Teachers ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmupQg-Kz44hhSNOcivjDGfoGbx20Rj6vnuWOqwBfIESGzHMU0mHV82Iz4ccwtBnP5CAds4gzoY5zcVHMxAK2LDlp64piAqAF-jBNd8Nd1aeNlNTOYCom4Dqe3mzRsG-AH2HzxWtj6tOE/s1600/IMG_1020.jpg' alt='SchoolArtsRoom | Art Education Blog for K-12 Art Teachers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.schoolartsroom.com" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmupQg-Kz44hhSNOcivjDGfoGbx20Rj6vnuWOqwBfIESGzHMU0mHV82Iz4ccwtBnP5CAds4gzoY5zcVHMxAK2LDlp64piAqAF-jBNd8Nd1aeNlNTOYCom4Dqe3mzRsG-AH2HzxWtj6tOE/s1600/IMG_1020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper | Kehinde Wiley Studio">
+                                <img itemprop="contentUrl url" src='https://www.kehindewiley.com/wp-content/uploads/2022/08/kehindewiley_the-yellow-wallpaper_Portrait-of-Savannah-Essah.jpg' alt='The Yellow Wallpaper | Kehinde Wiley Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kehinde Wiley" />
+                                </span>
+                                <a href='https://www.kehindewiley.com/wp-content/uploads/2022/08/kehindewiley_the-yellow-wallpaper_Portrait-of-Savannah-Essah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How the Artist Kehinde Wiley Went from Picturing Power to Building ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/63a508569a1485c25e918f89/master/w_1600%2Cc_limit/230102_r41691.jpg' alt='How the Artist Kehinde Wiley Went from Picturing Power to Building ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2038">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/63a508569a1485c25e918f89/master/w_1600%2Cc_limit/230102_r41691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katie Morris Art: Multicultural Art Education: Inspiration from ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe6gsXgCYYZ5tU-nU-RtVsjj0T7MFILEwuHcoiHEmf1vKwHNbIXHFb4F6_H-G-ht3-JKT_frrnH-E4uhCzTjvtHTi_9vnrl9m7CE0KvShdJOtAG84c001-3hvU0IacqZo4IQYpPLaFfI/s1600/JaliahCanDoIt.jpg' alt='Katie Morris Art: Multicultural Art Education: Inspiration from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katie Morris Art" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe6gsXgCYYZ5tU-nU-RtVsjj0T7MFILEwuHcoiHEmf1vKwHNbIXHFb4F6_H-G-ht3-JKT_frrnH-E4uhCzTjvtHTi_9vnrl9m7CE0KvShdJOtAG84c001-3hvU0IacqZo4IQYpPLaFfI/s1600/JaliahCanDoIt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

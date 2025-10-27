@@ -1,0 +1,129 @@
+<title>Russell Wilson: NFL Star & Philanthropist</title>
+                    <meta name="description" content="Discover the life and achievements of Russell Wilson, the NFL quarterback renowned for his skills, Super Bowl victories, and community impact. Explore his journey from college football to becoming a fan favorite, making waves both on and off the field. Learn more about his legacy today!">
+                    <meta name="keywords" content="russell wilson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/russell-wilson">
+                            <span itemprop="name">russell wilson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Russell Wilson: NFL Star & Philanthropist</h1>
+                <p>Russell Wilson, the acclaimed NFL quarterback, is known for his exceptional skills and leadership on the field. Drafted by the Seattle Seahawks in 2012, Wilson quickly made his mark, leading his team to two Super Bowl appearances and winning Super Bowl XLVIII. His impressive stats and philanthropic efforts off the field further elevate his legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hughes] Russell Wilson seen as 'most likely' option for Giants ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hughes-russell-wilson-seen-as-most-likely-option-for-giants-v0-DELlZXXZ-jtKWEPGHd56P7vK_N8Yz3zSRoY4Pr_AgBM.jpg?auto=webp&s=6fb257ea7964daa0dc4216a074d8b40ab47a0165' alt='Hughes] Russell Wilson seen as 'most likely' option for Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hughes-russell-wilson-seen-as-most-likely-option-for-giants-v0-DELlZXXZ-jtKWEPGHd56P7vK_N8Yz3zSRoY4Pr_AgBM.jpg?auto=webp&s=6fb257ea7964daa0dc4216a074d8b40ab47a0165' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson - Pittsburgh Steelers Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14881.png' alt='Russell Wilson - Pittsburgh Steelers Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14881.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers QB Russell Wilson recalls first Pro Bowl with Ben ...">
+                                <img itemprop="contentUrl url" src='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/12/01/SMGW/76691597007-76-553872.jpeg?width=660&height=544&fit=crop&format=pjpg&auto=webp' alt='Steelers QB Russell Wilson recalls first Pro Bowl with Ben ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steelers Wire - USA Today" />
+                                </span>
+                                <a href='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/12/01/SMGW/76691597007-76-553872.jpeg?width=660&height=544&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson Had Hilariously Blunt Response to Ciara's Oscars ...">
+                                <img itemprop="contentUrl url" src='https://www.mensjournal.com/.image/t_share/MjA0NjQ2ODM3MTM3NzEyMzYw/russell-wilson-ciara.jpg' alt='Russell Wilson Had Hilariously Blunt Response to Ciara's Oscars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Journal" />
+                                </span>
+                                <a href='https://www.mensjournal.com/.image/t_share/MjA0NjQ2ODM3MTM3NzEyMzYw/russell-wilson-ciara.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson predicted to sign Geno Smith type contract in free ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_seahawks/01jn4e1hjz4re7zrrpkz.jpg' alt='Russell Wilson predicted to sign Geno Smith type contract in free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_seahawks/01jn4e1hjz4re7zrrpkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson Signs With The New York Giants: Reaction To Giants ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/twsn.net/wp-content/uploads/2025/02/Russell-Wilson-022825.jpg' alt='Russell Wilson Signs With The New York Giants: Reaction To Giants ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TWSN Sports" />
+                                </span>
+                                <a href='https://i0.wp.com/twsn.net/wp-content/uploads/2025/02/Russell-Wilson-022825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b7/Broncos_partner_with_USAA_to_host_Salute_to_Service_Boot_Camp_%28cropped%29.jpg' alt='Russell Wilson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="927">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b7/Broncos_partner_with_USAA_to_host_Salute_to_Service_Boot_Camp_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson looks healthy enough, but what's the real story?">
+                                <img itemprop="contentUrl url" src='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/11/07/SMGW/76108507007-76-548310.jpeg?width=660&height=442&fit=crop&format=pjpg&auto=webp' alt='Russell Wilson looks healthy enough, but what's the real story?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steelers Wire - USA Today" />
+                                </span>
+                                <a href='https://steelerswire.usatoday.com/gcdn/authoring/images/smg/2024/11/07/SMGW/76108507007-76-548310.jpeg?width=660&height=442&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/t_person_squared_mobile/f_png/v1726150362/steelers/mwqcxi8rbilcelojorve.png' alt='Russell Wilson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/t_person_squared_mobile/f_png/v1726150362/steelers/mwqcxi8rbilcelojorve.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russell Wilson's Wife Ciara Sends Six-Word Message After the ...">
+                                <img itemprop="contentUrl url" src='https://athlonsports.com/.image/t_share/MjA5OTA5NTc5MjEzOTcyOTQ1/russell-wilson-ciara.jpg' alt='Russell Wilson's Wife Ciara Sends Six-Word Message After the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athlon Sports" />
+                                </span>
+                                <a href='https://athlonsports.com/.image/t_share/MjA5OTA5NTc5MjEzOTcyOTQ1/russell-wilson-ciara.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

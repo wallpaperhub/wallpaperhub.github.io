@@ -1,0 +1,129 @@
+<title>Danganronpa V3: Explore Stunning Character Graphics</title>
+                    <meta name="description" content="Discover the captivating character graphics of Danganronpa V3! Dive into stunning visuals that elevate the storytelling experience and bring each character to life in this thrilling mystery adventure. Perfect for fans seeking to explore visual storytelling in gaming.">
+                    <meta name="keywords" content="danganronpa v3 cgs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/danganronpa-v3-cgs">
+                            <span itemprop="name">danganronpa v3 cgs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Danganronpa V3: Explore Stunning Character Graphics</h1>
+                <p>Danganronpa V3 is renowned for its vivid character graphics (CGs) that showcase the distinct personalities and emotional depth of its cast. The CGs enhance storytelling, immersing players in the dramatic high-stakes environment of Hope's Peak Academy. Each scene is crafted to evoke tension, intrigue, and empathy, making every character's journey unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CG Edit] danganronpa v3 cast but it's full of detectives and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r5c62uhk02c31.png' alt='CG Edit] danganronpa v3 cast but it's full of detectives and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r5c62uhk02c31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The V3 end CG but somethings off : r/danganronpa">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/prr1qnafbyf71.jpg' alt='The V3 end CG but somethings off : r/danganronpa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/prr1qnafbyf71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite CGs in V3(V3 Spoilers) : r/danganronpa">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3v7z5iwza0r01.jpg' alt='My favorite CGs in V3(V3 Spoilers) : r/danganronpa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2308">
+                                <meta itemprop="height" content="2308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3v7z5iwza0r01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New recently revealed CG from Danganronpa S (implied V3 spoilers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/trx4mluiog381.png' alt='New recently revealed CG from Danganronpa S (implied V3 spoilers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/trx4mluiog381.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Out of Context Danganronpa v3 CGs : r/danganronpa">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9kdx9xmbju951.png' alt='Out of Context Danganronpa v3 CGs : r/danganronpa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2406">
+                                <meta itemprop="height" content="2182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9kdx9xmbju951.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="V3 Spoilers) Weird Official V3 Artwork: A Compilation ...">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6816/ad825625201c15d49a53054a440c9a5f239ff0fev2_hq.jpg' alt='V3 Spoilers) Weird Official V3 Artwork: A Compilation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6816/ad825625201c15d49a53054a440c9a5f239ff0fev2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Danganronpa V3: Killing Harmony/Image Gallery/CGs | Danganronpa ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/danganronpa/images/d/db/Danganronpa_V3_Opening_-_Kaede_Akamatsu_%28English%29.png/revision/latest/scale-to-width-down/1200?cb=20180312105816' alt='Danganronpa V3: Killing Harmony/Image Gallery/CGs | Danganronpa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danganronpa Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/danganronpa/images/d/db/Danganronpa_V3_Opening_-_Kaede_Akamatsu_%28English%29.png/revision/latest/scale-to-width-down/1200?cb=20180312105816' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is the funniest CG of V3. Not intentionally of course, but ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-the-funniest-cg-of-v3-not-intentionally-of-course-v0-7334gmfnpejb1.png?width=640&crop=smart&auto=webp&s=70e180cd7f283a0cf1af79d83219aa228cb6a09b' alt='This is the funniest CG of V3. Not intentionally of course, but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-the-funniest-cg-of-v3-not-intentionally-of-course-v0-7334gmfnpejb1.png?width=640&crop=smart&auto=webp&s=70e180cd7f283a0cf1af79d83219aa228cb6a09b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Danganronpa V3: Killing Harmony/Image Gallery/CGs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/af/f9/84aff96a115d2696e82f4ac5293f7062.jpg' alt='Danganronpa V3: Killing Harmony/Image Gallery/CGs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/af/f9/84aff96a115d2696e82f4ac5293f7062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Danganronpa V3: Killing Harmony - EXTRA: Event Gallery (All CGs)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-67e43QhZCM/maxresdefault.jpg' alt='Danganronpa V3: Killing Harmony - EXTRA: Event Gallery (All CGs)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-67e43QhZCM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

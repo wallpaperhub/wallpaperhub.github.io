@@ -1,0 +1,129 @@
+<title>Ted Lasso iPhone Wallpapers: Bring Positivity to Your Screen</title>
+                    <meta name="description" content="Discover a collection of Ted Lasso wallpapers for your iPhone! Perfect for fans, these vibrant and uplifting designs feature quotes and scenes that embody positivity and humor. Elevate your device with a touch of Ted's charm today!">
+                    <meta name="keywords" content="ted lasso wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/ted-lasso-wallpaper-iphone">
+                            <span itemprop="name">ted lasso wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ted Lasso iPhone Wallpapers: Bring Positivity to Your Screen</h1>
+                <p>Elevate your iPhone aesthetic with vibrant Ted Lasso wallpapers! From heartwarming quotes to iconic scenes, these wallpapers capture the spirit of optimism and fun that Ted brings. Perfect for fans, transform your device to reflect positivity and laughter every time you unlock your screen. Discover the world of Ted Lasso in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso Wallpapers and Shirts - HeyDingus">
+                                <img itemprop="contentUrl url" src='https://heydingus.net/_files/ted%20lasso%20wallpapers/coach+lasso+wallpaper+(phone).jpg' alt='Ted Lasso Wallpapers and Shirts - HeyDingus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeyDingus" />
+                                </span>
+                                <a href='https://heydingus.net/_files/ted%20lasso%20wallpapers/coach+lasso+wallpaper+(phone).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate the debut of Ted Lasso season 2 later this week with ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Believe-Wallpaper.png?w=473' alt='Celebrate the debut of Ted Lasso season 2 later this week with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Believe-Wallpaper.png?w=473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso phone background I made : r/TedLasso">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/eflxcyfb4bo71.jpg?auto=webp&s=a51fc865e780bec4cfa9d7ac823b82c4cd522d1c' alt='Ted Lasso phone background I made : r/TedLasso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/eflxcyfb4bo71.jpg?auto=webp&s=a51fc865e780bec4cfa9d7ac823b82c4cd522d1c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate the debut of Ted Lasso season 2 later this week with ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Crewneck-Wallpaper-1.png?w=473' alt='Celebrate the debut of Ted Lasso season 2 later this week with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/07/Crewneck-Wallpaper-1.png?w=473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ted Lasso Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ted-lasso-be-a-goldfish-wallpaper-6m9scsxk4lo489dl.jpg' alt='100+] Ted Lasso Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ted-lasso-be-a-goldfish-wallpaper-6m9scsxk4lo489dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Believe Sign Wallpapers!!! : r/TedLasso">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qlyzficnkit71.jpg' alt='Believe Sign Wallpapers!!! : r/TedLasso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4680">
+                                <meta itemprop="height" content="10128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qlyzficnkit71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ted lasso wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/92/e0/bd92e01316477493562c54b3958a41bc.jpg' alt='ted lasso wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/92/e0/bd92e01316477493562c54b3958a41bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso Wallpapers and Shirts - HeyDingus">
+                                <img itemprop="contentUrl url" src='https://heydingus.net/_files/ted%20lasso%20wallpapers/be+a+goldfish+wallpaper+(phone).jpg' alt='Ted Lasso Wallpapers and Shirts - HeyDingus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeyDingus" />
+                                </span>
+                                <a href='https://heydingus.net/_files/ted%20lasso%20wallpapers/be+a+goldfish+wallpaper+(phone).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/974/974653.jpg' alt='Ted Lasso iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/974/974653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ted Lasso Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/e/2/164651-2000x3000-iphone-hd-ted-lasso-wallpaper-image.jpg' alt='Ted Lasso Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/e/2/164651-2000x3000-iphone-hd-ted-lasso-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

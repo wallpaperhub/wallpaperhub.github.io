@@ -1,0 +1,129 @@
+<title>Martin Luther King Jr.: The Value of Education in Social Change</title>
+                    <meta name="description" content="Explore the vital role education played in Martin Luther King Jr.'s vision for social justice. Discover how King's advocacy for equal educational opportunities has inspired movements for equality and empowerment, shaping a better future for all.">
+                    <meta name="keywords" content="martin luther king education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/martin-luther-king-education">
+                            <span itemprop="name">martin luther king education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Martin Luther King Jr.: The Value of Education in Social Change</h1>
+                <p>Martin Luther King Jr. believed education was key to social change and empowerment. He advocated for equal educational opportunities for all, irrespective of race. Through his teachings, King inspired future generations to pursue knowledge and use it as a tool for justice, emphasizing that educated minds could lead to a more equitable society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLK and Education | Center for Integrated Training & Education">
+                                <img itemprop="contentUrl url" src='http://www.citeprograms.com/wp-content/uploads/2014/01/goal-of-ed.jpg' alt='MLK and Education | Center for Integrated Training & Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CITE" />
+                                </span>
+                                <a href='http://www.citeprograms.com/wp-content/uploads/2014/01/goal-of-ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King at Morehouse | Morehouse College">
+                                <img itemprop="contentUrl url" src='https://morehouse.edu/hs-fs/hubfs/1948_MLK_Graduate.jpg?width=800&name=1948_MLK_Graduate.jpg' alt='King at Morehouse | Morehouse College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="482">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morehouse College" />
+                                </span>
+                                <a href='https://morehouse.edu/hs-fs/hubfs/1948_MLK_Graduate.jpg?width=800&name=1948_MLK_Graduate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Educational Legacy of Dr. Martin Luther King Jr. | College for ...">
+                                <img itemprop="contentUrl url" src='https://marvel-b1-cdn.bc0a.com/f00000000299726/www.ccsdetroit.edu/wp-content/uploads/2023/01/MLK-Day-1200x630-1.jpg' alt='The Educational Legacy of Dr. Martin Luther King Jr. | College for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College for Creative Studies" />
+                                </span>
+                                <a href='https://marvel-b1-cdn.bc0a.com/f00000000299726/www.ccsdetroit.edu/wp-content/uploads/2023/01/MLK-Day-1200x630-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLK: The Purpose of Education - Global Campaign for Peace Education">
+                                <img itemprop="contentUrl url" src='https://www.peace-ed-campaign.org/wp-content/uploads/2020/01/MLK-1024x536.png' alt='MLK: The Purpose of Education - Global Campaign for Peace Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Campaign for Peace Education" />
+                                </span>
+                                <a href='https://www.peace-ed-campaign.org/wp-content/uploads/2020/01/MLK-1024x536.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MLK was a Sociology Major">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E12AQGYKI6LLbuoiQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1610499551149?e=2147483647&v=beta&t=Wjdttj9KukRV2WESNpO5w1a8sTdIRxRoPMagxayes14' alt='MLK was a Sociology Major'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E12AQGYKI6LLbuoiQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1610499551149?e=2147483647&v=beta&t=Wjdttj9KukRV2WESNpO5w1a8sTdIRxRoPMagxayes14' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Essay: Dr. King promoted critical thinking. Here's why - WHYY">
+                                <img itemprop="contentUrl url" src='https://whyy.org/wp-content/uploads/2020/01/Drs-MLK-jr-Albert-Manley-Ms-Alberta-King-Founders-Day-1960-768x612.jpg' alt='Essay: Dr. King promoted critical thinking. Here's why - WHYY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WHYY" />
+                                </span>
+                                <a href='https://whyy.org/wp-content/uploads/2020/01/Drs-MLK-jr-Albert-Manley-Ms-Alberta-King-Founders-Day-1960-768x612.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr.'s Impact on Education: A Legacy of Equality ...">
+                                <img itemprop="contentUrl url" src='https://transformschools.ucla.edu/wp-content/uploads/2023/01/mlk-00-cover-150253596-3.webp' alt='Martin Luther King Jr.'s Impact on Education: A Legacy of Equality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Center for the Transformation of Schools" />
+                                </span>
+                                <a href='https://transformschools.ucla.edu/wp-content/uploads/2023/01/mlk-00-cover-150253596-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Martin Luther King Jr. Poster Famous Inspirational Quote Banner for  classrooms Education Wall Art Photograph Picture Black History Month Famous  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XZhk9RdEL._AC_UF894,1000_QL80_.jpg' alt='Martin Luther King Jr. Poster Famous Inspirational Quote Banner for  classrooms Education Wall Art Photograph Picture Black History Month Famous  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XZhk9RdEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legacy of Rev. Dr. Martin Luther King, Jr.">
+                                <img itemprop="contentUrl url" src='https://www.texascollege.edu/uploads/blog/b9433d0b38b3f5b4a523b8f51a82363e4c96c03d.png' alt='The Legacy of Rev. Dr. Martin Luther King, Jr.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3161">
+                                <meta itemprop="height" content="2321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas College" />
+                                </span>
+                                <a href='https://www.texascollege.edu/uploads/blog/b9433d0b38b3f5b4a523b8f51a82363e4c96c03d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Boston Shaped the Life of MLK, Jr. | Bostonia | Boston University">
+                                <img itemprop="contentUrl url" src='https://www.bu.edu/files/2018/04/mlk-honorary-degree-portrait-58-663-87.jpg' alt='How Boston Shaped the Life of MLK, Jr. | Bostonia | Boston University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston University" />
+                                </span>
+                                <a href='https://www.bu.edu/files/2018/04/mlk-honorary-degree-portrait-58-663-87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

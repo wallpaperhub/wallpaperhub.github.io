@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="when did yahoo come out">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-yahoo-come-out">
+                            <span itemprop="name">when did yahoo come out</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Yahoo Changed Over the Years - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/57977a3288e4a727008bac4a?width=800&format=jpeg&auto=webp' alt='How Yahoo Changed Over the Years - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/57977a3288e4a727008bac4a?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Yahoo, and how it went from phenom to has-been ...">
+                                <img itemprop="contentUrl url" src='https://images.fastcompany.com/image/upload/wp-cms/uploads/2018/03/i-yahoo-briefcase-1-483x457.jpg' alt='The history of Yahoo, and how it went from phenom to has-been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Company" />
+                                </span>
+                                <a href='https://images.fastcompany.com/image/upload/wp-cms/uploads/2018/03/i-yahoo-briefcase-1-483x457.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Team | Yahoo Inc.">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6721939c8726e5c8dc6b9f96/6734cf23001c4bb460adfbcc_64232e2dde875cf8359eaf6f_Our-Story-1995.webp' alt='Our Team | Yahoo Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo Inc." />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6721939c8726e5c8dc6b9f96/6734cf23001c4bb460adfbcc_64232e2dde875cf8359eaf6f_Our-Story-1995.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the 20th Anniversary – The History of Yahoo's Founding ...">
+                                <img itemprop="contentUrl url" src='https://www.internethistorypodcast.com/wp-content/uploads/2015/03/David-Filo-and-Jerry-Yang-Yahoo-3.jpg' alt='On the 20th Anniversary – The History of Yahoo's Founding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet History Podcast" />
+                                </span>
+                                <a href='https://www.internethistorypodcast.com/wp-content/uploads/2015/03/David-Filo-and-Jerry-Yang-Yahoo-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yahoo Messenger - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/28/Yahoo_Messenger_8.1.png' alt='Yahoo Messenger - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="184">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/28/Yahoo_Messenger_8.1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The changing face of the Yahoo! homepage, 1996-2006 | Mashable">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/longforms/04ILIeAX3JAFjgsGdG5rZZg/hero-image.fill.size_1200x675.v1619478387.jpg' alt='The changing face of the Yahoo! homepage, 1996-2006 | Mashable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/longforms/04ILIeAX3JAFjgsGdG5rZZg/hero-image.fill.size_1200x675.v1619478387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yahoo!: The first king of the internet | Business History">
+                                <img itemprop="contentUrl url" src='https://businesshistory.domain-b.com/Uploads/Images/1cb04bc4-947a-49f1-81b2-e340b6b4aa91-Yahoo-Logo.jpg' alt='Yahoo!: The first king of the internet | Business History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business history - domain-b.com" />
+                                </span>
+                                <a href='https://businesshistory.domain-b.com/Uploads/Images/1cb04bc4-947a-49f1-81b2-e340b6b4aa91-Yahoo-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of Yahoo, and how it went from phenom to has-been ...">
+                                <img itemprop="contentUrl url" src='https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms/uploads/2018/03/p-1-the-glory-that-was-yahoo.jpg' alt='The history of Yahoo, and how it went from phenom to has-been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Company" />
+                                </span>
+                                <a href='https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms/uploads/2018/03/p-1-the-glory-that-was-yahoo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the 20th Anniversary – The History of Yahoo's Founding ...">
+                                <img itemprop="contentUrl url" src='https://www.internethistorypodcast.com/wp-content/uploads/2015/03/yahoo-1995.gif' alt='On the 20th Anniversary – The History of Yahoo's Founding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet History Podcast" />
+                                </span>
+                                <a href='https://www.internethistorypodcast.com/wp-content/uploads/2015/03/yahoo-1995.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yahoo! Nostalgia. A Logo that Hints at the Past | by Larissa ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*5U07fog8lmbaOOwWyb0c2w.png' alt='Yahoo! Nostalgia. A Logo that Hints at the Past | by Larissa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Larissa Paseta - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*5U07fog8lmbaOOwWyb0c2w.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

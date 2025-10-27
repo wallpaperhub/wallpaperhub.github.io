@@ -1,0 +1,129 @@
+<title>Stunning Mirror PNG Images for Your Designs</title>
+                    <meta name="description" content="Discover high-quality mirror PNG images perfect for enhancing your creative projects. Our collection offers transparent and reflective options that seamlessly integrate into any design. Elevate your graphics with stunning mirror effects today!">
+                    <meta name="keywords" content="mirror png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mirror-png">
+                            <span itemprop="name">mirror png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mirror PNG Images for Your Designs</h1>
+                <p>Mirror PNG files are versatile images featuring reflective surfaces. Ideal for graphic design and web development, these transparent images allow for seamless integration into various projects. Whether you're creating art, enhancing your website, or designing logos, mirror PNGs add a polished touch and elevate your visuals effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/281/094/non_2x/elegant-ornate-gold-mirror-displayed-isolated-on-transparent-background-png.png' alt='Mirror PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/281/094/non_2x/elegant-ornate-gold-mirror-displayed-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror PNG transparent image download, size: 936x990px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/mirror_PNG17359.png' alt='Mirror PNG transparent image download, size: 936x990px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/mirror_PNG17359.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Mirror PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-realistic-rectangular-mirror-for-bathroom-png-image_4749330.png' alt='Bathroom Mirror PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-realistic-rectangular-mirror-for-bathroom-png-image_4749330.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Hand Mirror PNG (Isolated-Objects) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/golden-hand-mirror-PNG-thumb22.png' alt='Golden Hand Mirror PNG (Isolated-Objects) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/golden-hand-mirror-PNG-thumb22.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror Png Transparent Images png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/542/556/png-clipart-oval-mirror-with-brown-frame-magic-mirror-queen-mirror-mirror-furniture-mirror-thumbnail.png' alt='Mirror Png Transparent Images png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/542/556/png-clipart-oval-mirror-with-brown-frame-magic-mirror-queen-mirror-mirror-furniture-mirror-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Mirror png overlay. by lewis4721 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/dek2jig-de2302c6-8ab0-46da-ab4b-8898e5f51083.png/v1/fill/w_1280,h_1664/free_vintage_mirror_png_overlay__by_lewis4721_dek2jig-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2NCIsInBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVrMmppZy1kZTIzMDJjNi04YWIwLTQ2ZGEtYWI0Yi04ODk4ZTVmNTEwODMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.GHoYR2vockE95dVL-dHAUTyTWYqSS5o2m1VNtikyj7w' alt='Free Vintage Mirror png overlay. by lewis4721 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cdba954f-a7f5-417a-9337-8b719326f6be/dek2jig-de2302c6-8ab0-46da-ab4b-8898e5f51083.png/v1/fill/w_1280,h_1664/free_vintage_mirror_png_overlay__by_lewis4721_dek2jig-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2NCIsInBhdGgiOiJcL2ZcL2NkYmE5NTRmLWE3ZjUtNDE3YS05MzM3LThiNzE5MzI2ZjZiZVwvZGVrMmppZy1kZTIzMDJjNi04YWIwLTQ2ZGEtYWI0Yi04ODk4ZTVmNTEwODMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.GHoYR2vockE95dVL-dHAUTyTWYqSS5o2m1VNtikyj7w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror PNG transparent image download, size: 1496x2305px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/mirror_PNG102958.png' alt='Mirror PNG transparent image download, size: 1496x2305px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1496">
+                                <meta itemprop="height" content="2305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/mirror_PNG102958.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror - Simple Rectangular Mirror - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20171220/pse/av2dh5h7m.webp' alt='Mirror - Simple Rectangular Mirror - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20171220/pse/av2dh5h7m.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Round Mirror With Metal Frame, Mirror, Circle, Realistic ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-realistic-round-mirror-with-metal-frame-png-image_10202910.png' alt='Realistic Round Mirror With Metal Frame, Mirror, Circle, Realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-realistic-round-mirror-with-metal-frame-png-image_10202910.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mirror Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-vector-icon-rectangular-vertical-big-mirror-reflection-surface-frame-interior-design-furniture_528282-228.jpg' alt='Mirror Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-vector-icon-rectangular-vertical-big-mirror-reflection-surface-frame-interior-design-furniture_528282-228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

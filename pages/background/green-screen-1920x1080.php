@@ -1,0 +1,129 @@
+<title>High-Quality Green Screen 1920x1080 for Seamless Effects</title>
+                    <meta name="description" content="Elevate your video projects with a 1920x1080 green screen, perfect for seamless visual effects. Create stunning backgrounds and unleash your creativity in high definition. Ideal for filmmakers, content creators, and home studios. Discover the best in green screen technology today!">
+                    <meta name="keywords" content="green screen 1920x1080">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-screen-1920x1080">
+                            <span itemprop="name">green screen 1920x1080</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Green Screen 1920x1080 for Seamless Effects</h1>
+                <p>A green screen measuring 1920x1080 is an essential tool for video production, offering a high-definition backdrop for professional visual effects. This versatile setup allows filmmakers to replace the green surface with any image or scene, enhancing creativity and storytelling. Perfect for home studios, it ensures crisp and clear results.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 HD Wide Green Screen Video Background - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/2000px/190695' alt='1920x1080 HD Wide Green Screen Video Background - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/2000px/190695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Green Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/9e/ba/129eba52d364e926b24ca4dcc0500a3c.jpg' alt='1920x1080 Green Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/9e/ba/129eba52d364e926b24ca4dcc0500a3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 HD Wide Green Screen Video Background - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/800px/190695' alt='1920x1080 HD Wide Green Screen Video Background - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/800px/190695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen | A Screen Of Pure Green For 10 Hours | Background | Backdrop  | Screensaver | Full HD |">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KL5FcdCmdgQ/maxresdefault.jpg' alt='Green Screen | A Screen Of Pure Green For 10 Hours | Background | Backdrop  | Screensaver | Full HD |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KL5FcdCmdgQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen | A Screen Of Pure Green For 10 Hours | Background | Backdrop  | Screensaver | Full HD |">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KL5FcdCmdgQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBQgcigRMA8=&rs=AOn4CLBGzZd-VG_emHQK0xvzTzrPhSWOAw' alt='Green Screen | A Screen Of Pure Green For 10 Hours | Background | Backdrop  | Screensaver | Full HD |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KL5FcdCmdgQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBQgcigRMA8=&rs=AOn4CLBGzZd-VG_emHQK0xvzTzrPhSWOAw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Snow Effect Green Screen Background Snow Effect Animation">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/0c/2f/e90c2f5c030c79681c00548f09a74651.jpg' alt='Green Screen Snow Effect Green Screen Background Snow Effect Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/0c/2f/e90c2f5c030c79681c00548f09a74651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling Stars on Green Screen 626533884">
+                                <img itemprop="contentUrl url" src='https://st5.depositphotos.com/74756290/62653/v/600/depositphotos_626533884-stock-video-falling-stars-green-screen.jpg' alt='Falling Stars on Green Screen 626533884'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st5.depositphotos.com/74756290/62653/v/600/depositphotos_626533884-stock-video-falling-stars-green-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/green-background-with-grainy-texture-background_474888-5940.jpg' alt='Green Screen Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/green-background-with-grainy-texture-background_474888-5940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Screen Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/498/876/small/artistic-blurry-colorful-wallpaper-background-photo.jpg' alt='Green Screen Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/498/876/small/artistic-blurry-colorful-wallpaper-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It is snowing on green screen">
+                                <img itemprop="contentUrl url" src='https://thumb.r2.moele.me/t/28998/28988519/a-0144.jpg' alt='It is snowing on green screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live action footage" />
+                                </span>
+                                <a href='https://thumb.r2.moele.me/t/28998/28988519/a-0144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

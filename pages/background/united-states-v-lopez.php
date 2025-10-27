@@ -1,0 +1,129 @@
+<title>Understanding United States v. Lopez: Landmark Supreme Court Case</title>
+                    <meta name="description" content="Explore the significance of United States v. Lopez, a pivotal Supreme Court case that defined the limits of federal authority under the commerce clause. Discover how this ruling shaped the relationship between federal and state powers regarding gun laws and education policy.">
+                    <meta name="keywords" content="united states v lopez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/united-states-v-lopez">
+                            <span itemprop="name">united states v lopez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding United States v. Lopez: Landmark Supreme Court Case</h1>
+                <p>United States v. Lopez (1995) was a landmark Supreme Court case that challenged the constitutionality of the Gun-Free School Zones Act of 1990. The Court ruled that Congress exceeded its commerce clause authority, affirming limits on federal power. This case set a precedent for states' rights and the scope of federal regulation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez: The Case and Its Impact">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/laiXwepZN8X7fzyy47N_13KY7Ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gunfree-5c43368546e0fb0001f630be.jpg' alt='United States v. Lopez: The Case and Its Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/laiXwepZN8X7fzyy47N_13KY7Ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gunfree-5c43368546e0fb0001f630be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How A Kid Bringing a Gun to School Led to the Federal Government Losing  Power | U.S. v. Lopez">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M8rnjnF93gA/mqdefault.jpg' alt='How A Kid Bringing a Gun to School Led to the Federal Government Losing  Power | U.S. v. Lopez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M8rnjnF93gA/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez, 1995 Supreme Court case, commerce clause ...">
+                                <img itemprop="contentUrl url" src='https://bri-wp-images.s3.amazonaws.com/wp-content/uploads/Gun-free-zone-550x352.png' alt='United States v. Lopez, 1995 Supreme Court case, commerce clause ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bill of Rights Institute" />
+                                </span>
+                                <a href='https://bri-wp-images.s3.amazonaws.com/wp-content/uploads/Gun-free-zone-550x352.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Required Supreme Court Case: United States v. Lopez (1995) – Marco ...">
+                                <img itemprop="contentUrl url" src='https://marcolearning.com/wp-content/uploads/2020/12/USvLopez-_stretched.jpg' alt='Required Supreme Court Case: United States v. Lopez (1995) – Marco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marco Learning" />
+                                </span>
+                                <a href='https://marcolearning.com/wp-content/uploads/2020/12/USvLopez-_stretched.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Supreme Court . The Future of the Court . Landmark Cases | PBS">
+                                <img itemprop="contentUrl url" src='https://www.thirteen.org/wnet/supremecourt/future/images/us.jpg' alt='The Supreme Court . The Future of the Court . Landmark Cases | PBS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="205">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="THIRTEEN.org" />
+                                </span>
+                                <a href='https://www.thirteen.org/wnet/supremecourt/future/images/us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez | US government and civics | Khan Academy">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hDk9Qx8Po3M/maxresdefault.jpg' alt='United States v. Lopez | US government and civics | Khan Academy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hDk9Qx8Po3M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez | Constitution Center">
+                                <img itemprop="contentUrl url" src='https://constitutioncenter.org/images/uploads/heros/William-Rehnquist.png' alt='United States v. Lopez | Constitution Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Constitution Center" />
+                                </span>
+                                <a href='https://constitutioncenter.org/images/uploads/heros/William-Rehnquist.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The United States v. Lopez, EXPLAINED [AP Gov Required Supreme Court Cases]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WnAgQKqc0F0/sddefault.jpg' alt='The United States v. Lopez, EXPLAINED [AP Gov Required Supreme Court Cases]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WnAgQKqc0F0/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez, 514 U.S. 549 (1995): Case Brief Summary ...">
+                                <img itemprop="contentUrl url" src='https://embed-ssl.wistia.com/deliveries/5b794b8a6161ccf116d3d0df1d199f2a4e1c2732.jpg?image_resize=750' alt='United States v. Lopez, 514 U.S. 549 (1995): Case Brief Summary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quimbee" />
+                                </span>
+                                <a href='https://embed-ssl.wistia.com/deliveries/5b794b8a6161ccf116d3d0df1d199f2a4e1c2732.jpg?image_resize=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States v. Lopez">
+                                <img itemprop="contentUrl url" src='https://cdn.kastatic.org/googleusercontent/RFHEVaXmGOj7-dkKHf5r8SQVKUDGn7orDpryPujtrUEUlzYu0HGYNfOYouYz4MVM8go_rrSeY-1soh65RJ7Kgz8' alt='United States v. Lopez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Khan Academy" />
+                                </span>
+                                <a href='https://cdn.kastatic.org/googleusercontent/RFHEVaXmGOj7-dkKHf5r8SQVKUDGn7orDpryPujtrUEUlzYu0HGYNfOYouYz4MVM8go_rrSeY-1soh65RJ7Kgz8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

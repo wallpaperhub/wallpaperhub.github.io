@@ -1,0 +1,129 @@
+<title>Mickey Ears: Magical Backgrounds for Every Disney Fan</title>
+                    <meta name="description" content="Discover enchanting Mickey ears backgrounds perfect for all Disney lovers! Capture magical moments and elevate your photo ops with delightful designs that celebrate the spirit of Mickey Mouse. Ideal for parties, events, or personal collections, these backgrounds add charm and nostalgia to your Disney experience!">
+                    <meta name="keywords" content="mickey ears background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mickey-ears-background">
+                            <span itemprop="name">mickey ears background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mickey Ears: Magical Backgrounds for Every Disney Fan</h1>
+                <p>Creating a magical atmosphere, Mickey ears have become an iconic symbol of joy and fun. This enchanting background features whimsical designs that capture the spirit of Disney adventures. Ideal for photo ops or themed events, it brings a sense of nostalgia, delighting both kids and adults alike in the enchanting world of Mickey Mouse.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mickey Mouse Ears Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mickey-mouse-ears-uxb3y79xr7bf13ge.jpg' alt='100+] Mickey Mouse Ears Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mickey-mouse-ears-uxb3y79xr7bf13ge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey & Minnie Ears Step & Repeat Cardboard Background Stand-Ups ...">
+                                <img itemprop="contentUrl url" src='https://s7.orientaltrading.com/is/image/OrientalTrading/PDP_VIEWER_IMAGE/mickey-and-minnie-ears-step-and-repeat-cardboard-background-stand-ups~13847254' alt='Mickey & Minnie Ears Step & Repeat Cardboard Background Stand-Ups ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oriental Trading" />
+                                </span>
+                                <a href='https://s7.orientaltrading.com/is/image/OrientalTrading/PDP_VIEWER_IMAGE/mickey-and-minnie-ears-step-and-repeat-cardboard-background-stand-ups~13847254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate the Magic of Disney with Mickey Mouse Ears ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mickey-mouse-ears-64powgfdalvt7oln.jpg' alt='Download Celebrate the Magic of Disney with Mickey Mouse Ears ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mickey-mouse-ears-64powgfdalvt7oln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney red watercolor mickey ears fabric printed on antique white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/64/4a/67/644a67be9a69e1a78cb7c1ee6b5fdda7.jpg' alt='Disney red watercolor mickey ears fabric printed on antique white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/64/4a/67/644a67be9a69e1a78cb7c1ee6b5fdda7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Make your own magical style with Mickey Mouse Ears ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mickey-mouse-ears-6790a9o0hzk6f6n8.jpg' alt='Download Make your own magical style with Mickey Mouse Ears ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mickey-mouse-ears-6790a9o0hzk6f6n8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Mickey Mouse Peel and Stick Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Mickey_Mouse_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_115182000_08_grande.jpg?v=1642624253' alt='Black and White Mickey Mouse Peel and Stick Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Mickey_Mouse_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_115182000_08_grande.jpg?v=1642624253' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Mickey Mouse Ears Project ideas | disney fabric, disney ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/35/93/fd/3593fd34fd2b99b8b1da182a61b3f863.jpg' alt='23 Mickey Mouse Ears Project ideas | disney fabric, disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/35/93/fd/3593fd34fd2b99b8b1da182a61b3f863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Mickey Mouse Icons Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://roommatesdecor.com/cdn/shop/products/RMK11152WP.jpg?v=1640719177' alt='Disney Mickey Mouse Icons Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='http://roommatesdecor.com/cdn/shop/products/RMK11152WP.jpg?v=1640719177' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mouse Ears">
+                                <img itemprop="contentUrl url" src='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20190102131109/Mouse-Ears.jpg' alt='Mouse Ears'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pattern Crew" />
+                                </span>
+                                <a href='https://d31sxl6qgne2yj.cloudfront.net/wordpress/wp-content/uploads/20190102131109/Mouse-Ears.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey Mouse Ear Hat Digital Files - Svg/pdf/png/jpeg - Mickey ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7408010/r/il/d2f628/4789091463/il_fullxfull.4789091463_poro.jpg' alt='Mickey Mouse Ear Hat Digital Files - Svg/pdf/png/jpeg - Mickey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7408010/r/il/d2f628/4789091463/il_fullxfull.4789091463_poro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

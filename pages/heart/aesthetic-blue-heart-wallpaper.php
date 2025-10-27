@@ -1,0 +1,129 @@
+<title>Aesthetic Blue Heart Wallpaper for a Calming Vibe</title>
+                    <meta name="description" content="Discover the perfect aesthetic blue heart wallpaper to enhance your device's look. With soothing designs and vibrant colors, these wallpapers bring a touch of personality and tranquility. Find your ideal style and transform your screens instantly!">
+                    <meta name="keywords" content="aesthetic blue heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/aesthetic-blue-heart-wallpaper">
+                            <span itemprop="name">aesthetic blue heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Blue Heart Wallpaper for a Calming Vibe</h1>
+                <p>Aesthetic blue heart wallpaper is perfect for adding a cool and calming vibe to your digital devices. With various shades of blue and unique heart designs, these wallpapers create a serene atmosphere while showcasing your personality. Transform your phone or computer background with these stunning visual delights today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue heart wallpaper aesthetic         ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/f7/65/2df76580fd7f57212d21d860834747ab.jpg' alt='blue heart wallpaper aesthetic         '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/f7/65/2df76580fd7f57212d21d860834747ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❄️Blue Y2k heart wallpaper for iPhone and iPad❄️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/be/8c/6b/be8c6be76c726985c18191c4195615e4.jpg' alt='❄️Blue Y2k heart wallpaper for iPhone and iPad❄️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/be/8c/6b/be8c6be76c726985c18191c4195615e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Blue Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/neon-blue-heart-j0x6hsk39bqcmtcx.jpg' alt='Neon Blue Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/neon-blue-heart-j0x6hsk39bqcmtcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Repetitive Blue Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/repetitive-blue-hearts-mth6tc6xqpspgdsm.jpg' alt='Repetitive Blue Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="443">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/repetitive-blue-hearts-mth6tc6xqpspgdsm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Danish Pastel, Aesthetic Background Blue Heart, blue heart, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/388/924/HD-wallpaper-danish-pastel-aesthetic-background-blue-heart-blue-heart.jpg' alt='Danish Pastel, Aesthetic Background Blue Heart, blue heart, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/388/924/HD-wallpaper-danish-pastel-aesthetic-background-blue-heart-blue-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Wallpaper [a1fede22919444a58238] by Wallpaper HD | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/59b2900aa03cb2182a51cdb520b535b6/Ubq3YxDP0zEWTv8SIOoc.jpg?q=70&w=500' alt='Heart Wallpaper [a1fede22919444a58238] by Wallpaper HD | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/59b2900aa03cb2182a51cdb520b535b6/Ubq3YxDP0zEWTv8SIOoc.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue heart by y2krevival | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg' alt='blue heart by y2krevival | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008 | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1936332292.1571/fposter,small,wall_texture,square_product,600x600.jpg' alt='Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008 | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1936332292.1571/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Heart Self Love Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-heart-self-love-aesthetic-nn03z2lczli968sb.jpg' alt='Download Blue Heart Self Love Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-heart-self-love-aesthetic-nn03z2lczli968sb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black And Blue Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-blue-heart-tqoqlscmfush31op.jpg' alt='Download Black And Blue Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-blue-heart-tqoqlscmfush31op.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

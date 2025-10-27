@@ -1,0 +1,129 @@
+<title>Deus Ex: Mankind Divided - Exploring the Dystopian Background</title>
+                    <meta name="description" content="Uncover the deep narrative and complex backdrop of "Deus Ex: Mankind Divided." Explore the themes of augmentation, societal division, and the struggle for equality in a dystopian future. Join Adam Jensen on his journey through a world fraught with tension and corporate greed.">
+                    <meta name="keywords" content="light deus ex mankind divided background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-deus-ex-mankind-divided-background">
+                            <span itemprop="name">light deus ex mankind divided background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deus Ex: Mankind Divided - Exploring the Dystopian Background</h1>
+                <p>In "Deus Ex: Mankind Divided," the narrative is set in a dystopian future where society is divided between augmented humans and those who remain unaugmented. Following the catastrophic events of "Deus Ex: Human Revolution," protagonist Adam Jensen navigates a world rife with paranoia and tension, striving for equality amid chaos and corporate control.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mankind Divided Yellow Light Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mankind-divided-yellow-light-0mdp9umrhlsh778s.jpg' alt='Mankind Divided Yellow Light Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mankind-divided-yellow-light-0mdp9umrhlsh778s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery: The Environments Of Deus Ex: Mankind Divided | Rock Paper ...">
+                                <img itemprop="contentUrl url" src='https://www.rockpapershotgun.com/images/16/aug/dxgal/deusexgal27.jpg' alt='Gallery: The Environments Of Deus Ex: Mankind Divided | Rock Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://www.rockpapershotgun.com/images/16/aug/dxgal/deusexgal27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pixel 3 Deus Ex Mankind Divided Background Logo ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-deus-ex-mankind-divided-background-1080-x-2160-qpkpa6mkqpf7m944.jpg' alt='Download Pixel 3 Deus Ex Mankind Divided Background Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-deus-ex-mankind-divided-background-1080-x-2160-qpkpa6mkqpf7m944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Deus Ex Mankind Divided Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/deus-ex-mankind-divided-background-9mnesl3n1x6ywt11.jpg' alt='100+] Deus Ex Mankind Divided Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/deus-ex-mankind-divided-background-9mnesl3n1x6ywt11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Deus Ex Video Game Deus Ex: Mankind Divided HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/833/thumb-1920-833391.jpg' alt='Download Deus Ex Video Game Deus Ex: Mankind Divided HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/833/thumb-1920-833391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery: The Environments Of Deus Ex: Mankind Divided | Rock Paper ...">
+                                <img itemprop="contentUrl url" src='https://www.rockpapershotgun.com/images/16/aug/dxgal/deusexgal17.jpg' alt='Gallery: The Environments Of Deus Ex: Mankind Divided | Rock Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock Paper Shotgun" />
+                                </span>
+                                <a href='https://www.rockpapershotgun.com/images/16/aug/dxgal/deusexgal17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deus Ex: Mankind Divided Review | Gamespresso">
+                                <img itemprop="contentUrl url" src='https://www.gamespresso.com/wp-content/uploads/2016/08/Deus-Ex-Mankind-Divided-4K-Wallpaper-5-copy-e1472517151241.jpg' alt='Deus Ex: Mankind Divided Review | Gamespresso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3830">
+                                <meta itemprop="height" content="1699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamespresso" />
+                                </span>
+                                <a href='https://www.gamespresso.com/wp-content/uploads/2016/08/Deus-Ex-Mankind-Divided-4K-Wallpaper-5-copy-e1472517151241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deus Ex: Mankind Divided - Building Interior Levels">
+                                <img itemprop="contentUrl url" src='https://cdn.80.lv/api/upload/post/5896/images/5d2d1b9b16225/widen_1220x0.jpg' alt='Deus Ex: Mankind Divided - Building Interior Levels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="80 Level" />
+                                </span>
+                                <a href='https://cdn.80.lv/api/upload/post/5896/images/5d2d1b9b16225/widen_1220x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Deus Ex Mankind Divided | Prague City Hub - Red Light ...">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/003/508/230/large/maxime-chasse-prague-redlight-2.jpg?1474472207&dl=1' alt='ArtStation - Deus Ex Mankind Divided | Prague City Hub - Red Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/003/508/230/large/maxime-chasse-prague-redlight-2.jpg?1474472207&dl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Adam Jensen Kitchen Pixel 3 Deus Ex Mankind Divided ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-3-deus-ex-mankind-divided-background-1080-x-2160-ufeoousvl5i67ztf.jpg' alt='Download Adam Jensen Kitchen Pixel 3 Deus Ex Mankind Divided ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-3-deus-ex-mankind-divided-background-1080-x-2160-ufeoousvl5i67ztf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

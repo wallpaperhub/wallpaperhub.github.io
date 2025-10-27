@@ -1,0 +1,129 @@
+<title>Elegant White and Rose Gold Backgrounds for Your Design Needs</title>
+                    <meta name="description" content="Explore stylish white and rose gold backgrounds that elevate your designs. Perfect for invites, social media, and decor, these luxurious combinations add a touch of elegance. Discover how to enhance your projects with this chic aesthetic!">
+                    <meta name="keywords" content="white and rose gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-and-rose-gold-background">
+                            <span itemprop="name">white and rose gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White and Rose Gold Backgrounds for Your Design Needs</h1>
+                <p>Discover the elegance of a white and rose gold background, perfect for adding a touch of sophistication to any project. The soft, luminous white pairs brilliantly with the warm glimmer of rose gold, creating a harmonious aesthetic. Ideal for invitations, social media graphics, or home decor, this combination embodies luxury and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold And White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-pastel-pink-hand-painted-alcohol-ink-design-with-gold-elements_1048-18533.jpg' alt='Rose Gold And White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-pastel-pink-hand-painted-alcohol-ink-design-with-gold-elements_1048-18533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Rose Gold Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-brush-background-fashion-theme_53876-93458.jpg' alt='White Rose Gold Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-brush-background-fashion-theme_53876-93458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Best Rose Gold Wallpapers For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/64/bb/c7/64bbc74656bf726424dd630924d9245d.jpg' alt='25 Best Rose Gold Wallpapers For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/64/bb/c7/64bbc74656bf726424dd630924d9245d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="980+ Rose Gold Glitter Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1209920500/vector/white-rose-gold-background-abstract-bokeh-stars-and-light-ray-celebration-seasonal-holiday.jpg?s=612x612&w=0&k=20&c=QDiT9MibMNk-QGSlNHmwH9Ch8gESbEgWubudxlxGTOA=' alt='980+ Rose Gold Glitter Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1209920500/vector/white-rose-gold-background-abstract-bokeh-stars-and-light-ray-celebration-seasonal-holiday.jpg?s=612x612&w=0&k=20&c=QDiT9MibMNk-QGSlNHmwH9Ch8gESbEgWubudxlxGTOA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Watercolor Or Alcohol Ink Art With Rose Gold Pink White ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/013/597/891/large_2x/abstract-watercolor-or-alcohol-ink-art-with-rose-gold-pink-white-background-gold-glitter-pastel-marble-drawing-effect-llustration-design-template-for-wedding-invitation-decoration-banner-photo.jpg' alt='Abstract Watercolor Or Alcohol Ink Art With Rose Gold Pink White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3290">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/013/597/891/large_2x/abstract-watercolor-or-alcohol-ink-art-with-rose-gold-pink-white-background-gold-glitter-pastel-marble-drawing-effect-llustration-design-template-for-wedding-invitation-decoration-banner-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Background Rose Gold Images – Browse 68,999 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/72/12/22/360_F_372122269_XpR2gfCm12brqzgz4xH6sUtss9xf2l4Q.jpg' alt='Marble Background Rose Gold Images – Browse 68,999 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/72/12/22/360_F_372122269_XpR2gfCm12brqzgz4xH6sUtss9xf2l4Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | White background with rose gold glitter sparkles">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/white-background-with-rose-gold-glitter-sparkles_654192-724.jpg' alt='Premium Vector | White background with rose gold glitter sparkles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/white-background-with-rose-gold-glitter-sparkles_654192-724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold Background Images – Browse 1,016,816 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/99/74/49/360_F_499744923_ovQ8W2tQGLnj0DlYQ2KT2mr2AC5eojeJ.jpg' alt='Rose Gold Background Images – Browse 1,016,816 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/99/74/49/360_F_499744923_ovQ8W2tQGLnj0DlYQ2KT2mr2AC5eojeJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Best Rose Gold Wallpapers For iPhone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/6d/8a/486d8a39890e55a7e30bee426af7882a.jpg' alt='25 Best Rose Gold Wallpapers For iPhone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/6d/8a/486d8a39890e55a7e30bee426af7882a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold And White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-line-art-gold-peach-pastel-watercolor-background-abstract_41066-3340.jpg' alt='Rose Gold And White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-line-art-gold-peach-pastel-watercolor-background-abstract_41066-3340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

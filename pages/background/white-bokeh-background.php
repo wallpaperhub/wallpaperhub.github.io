@@ -1,0 +1,129 @@
+<title>"Stunning White Bokeh Backgrounds for Your Designs"</title>
+                    <meta name="description" content="Discover elegant white bokeh backgrounds to elevate your designs. Perfect for photos, graphics, and websites, these soft-focus backgrounds create a dreamy atmosphere while keeping the emphasis on your subject. Enhance your projects with our visually appealing white bokeh options.">
+                    <meta name="keywords" content="white bokeh background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-bokeh-background">
+                            <span itemprop="name">white bokeh background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stunning White Bokeh Backgrounds for Your Designs"</h1>
+                <p>A white bokeh background adds a touch of elegance and sophistication to any design project. Soft, out-of-focus circles of light in a white setting create a dreamy atmosphere that is perfect for photography, graphic design, or websites. Ideal for highlighting subjects, this background enhances visual appeal without being overpowering.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bokeh White Images – Browse 2,181,090 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/22/67/86/360_F_122678642_2ctBZpH79vZy944sAsBCLrTVO1U5H1H9.jpg' alt='Bokeh White Images – Browse 2,181,090 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/22/67/86/360_F_122678642_2ctBZpH79vZy944sAsBCLrTVO1U5H1H9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bokeh Background White Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-lights-bokeh-elegant-design_1017-29616.jpg' alt='Bokeh Background White Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-lights-bokeh-elegant-design_1017-29616.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Bokeh Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-background-with-white-bokeh-lights_53876-120105.jpg' alt='White Bokeh Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-background-with-white-bokeh-lights_53876-120105.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White bokeh background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/HY50JK/bright-white-bokeh-background-HY50JK.jpg' alt='White bokeh background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/HY50JK/bright-white-bokeh-background-HY50JK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Bokeh Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-white-bokeh-glowing-lights-background_1017-24049.jpg' alt='White Bokeh Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-white-bokeh-glowing-lights-background_1017-24049.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white blur abstract background. bokeh christmas blurred beautiful ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/096/030/non_2x/white-blur-abstract-background-bokeh-christmas-blurred-beautiful-shiny-christmas-lights-free-vector.jpg' alt='white blur abstract background. bokeh christmas blurred beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/096/030/non_2x/white-blur-abstract-background-bokeh-christmas-blurred-beautiful-shiny-christmas-lights-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Bokeh Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/346/745/small/light-blurred-bokeh-background-free-vector.jpg' alt='White Bokeh Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/346/745/small/light-blurred-bokeh-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful White Bokeh Lights Effect Background Design Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/starlinearts/starlinearts2006/starlinearts200602918/148935872-beautiful-white-bokeh-lights-effect-background-design.jpg' alt='Beautiful White Bokeh Lights Effect Background Design Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/starlinearts/starlinearts2006/starlinearts200602918/148935872-beautiful-white-bokeh-lights-effect-background-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bokeh Lights White Background Photography Backdrop M105">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/M105-9227.jpg?v=1581672215' alt='Bokeh Lights White Background Photography Backdrop M105'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/M105-9227.jpg?v=1581672215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Seamless abstract white bokeh blur background texture  transparent overlay, 40x20 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/05/72/27/13/1000_F_572271336_vAO4RkVbM8Gl2058uUko0Gk0KMOa2ca2.jpg' alt='Poster, Print Seamless abstract white bokeh blur background texture  transparent overlay, 40x20 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/05/72/27/13/1000_F_572271336_vAO4RkVbM8Gl2058uUko0Gk0KMOa2ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

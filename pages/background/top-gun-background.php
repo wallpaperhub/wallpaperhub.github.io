@@ -1,0 +1,129 @@
+<title>"Exploring the Iconic Background of Top Gun"</title>
+                    <meta name="description" content="Discover the fascinating background of "Top Gun," the blockbuster film that revolutionized military cinema. Learn about its impact on pop culture, characters, and the authentic naval aviation portrayal that inspired generations of moviegoers. Dive into the legacy of this iconic film today!">
+                    <meta name="keywords" content="top gun background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/top-gun-background">
+                            <span itemprop="name">top gun background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Iconic Background of Top Gun"</h1>
+                <p>"Top Gun" is a 1986 action drama film directed by Tony Scott, centered around elite naval aviators at the United States Navy's Fighter Weapons School. Starring Tom Cruise as Pete "Maverick" Mitchell, the film explores themes of competition, camaraderie, and romance amidst breathtaking aerial combat scenes. Its influence on pop culture remains significant, inspiring countless military-themed movies and a dedicated following.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun: Maverick Backgrounds Now Available For Zoom">
+                                <img itemprop="contentUrl url" src='https://bleedingcool.com/movies/top-gun-maverick-backgrounds-now-available-for-zoom/attachment/90790668_3223091891036936_2342532264828600320_o/' alt='Top Gun: Maverick Backgrounds Now Available For Zoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://bleedingcool.com/movies/top-gun-maverick-backgrounds-now-available-for-zoom/attachment/90790668_3223091891036936_2342532264828600320_o/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun Maverick | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Top-Gun-Maverick-F16-Cockpit-seat-73.jpg' alt='Top Gun Maverick | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Top-Gun-Maverick-F16-Cockpit-seat-73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lessons from Top Gun Maverick">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQG98IdkyV-GGA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1655225008484?e=2147483647&v=beta&t=NL1ah2OG9BMEv7y40uvVi8seyrZXC7Y-mBqZHMWt66w' alt='Lessons from Top Gun Maverick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQG98IdkyV-GGA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1655225008484?e=2147483647&v=beta&t=NL1ah2OG9BMEv7y40uvVi8seyrZXC7Y-mBqZHMWt66w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smoke up For Top Gun: Maverick | Casa De Montecristo">
+                                <img itemprop="contentUrl url" src='https://www.casademontecristo.com/wp-content/uploads/2022/05/bigstock-Four-Fighter-Jets-In-The-Shape-447821566-770x335.jpg' alt='Smoke up For Top Gun: Maverick | Casa De Montecristo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casa de Montecristo" />
+                                </span>
+                                <a href='https://www.casademontecristo.com/wp-content/uploads/2022/05/bigstock-Four-Fighter-Jets-In-The-Shape-447821566-770x335.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Top Gun Maverick Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/top-gun-maverick-combat-airship-21nf6o6nx96n1v3o.jpg' alt='100+] Top Gun Maverick Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/top-gun-maverick-combat-airship-21nf6o6nx96n1v3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Tom Cruise Movie Top Gun: Maverick HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/124/1241136.png' alt='Download Tom Cruise Movie Top Gun: Maverick HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3418">
+                                <meta itemprop="height" content="1479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/124/1241136.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/418/009/small/militar-aircraft-flying-over-the-clouds-in-amazing-sunset-generative-ai-photo.jpg' alt='Top Gun Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/418/009/small/militar-aircraft-flying-over-the-clouds-in-amazing-sunset-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Gun: Maverick Backgrounds Now Available For Zoom">
+                                <img itemprop="contentUrl url" src='https://bleedingcool.com/wp-content/uploads/2020/04/90790668_3223091891036936_2342532264828600320_o-1-900x900.jpg' alt='Top Gun: Maverick Backgrounds Now Available For Zoom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleeding Cool" />
+                                </span>
+                                <a href='https://bleedingcool.com/wp-content/uploads/2020/04/90790668_3223091891036936_2342532264828600320_o-1-900x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Out This Amazing "Top Gun: Maverick" Trailer Recreated In ...">
+                                <img itemprop="contentUrl url" src='https://theaviationist.com/wp-content/uploads/2019/09/Top-Gun-Maverick-DCS-860x357.jpg' alt='Check Out This Amazing "Top Gun: Maverick" Trailer Recreated In ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Aviationist" />
+                                </span>
+                                <a href='https://theaviationist.com/wp-content/uploads/2019/09/Top-Gun-Maverick-DCS-860x357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yonay Family Sues Paramount Over Top Gun: Maverick Claiming ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/58fbfecf725e25a3d1966494/fc4282a7-515a-424f-b89e-db1013fca189/Yonay-Family-Paramount-Top-Gun-Maverick.jpeg' alt='Yonay Family Sues Paramount Over Top Gun: Maverick Claiming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Klemchuk" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/58fbfecf725e25a3d1966494/fc4282a7-515a-424f-b89e-db1013fca189/Yonay-Family-Paramount-Top-Gun-Maverick.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

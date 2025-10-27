@@ -1,0 +1,129 @@
+<title>Battle Sonic EXE in FNF!</title>
+                    <meta name="description" content="Dive into the thrilling world of FNF Sonic EXE! Experience rhythm battles against a creepy Sonic in a unique horror twist on the Friday Night Funkin' game. Test your skills and enjoy this spine-chilling crossover adventure! Perfect for fans of indie games and horror surprises.">
+                    <meta name="keywords" content="fnf sonic exe">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnf-sonic-exe">
+                            <span itemprop="name">fnf sonic exe</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Battle Sonic EXE in FNF!</h1>
+                <p>Sonic EXE is a fan-made horror game remix of the popular Friday Night Funkin' series, featuring the iconic blue hedgehog in a twisted, creepy form. Players face challenges and rhythmic battles against Sonic EXE, who possesses otherworldly abilities. Experience thrilling gameplay, an eerie atmosphere, and the excitement of this unique crossover!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vs. Sonic.Exe/Characters | Funkipedia Mods Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fridaynightfunking/images/2/24/SonicExeIdle2.5.gif/revision/latest/scale-to-width/360?cb=20220707153954' alt='Vs. Sonic.Exe/Characters | Funkipedia Mods Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia Mods Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fridaynightfunking/images/2/24/SonicExeIdle2.5.gif/revision/latest/scale-to-width/360?cb=20220707153954' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Question: who win in a epic battle?: sonic exe (triple trouble/fnf ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vwj3455s4q381.jpg' alt='Question: who win in a epic battle?: sonic exe (triple trouble/fnf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3464">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vwj3455s4q381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew all 2.5 characters in vs Sonic.exe as a goodbye to what in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-drew-all-2-5-characters-in-vs-as-a-goodbye-to-what-in-my-v0-dvvm4ynh2rb91.png?width=640&crop=smart&auto=webp&s=4ceea328d8837972fa6bdcc735b9970acdb16a5c' alt='I drew all 2.5 characters in vs Sonic.exe as a goodbye to what in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-drew-all-2-5-characters-in-vs-as-a-goodbye-to-what-in-my-v0-dvvm4ynh2rb91.png?width=640&crop=smart&auto=webp&s=4ceea328d8837972fa6bdcc735b9970acdb16a5c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonic.EXE (disambiguation) | Funkipedia Mods Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fridaynightfunking/images/2/28/TheRealX.png/revision/latest/scale-to-width-down/3391?cb=20241104175734' alt='Sonic.EXE (disambiguation) | Funkipedia Mods Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3391">
+                                <meta itemprop="height" content="4745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia Mods Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fridaynightfunking/images/2/28/TheRealX.png/revision/latest/scale-to-width-down/3391?cb=20241104175734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fnf vs Sonic.exe 2.5 unofficial demo [Friday Night Funkin'] [Mods]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/mods/623dff9d4e369.jpg' alt='Fnf vs Sonic.exe 2.5 unofficial demo [Friday Night Funkin'] [Mods]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/mods/623dff9d4e369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EXE (Vs. Sonic.Exe) | Villains Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/villainsfanon/images/c/c6/EXEPhase1Idle.gif/revision/latest?cb=20220129102004' alt='EXE (Vs. Sonic.Exe) | Villains Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="810">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villains Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/villainsfanon/images/c/c6/EXEPhase1Idle.gif/revision/latest?cb=20220129102004' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream (V2) FNF: SONIC EXE RERUN OST: smoke and mirrors by ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-eaFTIY7zpn0hGgHA-KUwNjQ-t1080x1080.jpg' alt='Stream (V2) FNF: SONIC EXE RERUN OST: smoke and mirrors by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-eaFTIY7zpn0hGgHA-KUwNjQ-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF Vs. Sonic.Exe - Play Online on Snokido">
+                                <img itemprop="contentUrl url" src='https://w8.snokido.com/img/large/fnf-sonicexe.jpg' alt='FNF Vs. Sonic.Exe - Play Online on Snokido'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snokido" />
+                                </span>
+                                <a href='https://w8.snokido.com/img/large/fnf-sonicexe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream FNF Sonic.exe Song Slaybells (NOT MINE) by Goji :) | Listen ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-OBjKWfZe5OxUE67E-o0SZRg-t500x500.jpg' alt='Stream FNF Sonic.exe Song Slaybells (NOT MINE) by Goji :) | Listen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-OBjKWfZe5OxUE67E-o0SZRg-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF VS Sonic.EXE 2.5 / 3.0 / 4.0 / Restored + Final Escape ...">
+                                <img itemprop="contentUrl url" src='https://gamaverse.com/c/i/y/fnf-vs-sonic-exe-online-friday-night-funkin.jpg' alt='FNF VS Sonic.EXE 2.5 / 3.0 / 4.0 / Restored + Final Escape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamaverse" />
+                                </span>
+                                <a href='https://gamaverse.com/c/i/y/fnf-vs-sonic-exe-online-friday-night-funkin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pink Y2K Star Wallpaper: Trendy Aesthetic for Your Space</title>
+                    <meta name="description" content="Add a splash of nostalgia with our pink Y2K star wallpaper! Perfect for stylish decor, this design blends vibrant colors and star motifs, ideal for bedrooms and creative spaces. Refresh your aesthetic with a trendy wallpaper that captures the playful spirit of the early 2000s!">
+                    <meta name="keywords" content="pfp pink y2k star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/pfp-pink-y2k-star-wallpaper">
+                            <span itemprop="name">pfp pink y2k star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Y2K Star Wallpaper: Trendy Aesthetic for Your Space</h1>
+                <p>Transform your space with pfp pink y2k star wallpaper! This trendy design features a nostalgic Y2K aesthetic, showcasing vibrant pink tones and whimsical star patterns that evoke the spirit of the early 2000s. Perfect for those looking to add a playful touch to their bedroom, lounge, or any creative corner!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/d7/87/79d787387925354269e66cb2834e9014.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/d7/87/79d787387925354269e66cb2834e9014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK STAR BLUR">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/6d/0e/9a6d0e14209f984760574076ce8ed396.jpg' alt='PINK STAR BLUR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/6d/0e/9a6d0e14209f984760574076ce8ed396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k pink lightly spider with y2k pink stars in the background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/36/5b/db365bf6c1ea51cb723f2a50901dfe7e.jpg' alt='Y2k pink lightly spider with y2k pink stars in the background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/36/5b/db365bf6c1ea51cb723f2a50901dfe7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and black pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/f9/2c/eff92c0c948c4d7c900be517485b9e51.jpg' alt='Pink and black pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/f9/2c/eff92c0c948c4d7c900be517485b9e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper pink star 3D">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/74/9b/56/749b563aa82079dca275c1864198f83e.jpg' alt='Wallpaper pink star 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/74/9b/56/749b563aa82079dca275c1864198f83e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' alt='Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concentric Pink Stars Background. Trendy Y2k Pattern in Pastel ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/concentric-pink-stars-background-trendy-y-k-pattern-pastel-colors-groovy-psychedelic-wallpaper-design-aesthetic-poster-306198687.jpg' alt='Concentric Pink Stars Background. Trendy Y2k Pattern in Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/concentric-pink-stars-background-trendy-y-k-pattern-pastel-colors-groovy-psychedelic-wallpaper-design-aesthetic-poster-306198687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

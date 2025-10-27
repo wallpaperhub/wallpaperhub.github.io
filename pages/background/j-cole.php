@@ -1,0 +1,129 @@
+<title>J. Cole: The Evolution of Hip-Hop's Storyteller</title>
+                    <meta name="description" content="Explore the journey of J. Cole, a leading voice in hip-hop known for his profound lyrics and storytelling. Discover his rise to fame, major hits, and the impact of his label, Dreamville, on the music industry. Join us as we delve into the legacy of this influential artist.">
+                    <meta name="keywords" content="j cole">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/j-cole">
+                            <span itemprop="name">j cole</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>J. Cole: The Evolution of Hip-Hop's Storyteller</h1>
+                <p>J. Cole, an influential rapper and producer, is known for his introspective lyrics and storytelling ability. Rising to fame with hits like "Middle Child" and "No Role Modelz," Cole addresses personal and societal themes, resonating with fans globally. His Dreamville label has nurtured upcoming talent, further solidifying his impact on hip-hop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/69/HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_%28xu6HKf40MX0_-_2m38s%29_%28cropped%29.jpg' alt='J. Cole - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/69/HOTSPOTATL_-_21_Savage_%26_J.Cole_Light_Birthday_Bash_ATL_2023_On_FIRE_%28xu6HKf40MX0_-_2m38s%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole is a once-in-a-generation rap star and he never forgets ...">
+                                <img itemprop="contentUrl url" src='https://magazine.weverse.io/upload/img/202304/20230405DF9cc46.png' alt='J. Cole is a once-in-a-generation rap star and he never forgets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Weverse" />
+                                </span>
+                                <a href='https://magazine.weverse.io/upload/img/202304/20230405DF9cc46.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for J.Cole">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044244543218' alt='Profile for J.Cole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044244543218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole - Songs, Age & Albums">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg?crop=1xw:0.75xh;center,top&resize=1200:*' alt='J. Cole - Songs, Age & Albums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg?crop=1xw:0.75xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream J. Cole music | Listen to songs, albums, playlists for free ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/avatars-CkLqCmTeMPSVzN50-GiKLzA-t1080x1080.jpg' alt='Stream J. Cole music | Listen to songs, albums, playlists for free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/avatars-CkLqCmTeMPSVzN50-GiKLzA-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole Confirms He Has 2 Kids, Talks Working Fatherhood | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2020/07/Jermaine-Cole-J-Cole-Confirms-He-Has-2-Kids.jpg?crop=0px%2C35px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all' alt='J. Cole Confirms He Has 2 Kids, Talks Working Fatherhood | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2020/07/Jermaine-Cole-J-Cole-Confirms-He-Has-2-Kids.jpg?crop=0px%2C35px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole | Biography, Music & News | Billboard">
+                                <img itemprop="contentUrl url" src='https://charts-static.billboard.com/img/2009/12/j-cole-9on-344x344.jpg' alt='J. Cole | Biography, Music & News | Billboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://charts-static.billboard.com/img/2009/12/j-cole-9on-344x344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why J. Cole Likes to Be Mindful With His Money | Hart to Heart">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/OThCJEpZAZY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCeNG7m7AEu8bTAmGbeTjxXRRWfVQ' alt='Why J. Cole Likes to Be Mindful With His Money | Hart to Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/OThCJEpZAZY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCeNG7m7AEu8bTAmGbeTjxXRRWfVQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Takeaways from J. Cole's New Album, KOD | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/5ad8ffe7134fbf1e5648d1c4/2:1/w_2560%2Cc_limit/J-Cole.jpg' alt='5 Takeaways from J. Cole's New Album, KOD | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/5ad8ffe7134fbf1e5648d1c4/2:1/w_2560%2Cc_limit/J-Cole.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Cole x SLAM">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/609455ae20bc26057e9ff36f/60946682f3d5d081008305dc_JCOLE-4.jpg' alt='J. Cole x SLAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slam cover" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/609455ae20bc26057e9ff36f/60946682f3d5d081008305dc_JCOLE-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

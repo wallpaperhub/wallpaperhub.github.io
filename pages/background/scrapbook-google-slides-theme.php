@@ -1,0 +1,129 @@
+<title>Scrapbook Google Slides Theme: Create Lasting Memories</title>
+                    <meta name="description" content="Explore the perfect scrapbook Google Slides theme to showcase your cherished memories! Easy to customize and visually appealing, it’s ideal for personal projects, presentations, or sharing fun moments. Unleash your creativity and make storytelling enjoyable with this versatile template!">
+                    <meta name="keywords" content="scrapbook google slides theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scrapbook-google-slides-theme">
+                            <span itemprop="name">scrapbook google slides theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scrapbook Google Slides Theme: Create Lasting Memories</h1>
+                <p>Transform your memories into a creative masterpiece with a scrapbook Google Slides theme! Easy to customize, this theme allows you to arrange photos, captions, and decorative elements seamlessly. Perfect for personal projects, presentations, or sharing with loved ones. Dive into a world of creativity and storytelling!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scrapbook templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/20606705/watercolor-tapes-scrapbook-for-college1651645394.jpg' alt='Free Scrapbook templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/20606705/watercolor-tapes-scrapbook-for-college1651645394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Best Free Scrapbook Google Slides Themes for 2025 ...">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/2273/posts/93460/image-upload/Collage_Free_Google_Slides_Theme.jpg' alt='20+ Best Free Scrapbook Google Slides Themes for 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/2273/posts/93460/image-upload/Collage_Free_Google_Slides_Theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scrapbook templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/18288724/tape-scrapbook-for-marketing1646839492.jpg' alt='Free Scrapbook templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/18288724/tape-scrapbook-for-marketing1646839492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Review Scrapbook. Presentation template and worksheet ...">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2024/02/Book-review-scrapbook-free-presentation-template-and-worksheet-for-ppt-and-google-slides.jpeg' alt='Book Review Scrapbook. Presentation template and worksheet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2024/02/Book-review-scrapbook-free-presentation-template-and-worksheet-for-ppt-and-google-slides.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scrapbook templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/54948059/scrapbook-style-wrapped-theme1717170955.jpg' alt='Free Scrapbook templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/54948059/scrapbook-style-wrapped-theme1717170955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook - Free Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2022/06/Collage-Slides-Free-Presentation-Template.png' alt='Scrapbook - Free Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2022/06/Collage-Slides-Free-Presentation-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook Free Template for Google Slides and PowerPoint - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/06/scrapbook.jpg' alt='Scrapbook Free Template for Google Slides and PowerPoint - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/06/scrapbook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scrapbook Theme for PowerPoint and Google Slides - PPT Slides">
+                                <img itemprop="contentUrl url" src='https://www.collidu.com/media/catalog/product/img1/c/7/c7c15992da7e331311a22fa0b8ca6c160730bf12f4b42ae2833ee04ad524a38b/scrapbook-theme-slide1.png' alt='Free Scrapbook Theme for PowerPoint and Google Slides - PPT Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collidu" />
+                                </span>
+                                <a href='https://www.collidu.com/media/catalog/product/img1/c/7/c7c15992da7e331311a22fa0b8ca6c160730bf12f4b42ae2833ee04ad524a38b/scrapbook-theme-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scrapbook templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/9603149/realistic-vintage-scrapbook-agency1629292351.jpg' alt='Free Scrapbook templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/9603149/realistic-vintage-scrapbook-agency1629292351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook - Free Powerpoint templates and Google Slides themes">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2023/08/Start-Your-Diary-Free-Google-Slides-Themes-PowerPoint-Templates.png' alt='Scrapbook - Free Powerpoint templates and Google Slides themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2023/08/Start-Your-Diary-Free-Google-Slides-Themes-PowerPoint-Templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

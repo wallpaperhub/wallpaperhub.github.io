@@ -1,0 +1,129 @@
+<title>Discover Enchanting Cartoon Mountains</title>
+                    <meta name="description" content="Explore the whimsical world of cartoon mountains! Dive into vibrant landscapes filled with colorful peaks and fun wildlife, perfect for inspiring creativity in children’s books and animations. Unleash your imagination with our captivating illustrations and engage young minds with the beauty of nature!">
+                    <meta name="keywords" content="cartoon mountain">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cartoon-mountain">
+                            <span itemprop="name">cartoon mountain</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Enchanting Cartoon Mountains</h1>
+                <p>Cartoon mountains bring to life vibrant landscapes, often featuring exaggerated peaks, colorful trees, and whimsical wildlife. These playful illustrations capture the essence of nature, inviting viewers to explore fantastical worlds where imagination knows no bounds. Perfect for children’s books, animated shows, or creative projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Mountain Landscape Stock Illustrations – 105,838 Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-cartoon-mountain-landscape-illustration-nature-adventure-themes-vector-shows-341817264.jpg' alt='Cartoon Mountain Landscape Stock Illustrations – 105,838 Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-cartoon-mountain-landscape-illustration-nature-adventure-themes-vector-shows-341817264.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,100+ Cartoon Mountain Range Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/827250930/vector/mountain-forest-meadow-landscape.jpg?s=612x612&w=0&k=20&c=WgX2mtTJWSrEvmYVSElIdUdGbdqA5VmJf38Yyz-RlPE=' alt='20,100+ Cartoon Mountain Range Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/827250930/vector/mountain-forest-meadow-landscape.jpg?s=612x612&w=0&k=20&c=WgX2mtTJWSrEvmYVSElIdUdGbdqA5VmJf38Yyz-RlPE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Cartoon Images – Browse 599,410 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/70/68/48/360_F_170684802_Sk8QQIrwAyR93VMdvIVpbKQJojZKlZV4.jpg' alt='Mountain Cartoon Images – Browse 599,410 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/70/68/48/360_F_170684802_Sk8QQIrwAyR93VMdvIVpbKQJojZKlZV4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Cartoon Images – Browse 599,410 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/48/91/92/360_F_348919233_S2C1VQ5xbJQCzIDkSJ20lBHQiLX9DYvW.jpg' alt='Mountain Cartoon Images – Browse 599,410 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/48/91/92/360_F_348919233_S2C1VQ5xbJQCzIDkSJ20lBHQiLX9DYvW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain flat vector illustration Mountain cartoon hand drawing ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/mountain-flat-vector-illustration-mountain-cartoon-hand-drawing-isolated-vector-illustration_501705-7367.jpg' alt='Mountain flat vector illustration Mountain cartoon hand drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/mountain-flat-vector-illustration-mountain-cartoon-hand-drawing-isolated-vector-illustration_501705-7367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUND - Cartoon Mountain 1 | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/9c778700-4267-4fb1-818e-18744fc5522e_scaled.jpg' alt='BACKGROUND - Cartoon Mountain 1 | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/9c778700-4267-4fb1-818e-18744fc5522e_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Mountain Range: Over 8,199 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/ice-peak-mountain-green-meadows-260nw-1337286755.jpg' alt='Cartoon Mountain Range: Over 8,199 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/ice-peak-mountain-green-meadows-260nw-1337286755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Best Cartoon mountain ideas | cartoon mountain, mountain ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/09/f7/fd09f7c5093408bcdd7510347301920f.jpg' alt='9 Best Cartoon mountain ideas | cartoon mountain, mountain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/09/f7/fd09f7c5093408bcdd7510347301920f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon mountain landscape in circle Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/62/07/cartoon-mountain-landscape-in-circle-vector-21056207.jpg' alt='Cartoon mountain landscape in circle Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/62/07/cartoon-mountain-landscape-in-circle-vector-21056207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,100+ Cartoon Mountain Range Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1001311310/vector/different-cartoon-mountains-set-isolated-graphic-vector-illustration.jpg?s=612x612&w=0&k=20&c=pvplMupQE8nsIQFM_88fDtNjQjiQbJamovwQ3RQ-eA0=' alt='20,100+ Cartoon Mountain Range Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1001311310/vector/different-cartoon-mountains-set-isolated-graphic-vector-illustration.jpg?s=612x612&w=0&k=20&c=pvplMupQE8nsIQFM_88fDtNjQjiQbJamovwQ3RQ-eA0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

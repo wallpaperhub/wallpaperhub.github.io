@@ -1,0 +1,129 @@
+<title>Shop Stylish Wallpaper at Home Depot</title>
+                    <meta name="description" content="Discover an extensive range of wallpaper at Home Depot! Transform your home with stylish designs and easy application options. Shop now for the latest trends in wall coverings that fit every aesthetic and budget.">
+                    <meta name="keywords" content="wallpaper for walls home depot">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wallpaper-for-walls-home-depot">
+                            <span itemprop="name">wallpaper for walls home depot</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shop Stylish Wallpaper at Home Depot</h1>
+                <p>Explore a wide selection of wallpaper at Home Depot! From classic to trendy designs, our collection offers something for every style and taste. Revitalize your space with easy-to-apply wallpaper options that suit any room. Whether you prefer bold patterns or subtle textures, find your perfect match at Home Depot today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Arthouse Black Bird Garden Vinyl Peel and Stick Wallpaper Roll  30.75 sq. ft. AS20400">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9c9a5541-aacf-42a1-af71-def573642491/svn/nextwall-wallpaper-rolls-as20400-64_600.jpg' alt='NextWall Arthouse Black Bird Garden Vinyl Peel and Stick Wallpaper Roll  30.75 sq. ft. AS20400'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9c9a5541-aacf-42a1-af71-def573642491/svn/nextwall-wallpaper-rolls-as20400-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/7rldri896b2a/23ZtQvVka6ImZYRcxOdmbK/dca58eac58fd7e00a6eb31a07a0183e7/C8_PD0223_Entryway_MAIN_EF.jpg' alt='Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.ctfassets.net/7rldri896b2a/23ZtQvVka6ImZYRcxOdmbK/dca58eac58fd7e00a6eb31a07a0183e7/C8_PD0223_Entryway_MAIN_EF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls Republic Natural Distressed Faux Concrete Effect Shelf Liner  Wallpaper (57 sq. ft) Double Roll R7573">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6f369595-b831-463e-aa4f-a8f5a640cdfc/svn/walls-republic-wallpaper-rolls-r7573-64_600.jpg' alt='Walls Republic Natural Distressed Faux Concrete Effect Shelf Liner  Wallpaper (57 sq. ft) Double Roll R7573'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6f369595-b831-463e-aa4f-a8f5a640cdfc/svn/walls-republic-wallpaper-rolls-r7573-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Black Holden Peel & Stick Wallpaper NUS4387">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1fc09fa7-7e5b-4ae8-9ed6-98a9c63d3743/svn/nuwallpaper-wallpaper-rolls-nus4387-31_600.jpg' alt='NuWallpaper Black Holden Peel & Stick Wallpaper NUS4387'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1fc09fa7-7e5b-4ae8-9ed6-98a9c63d3743/svn/nuwallpaper-wallpaper-rolls-nus4387-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls Republic Emerald Green Distressed Metallic Plain Print Non-Woven  Paper Paste the Wall Textured Wallpaper 57 sq. ft. R8410">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/79420e1a-78ef-49e0-a624-2169d3c00df6/svn/walls-republic-wallpaper-rolls-r8410-64_600.jpg' alt='Walls Republic Emerald Green Distressed Metallic Plain Print Non-Woven  Paper Paste the Wall Textured Wallpaper 57 sq. ft. R8410'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/79420e1a-78ef-49e0-a624-2169d3c00df6/svn/walls-republic-wallpaper-rolls-r8410-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/7rldri896b2a/1qphzYQX7EOW1sUcNY2TBn/893a8a0945589cca3a67c7976769ae13/Bold-Elegance-Entryway-cc.jpg' alt='Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.ctfassets.net/7rldri896b2a/1qphzYQX7EOW1sUcNY2TBn/893a8a0945589cca3a67c7976769ae13/Bold-Elegance-Entryway-cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walls Republic Teal Metallic Bold Flowers and Leaves Floral Shelf Liner  Wallpaper (57 sq. ft) Double Roll R7576">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/33d76b8c-5ad8-4e34-9999-1c5f49eac121/svn/walls-republic-wallpaper-rolls-r7576-64_600.jpg' alt='Walls Republic Teal Metallic Bold Flowers and Leaves Floral Shelf Liner  Wallpaper (57 sq. ft) Double Roll R7576'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/33d76b8c-5ad8-4e34-9999-1c5f49eac121/svn/walls-republic-wallpaper-rolls-r7576-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' alt='MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3e140eff-57aa-47b2-bc2e-3d742d11e52f/svn/mystyle-wallpaper-rolls-ms3939hd-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Washed Faux Brick Grey And Rust Vinyl Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/235c6a4e-05f7-42aa-9567-e365a8fd3c5a/svn/nextwall-wallpaper-rolls-nw30500-64_600.jpg' alt='NextWall Washed Faux Brick Grey And Rust Vinyl Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/235c6a4e-05f7-42aa-9567-e365a8fd3c5a/svn/nextwall-wallpaper-rolls-nw30500-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Multicolored Wildflowers Vinyl Peel and Stick  Wallpaper Roll NW41901">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bd93bfe6-8eaf-4afe-b30e-62805a6fd421/svn/nextwall-wallpaper-rolls-nw41901-64_600.jpg' alt='NextWall 30.75 sq. ft. Multicolored Wildflowers Vinyl Peel and Stick  Wallpaper Roll NW41901'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bd93bfe6-8eaf-4afe-b30e-62805a6fd421/svn/nextwall-wallpaper-rolls-nw41901-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

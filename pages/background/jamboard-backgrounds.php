@@ -1,0 +1,129 @@
+<title>Creative Jamboard Backgrounds for Your Collaborative Sessions</title>
+                    <meta name="description" content="Discover the perfect Jamboard backgrounds to elevate your collaborative experience. From stunning landscapes to colorful patterns, find visuals that inspire creativity and engagement. Transform your sessions with unique themes tailored to your content. Ideal for educators and teams seeking to enhance interaction and productivity.">
+                    <meta name="keywords" content="jamboard backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jamboard-backgrounds">
+                            <span itemprop="name">jamboard backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Jamboard Backgrounds for Your Collaborative Sessions</h1>
+                <p>Jamboard backgrounds enhance your collaborative experience, offering vibrant visuals to inspire creativity. Whether you're brainstorming ideas or teaching lessons, diverse backgrounds—like nature scenes, cityscapes, or abstract patterns—set the right tone. Explore options that match your theme and transform your presentations into engaging, interactive sessions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jams and Slides, Free backgrounds template. - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/12/Jams-and-Slides-789x444.jpg' alt='Jams and Slides, Free backgrounds template. - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/12/Jams-and-Slides-789x444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Customize Your Jamboard Background - Class Tech Tips">
+                                <img itemprop="contentUrl url" src='https://classtechtips.com/wp-content/uploads/2021/10/How-to-Customize-Your-Jamboard-Background-6.png' alt='How to Customize Your Jamboard Background - Class Tech Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Class Tech Tips" />
+                                </span>
+                                <a href='https://classtechtips.com/wp-content/uploads/2021/10/How-to-Customize-Your-Jamboard-Background-6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamboard Templates, Tips, and Tricks! – Meredith Akers">
+                                <img itemprop="contentUrl url" src='https://meredithakers.com/wp-content/uploads/2021/01/jamboard-graphic.png' alt='Jamboard Templates, Tips, and Tricks! – Meredith Akers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meredith Akers" />
+                                </span>
+                                <a href='https://meredithakers.com/wp-content/uploads/2021/01/jamboard-graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add Backgrounds in Jamboard (First Day of Jamboard ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vAh3r1t6f8s/hqdefault.jpg' alt='How to Add Backgrounds in Jamboard (First Day of Jamboard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vAh3r1t6f8s/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designing Amazing Custom Backgrounds For Google Jamboard Using ...">
+                                <img itemprop="contentUrl url" src='https://edugals.com/wp-content/uploads/2021/02/Four-Corners-Template-1-1024x576.gif' alt='Designing Amazing Custom Backgrounds For Google Jamboard Using ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EduGals" />
+                                </span>
+                                <a href='https://edugals.com/wp-content/uploads/2021/02/Four-Corners-Template-1-1024x576.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Customize Your Jamboard Background - Class Tech Tips">
+                                <img itemprop="contentUrl url" src='https://classtechtips.com/wp-content/uploads/2021/10/How-to-Customize-Your-Jamboard-Background-1.png' alt='How to Customize Your Jamboard Background - Class Tech Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Class Tech Tips" />
+                                </span>
+                                <a href='https://classtechtips.com/wp-content/uploads/2021/10/How-to-Customize-Your-Jamboard-Background-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Add a Custom Background in Google Jamboard | EduGals">
+                                <img itemprop="contentUrl url" src='https://edugals.com/wp-content/uploads/2020/12/Jamboard-Background-Featured-Image-1-1024x536.png.webp' alt='How To Add a Custom Background in Google Jamboard | EduGals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EduGals" />
+                                </span>
+                                <a href='https://edugals.com/wp-content/uploads/2020/12/Jamboard-Background-Featured-Image-1-1024x536.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google for Education on X: "Have you used custom backgrounds in ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Ew3w3_AXEAA-ouD.jpg:large' alt='Google for Education on X: "Have you used custom backgrounds in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1921">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Ew3w3_AXEAA-ouD.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Animated Backgrounds For Google Jamboard - Background ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/foYpwhBxbUE/hqdefault.jpg' alt='Create Animated Backgrounds For Google Jamboard - Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/foYpwhBxbUE/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamboard backgrounds | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Jamboard-Backgrounds-6850114-1620343405/original-6850114-1.jpg' alt='Jamboard backgrounds | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Jamboard-Backgrounds-6850114-1620343405/original-6850114-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

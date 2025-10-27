@@ -1,0 +1,129 @@
+<title>Chic Preppy Wallpaper Ideas for a Stylish Home</title>
+                    <meta name="description" content="Discover stylish preppy wallpaper ideas to elevate your home decor. Our curated selections blend classic patterns and modern colors, making it easy to infuse your space with charm. Perfect for any room, find inspiration for a vibrant transformation today!">
+                    <meta name="keywords" content="preppy wallpaper person">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-person">
+                            <span itemprop="name">preppy wallpaper person</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Wallpaper Ideas for a Stylish Home</h1>
+                <p>Transform your space with preppy wallpaper that embodies classic charm and vibrant patterns. Perfect for adding a touch of sophistication or a playful twist to any room, these designs feature stripes, pastels, and whimsical motifs, enhancing your décor style. Embrace the preppy aesthetic and make a bold statement in your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Preppy wallpaper ideas | preppy, preppy girl, cute preppy outfits">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/46/5a/19/465a19fb127d1028dcba6cbf75c31c43.jpg' alt='40 Preppy wallpaper ideas | preppy, preppy girl, cute preppy outfits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/46/5a/19/465a19fb127d1028dcba6cbf75c31c43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/03/fc/2d03fc27e90eaf2ff8f09fbd3414791a.jpg' alt='Aesthetic pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="947">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/03/fc/2d03fc27e90eaf2ff8f09fbd3414791a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Preppy ahhh ideas | preppy, preppy outfits, cute preppy outfits">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c1/06/91/c106917f45f70d97da8e4f6ad2a92bf1.jpg' alt='7 Preppy ahhh ideas | preppy, preppy outfits, cute preppy outfits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c1/06/91/c106917f45f70d97da8e4f6ad2a92bf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Preppy pfps <3 ideas | preppy, preppy girls, preppy girl">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/33/4a/d9/334ad96a31b92fd7759a90dab84c36e1.jpg' alt='9 Preppy pfps <3 ideas | preppy, preppy girls, preppy girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/33/4a/d9/334ad96a31b92fd7759a90dab84c36e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ad/ef/c9/adefc915f65358b54db10420826b5a31.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ad/ef/c9/adefc915f65358b54db10420826b5a31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy pfp<3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/cc/bd/7cccbdf90050c162893252e28cea872d.jpg' alt='Preppy pfp<3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/cc/bd/7cccbdf90050c162893252e28cea872d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/4b/ac/864bac77f3c0ea39e74f1f289b28536a.jpg' alt='Preppy pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/4b/ac/864bac77f3c0ea39e74f1f289b28536a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/95/cf/2a95cf5334c5acf39dd614e234bea88d.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/95/cf/2a95cf5334c5acf39dd614e234bea88d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy photo collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/f1/78/f4f178da918b062c055f4fc707eb4ae7.jpg' alt='preppy photo collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/f1/78/f4f178da918b062c055f4fc707eb4ae7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Preppy PFP - Preppy Aesthetic PFPs for TikTok, IG ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/08/preppy-pfp-2.jpg' alt='Aesthetic Preppy PFP - Preppy Aesthetic PFPs for TikTok, IG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/08/preppy-pfp-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Best "The Last of Us" iPhone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of "The Last of Us" iPhone wallpapers that bring the game's haunting beauty to your screen. Perfect for fans looking to personalize their device with high-quality, captivating imagery. Download your favorites and show off your passion for this legendary game!">
+                    <meta name="keywords" content="the last of us iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/the-last-of-us-iphone-wallpaper">
+                            <span itemprop="name">the last of us iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Best "The Last of Us" iPhone Wallpapers for Your Device</h1>
+                <p>Transform your iPhone with stunning "The Last of Us" wallpapers that immerse you in the gripping world of this iconic game. From breathtaking landscapes to the emotionally charged characters, elevate your device's aesthetic and showcase your love for the series. Download your favorite now and personalize your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE LAST OF US WALLPAPER PHONE - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjhgzFMxDOryrT7mAvuiUup1Fv6ymmlVbTVVR7-hrEaKGOtiHK_zF3Q3eAE2WHCiR9aQA-zZvAOWon_3gXhTcSfWHMQooiHLwvvlkTWvWbkWdXKfPHGPd9t8-qIspO79Y0e16qtv6K4cVOYcyvB7_3HwGSgktkEwtXp5sCSKZ02kpsZIfBl-Jqk2BQ24DY' alt='THE LAST OF US WALLPAPER PHONE - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjhgzFMxDOryrT7mAvuiUup1Fv6ymmlVbTVVR7-hrEaKGOtiHK_zF3Q3eAE2WHCiR9aQA-zZvAOWon_3gXhTcSfWHMQooiHLwvvlkTWvWbkWdXKfPHGPd9t8-qIspO79Y0e16qtv6K4cVOYcyvB7_3HwGSgktkEwtXp5sCSKZ02kpsZIfBl-Jqk2BQ24DY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/0/d/81116-1080x1920-iphone-1080p-the-last-of-us-game-wallpaper-photo.jpg' alt='The Last of Us Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/0/d/81116-1080x1920-iphone-1080p-the-last-of-us-game-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download The Last Of Us Part Ellie Guitar iPhone 6s HD on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/0e/1d/bc0e1d2c281eef13a1c4a15b7dc0412e.jpg' alt='   Free download The Last Of Us Part Ellie Guitar iPhone 6s HD on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/0e/1d/bc0e1d2c281eef13a1c4a15b7dc0412e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of Us Series Joel Ellie 4K Wallpaper iPhone HD Phone #6230h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/the-last-of-us-series-joel-ellie-poster-623@0@h-phone-4k.jpg' alt='The Last of Us Series Joel Ellie 4K Wallpaper iPhone HD Phone #6230h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/the-last-of-us-series-joel-ellie-poster-623@0@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love my new phone wallpaper : r/thelastofus">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/love-my-new-phone-wallpaper-v0-eyxeqscx9mva1.jpg?width=850&format=pjpg&auto=webp&s=4966267f308e773e6f93523ee2ccc21a1c7be4b0' alt='Love my new phone wallpaper : r/thelastofus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/love-my-new-phone-wallpaper-v0-eyxeqscx9mva1.jpg?width=850&format=pjpg&auto=webp&s=4966267f308e773e6f93523ee2ccc21a1c7be4b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ellie the last of us 4k iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6b/32/e5/6b32e5f7269eeb38118b07a29d475aa3.jpg' alt='ellie the last of us 4k iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6b/32/e5/6b32e5f7269eeb38118b07a29d475aa3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What TLOU wallpapers do you use on your phone? Link your best ones ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bm34vtus3gn91.jpg' alt='What TLOU wallpapers do you use on your phone? Link your best ones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bm34vtus3gn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Tlou iphone wallpaper. ideas | the last of us, the last of us2 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/09/c0/bb/09c0bb3b0c0ddd89060b061cc984d29d.jpg' alt='26 Tlou iphone wallpaper. ideas | the last of us, the last of us2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/09/c0/bb/09c0bb3b0c0ddd89060b061cc984d29d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Last of us, ellie, ellie and joel, joel, the last of us part 2 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/48/280/HD-wallpaper-the-last-of-us-ellie-ellie-and-joel-joel-the-last-of-us-part-2-the-last-of-us-part-ll.jpg' alt='The Last of us, ellie, ellie and joel, joel, the last of us part 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/48/280/HD-wallpaper-the-last-of-us-ellie-ellie-and-joel-joel-the-last-of-us-part-2-the-last-of-us-part-ll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ellie, the last of us, the last of us 2, the last of us part 2 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/651/917/HD-wallpaper-ellie-the-last-of-us-the-last-of-us-2-the-last-of-us-part-2-the-last-of-us-part-ii-the-last-of-us-part-two-tlou-tlou-2-tlou-part-2-tlou-part-ii.jpg' alt='Ellie, the last of us, the last of us 2, the last of us part 2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/651/917/HD-wallpaper-ellie-the-last-of-us-the-last-of-us-2-the-last-of-us-part-2-the-last-of-us-part-ii-the-last-of-us-part-two-tlou-tlou-2-tlou-part-2-tlou-part-ii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

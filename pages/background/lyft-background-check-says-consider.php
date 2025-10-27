@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="lyft background check says consider">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lyft-background-check-says-consider">
+                            <span itemprop="name">lyft background check says consider</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is this ? I passed my background check just a few months ago ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/25ktxsbtjci61.jpg' alt='What is this ? I passed my background check just a few months ago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/25ktxsbtjci61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Question to Lyft drivers : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/question-to-lyft-drivers-v0-pwxej6k40b7c1.jpeg?width=640&crop=smart&auto=webp&s=69686a5796fde583d860de180aea5ba42b70e4b1' alt='Question to Lyft drivers : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/question-to-lyft-drivers-v0-pwxej6k40b7c1.jpeg?width=640&crop=smart&auto=webp&s=69686a5796fde583d860de180aea5ba42b70e4b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About that Lyft Bait and Switch…. Thousands of applicants were ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*AxmA_KkXx0-lFnsAuT61hg.png' alt='About that Lyft Bait and Switch…. Thousands of applicants were ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*AxmA_KkXx0-lFnsAuT61hg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Lyft's Background Check: A Comprehensive Guide">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d1d8a682.webp%3Fw%3D756&w=1920&q=75' alt='Understanding Lyft's Background Check: A Comprehensive Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3172">
+                                <meta itemprop="height" content="2043">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d1d8a682.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lyft is saying my background check isn't completed : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lyft-is-saying-my-background-check-isnt-completed-v0-zrcfi4bugm0d1.jpg?width=1170&format=pjpg&auto=webp&s=3afd60d2d50296d1beb55e36da26d8f5d591444a' alt='Lyft is saying my background check isn't completed : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lyft-is-saying-my-background-check-isnt-completed-v0-zrcfi4bugm0d1.jpg?width=1170&format=pjpg&auto=webp&s=3afd60d2d50296d1beb55e36da26d8f5d591444a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does the Lyft Background Check Look For? - Consumer Attorneys">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84d6654323.webp' alt='What Does the Lyft Background Check Look For? - Consumer Attorneys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84d6654323.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About that Lyft Bait and Switch…. Thousands of applicants were ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:968/1*3_7t8QjBNQ4fWKU6nR_60Q.png' alt='About that Lyft Bait and Switch…. Thousands of applicants were ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:968/1*3_7t8QjBNQ4fWKU6nR_60Q.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Monitoring Required." - Convenient Timing : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-monitoring-required-convenient-timing-v0-hafyjn0m83aa1.jpg?width=742&format=pjpg&auto=webp&s=c8b59ded63294bfc9a880ecf3fc75538b82d0bf3' alt='Background Monitoring Required." - Convenient Timing : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-monitoring-required-convenient-timing-v0-hafyjn0m83aa1.jpg?width=742&format=pjpg&auto=webp&s=c8b59ded63294bfc9a880ecf3fc75538b82d0bf3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It does not take 2 wks for a background check : r/lyftdrivers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/it-does-not-take-2-wks-for-a-background-check-v0-sen6lawn7jlc1.jpg?width=640&crop=smart&auto=webp&s=52066563f8b6bb7044d80f99cb3df79eb1a3b0ef' alt='It does not take 2 wks for a background check : r/lyftdrivers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/it-does-not-take-2-wks-for-a-background-check-v0-sen6lawn7jlc1.jpg?width=640&crop=smart&auto=webp&s=52066563f8b6bb7044d80f99cb3df79eb1a3b0ef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About that Lyft Bait and Switch…. Thousands of applicants were ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*2MVY5rMww3tjsNcfaOJQyg.png' alt='About that Lyft Bait and Switch…. Thousands of applicants were ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*2MVY5rMww3tjsNcfaOJQyg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

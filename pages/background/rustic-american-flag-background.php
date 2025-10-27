@@ -1,0 +1,129 @@
+<title>Rustic American Flag Background: Timeless Decor</title>
+                    <meta name="description" content="Discover the perfect rustic American flag background to enhance your decor or creative projects. This charming design combines vintage aesthetics with patriotic pride, ideal for any setting. Showcase your love for America in a stylish way that resonates deeply. Explore now!">
+                    <meta name="keywords" content="rustic american flag background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rustic-american-flag-background">
+                            <span itemprop="name">rustic american flag background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rustic American Flag Background: Timeless Decor</h1>
+                <p>Transform your space with a rustic American flag background that evokes a sense of patriotism and nostalgia. Perfect for home decor, photography, or digital projects, this design blends worn textures and subdued colors to create a warm, inviting atmosphere. Celebrate American heritage with style and charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184022874/photo/usa-flag.jpg?s=612x612&w=0&k=20&c=3zfHxS9Ig_boUB2XuuYHu-h7chyHddiW0v8CfQM8qhI=' alt='3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184022874/photo/usa-flag.jpg?s=612x612&w=0&k=20&c=3zfHxS9Ig_boUB2XuuYHu-h7chyHddiW0v8CfQM8qhI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic American Flag">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/SMR260_8x5_Vintage_American_Flag_Backdrop_Background_4th_of_July_Patriotic_Props_1800x1800.jpg?v=1625009249' alt='Rustic American Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/SMR260_8x5_Vintage_American_Flag_Backdrop_Background_4th_of_July_Patriotic_Props_1800x1800.jpg?v=1625009249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/533341044/photo/flag-of-usa-painted-on-a-wood-plank.jpg?s=612x612&w=0&k=20&c=u2ceFcleX02-hwES0jIPuaJosw_LnJ3I0C1C6OEc1O8=' alt='3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/533341044/photo/flag-of-usa-painted-on-a-wood-plank.jpg?s=612x612&w=0&k=20&c=u2ceFcleX02-hwES0jIPuaJosw_LnJ3I0C1C6OEc1O8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/168763120/photo/american-flag-on-rustic-wooden-background.jpg?s=612x612&w=0&k=20&c=MqXkBr1TG4hfJg3eNhdR8pcj3FA8s4tMN2qAZN-bAxs=' alt='3,700+ Rustic American Flag Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/168763120/photo/american-flag-on-rustic-wooden-background.jpg?s=612x612&w=0&k=20&c=MqXkBr1TG4hfJg3eNhdR8pcj3FA8s4tMN2qAZN-bAxs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120+ Rustic Faded American Flag Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/646892792/vector/usa-national-flag-background-in-vintage-style.jpg?s=612x612&w=0&k=20&c=2SnKKzueouXxGruiegp7wbUhSYkDPUWQNImwo0v9ze0=' alt='120+ Rustic Faded American Flag Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/646892792/vector/usa-national-flag-background-in-vintage-style.jpg?s=612x612&w=0&k=20&c=2SnKKzueouXxGruiegp7wbUhSYkDPUWQNImwo0v9ze0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Holiday Aisle® Rustic American Flag - Wrapped Canvas Graphic ...">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/30573436/compr-r85/2270/227041505/%22+Rustic+American+Flag+%22.jpg' alt='The Holiday Aisle® Rustic American Flag - Wrapped Canvas Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/30573436/compr-r85/2270/227041505/%22+Rustic+American+Flag+%22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic American Flag on a Wooden Wall | Abstract Flag Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/dba487/1913097192/il_340x270.1913097192_afvb.jpg' alt='Rustic American Flag on a Wooden Wall | Abstract Flag Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/dba487/1913097192/il_340x270.1913097192_afvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 9x6ft American Flag Photography Backdrop Vintage  American Flag Background Tapestry 4th of July Birthday Party Supplies  Patriotic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91wUmtkZNcL.jpg' alt='Amazon.com : Loccor 9x6ft American Flag Photography Backdrop Vintage  American Flag Background Tapestry 4th of July Birthday Party Supplies  Patriotic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91wUmtkZNcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,638 Rustic American Flag Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/american-united-states-national-flag-painted-weathered-rustic-wooden-boards-american-united-states-national-flag-painted-164007694.jpg' alt='4,638 Rustic American Flag Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/american-united-states-national-flag-painted-weathered-rustic-wooden-boards-american-united-states-national-flag-painted-164007694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Flag Wood Images – Browse 45,700 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/01/18/16/360_F_201181603_t5LroJAOStAYnZe9OaDJ43ittJXQt9Jd.jpg' alt='American Flag Wood Images – Browse 45,700 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/01/18/16/360_F_201181603_t5LroJAOStAYnZe9OaDJ43ittJXQt9Jd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

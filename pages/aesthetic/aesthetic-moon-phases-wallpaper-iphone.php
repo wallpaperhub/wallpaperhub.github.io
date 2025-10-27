@@ -1,0 +1,129 @@
+<title>Aesthetic Moon Phases Wallpaper for iPhone</title>
+                    <meta name="description" content="Elevate your iPhone with beautiful moon phases wallpapers. Perfectly aesthetic and refreshingly unique, these lunar designs bring the magic of the night sky to your screen. Explore a collection that complements your style while celebrating the beauty of nature. Download yours now for an enchanting touch!">
+                    <meta name="keywords" content="aesthetic moon phases wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-moon-phases-wallpaper-iphone">
+                            <span itemprop="name">aesthetic moon phases wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Moon Phases Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning aesthetic moon phases wallpaper. Each phase, from new to full moon, invites celestial beauty into your daily routine. These wallpapers not only provide a serene backdrop but also inspire a sense of wonder. Perfect for every moon lover, they effortlessly enhance your device's look. Find your favorite phase!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phases | Witchy wallpaper, Iphone wallpaper vintage, Tumblr ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/e1/ed/56/e1ed56e6ed607526cd4ae81bb2960e93.jpg' alt='Moon Phases | Witchy wallpaper, Iphone wallpaper vintage, Tumblr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/e1/ed/56/e1ed56e6ed607526cd4ae81bb2960e93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE5GmCLhR0/1/0/900w/canva-black-moon-phases-phone-wallpaper-bDhQ2JgzjlQ.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE5GmCLhR0/1/0/900w/canva-black-moon-phases-phone-wallpaper-bDhQ2JgzjlQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Fall With Our New Phone Wallpapers!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/b7/bd/46b7bd0a0acfde093589d465b8d4b844.jpg' alt='Celebrate Fall With Our New Phone Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/b7/bd/46b7bd0a0acfde093589d465b8d4b844.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phase iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/05/78/44/057844832d6dae536c56d91f1a1efa11.jpg' alt='Moon phase iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/05/78/44/057844832d6dae536c56d91f1a1efa11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Moon Phase Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/the-moon-phase-iphone-o1fjw4ne6efd7e67.jpg' alt='The Moon Phase Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="614">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/the-moon-phase-iphone-o1fjw4ne6efd7e67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phase, cloud, clouds, moon, pastel, phase, planets, sky, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/657/358/HD-wallpaper-moon-phase-cloud-clouds-moon-pastel-phase-planets-sky.jpg' alt='Moon Phase, cloud, clouds, moon, pastel, phase, planets, sky, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/657/358/HD-wallpaper-moon-phase-cloud-clouds-moon-pastel-phase-planets-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon Phases · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/13540863/pexels-photo-13540863.png' alt='Moon Phases · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/13540863/pexels-photo-13540863.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon phase desktop and phone wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='http://makeandtell.com/cdn/shop/articles/moonphase_blogpic.jpg?v=1647814240' alt='Moon phase desktop and phone wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2310">
+                                <meta itemprop="height" content="3079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='http://makeandtell.com/cdn/shop/articles/moonphase_blogpic.jpg?v=1647814240' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phases of Moon iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/fe/91/e3fe91e15403b94056c4fe939a3d1643.jpg' alt='Phases of Moon iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/fe/91/e3fe91e15403b94056c4fe939a3d1643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone Home Screen Moon Phases Blue Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-home-screen-moon-phases-blue-6j7p94jkckgeuew8.jpg' alt='Download iPhone Home Screen Moon Phases Blue Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-home-screen-moon-phases-blue-6j7p94jkckgeuew8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

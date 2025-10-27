@@ -1,0 +1,129 @@
+<title>Stunning Christian PowerPoint Templates for Your Worship Needs</title>
+                    <meta name="description" content="Discover a wide range of Christian PowerPoint templates designed to elevate your faith-based presentations. Ideal for churches and ministries, our templates are perfect for sermons, events, and worship services, ensuring your message is clear and engaging for all audiences.">
+                    <meta name="keywords" content="christian powerpoint templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christian-powerpoint-templates">
+                            <span itemprop="name">christian powerpoint templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Christian PowerPoint Templates for Your Worship Needs</h1>
+                <p>Christian PowerPoint templates offer beautifully designed slides tailored for worship, sermons, and church events. Enhance your presentations with engaging visuals, scripture backgrounds, and seamless integration. Perfect for pastors and church leaders seeking to inspire with faith-based content that resonates with congregations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/18966274/crucifixion-of-jesus-minitheme1648133003.jpg' alt='Free Christian templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/18966274/crucifixion-of-jesus-minitheme1648133003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="religion christian PPT Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Church-Cross-Powerpoint-Backgrounds.jpg' alt='religion christian PPT Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Church-Cross-Powerpoint-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian templates for Google Slides and PowerPoint">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/48010455/religion-subject-for-middle-school-christian-easter1706182761.jpg' alt='Free Christian templates for Google Slides and PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/48010455/religion-subject-for-middle-school-christian-easter1706182761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Cross Template for PowerPoint and Google Slides">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2019/06/Christian-Cross-Template-PowerPoint.png' alt='Christian Cross Template for PowerPoint and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2019/06/Christian-Cross-Template-PowerPoint.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Christian Powerpoint Backgrounds ideas | powerpoint, christian ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/29/e4/a3/29e4a320434c6f9403bf1e9ab81f8061.jpg' alt='9 Christian Powerpoint Backgrounds ideas | powerpoint, christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/29/e4/a3/29e4a320434c6f9403bf1e9ab81f8061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian PowerPoint Templates and Google Slides Themes ...">
+                                <img itemprop="contentUrl url" src='https://i.poweredtemplates.com/p/pp/14/003/ppt_slide1.jpg' alt='Christian PowerPoint Templates and Google Slides Themes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PoweredTemplate" />
+                                </span>
+                                <a href='https://i.poweredtemplates.com/p/pp/14/003/ppt_slide1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian PPT Templates Presentation and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/86443-free-christian-ppt-templates.png' alt='Free Christian PPT Templates Presentation and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/86443-free-christian-ppt-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Restoration Christian PowerPoint Template ...">
+                                <img itemprop="contentUrl url" src='https://images.sharefaith.com/images/3/1233855670476_179/slide-62.jpg' alt='ShareFaith Media » Restoration Christian PowerPoint Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://images.sharefaith.com/images/3/1233855670476_179/slide-62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Religion PowerPoint Template - PresentationGO">
+                                <img itemprop="contentUrl url" src='https://images.presentationgo.com/2017/08/Religion-PowerPoint-Template.png' alt='Religion PowerPoint Template - PresentationGO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresentationGO" />
+                                </span>
+                                <a href='https://images.presentationgo.com/2017/08/Religion-PowerPoint-Template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Themes 01 PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://www.indezine.com/powerpoint/freetemplates/templates/t_ind_2377a.jpg' alt='Christian Themes 01 PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indezine" />
+                                </span>
+                                <a href='https://www.indezine.com/powerpoint/freetemplates/templates/t_ind_2377a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

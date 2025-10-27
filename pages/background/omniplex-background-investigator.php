@@ -1,0 +1,129 @@
+<title>Reliable Background Investigations with Omniplex</title>
+                    <meta name="description" content="Discover how Omniplex background investigators deliver thorough, reliable background checks tailored for your hiring needs. Trust in their expertise to help you create a safer workplace and make informed decisions with confidence.">
+                    <meta name="keywords" content="omniplex background investigator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/omniplex-background-investigator">
+                            <span itemprop="name">omniplex background investigator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Reliable Background Investigations with Omniplex</h1>
+                <p>Omniplex background investigators specialize in providing comprehensive, reliable background checks and investigations for individuals and organizations. They utilize advanced technology and methodologies to ensure thorough assessments, helping businesses make informed hiring decisions while safeguarding their work environments from potential risks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Constellis - Ready to start or continue your career as a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2904635536505328' alt='Constellis - Ready to start or continue your career as a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2904635536505328' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Working as a Background Investigator at Omniplex World Services ...">
+                                <img itemprop="contentUrl url" src='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa42aad3a0d24b3217cc1ddfd1396bcd' alt='Working as a Background Investigator at Omniplex World Services ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa42aad3a0d24b3217cc1ddfd1396bcd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We are hiring Background Investigators in California! | OMNIPLEX ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E22AQFyxjEsWU_e-g/feedshare-shrink_800/feedshare-shrink_800/0/1692104559386?e=2147483647&v=beta&t=yWfxhOsHfVU5nXU7iajig_IR2g0tttSaGVFurSY8k1g' alt='We are hiring Background Investigators in California! | OMNIPLEX ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E22AQFyxjEsWU_e-g/feedshare-shrink_800/feedshare-shrink_800/0/1692104559386?e=2147483647&v=beta&t=yWfxhOsHfVU5nXU7iajig_IR2g0tttSaGVFurSY8k1g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Josallyn Zeiler on LinkedIn: Are you an experienced federal ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQHDJLOjm_60lQ/feedshare-shrink_800/feedshare-shrink_800/0/1696625349842?e=2147483647&v=beta&t=TkLjhilNAPSF405vA-4gQ8cmdE04qpDTrt3pcNDa_rE' alt='Josallyn Zeiler on LinkedIn: Are you an experienced federal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQHDJLOjm_60lQ/feedshare-shrink_800/feedshare-shrink_800/0/1696625349842?e=2147483647&v=beta&t=TkLjhilNAPSF405vA-4gQ8cmdE04qpDTrt3pcNDa_rE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OMNIPLEX World Services Corporation on LinkedIn: Experienced ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5622AQETYNpwuwrxZw/feedshare-shrink_800/feedshare-shrink_800/0/1694709524526?e=2147483647&v=beta&t=xiXQ-21HB0iExSjzpinqKlsuKjrcY84kTLZbu4_SRII' alt='OMNIPLEX World Services Corporation on LinkedIn: Experienced ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5622AQETYNpwuwrxZw/feedshare-shrink_800/feedshare-shrink_800/0/1694709524526?e=2147483647&v=beta&t=xiXQ-21HB0iExSjzpinqKlsuKjrcY84kTLZbu4_SRII' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omniplex Company Profile | DiversityJobs">
+                                <img itemprop="contentUrl url" src='https://diversityjobs.com/attachments/employer/53/118/152/9595.png' alt='Omniplex Company Profile | DiversityJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="85">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diversity Jobs" />
+                                </span>
+                                <a href='https://diversityjobs.com/attachments/employer/53/118/152/9595.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OMNIPLEX World Services Corporation | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E22AQFBL5Gh1FYDiQ/feedshare-shrink_800/B4EZSOY3mTGcAk-/0/1737555672280?e=2147483647&v=beta&t=tiMa93zD8P1fM2kq5fu-HToZqa95jNoHDI0s6ryOIuk' alt='OMNIPLEX World Services Corporation | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="li.linkedin.com" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E22AQFBL5Gh1FYDiQ/feedshare-shrink_800/B4EZSOY3mTGcAk-/0/1737555672280?e=2147483647&v=beta&t=tiMa93zD8P1fM2kq5fu-HToZqa95jNoHDI0s6ryOIuk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OMNIPLEX World Services Corporation | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E0BAQFUKipHD7QYfw/company-logo_200_200/company-logo_200_200/0/1630564650047/omniplex_world_services_corporation_logo?e=2147483647&v=beta&t=hJUbNdS4M-fJY7XNbuYY9sTWBFGttP1um2JlLyQl3e8' alt='OMNIPLEX World Services Corporation | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E0BAQFUKipHD7QYfw/company-logo_200_200/company-logo_200_200/0/1630564650047/omniplex_world_services_corporation_logo?e=2147483647&v=beta&t=hJUbNdS4M-fJY7XNbuYY9sTWBFGttP1um2JlLyQl3e8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omniplex World Services Corporation Investigator Reviews | Glassdoor">
+                                <img itemprop="contentUrl url" src='https://media.glassdoor.com/sqll/221522/omniplex-world-services-corporation-squarelogo.png' alt='Omniplex World Services Corporation Investigator Reviews | Glassdoor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glassdoor" />
+                                </span>
+                                <a href='https://media.glassdoor.com/sqll/221522/omniplex-world-services-corporation-squarelogo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OMNIPLEX WORLD SERVICES CORPORATION, A CONSTELLIS Background ...">
+                                <img itemprop="contentUrl url" src='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/company_images/omniplex-world-services-corporation-a-constellis-background-investigator-company.webp=s380x270' alt='OMNIPLEX WORLD SERVICES CORPORATION, A CONSTELLIS Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZipRecruiter" />
+                                </span>
+                                <a href='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/company_images/omniplex-world-services-corporation-a-constellis-background-investigator-company.webp=s380x270' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Check Your Target Application Status: Stay Informed</title>
+                    <meta name="description" content="Stay updated on your target application status with our concise guide. Understand what it means when your application is under review, accepted, or declined. Equip yourself with essential knowledge to navigate your application journey effortlessly and effectively.">
+                    <meta name="keywords" content="target application status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/target-application-status">
+                            <span itemprop="name">target application status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Check Your Target Application Status: Stay Informed</h1>
+                <p>Understanding your target application status is crucial for staying informed throughout the process. Regular updates on whether your application is under review, accepted, or rejected empower you to plan your next steps effectively. Staying engaged ensures you’re always prepared, making the journey smoother and less stressful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="what am i doing wrong on my application??? : r/Target">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-am-i-doing-wrong-on-my-application-v0-krd9przeurrb1.jpg?width=640&crop=smart&auto=webp&s=acfc241132cd3306974ab712b4446b4aa4a3198e' alt='what am i doing wrong on my application??? : r/Target'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-am-i-doing-wrong-on-my-application-v0-krd9przeurrb1.jpg?width=640&crop=smart&auto=webp&s=acfc241132cd3306974ab712b4446b4aa4a3198e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target application status: Fill out & sign online | DocHub">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/327/303/327303149/large.png' alt='Target application status: Fill out & sign online | DocHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DocHub" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/327/303/327303149/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Application Online Video">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oSq2z8-l0oo/maxresdefault.jpg' alt='Target Application Online Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oSq2z8-l0oo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="target application status Forms and Templates - Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/29/308/29308672.png' alt='target application status Forms and Templates - Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/29/308/29308672.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="target application status Forms and Templates - Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/269/73/269073727.png' alt='target application status Forms and Templates - Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/269/73/269073727.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Response Challenge: 24 Hours to Reply Tagret Charlotte Jobs">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6971666782822223109&location=0&aid=1988' alt='Response Challenge: 24 Hours to Reply Tagret Charlotte Jobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6971666782822223109&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does this mean? : r/Target">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/what-does-this-mean-v0-2dl0gzz5x1wd1.jpeg?width=640&crop=smart&auto=webp&s=1a17542b070162aedf143a54156757fc7cd6e4c0' alt='What does this mean? : r/Target'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/what-does-this-mean-v0-2dl0gzz5x1wd1.jpeg?width=640&crop=smart&auto=webp&s=1a17542b070162aedf143a54156757fc7cd6e4c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does this mean? : r/Target">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/irabpp4anbs41.jpg?width=640&crop=smart&auto=webp&s=a92190efd553251664ffa939bc1ae4e74f536e51' alt='What does this mean? : r/Target'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/irabpp4anbs41.jpg?width=640&crop=smart&auto=webp&s=a92190efd553251664ffa939bc1ae4e74f536e51' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i was already practicing my 2 weeks notice too   who wants a shake i guess    ????">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7120473642705718571&location=0&aid=1988' alt='i was already practicing my 2 weeks notice too   who wants a shake i guess    ????'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7120473642705718571&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Target Applications | NCEdCloud IAM Service">
+                                <img itemprop="contentUrl url" src='https://ncedcloud.mcnc.org/sites/default/files/Screen%20Shot%202016-11-30%20at%2010.17.39%20AM.png' alt='Target Applications | NCEdCloud IAM Service'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NCEdCloud IAM Service" />
+                                </span>
+                                <a href='https://ncedcloud.mcnc.org/sites/default/files/Screen%20Shot%202016-11-30%20at%2010.17.39%20AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

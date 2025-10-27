@@ -1,0 +1,129 @@
+<title>Transform Your Life: Insights from Romans 12</title>
+                    <meta name="description" content="Explore the powerful insights of Romans 12. Discover how to transform your life through God's teachings on love, service, and community. Dive into a commentary that inspires personal growth and deeper faith in an easy-to-read format. Perfect for anyone seeking spiritual guidance!">
+                    <meta name="keywords" content="romans 12 commentary">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/romans-12-commentary">
+                            <span itemprop="name">romans 12 commentary</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Life: Insights from Romans 12</h1>
+                <p>Romans 12 emphasizes the significance of transforming our minds to align with God's will. It urges believers to present their bodies as living sacrifices and stresses the importance of love, humility, and service within the Christian community. By embodying these values, Christians can effectively impact the world around them.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 12: Bible Study, Commentary And Summary | Jack Wellman">
+                                <img itemprop="contentUrl url" src='http://wp.production.patheos.com/blogs/christiancrier/files/2016/05/Beloved-never-avenge-1.jpg' alt='Romans 12: Bible Study, Commentary And Summary | Jack Wellman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patheos" />
+                                </span>
+                                <a href='http://wp.production.patheos.com/blogs/christiancrier/files/2016/05/Beloved-never-avenge-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans Chapter 12 Commentary - Living Sacrifices - Megan Allen ...">
+                                <img itemprop="contentUrl url" src='https://meganallenministries.com/wp-content/uploads/2024/04/1-1-1024x1024.jpg' alt='Romans Chapter 12 Commentary - Living Sacrifices - Megan Allen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Megan Allen Ministries" />
+                                </span>
+                                <a href='https://meganallenministries.com/wp-content/uploads/2024/04/1-1-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dare to Be Different—A Commentary on Romans 12:1-2 – Bible.org Blogs">
+                                <img itemprop="contentUrl url" src='https://blogs.bible.org/wp-content/uploads/2020/06/Romans12-DareToBeDifferent-600rec-e1592059962689.jpg' alt='Dare to Be Different—A Commentary on Romans 12:1-2 – Bible.org Blogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible.org Blogs" />
+                                </span>
+                                <a href='https://blogs.bible.org/wp-content/uploads/2020/06/Romans12-DareToBeDifferent-600rec-e1592059962689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans Chapter 12 Commentary - Living Sacrifices - Megan Allen ...">
+                                <img itemprop="contentUrl url" src='https://meganallenministries.com/wp-content/uploads/2024/04/2-1024x1024.jpg' alt='Romans Chapter 12 Commentary - Living Sacrifices - Megan Allen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Megan Allen Ministries" />
+                                </span>
+                                <a href='https://meganallenministries.com/wp-content/uploads/2024/04/2-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does Romans 12:12 [Really] Mean? | Commentary, Context ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0114/7076/6176/files/romans-12-12-bible-verse.png?v=1587620122' alt='What Does Romans 12:12 [Really] Mean? | Commentary, Context ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lord's Guidance" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0114/7076/6176/files/romans-12-12-bible-verse.png?v=1587620122' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 12:12-13 - Be joyful in hope, patient in affliction ...">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/IB/32341-008.1200w.tn.jpg' alt='Romans 12:12-13 - Be joyful in hope, patient in affliction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Study Tools" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/IB/32341-008.1200w.tn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans: The New Humanity Romans 12-16: Boice, James Montgomery:  9780801010392: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51qOqMhV-FL.jpg' alt='Romans: The New Humanity Romans 12-16: Boice, James Montgomery:  9780801010392: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="315">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51qOqMhV-FL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be joyful in hope… Romans 12:12 – Pondering Life : Pursuing God">
+                                <img itemprop="contentUrl url" src='https://ponderinglifedotblog.wordpress.com/wp-content/uploads/2023/05/bae604dd-80d5-42dd-bc63-9b22c57ad28c.jpg?w=776' alt='Be joyful in hope… Romans 12:12 – Pondering Life : Pursuing God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="776">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pondering Life - WordPress.com" />
+                                </span>
+                                <a href='https://ponderinglifedotblog.wordpress.com/wp-content/uploads/2023/05/bae604dd-80d5-42dd-bc63-9b22c57ad28c.jpg?w=776' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 12:2 - 5 Steps for Spiritual Renewal — Bible Lyfe">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5fcea218e5a6b12da691832e/d7e8a192-e878-4c57-b31b-bb1244412d46/Romans+12+2.jpg' alt='Romans 12:2 - 5 Steps for Spiritual Renewal — Bible Lyfe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Lyfe" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5fcea218e5a6b12da691832e/d7e8a192-e878-4c57-b31b-bb1244412d46/Romans+12+2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romans 12:1 Therefore I urge you, brothers, on account of God's ...">
+                                <img itemprop="contentUrl url" src='https://biblehub.com/visuals/6/45_Rom_12_01.jpg' alt='Romans 12:1 Therefore I urge you, brothers, on account of God's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Hub" />
+                                </span>
+                                <a href='https://biblehub.com/visuals/6/45_Rom_12_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

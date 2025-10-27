@@ -1,0 +1,129 @@
+<title>When Was Music Invented? Discover the Origins</title>
+                    <meta name="description" content="Explore the fascinating history of music and uncover when it was invented. From ancient bone flutes to modern compositions, learn how music has evolved through the ages and its significance in human culture. Join us on this melodic journey through time!">
+                    <meta name="keywords" content="when was music invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-music-invented">
+                            <span itemprop="name">when was music invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Music Invented? Discover the Origins</h1>
+                <p>Music has been an intrinsic part of human culture for tens of thousands of years. Archaeological evidence suggests that primitive forms of music existed as far back as 40,000 years ago, with early humans using instruments like bone flutes. Over millennia, music evolved, becoming a vital form of expression and communication worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How was music invented? A medieval answer">
+                                <img itemprop="contentUrl url" src='https://medievalists.gumlet.io/wp-content/uploads/2018/03/music-invented-e1520818377258.jpg?format=webp&compress=true&quality=80&w=376&dpr=2.6' alt='How was music invented? A medieval answer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="977">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medievalists.net" />
+                                </span>
+                                <a href='https://medievalists.gumlet.io/wp-content/uploads/2018/03/music-invented-e1520818377258.jpg?format=webp&compress=true&quality=80&w=376&dpr=2.6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Invented Music? The Search for the Dawn of Song ...">
+                                <img itemprop="contentUrl url" src='https://greekreporter.com/wp-content/uploads/2022/10/Ancient-greece-music-public-domain.jpg' alt='Who Invented Music? The Search for the Dawn of Song ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greek Reporter" />
+                                </span>
+                                <a href='https://greekreporter.com/wp-content/uploads/2022/10/Ancient-greece-music-public-domain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Music - Phamox Music">
+                                <img itemprop="contentUrl url" src='https://phamoxmusic.com/wp-content/uploads/2023/05/History-Of-Music-PIC800.jpg' alt='The History Of Music - Phamox Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phamox Music" />
+                                </span>
+                                <a href='https://phamoxmusic.com/wp-content/uploads/2023/05/History-Of-Music-PIC800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When did humans first make music? - BBC Science Focus Magazine">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/41/2018/08/GettyImages-700725511-2a684c5.jpg?w=1029&webp=1' alt='When did humans first make music? - BBC Science Focus Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Science Focus Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/41/2018/08/GettyImages-700725511-2a684c5.jpg?w=1029&webp=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Was Musical Notation Invented? A Brief History | How To ...">
+                                <img itemprop="contentUrl url" src='https://media.wnyc.org/i/1096/785/c/80/1/guidonian-hnad.png' alt='How Was Musical Notation Invented? A Brief History | How To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1096">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WQXR" />
+                                </span>
+                                <a href='https://media.wnyc.org/i/1096/785/c/80/1/guidonian-hnad.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did music notation begin? - Classic FM">
+                                <img itemprop="contentUrl url" src='https://imgs.classicfm.com/images/668131?width=1600&crop=16_9&signature=mKWEacC1SU7FSOy3B9Cv4T-7WSY=' alt='How did music notation begin? - Classic FM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classic FM" />
+                                </span>
+                                <a href='https://imgs.classicfm.com/images/668131?width=1600&crop=16_9&signature=mKWEacC1SU7FSOy3B9Cv4T-7WSY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When was Music Invented: Origin, History and Instruments">
+                                <img itemprop="contentUrl url" src='https://thedemostop.com/blogs/wp-content/uploads/2023/12/when-was-music-invented-img.jpg' alt='When was Music Invented: Origin, History and Instruments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheDemoStop" />
+                                </span>
+                                <a href='https://thedemostop.com/blogs/wp-content/uploads/2023/12/when-was-music-invented-img.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When Was Music First Written Down? A Historical Overview">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nvQG2G4yTL8/maxresdefault.jpg' alt='When Was Music First Written Down? A Historical Overview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nvQG2G4yTL8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Music Development | K&M Music School">
+                                <img itemprop="contentUrl url" src='https://kandmmusicschool.com/wp-content/uploads/2024/09/the-history-of-music-development-collage-1024x576.jpg' alt='The History of Music Development | K&M Music School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="K&M Music School" />
+                                </span>
+                                <a href='https://kandmmusicschool.com/wp-content/uploads/2024/09/the-history-of-music-development-collage-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does 'music' mean, and what is the origin of music? - Classic FM">
+                                <img itemprop="contentUrl url" src='https://imgs.classicfm.com/images/643951?width=1200&crop=16_9&signature=rJdJ0rgF7BuuVf5KNO8nBh4-uVo=' alt='What does 'music' mean, and what is the origin of music? - Classic FM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classic FM" />
+                                </span>
+                                <a href='https://imgs.classicfm.com/images/643951?width=1200&crop=16_9&signature=rJdJ0rgF7BuuVf5KNO8nBh4-uVo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Memorial Day iPhone Wallpapers: Honor Our Heroes</title>
+                    <meta name="description" content="Discover a beautiful collection of Memorial Day wallpapers for your iPhone. Celebrate and honor the brave souls who served with stunning designs. Perfectly optimized for your device, these wallpapers will keep their memory alive while adding a patriotic touch to your screen. Download now!">
+                    <meta name="keywords" content="memorial day wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/memorial-day-wallpaper-iphone">
+                            <span itemprop="name">memorial day wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Memorial Day iPhone Wallpapers: Honor Our Heroes</h1>
+                <p>Honor and remember our heroes this Memorial Day with stunning iPhone wallpapers. Choose from a range of designs featuring patriotic themes, American flags, and heartfelt messages of gratitude. Personalize your device while paying tribute to those who sacrificed so much. Download your favorite wallpaper and keep their memory alive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Memorial Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/84/f9/5184f9879a0727350659e674f2b965d0.jpg' alt='Happy Memorial Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/84/f9/5184f9879a0727350659e674f2b965d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day iPhone Wallpaper with Red, White, and Blue Stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/f6/46/5ef646f50accd1df81fc2121c817b0a7.jpg' alt='Memorial Day iPhone Wallpaper with Red, White, and Blue Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/f6/46/5ef646f50accd1df81fc2121c817b0a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Memorial Day Background Vertical Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1481232592/vector/memorial-day-background-national-holiday-of-the-usa-united-states-flag-vertical-poster.jpg?s=612x612&w=0&k=20&c=K8nT-AEtYsrHvVoO8bXyh9sLBWCiTnmfaMhQEf6c1Ec=' alt='1,400+ Memorial Day Background Vertical Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1481232592/vector/memorial-day-background-national-holiday-of-the-usa-united-states-flag-vertical-poster.jpg?s=612x612&w=0&k=20&c=K8nT-AEtYsrHvVoO8bXyh9sLBWCiTnmfaMhQEf6c1Ec=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/63/92/336392db441f3bc5f67f30935f9b7d24.jpg' alt='Memorial Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/63/92/336392db441f3bc5f67f30935f9b7d24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/275/536/HD-wallpaper-memorial-day.jpg' alt='Memorial Day, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/275/536/HD-wallpaper-memorial-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Memorial Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/memorial-day-3wzxsvz9k7yx2jx1.jpg' alt='100+] Memorial Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/memorial-day-3wzxsvz9k7yx2jx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial day wallpaper by beardedmunster19 - Download on ZEDGE™ | c668">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/5f/0a/1d5f0a9188c15769b26e196793b29760.jpg' alt='Memorial day wallpaper by beardedmunster19 - Download on ZEDGE™ | c668'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/5f/0a/1d5f0a9188c15769b26e196793b29760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: Memorial Day Wallpapers for iPhone, iPad, and ...">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2016/05/memorial_day_iPhone_1.jpg' alt='Wallpaper Weekends: Memorial Day Wallpapers for iPhone, iPad, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2016/05/memorial_day_iPhone_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Memorial Day, america, army, dom, military, pride, proud ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/760/994/HD-wallpaper-happy-memorial-day-america-army-dom-military-pride-proud-usa-zedgememorial.jpg' alt='Happy Memorial Day, america, army, dom, military, pride, proud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/760/994/HD-wallpaper-happy-memorial-day-america-army-dom-military-pride-proud-usa-zedgememorial.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Day Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-memorial-day-background_23-2149340484.jpg' alt='Memorial Day Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-memorial-day-background_23-2149340484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

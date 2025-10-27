@@ -1,0 +1,129 @@
+<title>Discovering Oakland: A Journey Through History</title>
+                    <meta name="description" content="Explore the captivating history of Oakland, from its Gold Rush beginnings to its role in civil rights. Uncover the diverse cultures and significant events that shaped this vibrant city, known for its art, music, and culinary heritage. Dive into Oakland's fascinating past!">
+                    <meta name="keywords" content="oakland history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/oakland-history">
+                            <span itemprop="name">oakland history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Oakland: A Journey Through History</h1>
+                <p>Oakland's history is rich and diverse, tracing back to its roots as a settlement in the 1800s. It blossomed during the Gold Rush, evolving into a key port city. The city played a vital role in the civil rights movement and has become a cultural melting pot, known for its art, music, and culinary scenes, reflecting its vibrant communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Oakland, California - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oakland_california_1900.jpg/350px-Oakland_california_1900.jpg' alt='History of Oakland, California - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oakland_california_1900.jpg/350px-Oakland_california_1900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Plans That Shaped Downtown Oakland's First 100 Years | SPUR">
+                                <img itemprop="contentUrl url" src='https://www.spur.org/sites/default/files/2015-02/1-oakland%20early%20downtown.jpg' alt='Four Plans That Shaped Downtown Oakland's First 100 Years | SPUR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SPUR" />
+                                </span>
+                                <a href='https://www.spur.org/sites/default/files/2015-02/1-oakland%20early%20downtown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos, old and new, show Oakland then and now">
+                                <img itemprop="contentUrl url" src='https://oaklandside.org/wp-content/uploads/2023/03/10.1-Frank-Ogawa-Plaza-1.jpg' alt='Photos, old and new, show Oakland then and now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Oaklandside" />
+                                </span>
+                                <a href='https://oaklandside.org/wp-content/uploads/2023/03/10.1-Frank-Ogawa-Plaza-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oakland History Center | Oakland Public Library">
+                                <img itemprop="contentUrl url" src='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/100/2021/06/CityOfOaklandBalloon-scaled-e1625077522602.jpg' alt='Oakland History Center | Oakland Public Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2034">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oakland Public Library" />
+                                </span>
+                                <a href='https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/100/2021/06/CityOfOaklandBalloon-scaled-e1625077522602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History — Old Oakland">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c3fa9a93c3a530ac6c50611/1548190171656-7F3LNOYIE6CJA6ZB0T8H/image-asset.jpeg' alt='History — Old Oakland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old Oakland" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c3fa9a93c3a530ac6c50611/1548190171656-7F3LNOYIE6CJA6ZB0T8H/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oakland history — a look back in words and photos - Oakland North">
+                                <img itemprop="contentUrl url" src='https://oaklandnorth.net/wp-content/uploads/2012/06/temescalhistory.jpg' alt='Oakland history — a look back in words and photos - Oakland North'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oakland North" />
+                                </span>
+                                <a href='https://oaklandnorth.net/wp-content/uploads/2012/06/temescalhistory.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos, old and new, show Oakland then and now">
+                                <img itemprop="contentUrl url" src='https://oaklandside.org/wp-content/uploads/2023/03/9-15th-and-Broadway-.jpg' alt='Photos, old and new, show Oakland then and now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Oaklandside" />
+                                </span>
+                                <a href='https://oaklandside.org/wp-content/uploads/2023/03/9-15th-and-Broadway-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Views of Oakland, circa 1869-1876 | William Gardiner ...">
+                                <img itemprop="contentUrl url" src='https://stacks.stanford.edu/image/iiif/sr327mw5265%2FM0326_b07_f05_010/full/!400,400/0/default.jpg' alt='Views of Oakland, circa 1869-1876 | William Gardiner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotlight at Stanford - Stanford University" />
+                                </span>
+                                <a href='https://stacks.stanford.edu/image/iiif/sr327mw5265%2FM0326_b07_f05_010/full/!400,400/0/default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four Plans That Shaped Downtown Oakland's First 100 Years | SPUR">
+                                <img itemprop="contentUrl url" src='https://www.spur.org/sites/default/files/2015-02/6-three%20main%20streets.jpg' alt='Four Plans That Shaped Downtown Oakland's First 100 Years | SPUR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SPUR" />
+                                </span>
+                                <a href='https://www.spur.org/sites/default/files/2015-02/6-three%20main%20streets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Oakland | Historic Preservation">
+                                <img itemprop="contentUrl url" src='https://cao-94612.s3.us-west-2.amazonaws.com/headers/Camron-Stanford-House.jpg' alt='City of Oakland | Historic Preservation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Oakland" />
+                                </span>
+                                <a href='https://cao-94612.s3.us-west-2.amazonaws.com/headers/Camron-Stanford-House.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

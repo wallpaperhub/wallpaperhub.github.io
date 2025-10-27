@@ -1,0 +1,129 @@
+<title>Enchanting Under the Sea Watercolor Art</title>
+                    <meta name="description" content="Explore our collection of under the sea watercolor art, showcasing stunning marine life and tranquil ocean scenes. Perfect for home decor enthusiasts, this captivating artwork brings the beauty of the ocean to your space with vibrant colors and graceful designs. Dive into creativity today!">
+                    <meta name="keywords" content="under the sea watercolor">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/under-the-sea-watercolor">
+                            <span itemprop="name">under the sea watercolor</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Under the Sea Watercolor Art</h1>
+                <p>Experience the mesmerizing beauty of underwater life with our under the sea watercolor art. Vivid blues and greens blend seamlessly to create enchanting seascapes, capturing the grace of marine creatures and the tranquility of ocean depths. Dive into a world where colors dance and nature's wonders come alive on canvas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under the Sea Watercolor Clipart, Nursery Prints, Nautical Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9502204/r/il/d4e813/1454308397/il_570xN.1454308397_prnv.jpg' alt='Under the Sea Watercolor Clipart, Nursery Prints, Nautical Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9502204/r/il/d4e813/1454308397/il_570xN.1454308397_prnv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SplashKit (Under the Sea Watercolor)">
+                                <img itemprop="contentUrl url" src='https://splashkits.com/cdn/shop/products/Fish5_1024x1024@2x.jpg?v=1671017571' alt='SplashKit (Under the Sea Watercolor)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1431">
+                                <meta itemprop="height" content="1142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SplashKits" />
+                                </span>
+                                <a href='https://splashkits.com/cdn/shop/products/Fish5_1024x1024@2x.jpg?v=1671017571' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under the sea. Watercolor Cute underwater (1472319)">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/1-853aabbcd72e115d15bb27e277a8d2c154833da8d5ce15571f7f276e1270055f.jpg' alt='Under the sea. Watercolor Cute underwater (1472319)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/1-853aabbcd72e115d15bb27e277a8d2c154833da8d5ce15571f7f276e1270055f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Under The Sea Images – Browse 14,640 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/96/10/90/360_F_596109056_YOQfAdaSsEKRdEIDECvHKRzKHRYwROKm.jpg' alt='Watercolor Under The Sea Images – Browse 14,640 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/96/10/90/360_F_596109056_YOQfAdaSsEKRdEIDECvHKRzKHRYwROKm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under the Sea Watercolor Painting, Coral Reef Artwork, Coastal Living Room  Wall Art, Beach House Wall Decor, Ocean Art, Seaside Art - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23358391/r/il/47ca70/4252651571/il_1080xN.4252651571_s7k6.jpg' alt='Under the Sea Watercolor Painting, Coral Reef Artwork, Coastal Living Room  Wall Art, Beach House Wall Decor, Ocean Art, Seaside Art - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23358391/r/il/47ca70/4252651571/il_1080xN.4252651571_s7k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,700+ Under The Sea Watercolor Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1251416243/vector/set-of-sea-animals-blue-watercolor-ocean-fish-turtle-whale-and-coral-shell-aquarium.jpg?s=612x612&w=0&k=20&c=cNuX2FBQVxqocoRv9HMAIyJSxyYlpHWk4KOYe3YLKVk=' alt='17,700+ Under The Sea Watercolor Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1251416243/vector/set-of-sea-animals-blue-watercolor-ocean-fish-turtle-whale-and-coral-shell-aquarium.jpg?s=612x612&w=0&k=20&c=cNuX2FBQVxqocoRv9HMAIyJSxyYlpHWk4KOYe3YLKVk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Painting Tutorial Under The Sea">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/g1A7s26vxOk/maxresdefault.jpg' alt='Watercolor Painting Tutorial Under The Sea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/g1A7s26vxOk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under the Sea Watercolor Painting | Frederick County YMCA">
+                                <img itemprop="contentUrl url" src='https://frederickymca.org/wp-content/uploads/sites/7/2021/05/unnamed-6.jpg' alt='Under the Sea Watercolor Painting | Frederick County YMCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1047">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YMCA of Frederick County" />
+                                </span>
+                                <a href='https://frederickymca.org/wp-content/uploads/sites/7/2021/05/unnamed-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under The Sea Watercolor Clipart By NewArtLife | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_3650931_83j1j2otnzp94rgocf2wjvjyj1qhr2cp5zgb1yhe_under-the-sea-watercolor-clipart.jpg' alt='Under The Sea Watercolor Clipart By NewArtLife | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_3650931_83j1j2otnzp94rgocf2wjvjyj1qhr2cp5zgb1yhe_under-the-sea-watercolor-clipart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under The Sea - watercolor set By Alesya Pytskaya Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_4140674_ygmj819hq0i8nc0v5j571hlk4qzu1unrrkfoo96g_under-the-sea-watercolor-set.jpg' alt='Under The Sea - watercolor set By Alesya Pytskaya Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_4140674_ygmj819hq0i8nc0v5j571hlk4qzu1unrrkfoo96g_under-the-sea-watercolor-set.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

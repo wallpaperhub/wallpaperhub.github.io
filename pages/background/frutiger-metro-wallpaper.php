@@ -1,0 +1,129 @@
+<title>Frutiger Metro Wallpaper: Modern Urban Elegance</title>
+                    <meta name="description" content="Discover the timeless appeal of Frutiger Metro wallpaper, blending urban sophistication with contemporary style. Perfect for any interior, this wallpaper adds character and charm to your space, making it a must-have for design enthusiasts. Revamp your home or office effortlessly today!">
+                    <meta name="keywords" content="frutiger metro wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frutiger-metro-wallpaper">
+                            <span itemprop="name">frutiger metro wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frutiger Metro Wallpaper: Modern Urban Elegance</h1>
+                <p>Transform your space with Frutiger Metro wallpaper, inspired by the iconic font and metro stations. Perfect for modern interiors, this wallpaper adds a sophisticated touch while celebrating urban design. Elevate your home or office environment with this stylish and functional decor choice, reflecting your appreciation for typography and contemporary aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Metro Laptop Wallpaper Made By Me : r/FrutigerMetro">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/frutiger-metro-laptop-wallpaper-made-by-me-v0-n8s1yx8g801e1.jpeg?auto=webp&s=792ea842fd7b0713b8b0e430daf7d4390777bdc8' alt='Frutiger Metro Laptop Wallpaper Made By Me : r/FrutigerMetro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/frutiger-metro-laptop-wallpaper-made-by-me-v0-n8s1yx8g801e1.jpeg?auto=webp&s=792ea842fd7b0713b8b0e430daf7d4390777bdc8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Frutiger Metro Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/frutiger-metro-kex3hudxf5aif7f6.jpg' alt='100+] Frutiger Metro Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/frutiger-metro-kex3hudxf5aif7f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One of my first frutiger metro wallpapers! :D : r/FrutigerMetro">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/one-of-my-first-frutiger-metro-wallpapers-d-v0-k295blf0lihd1.png?width=2818&format=png&auto=webp&s=c5f63c9983c3ad1b4bfa2a9e004e340be9dd8dc1' alt='One of my first frutiger metro wallpapers! :D : r/FrutigerMetro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2818">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/one-of-my-first-frutiger-metro-wallpapers-d-v0-k295blf0lihd1.png?width=2818&format=png&auto=webp&s=c5f63c9983c3ad1b4bfa2a9e004e340be9dd8dc1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frutiger metro style desktop wallpaper by cloudstrifve on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/191ad8a3-8d1f-4954-9d44-01bd0607ee61/dhncb6c-7da807f8-6b0d-4e06-85f7-94bebd2ee90c.png/v1/fill/w_1070,h_747,q_70,strp/frutiger_metro_style_desktop_wallpaper_by_cloudstrifve_dhncb6c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2OCIsInBhdGgiOiJcL2ZcLzE5MWFkOGEzLThkMWYtNDk1NC05ZDQ0LTAxYmQwNjA3ZWU2MVwvZGhuY2I2Yy03ZGE4MDdmOC02YjBkLTRlMDYtODVmNy05NGJlYmQyZWU5MGMucG5nIiwid2lkdGgiOiI8PTIzODgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uDi5ACJutddcuDBra0DU5Ic-RUL3Ev5US0Rq9b68xB0' alt='frutiger metro style desktop wallpaper by cloudstrifve on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1070">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/191ad8a3-8d1f-4954-9d44-01bd0607ee61/dhncb6c-7da807f8-6b0d-4e06-85f7-94bebd2ee90c.png/v1/fill/w_1070,h_747,q_70,strp/frutiger_metro_style_desktop_wallpaper_by_cloudstrifve_dhncb6c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2OCIsInBhdGgiOiJcL2ZcLzE5MWFkOGEzLThkMWYtNDk1NC05ZDQ0LTAxYmQwNjA3ZWU2MVwvZGhuY2I2Yy03ZGE4MDdmOC02YjBkLTRlMDYtODVmNy05NGJlYmQyZWU5MGMucG5nIiwid2lkdGgiOiI8PTIzODgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uDi5ACJutddcuDBra0DU5Ic-RUL3Ev5US0Rq9b68xB0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Metro Aesthetic - frutiger-aero.org">
+                                <img itemprop="contentUrl url" src='https://frutiger-aero.org/img/frutiger-metro-1.webp' alt='Frutiger Metro Aesthetic - frutiger-aero.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1996">
+                                <meta itemprop="height" content="1408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frutiger-Aero.org" />
+                                </span>
+                                <a href='https://frutiger-aero.org/img/frutiger-metro-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tried making frutiger aurora/ metro wallpapers on autodesk ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tried-making-frutiger-aurora-metro-wallpapers-on-autodesk-v0-5bov053ua0dd1.jpg?width=1920&format=pjpg&auto=webp&s=b853b85965eaa4ac67e2f852b03e40830ce10b22' alt='Tried making frutiger aurora/ metro wallpapers on autodesk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tried-making-frutiger-aurora-metro-wallpapers-on-autodesk-v0-5bov053ua0dd1.jpg?width=1920&format=pjpg&auto=webp&s=b853b85965eaa4ac67e2f852b03e40830ce10b22' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free frutiger metro backgrounds by vomitgloomzr on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eaebebd0-932e-4f9f-8a9d-1cd647f84899/dhodibt-09342dde-9c42-40a1-8c2d-6e5b9120f032.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhZWJlYmQwLTkzMmUtNGY5Zi04YTlkLTFjZDY0N2Y4NDg5OVwvZGhvZGlidC0wOTM0MmRkZS05YzQyLTQwYTEtOGMyZC02ZTViOTEyMGYwMzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bysCr7FPofhOgMkJEMSoXV1lU65KczaL_d0T6WXhNLM' alt='Free frutiger metro backgrounds by vomitgloomzr on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eaebebd0-932e-4f9f-8a9d-1cd647f84899/dhodibt-09342dde-9c42-40a1-8c2d-6e5b9120f032.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhZWJlYmQwLTkzMmUtNGY5Zi04YTlkLTFjZDY0N2Y4NDg5OVwvZGhvZGlidC0wOTM0MmRkZS05YzQyLTQwYTEtOGMyZC02ZTViOTEyMGYwMzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bysCr7FPofhOgMkJEMSoXV1lU65KczaL_d0T6WXhNLM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frutiger metro.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/d8/e7/ced8e71a7e8f1c679cb09d0a6928c5a5.jpg' alt='frutiger metro.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/d8/e7/ced8e71a7e8f1c679cb09d0a6928c5a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger metro wallpaper I made (used in on my psp lol) Kinda hard ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/krpo6cput14c1.png' alt='Frutiger metro wallpaper I made (used in on my psp lol) Kinda hard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6450">
+                                <meta itemprop="height" content="3650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/krpo6cput14c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Metro Aesthetic - frutiger-aero.org">
+                                <img itemprop="contentUrl url" src='https://frutiger-aero.org/img/frutiger-metro-2.webp' alt='Frutiger Metro Aesthetic - frutiger-aero.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frutiger-Aero.org" />
+                                </span>
+                                <a href='https://frutiger-aero.org/img/frutiger-metro-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

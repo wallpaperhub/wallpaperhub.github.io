@@ -1,0 +1,129 @@
+<title>Top Wallpaper Trends of 2023: Best Sellers Revealed</title>
+                    <meta name="description" content="Discover the best-selling wallpapers of 2023! Explore eco-friendly options and trendy designs that elevate your decor. Find the perfect wallpaper to transform your space and express your style. Perfect for any room, these top sellers will inspire your next home makeover!">
+                    <meta name="keywords" content="best selling wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-selling-wallpaper-2023">
+                            <span itemprop="name">best selling wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Wallpaper Trends of 2023: Best Sellers Revealed</h1>
+                <p>The best-selling wallpaper of 2023 showcases vibrant patterns and eco-friendly materials that elevate interior spaces. With trends leaning towards bold textures and nature-inspired designs, it’s no surprise these wallpapers are flying off the shelves. Explore the latest styles that transform homes and reflect personal aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Best Selling Wallpapers of 2023   - Magic Decor">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/09/08134328/Buddha-Stone-Textured-Wallpaper.jpg' alt='Our Best Selling Wallpapers of 2023   - Magic Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/09/08134328/Buddha-Stone-Textured-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerging Wallpaper Trends For 2023 | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/wallpaper-trends-2023-thumbnail.jpg' alt='Emerging Wallpaper Trends For 2023 | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/wallpaper-trends-2023-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Trends For 2023 • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/11/Wallpaper-Trends-2023-Landscape-Image-copy.jpg.optimal.jpg' alt='Wallpaper Trends For 2023 • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/11/Wallpaper-Trends-2023-Landscape-Image-copy.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Best Selling Wallpapers of 2023   - Magic Decor">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2023/05/08143924/Tropical-Wallpaper-for-Walls.jpg' alt='Our Best Selling Wallpapers of 2023   - Magic Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2023/05/08143924/Tropical-Wallpaper-for-Walls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is the Best Wallpaper?">
+                                <img itemprop="contentUrl url" src='https://www.realsimple.com/thmb/P4H6KosgzvmUA2W9KRgGfc-DwUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RSP_PrianoWallpaperatSerenaandLily_HW_15-a4268e40e60d43cfbabaf58534681856.jpg' alt='What Is the Best Wallpaper?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Real Simple" />
+                                </span>
+                                <a href='https://www.realsimple.com/thmb/P4H6KosgzvmUA2W9KRgGfc-DwUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RSP_PrianoWallpaperatSerenaandLily_HW_15-a4268e40e60d43cfbabaf58534681856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...">
+                                <img itemprop="contentUrl url" src='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/florenzia-dusk-mural-graham-brown-design-ofvthe-year-nordroom.jpg' alt='The Top Wallpaper Trends for 2023 - Nature, Texture and Big Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Jade Design" />
+                                </span>
+                                <a href='https://www.melaniejadedesign.com/wp-content/uploads/2022/12/florenzia-dusk-mural-graham-brown-design-ofvthe-year-nordroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emerging Wallpaper Trends For 2023 | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2022-10/blobid1664895066099.jpg' alt='Emerging Wallpaper Trends For 2023 | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2022-10/blobid1664895066099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Best-Selling Wallpapers of 2023 - Ultrawalls">
+                                <img itemprop="contentUrl url" src='https://ultrawalls.com/wp-content/uploads/2023/12/4.jpg' alt='Exploring the Best-Selling Wallpapers of 2023 - Ultrawalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultrawalls" />
+                                </span>
+                                <a href='https://ultrawalls.com/wp-content/uploads/2023/12/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trending Wallpapers 2023: Discover the Latest Wallpaper Trends ...">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660x2/o/z/oz000019_style1_1_1.jpg' alt='Trending Wallpapers 2023: Discover the Latest Wallpaper Trends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1624">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660x2/o/z/oz000019_style1_1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring the Best-Selling Wallpapers of 2023 - Ultrawalls">
+                                <img itemprop="contentUrl url" src='https://ultrawalls.com/wp-content/uploads/2023/12/4-2.jpg' alt='Exploring the Best-Selling Wallpapers of 2023 - Ultrawalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultrawalls" />
+                                </span>
+                                <a href='https://ultrawalls.com/wp-content/uploads/2023/12/4-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

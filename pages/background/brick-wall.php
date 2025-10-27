@@ -1,0 +1,129 @@
+<title>"Sturdy & Stylish: The Ultimate Guide to Brick Walls"</title>
+                    <meta name="description" content="Discover the beauty and strength of brick walls. Explore their construction, design versatility, and how they can enhance any space, combining classic elegance with modern aesthetics. Perfect for homeowners and designers seeking timeless inspiration!">
+                    <meta name="keywords" content="brick wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brick-wall">
+                            <span itemprop="name">brick wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Sturdy & Stylish: The Ultimate Guide to Brick Walls"</h1>
+                <p>A brick wall is not just a structural element but an iconic symbol of strength and durability. Built from fired clay bricks, it's used in construction for homes, buildings, and decorative features. Its timeless appeal can enhance a space, offering both rustic charm and urban sophistication, making it a versatile choice in design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Weathered Red Brick Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237819/Old-Weathered-Red-Brick-Wall-Wallpaper-Mural.jpg?v=638164842055330000' alt='Old Weathered Red Brick Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237819/Old-Weathered-Red-Brick-Wall-Wallpaper-Mural.jpg?v=638164842055330000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALL!SUPPLY 0.79 in. x 19.69 in. x 47.24 in. UltraLight Faux Brick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4e531607-b57b-4b63-8b30-37ef9c17a9de/svn/anthracite-wall-supply-decorative-wall-paneling-20430302-64_600.jpg' alt='WALL!SUPPLY 0.79 in. x 19.69 in. x 47.24 in. UltraLight Faux Brick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4e531607-b57b-4b63-8b30-37ef9c17a9de/svn/anthracite-wall-supply-decorative-wall-paneling-20430302-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Brick Wall Backdrop Party Accessory : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pJUrECVzL.jpg' alt='Amazon.com: Brick Wall Backdrop Party Accessory : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pJUrECVzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old brick wall texture Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Old_brick_wall_texture_Wall_Mural_Wallpaper_d_1400x.jpg?v=1735832713' alt='Old brick wall texture Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Old_brick_wall_texture_Wall_Mural_Wallpaper_d_1400x.jpg?v=1735832713' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Bricks Backdrop, Brick Wall Backdrop, Brick Wall Photo Surface,  Brickwork, Brick Wall Surface, Bricks Wall Background, Bricks Surface - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27019214/r/il/90d114/2972019903/il_1080xN.2972019903_ns6s.jpg' alt='Red Bricks Backdrop, Brick Wall Backdrop, Brick Wall Photo Surface,  Brickwork, Brick Wall Surface, Bricks Wall Background, Bricks Surface - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27019214/r/il/90d114/2972019903/il_1080xN.2972019903_ns6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Wall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52172/red-brick-wall.jpg?h=699&q=85' alt='Red Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52172/red-brick-wall.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Brick Wall Pictures & Images [HD] | Download Free Photos on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1520758594221-872948699332?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpY2slMjB3YWxsfGVufDB8fDB8fHww' alt='500+ Brick Wall Pictures & Images [HD] | Download Free Photos on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1520758594221-872948699332?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpY2slMjB3YWxsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Wall">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/5450/pr22/1/1280/red-brick-wall-red-brick-wallpaper.jpg' alt='Red Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/5450/pr22/1/1280/red-brick-wall-red-brick-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Red brick wall texture for background, 50x22.4 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/01/12/71/83/1000_F_112718306_fwDVh9LjA7PoOqScyEmpNHrnRTa4i73D.jpg' alt='Poster, Print Red brick wall texture for background, 50x22.4 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/01/12/71/83/1000_F_112718306_fwDVh9LjA7PoOqScyEmpNHrnRTa4i73D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered Brick Wall">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/D/P/DPX-0001833363.jpg' alt='Weathered Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/D/P/DPX-0001833363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Whimsical Mushroom Peel & Stick Wallpaper for Easy Home Makeover</title>
+                    <meta name="description" content="Discover the charm of peel and stick wallpaper with enchanting mushroom patterns. Ideal for renters or DIY lovers, our removable wallpaper offers a fuss-free way to refresh your space. Easy to apply and reposition, it’s the perfect solution for a stylish home update.">
+                    <meta name="keywords" content="peel and stick wallpaper mushrooms">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-mushrooms">
+                            <span itemprop="name">peel and stick wallpaper mushrooms</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Mushroom Peel & Stick Wallpaper for Easy Home Makeover</h1>
+                <p>Transform your living space with peel and stick wallpaper featuring whimsical mushroom designs. This easy-to-use wallpaper adds a touch of nature-inspired charm to any room. Perfect for DIY enthusiasts, it allows for quick installation and removal without damage, making it a great choice for renters or those seeking a temporary decor update.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' alt='Pink Mushroom Wallpaper Peel and Stick Wallpaper Fairytale Forest Wallpaper  78.7''x16.14'' Mushroom Removable Wallpaper for Nursery Bedroom Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2436">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91aVpWUrnPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairytale Mushroom Peel and Stick Wallpaper Boho Wallpaper Botanic Leaf  Removable Stick on Wallpaper Easy Peel Off Contact Paper for Bathroom  Renter ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81mVRZ24oQL.jpg' alt='Fairytale Mushroom Peel and Stick Wallpaper Boho Wallpaper Botanic Leaf  Removable Stick on Wallpaper Easy Peel Off Contact Paper for Bathroom  Renter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81mVRZ24oQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Mushroom Wallpaper, Mushroom Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37494193/r/il/f0ffde/4211800059/il_570xN.4211800059_lzhz.jpg' alt='Vintage Mushroom Wallpaper, Mushroom Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37494193/r/il/f0ffde/4211800059/il_570xN.4211800059_lzhz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Mushroom Wallpaper Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D817">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5487109172_r4uf.jpg?v=1725094652&width=1946' alt='Vintage Mushroom Wallpaper Botanical Wallpaper Peel and Stick and  Traditional Wallpaper - D817'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5487109172_r4uf.jpg?v=1725094652&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Peel and Stick Wallpaper - Self Adhesive, Temporary and Removable">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/mushroom-peel-and-stick-wallpaper-667363.png?v=1718902433' alt='Mushroom Peel and Stick Wallpaper - Self Adhesive, Temporary and Removable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="1146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/mushroom-peel-and-stick-wallpaper-667363.png?v=1718902433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bay Isle Home Peel & Stick Floral Roll & Reviews | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/93557920/resize-h600-w600%5Ecompr-r85/2493/249364809/Peel+%26+Stick+Floral+Roll.jpg' alt='Bay Isle Home Peel & Stick Floral Roll & Reviews | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/93557920/resize-h600-w600%5Ecompr-r85/2493/249364809/Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Wallpaper Peel-and-stick Botanical Beige Vintage-style ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/c05d40/3664867289/il_fullxfull.3664867289_rfs4.jpg' alt='Mushroom Wallpaper Peel-and-stick Botanical Beige Vintage-style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2286">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/c05d40/3664867289/il_fullxfull.3664867289_rfs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Mushrooms Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/1-WILD-MUSHOORMS-REMOVABLE-WALLPAPER.jpg?v=1677248527' alt='Wild Mushrooms Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/1-WILD-MUSHOORMS-REMOVABLE-WALLPAPER.jpg?v=1677248527' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mushroom Wallpaper Peel and Stick Wallpaper Boho Wallpaper 17.7" x 78.8"  Self Adhesive Wallpaper Removable Wallpaper Leaf Forest Wallpaper Mushroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81gxkSX41zL._AC_UF894,1000_QL80_.jpg' alt='Mushroom Wallpaper Peel and Stick Wallpaper Boho Wallpaper 17.7" x 78.8"  Self Adhesive Wallpaper Removable Wallpaper Leaf Forest Wallpaper Mushroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81gxkSX41zL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 28.29 sq. ft. Mushroom Magic Black Peel and Stick Wallpaper  RMK12566RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/34fca935-727f-46a7-9495-64c5fe77e097/svn/roommates-wallpaper-rolls-rmk12566rl-64_600.jpg' alt='RoomMates 28.29 sq. ft. Mushroom Magic Black Peel and Stick Wallpaper  RMK12566RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/34fca935-727f-46a7-9495-64c5fe77e097/svn/roommates-wallpaper-rolls-rmk12566rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

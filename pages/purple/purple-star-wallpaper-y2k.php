@@ -1,0 +1,129 @@
+<title>Purple Star Wallpaper: Embrace Y2K Vibes!</title>
+                    <meta name="description" content="Discover trendy purple star wallpaper that captures the essence of Y2K style. Perfect for any room, this vibrant wallpaper combines nostalgic aesthetics with modern flair. Elevate your decor and unleash your creativity with this unique design!">
+                    <meta name="keywords" content="purple star wallpaper y2k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-star-wallpaper-y2k">
+                            <span itemprop="name">purple star wallpaper y2k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Star Wallpaper: Embrace Y2K Vibes!</h1>
+                <p>Transform your space with the stunning purple star wallpaper inspired by Y2K aesthetics. Perfect for adding a nostalgic yet trendy flair to any room, this wallpaper features vibrant purple shades accented with whimsical star patterns. It's an ideal choice for those looking to embrace the vibrant energy of the early 2000s while adding a touch of creativity to their decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/3f/b3/3c3fb31f0dce29018e5b588ede464b1d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/3f/b3/3c3fb31f0dce29018e5b588ede464b1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/21/1a/a6211a3202f8d56eeaba3b492f7f9867.jpg' alt='Purple stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/21/1a/a6211a3202f8d56eeaba3b492f7f9867.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/00/a0/6700a0755cf3a184f060a2e27f6a264d.jpg' alt='purple star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/00/a0/6700a0755cf3a184f060a2e27f6a264d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cyber Purple Star Pattern Y2 K Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cyber-purple-star-pattern-y2-k-aesthetic-xz1kpg54m9zft8vn.jpg' alt='Download Cyber Purple Star Pattern Y2 K Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cyber-purple-star-pattern-y2-k-aesthetic-xz1kpg54m9zft8vn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-nebula-star-pattern-lcfh43by17ftjhlk.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-nebula-star-pattern-lcfh43by17ftjhlk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K 1 Hour Purple Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HghDWv21--Y/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgEyh_MA8=&rs=AOn4CLAIEfs6NgEeYgqJ4wNFFAGvNJdEvA' alt='4K 1 Hour Purple Star Tunnel Y2K Colorful Aesthetic LED Lights Background  Video Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HghDWv21--Y/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgEyh_MA8=&rs=AOn4CLAIEfs6NgEeYgqJ4wNFFAGvNJdEvA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/31/6b/ca/316bcafae6d3bd46e1d79c63eb7d460e.jpg' alt='Purple star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/31/6b/ca/316bcafae6d3bd46e1d79c63eb7d460e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concentric purple stars background. Trendy y2k poster in pas ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX62955369.jpg?width=800&height=800&quality=70' alt='Concentric purple stars background. Trendy y2k poster in pas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX62955369.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | Stars Grunge">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/23/25/9c232572362b9bd18b14c53c4e43245d.jpg' alt='Wallpaper | Stars Grunge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/23/25/9c232572362b9bd18b14c53c4e43245d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/62/d2/65/62d2653724e0729b16cd3d2128add89d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/62/d2/65/62d2653724e0729b16cd3d2128add89d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

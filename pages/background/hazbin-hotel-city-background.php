@@ -1,0 +1,129 @@
+<title>Explore the Vibrant World of Hazbin Hotel's City</title>
+                    <meta name="description" content="Discover the unique city background of Hazbin Hotel, where vibrant chaos meets dark comedy. Dive into a realm filled with eccentric characters and artistic designs that bring Hell to life, offering a captivating setting for the beloved animated series.">
+                    <meta name="keywords" content="hazbin hotel city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hazbin-hotel-city-background">
+                            <span itemprop="name">hazbin hotel city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Vibrant World of Hazbin Hotel's City</h1>
+                <p>Hazbin Hotel, set in the bustling and chaotic realm of Hell, presents a vivid cityscape filled with dark humor and colorful characters. The urban landscape is a mix of gaudy architecture, neon lights, and an undercurrent of melancholic charm. Each district reflects the personalities of its denizens, creating a unique and immersive experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentagram City | Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinhotel/images/a/ab/Pentagram_City_main_series_full.png/revision/latest?cb=20231215022939' alt='Pentagram City | Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinhotel/images/a/ab/Pentagram_City_main_series_full.png/revision/latest?cb=20231215022939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentagram City | Hazbin Hotel and Helluva Boss Rp Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-rp-crew/images/3/3b/Hell_City.jpg/revision/latest?cb=20220402111135' alt='Pentagram City | Hazbin Hotel and Helluva Boss Rp Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin Hotel and Helluva Boss Rp Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-rp-crew/images/3/3b/Hell_City.jpg/revision/latest?cb=20220402111135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The live-Action surface of Pentagram City [OC] : r/HazbinHotel">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3ndm7zoedwj91.jpg' alt='The live-Action surface of Pentagram City [OC] : r/HazbinHotel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3ndm7zoedwj91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Atölyesi::Hazbin Hotel's Pentagram City">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/787505227808442246/19BFF36479CC81FEE87E8C2CA5A0FF17498D28EC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Atölyesi::Hazbin Hotel's Pentagram City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/787505227808442246/19BFF36479CC81FEE87E8C2CA5A0FF17498D28EC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cannibal Town | Hazbin hotel journey of the sinners Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbin-hotel-journey-of-the-sinners/images/a/af/CannibalTown.webp/revision/latest?cb=20240517175407' alt='Cannibal Town | Hazbin hotel journey of the sinners Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hazbin hotel journey of the sinners Wiki Hazbin hotel journey of ..." />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbin-hotel-journey-of-the-sinners/images/a/af/CannibalTown.webp/revision/latest?cb=20240517175407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/0c/06/280c06a1fb5cef90f9141be13529ecd3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/0c/06/280c06a1fb5cef90f9141be13529ecd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tutorial on how I do background houses | Hazbin Hotel (official) Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/7568/515184d2d3076a6c1402b8fc0d7d91d9f8ce0362r1-640-360v2_hq.jpg' alt='Tutorial on how I do background houses | Hazbin Hotel (official) Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/7568/515184d2d3076a6c1402b8fc0d7d91d9f8ce0362r1-640-360v2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If You Were In Hell Which Districts Or Other Places In Pentagram ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/if-you-were-in-hell-which-districts-or-other-places-in-v0-p9jxu7l9fske1.png?auto=webp&s=da32fd8084501cc0abf05d2f7b84262b10add984' alt='If You Were In Hell Which Districts Or Other Places In Pentagram ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1837">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/if-you-were-in-hell-which-districts-or-other-places-in-v0-p9jxu7l9fske1.png?auto=webp&s=da32fd8084501cc0abf05d2f7b84262b10add984' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Zww pl on Hazbin hotel tła | Hotel landscape, Hotel, Hotel art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/58/cd/0658cd034fd912b697ec54aaeb765828.jpg' alt='Pin by Zww pl on Hazbin hotel tła | Hotel landscape, Hotel, Hotel art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/58/cd/0658cd034fd912b697ec54aaeb765828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pentagram City | Tekken X Hazbin Hotel Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hazbinironfist/images/5/5b/PentagramCityStreets.png/revision/latest?cb=20211002170549' alt='Pentagram City | Tekken X Hazbin Hotel Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tekken X Hazbin Hotel Wiki Tekken X Hazbin Hotel Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hazbinironfist/images/5/5b/PentagramCityStreets.png/revision/latest?cb=20211002170549' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

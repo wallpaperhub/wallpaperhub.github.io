@@ -1,0 +1,129 @@
+<title>Red, White, and Blue Wallpaper: Bold Decor for Every Space</title>
+                    <meta name="description" content="Discover stunning red, white, and blue wallpaper to enhance your home decor. Perfect for patriotic themes or adding a pop of color, our designs are both stylish and versatile. Shop now for an effortless way to update your space with eye-catching patterns!">
+                    <meta name="keywords" content="red white blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/red-white-blue-wallpaper">
+                            <span itemprop="name">red white blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red, White, and Blue Wallpaper: Bold Decor for Every Space</h1>
+                <p>Transform your space with stylish red, white, and blue wallpaper that reflects your bold personality. Perfect for patriotic celebrations or a vibrant home atmosphere, this wallpaper design adds a splash of color while maintaining elegance. Ideal for living rooms, bedrooms, or even office spaces. Elevate your decor with this timeless yet trendy choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Red White And Blue Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1151008300/vector/patriotic-background.jpg?s=612x612&w=0&k=20&c=HTTjsrrbONYCXdyQf_0coOMCKnlBojzuFj0xJScLRlI=' alt='5,900+ Red White And Blue Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1151008300/vector/patriotic-background.jpg?s=612x612&w=0&k=20&c=HTTjsrrbONYCXdyQf_0coOMCKnlBojzuFj0xJScLRlI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,342,348 Red White Blue Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/patriotic-red-white-blue-explosion-background-abstract-glitter-sparkle-celebrations-voting-july-th-fireworks-memorial-177139070.jpg' alt='1,342,348 Red White Blue Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/patriotic-red-white-blue-explosion-background-abstract-glitter-sparkle-celebrations-voting-july-th-fireworks-memorial-177139070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Background Images – Browse 5,199,233 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/03/68/47/360_F_203684740_TPSiUeZz4AbOrbk6VoDQAIG9lUSrYbUr.jpg' alt='Red White Blue Background Images – Browse 5,199,233 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/03/68/47/360_F_203684740_TPSiUeZz4AbOrbk6VoDQAIG9lUSrYbUr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/red-white-blue-border-frame-blank-background_1106493-530367.jpg?semt=ais_hybrid' alt='Red White Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/red-white-blue-border-frame-blank-background_1106493-530367.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/241/859/non_2x/white-blue-red-geometric-background-concept-free-vector.jpg' alt='Red White Blue Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/241/859/non_2x/white-blue-red-geometric-background-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Red White And Blue Background Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/65/83/126583b1d1b536fb77f337f9b6620f30.jpg' alt='10 Best Red White And Blue Background Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/65/83/126583b1d1b536fb77f337f9b6620f30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red White And Blue Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-white-and-blue-background-jhqldpoqs1q8qevn.jpg' alt='100+] Red White And Blue Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-white-and-blue-background-jhqldpoqs1q8qevn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red white blue 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233637-825-auto?width=825&height=auto&aspect=true' alt='Red white blue 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233637-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Background Images – Browse 5,193,286 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/85/24/38/360_F_285243884_or2xfF8PLtDdwwps4EBp6iIwHkObfiRJ.jpg' alt='Red White And Blue Background Images – Browse 5,193,286 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/85/24/38/360_F_285243884_or2xfF8PLtDdwwps4EBp6iIwHkObfiRJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red, White & Blue Smoke - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/09/Red-White-Blue-768x1662.jpg' alt='Red, White & Blue Smoke - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/09/Red-White-Blue-768x1662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

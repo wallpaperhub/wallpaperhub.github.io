@@ -1,0 +1,129 @@
+<title>Vibrant 3D Summer Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore beautiful 3D summer wallpapers that bring warmth and color to your screens. Perfect for all devices, these vibrant designs elevate your digital experience. Download and refresh your background with stunning summer visuals today!">
+                    <meta name="keywords" content="3d summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/3d-summer-wallpaper">
+                            <span itemprop="name">3d summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 3D Summer Wallpapers for Your Devices</h1>
+                <p>Transform your digital space this summer with stunning 3D summer wallpapers! Dive into vibrant scenes filled with lush greenery, sun-kissed beaches, and colorful blooms that breathe life into your devices. Perfect for adding a refreshing touch to your desktop, tablet, or smartphone, these wallpapers will elevate your summer vibes all season long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D phone wallpaper screensaver summer iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/a9/e6/cea9e631ba63f32c561a580de24a0e42.jpg' alt='3D phone wallpaper screensaver summer iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/a9/e6/cea9e631ba63f32c561a580de24a0e42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/a4/46/b4a44642fa2dfa2648f12b744099d71e.jpg' alt='Summer Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/a4/46/b4a44642fa2dfa2648f12b744099d71e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D render of a cute wallpaper background with summer icons design ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2R7K2K2/3d-render-of-a-cute-wallpaper-background-with-summer-icons-design-2R7K2K2.jpg' alt='3D render of a cute wallpaper background with summer icons design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2R7K2K2/3d-render-of-a-cute-wallpaper-background-with-summer-icons-design-2R7K2K2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Summer Cool Water 5883NA Wallpaper Wall Murals Wall Paper Print Mural  Romy | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/~s4AAOSwjSditrgU/s-l400.jpg' alt='3D Summer Cool Water 5883NA Wallpaper Wall Murals Wall Paper Print Mural  Romy | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/~s4AAOSwjSditrgU/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Seaside 3D Large Wallpaper, Tropical Coconut Palm Wallpapers  Panoramic Mural for Living Room Bedroom TV Background Hotel Bar Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FaJR6GURL._AC_UF894,1000_QL80_.jpg' alt='Summer Seaside 3D Large Wallpaper, Tropical Coconut Palm Wallpapers  Panoramic Mural for Living Room Bedroom TV Background Hotel Bar Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FaJR6GURL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d iPhone Summer wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/cb/7a/a5cb7a66e12060bb1eb75fd367791df0.jpg' alt='3d iPhone Summer wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/cb/7a/a5cb7a66e12060bb1eb75fd367791df0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer 3d Wallpaper Backgrounds | JPG Free Download - Pikbest">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202347/summer-3d-wallpaper_9743034.jpg!w700wp' alt='Summer 3d Wallpaper Backgrounds | JPG Free Download - Pikbest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202347/summer-3d-wallpaper_9743034.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Summer Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/575/501/non_2x/3d-summer-background-product-display-platform-scene-with-sea-beach-platform-sky-cloud-summer-background-3d-render-on-the-ocean-display-podium-on-sand-beige-cosmetic-product-display-stand-free-vector.jpg' alt='3d Summer Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/575/501/non_2x/3d-summer-background-product-display-platform-scene-with-sea-beach-platform-sky-cloud-summer-background-3d-render-on-the-ocean-display-podium-on-sand-beige-cosmetic-product-display-stand-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Beach Background Summer Wallpaper Image For Free Download - Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220731/original/pngtree-3d-beach-background-summer-picture-image_1910990.jpg' alt='3d Beach Background Summer Wallpaper Image For Free Download - Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220731/original/pngtree-3d-beach-background-summer-picture-image_1910990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper 3D Decoration Murals Wall Summer Sunny Beach Grass ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61pQjHejQPL._AC_UF894,1000_QL80_.jpg' alt='Wallpaper 3D Decoration Murals Wall Summer Sunny Beach Grass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ca" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61pQjHejQPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

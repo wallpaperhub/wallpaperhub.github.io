@@ -1,0 +1,129 @@
+<title>White Happy Face: The Symbol of Joy</title>
+                    <meta name="description" content="Discover the uplifting charm of the white happy face! This iconic symbol of joy brings smiles and positivity to everyday life. Join us in exploring its cultural significance and how it enhances our emotional well-being, making the world a brighter place one smile at a time!">
+                    <meta name="keywords" content="white happy face">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-happy-face">
+                            <span itemprop="name">white happy face</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Happy Face: The Symbol of Joy</h1>
+                <p>The "white happy face" symbolizes joy and positivity, often recognized in emojis and art. This cheerful expression transcends cultures, spreading happiness and warmth. Its simplicity makes it relatable, serving as a universal sign of friendliness. It's a reminder to embrace joy in our everyday lives!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 White Happy Face :) Smiley by YourSmileyFace | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/c6/95/58c6953a557a92dcccb0d9c708c81c2b.jpg' alt='130 White Happy Face :) Smiley by YourSmileyFace | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/c6/95/58c6953a557a92dcccb0d9c708c81c2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white smiling face" Emoji - Download for free – Iconduck">
+                                <img itemprop="contentUrl url" src='https://static-00.iconduck.com/assets.00/white-smiling-face-emoji-2048x2048-ltkjlbvy.png' alt='white smiling face" Emoji - Download for free – Iconduck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconduck" />
+                                </span>
+                                <a href='https://static-00.iconduck.com/assets.00/white-smiling-face-emoji-2048x2048-ltkjlbvy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White happy icon - Free white emoticon icons">
+                                <img itemprop="contentUrl url" src='https://www.iconsdb.com/icons/download/white/happy-512.ico' alt='White happy icon - Free white emoticon icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iconsDB" />
+                                </span>
+                                <a href='https://www.iconsdb.com/icons/download/white/happy-512.ico' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iconic Vector Classic Smiley SVG File Download. Smile! Includes ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37964411/c/2685/2685/0/0/il/7b4d05/5587682229/il_300x300.5587682229_bz4n.jpg' alt='Iconic Vector Classic Smiley SVG File Download. Smile! Includes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37964411/c/2685/2685/0/0/il/7b4d05/5587682229/il_300x300.5587682229_bz4n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face - White | Pin">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4896132098.3355/ur,pin_small_front,wide_portrait,750x1000.u1.jpg' alt='Smiley Face - White | Pin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4896132098.3355/ur,pin_small_front,wide_portrait,750x1000.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="104,040 White Smiley Face Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1721368459/display_1500/stock-vector-smile-icon-vector-face-emoticon-sign-1721368459.jpg' alt='104,040 White Smiley Face Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1721368459/display_1500/stock-vector-smile-icon-vector-face-emoticon-sign-1721368459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,132 White Smiley Face Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1370274018/vector/smile-happy-face-emoji-icon-with-long-shadow-on-blank-background-flat-design.jpg?s=612x612&w=gi&k=20&c=EeFBInF1JLpKH21zSCqwY3UC3OONYunDDgDw0FhRMDo=' alt='3,132 White Smiley Face Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1370274018/vector/smile-happy-face-emoji-icon-with-long-shadow-on-blank-background-flat-design.jpg?s=612x612&w=gi&k=20&c=EeFBInF1JLpKH21zSCqwY3UC3OONYunDDgDw0FhRMDo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoticon smiley happy face white background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn2.vectorstock.com/i/1000x1000/51/46/emoticon-smiley-happy-face-white-background-vector-26325146.jpg' alt='Emoticon smiley happy face white background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn2.vectorstock.com/i/1000x1000/51/46/emoticon-smiley-happy-face-white-background-vector-26325146.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="067 White Happy Face :) Smiley by YourSmileyFace | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/df/74/53df747a6a7af2fa02a2f5f8b84110dc.jpg' alt='067 White Happy Face :) Smiley by YourSmileyFace | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ru.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/df/74/53df747a6a7af2fa02a2f5f8b84110dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Outline - Black, Happy, Face, Emoji, Vector Art, Instant Digital  Download; Svg Cut Files, Png, Jpg, Ai, Printing, Cricut, Silhouette!">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21320294/r/il/236416/5348459624/il_fullxfull.5348459624_46qm.jpg' alt='Smiley Outline - Black, Happy, Face, Emoji, Vector Art, Instant Digital  Download; Svg Cut Files, Png, Jpg, Ai, Printing, Cricut, Silhouette!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21320294/r/il/236416/5348459624/il_fullxfull.5348459624_46qm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

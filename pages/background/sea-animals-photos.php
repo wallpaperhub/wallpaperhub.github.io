@@ -1,0 +1,129 @@
+<title>Stunning Sea Animals Photos: Explore Ocean Beauty</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="sea animals photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sea-animals-photos">
+                            <span itemprop="name">sea animals photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sea Animals Photos: Explore Ocean Beauty</h1>
+                <p>Discover the mesmerizing world of sea animals through stunning photos! From colorful coral reefs teeming with vibrant fish to majestic whales gliding through crystal-clear waters, these images capture the beauty and diversity of marine life. Explore the depths and experience the wonders of the ocean like never before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Animals from A to Z - Marine Biodiversity Science Center">
+                                <img itemprop="contentUrl url" src='https://www.marinebiodiversity.ca/wp-content/uploads/2024/04/Sea-Animals.jpg' alt='Sea Animals from A to Z - Marine Biodiversity Science Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marine Biodiversity Science Center" />
+                                </span>
+                                <a href='https://www.marinebiodiversity.ca/wp-content/uploads/2024/04/Sea-Animals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Incredible Sea Animals - Orcas, Blue Whales, and More from ...">
+                                <img itemprop="contentUrl url" src='https://www.littlepassports.com/wpv2/wp-content/uploads/2022/06/Sea-turtle-over-reef-960x640.jpg' alt='6 Incredible Sea Animals - Orcas, Blue Whales, and More from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Passports" />
+                                </span>
+                                <a href='https://www.littlepassports.com/wpv2/wp-content/uploads/2022/06/Sea-turtle-over-reef-960x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 rare ocean animals and where to see them | Times of India">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/thumb/114455374/114455374.jpg?height=746&width=420&resizemode=76&imgsize=55710' alt='10 rare ocean animals and where to see them | Times of India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India - Indiatimes" />
+                                </span>
+                                <a href='https://static.toiimg.com/thumb/114455374/114455374.jpg?height=746&width=420&resizemode=76&imgsize=55710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secret communication of sea animals discovered">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/17965/production/_127331669_leatherbackseaturtle.jpg' alt='Secret communication of sea animals discovered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/17965/production/_127331669_leatherbackseaturtle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sea Animals – Facts, List, Pictures">
+                                <img itemprop="contentUrl url" src='https://www.animalspot.net/wp-content/uploads/2023/01/Sea-Animals.jpg' alt='Sea Animals – Facts, List, Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animal Spot" />
+                                </span>
+                                <a href='https://www.animalspot.net/wp-content/uploads/2023/01/Sea-Animals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,100+ Cute Sea Creatures Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1367290171/vector/cartoon-sea-animals-cute-ocean-fish-octopus-shark-and-turtle-jellyfish-crab-and-seal-fishes.jpg?s=612x612&w=0&k=20&c=53QaocaL4OWbLeyuzTZejYmP63lEpr6uVZpxMfM-tnQ=' alt='60,100+ Cute Sea Creatures Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1367290171/vector/cartoon-sea-animals-cute-ocean-fish-octopus-shark-and-turtle-jellyfish-crab-and-seal-fishes.jpg?s=612x612&w=0&k=20&c=53QaocaL4OWbLeyuzTZejYmP63lEpr6uVZpxMfM-tnQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Different Types of Sea Animals | Earth Reminder">
+                                <img itemprop="contentUrl url" src='https://www.earthreminder.com/wp-content/uploads/2023/06/types-of-sea-animals.jpg' alt='22 Different Types of Sea Animals | Earth Reminder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Earth Reminder" />
+                                </span>
+                                <a href='https://www.earthreminder.com/wp-content/uploads/2023/06/types-of-sea-animals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts & Information About Sea Animals for Kids">
+                                <img itemprop="contentUrl url" src='https://cdn.firstcry.com/education/2022/04/10105950/1107267953.jpg' alt='Facts & Information About Sea Animals for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FirstCry" />
+                                </span>
+                                <a href='https://cdn.firstcry.com/education/2022/04/10105950/1107267953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,440,500+ Ocean Animals Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1170804921/photo/turtle-closeup-with-school-of-fish.jpg?s=612x612&w=0&k=20&c=0l3Sw_Lx-9PVHjR963pvt9A6-p7sxwMe-xm9LnwxAgw=' alt='2,440,500+ Ocean Animals Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1170804921/photo/turtle-closeup-with-school-of-fish.jpg?s=612x612&w=0&k=20&c=0l3Sw_Lx-9PVHjR963pvt9A6-p7sxwMe-xm9LnwxAgw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Australian Sea Animals You Need to See">
+                                <img itemprop="contentUrl url" src='https://aussieanimals.com/wp-content/uploads/2024/10/Aussie-Animals-cute-Dugongs-1024x576.jpg' alt='Adorable Australian Sea Animals You Need to See'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aussie Animals" />
+                                </span>
+                                <a href='https://aussieanimals.com/wp-content/uploads/2024/10/Aussie-Animals-cute-Dugongs-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

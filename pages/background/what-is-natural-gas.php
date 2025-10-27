@@ -1,0 +1,129 @@
+<title>Understanding Natural Gas: Benefits and Uses</title>
+                    <meta name="description" content="Explore the essentials of natural gas: a cleaner energy source that fuels heating, electricity, and industry. Learn about its formation, benefits, and role in the energy transition towards a sustainable future. Perfect for anyone interested in modern energy solutions!">
+                    <meta name="keywords" content="what is natural gas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-natural-gas">
+                            <span itemprop="name">what is natural gas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Natural Gas: Benefits and Uses</h1>
+                <p>Natural gas is a fossil fuel formed from decomposed organic materials, primarily consisting of methane. It's a clean-burning energy source used for heating, electricity generation, and as a feedstock in chemical production. As a more environmentally friendly alternative to coal and oil, natural gas plays a key role in today's energy transition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural gas explained - U.S. Energy Information Administration (EIA)">
+                                <img itemprop="contentUrl url" src='https://www.eia.gov/energyexplained/natural-gas/images/hydrofracturing_lg.jpg' alt='Natural gas explained - U.S. Energy Information Administration (EIA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EIA" />
+                                </span>
+                                <a href='https://www.eia.gov/energyexplained/natural-gas/images/hydrofracturing_lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural gas explained - U.S. Energy Information Administration (EIA)">
+                                <img itemprop="contentUrl url" src='https://www.eia.gov/energyexplained/natural-gas/images/OILGASFORMATION.gif' alt='Natural gas explained - U.S. Energy Information Administration (EIA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EIA" />
+                                </span>
+                                <a href='https://www.eia.gov/energyexplained/natural-gas/images/OILGASFORMATION.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Gas Composition">
+                                <img itemprop="contentUrl url" src='https://www.croftsystems.net/wp-content/uploads/2020/05/gas-composition.png' alt='Natural Gas Composition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Croft Productions Systems" />
+                                </span>
+                                <a href='https://www.croftsystems.net/wp-content/uploads/2020/05/gas-composition.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural gas - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GasDepositDiagram.jpg/440px-GasDepositDiagram.jpg' alt='Natural gas - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GasDepositDiagram.jpg/440px-GasDepositDiagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Gas 101">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-njmj0diWu8/maxresdefault.jpg' alt='Natural Gas 101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-njmj0diWu8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is natural gas and why is it important? | Williams Companies">
+                                <img itemprop="contentUrl url" src='https://www.williams.com/wp-content/uploads/sites/6/2021/07/oilNaturalGasFormation_Primary-X2.jpg?w=1024' alt='What is natural gas and why is it important? | Williams Companies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Williams Companies" />
+                                </span>
+                                <a href='https://www.williams.com/wp-content/uploads/sites/6/2021/07/oilNaturalGasFormation_Primary-X2.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Gas Power | CK-12 Foundation">
+                                <img itemprop="contentUrl url" src='https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A6820d9c3a9c65bf201306a956369d6f7dcfbde0d7ee8832f790797df%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1' alt='Natural Gas Power | CK-12 Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CK12-Foundation" />
+                                </span>
+                                <a href='https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A6820d9c3a9c65bf201306a956369d6f7dcfbde0d7ee8832f790797df%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural gas explained - U.S. Energy Information Administration (EIA)">
+                                <img itemprop="contentUrl url" src='https://www.eia.gov/energyexplained/natural-gas/images/natgasproduction.png' alt='Natural gas explained - U.S. Energy Information Administration (EIA)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EIA" />
+                                </span>
+                                <a href='https://www.eia.gov/energyexplained/natural-gas/images/natgasproduction.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frequently Asked Questions About Natural… | The Breakthrough Institute">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/images/elements/NatGas3.png' alt='Frequently Asked Questions About Natural… | The Breakthrough Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Breakthrough Institute" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/legacy/images/elements/NatGas3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Natural Gas?">
+                                <img itemprop="contentUrl url" src='https://www.croftsystems.net/wp-content/uploads/2015/11/NG_parts.png' alt='What is Natural Gas?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Croft Productions Systems" />
+                                </span>
+                                <a href='https://www.croftsystems.net/wp-content/uploads/2015/11/NG_parts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

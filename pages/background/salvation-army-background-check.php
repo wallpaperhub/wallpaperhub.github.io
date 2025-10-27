@@ -1,0 +1,129 @@
+<title>Salvation Army Background Check: What You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of the Salvation Army background check process. Learn its importance for volunteer safety, community trust, and how it supports the organization's mission in providing social services. Stay informed on what to expect during the screening procedure!">
+                    <meta name="keywords" content="salvation army background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/salvation-army-background-check">
+                            <span itemprop="name">salvation army background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Salvation Army Background Check: What You Need to Know</h1>
+                <p>The Salvation Army conducts background checks as part of its commitment to the safety and security of its community and service users. These checks ensure that volunteers and employees uphold the organization's values. It's essential for maintaining trust while providing support through social services and programs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvation Army Background Check - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/34/31/34031665.png' alt='Salvation Army Background Check - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/34/31/34031665.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Data Collection Form For Salvation Army HR ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e9edb58530e164497785fdce4bf5e8f4b32da86c838261d3599a7bcc4ee0888d' alt='Background Screening Data Collection Form For Salvation Army HR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon S3" />
+                                </span>
+                                <a href='x-raw-image:///e9edb58530e164497785fdce4bf5e8f4b32da86c838261d3599a7bcc4ee0888d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does The Salvation Army hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-the-salvation-army-hire-felons.webp' alt='Does The Salvation Army hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-the-salvation-army-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Data Collection Form For Salvation Army HR ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///06651bab22dc68ecf669b84dba86fa6796ff51762dec7bdf571271602460e0ef' alt='Background Screening Data Collection Form For Salvation Army HR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon S3" />
+                                </span>
+                                <a href='x-raw-image:///06651bab22dc68ecf669b84dba86fa6796ff51762dec7bdf571271602460e0ef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does The Salvation Army drug test or do a background check? - The ...">
+                                <img itemprop="contentUrl url" src='https://images.comparably.com/companies/salvation-army/questions/3794492/does-the-salvation-army-drug-test-or-do-a-background-check' alt='Does The Salvation Army drug test or do a background check? - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comparably" />
+                                </span>
+                                <a href='https://images.comparably.com/companies/salvation-army/questions/3794492/does-the-salvation-army-drug-test-or-do-a-background-check' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for The Salvation Army - Gadsden, Alabama">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064831052923' alt='Profile for The Salvation Army - Gadsden, Alabama'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064831052923' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvation Army Job Application Pdf - Fill Online, Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/6/278/6278502.png' alt='Salvation Army Job Application Pdf - Fill Online, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/6/278/6278502.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does The Salvation Army hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-the-salvation-army.webp' alt='Does The Salvation Army hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-the-hiring-process-at-the-salvation-army.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for The Salvation Army Houma Thibodaux Morgan City">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064352212259' alt='Profile for The Salvation Army Houma Thibodaux Morgan City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064352212259' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salvation Army to pay Americans $95 in coupons - there is no need ...">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/MK-HELPING-OUT-OP.jpg?strip=all&quality=100&w=1080&h=1080&crop=1' alt='Salvation Army to pay Americans $95 in coupons - there is no need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/MK-HELPING-OUT-OP.jpg?strip=all&quality=100&w=1080&h=1080&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

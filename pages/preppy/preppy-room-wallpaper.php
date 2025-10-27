@@ -1,0 +1,129 @@
+<title>Transform Your Space with Preppy Room Wallpaper</title>
+                    <meta name="description" content="Discover the charm of preppy room wallpaper! Explore vibrant designs that elevate your decor while adding a touch of elegance. Perfect for those seeking a fresh, stylish look for their spaces.">
+                    <meta name="keywords" content="preppy room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-room-wallpaper">
+                            <span itemprop="name">preppy room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Preppy Room Wallpaper</h1>
+                <p>Preppy room wallpaper brings a touch of classic elegance to your living space. With patterns like gingham, stripes, and playful motifs, these wallpapers inspire a timeless aesthetic. They can effortlessly brighten a room, making it feel vibrant and welcoming. Perfect for creating a chic yet cozy atmosphere, preppy wallpaper is ideal for bedrooms, studies, or any space where style meets comfort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Lightning Bolts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://literallypretty.com/cdn/shop/products/wallpaperpreppylightningbolts2.jpg?v=1680545244' alt='Preppy Lightning Bolts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Literally Pretty" />
+                                </span>
+                                <a href='https://literallypretty.com/cdn/shop/products/wallpaperpreppylightningbolts2.jpg?v=1680545244' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink preppy">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-preppy-removable-wallpaper-in-eastern-european-style-living-room.jpg' alt='Pink preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-preppy-removable-wallpaper-in-eastern-european-style-living-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Preppy Wallpaper Zig n' Zag">
+                                <img itemprop="contentUrl url" src='https://literallypretty.com/cdn/shop/products/wallpaperpreppyzigzag.jpg?v=1680545430' alt='Pink Preppy Wallpaper Zig n' Zag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Literally Pretty" />
+                                </span>
+                                <a href='https://literallypretty.com/cdn/shop/products/wallpaperpreppyzigzag.jpg?v=1680545430' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kosiz Preppy Peel and Stick Wallpaper Hot Pink Removable Wallpaper Pink  Preppy Vinyl Self Adhesive Lightning Wall Paper Aesthetic Photography ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Wm2aWCG4L.jpg' alt='Kosiz Preppy Peel and Stick Wallpaper Hot Pink Removable Wallpaper Pink  Preppy Vinyl Self Adhesive Lightning Wall Paper Aesthetic Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Wm2aWCG4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Classy Wallpaper Ideas For Preppy Sophisticates - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715343368/cronos-ha/blogs/sophisticated-wallpaper-designs/neutral-terracotta-abstract-lines-repeat-pattern-wallpaper-r-Room-scaled.webp' alt='6 Classy Wallpaper Ideas For Preppy Sophisticates - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715343368/cronos-ha/blogs/sophisticated-wallpaper-designs/neutral-terracotta-abstract-lines-repeat-pattern-wallpaper-r-Room-scaled.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Bolt Preppy Wallpaper, Aesthetic Posh Wall Art, Trendy ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/b6309d/3945001347/il_570xN.3945001347_kbhx.jpg' alt='Lightning Bolt Preppy Wallpaper, Aesthetic Posh Wall Art, Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/b6309d/3945001347/il_570xN.3945001347_kbhx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Cow Print Wallpaper by Aesthetic by SB Designs | Society6">
+                                <img itemprop="contentUrl url" src='https://ctl.s6img.com/society6/img/u6IHF9ohsONilXugAIj0_ybUshc/h_700,w_700/wallpaper/standard/lifestyle/~artwork,fw_3600,fh_3600,iw_3600,ih_3600/s6-original-art-uploads/society6/uploads/misc/30f253e2ad7f4fa49f2a4af76b106d85?width=400&crop=center' alt='Cute Pink Cow Print Wallpaper by Aesthetic by SB Designs | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society6" />
+                                </span>
+                                <a href='https://ctl.s6img.com/society6/img/u6IHF9ohsONilXugAIj0_ybUshc/h_700,w_700/wallpaper/standard/lifestyle/~artwork,fw_3600,fh_3600,iw_3600,ih_3600/s6-original-art-uploads/society6/uploads/misc/30f253e2ad7f4fa49f2a4af76b106d85?width=400&crop=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: KBKBART 70pcs Preppy Room Decor, Aesthetic Pictures, Cute  Trendy Pink Photo Collage Kit 4"x6" Hot Pink Preppy Wall Art Posters/Things  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VCPHetztL.jpg' alt='Amazon.com: KBKBART 70pcs Preppy Room Decor, Aesthetic Pictures, Cute  Trendy Pink Photo Collage Kit 4"x6" Hot Pink Preppy Wall Art Posters/Things  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VCPHetztL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink preppy">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-preppy-removable-wallpaper-in-modern-style-bedroom-with-bathroom.jpg' alt='Pink preppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-preppy-removable-wallpaper-in-modern-style-bedroom-with-bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Preppy Wallpaper to Upgrade Your Home - AlittleDelightful">
+                                <img itemprop="contentUrl url" src='https://alittledelightful.com/wp-content/uploads/2023/08/Preppy-Wallpaper-Aesthetic-Designs--768x512.jpg' alt='25 Preppy Wallpaper to Upgrade Your Home - AlittleDelightful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AlittleDelightful" />
+                                </span>
+                                <a href='https://alittledelightful.com/wp-content/uploads/2023/08/Preppy-Wallpaper-Aesthetic-Designs--768x512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the World of Cookie Run: Kingdom</title>
+                    <meta name="description" content="Dive into the enchanting realm of Cookie Run: Kingdom! Build your cookie kingdom, recruit unique heroes, and strategize in thrilling battles. Join a community of cookie lovers and unleash your creativity in this fun-filled adventure!">
+                    <meta name="keywords" content="cookie run kingdom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cookie-run-kingdom-background">
+                            <span itemprop="name">cookie run kingdom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Cookie Run: Kingdom</h1>
+                <p>Cookie Run: Kingdom is a vibrant mobile game set in a whimsical universe where players embark on an adventure with cookie heroes. Players build a kingdom, recruit various cookie characters with unique abilities, and face challenges in battles and quests. The game combines strategy with creative kingdom-building, enticing players of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Clear_Blue_Skies.png/revision/latest?cb=20230926021348' alt='Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Clear_Blue_Skies.png/revision/latest?cb=20230926021348' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/3/36/Starry_Night.png/revision/latest?cb=20230926021403' alt='Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/3/36/Starry_Night.png/revision/latest?cb=20230926021403' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game COOKIE RUN: KINGDOM HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/122/1229217.png' alt='Download Video Game COOKIE RUN: KINGDOM HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/122/1229217.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/1/10/Scorching_Dragon%27s_Valley.png/revision/latest?cb=20230926021605' alt='Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/1/10/Scorching_Dragon%27s_Valley.png/revision/latest?cb=20230926021605' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this with kingdom, use it for your computer background or ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0od1b5k14mw71.jpg' alt='Made this with kingdom, use it for your computer background or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0od1b5k14mw71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Kingdom | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/9/96/Cutscene_common_background_1.png/revision/latest?cb=20230114081931' alt='Cookie Kingdom | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/9/96/Cutscene_common_background_1.png/revision/latest?cb=20230114081931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cotton Cookie (Cookie Run) Video Game COOKIE RUN: KINGDOM ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/122/1229207.png' alt='Download Cotton Cookie (Cookie Run) Video Game COOKIE RUN: KINGDOM ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/122/1229207.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cookie Run Kingdom Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cookie-run-kingdom-background-8b0elst7hpskj0yg.jpg' alt='100+] Cookie Run Kingdom Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cookie-run-kingdom-background-8b0elst7hpskj0yg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/cookierunkingdom/images/2/2d/Journey_to_Beast-Yeast.png/revision/latest?cb=20240209040749' alt='Kingdom Backgrounds | Cookie Run: Kingdom Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cookie Run: Kingdom Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/cookierunkingdom/images/2/2d/Journey_to_Beast-Yeast.png/revision/latest?cb=20240209040749' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game COOKIE RUN: KINGDOM HD Wallpaper by sesame101">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/130/1305688.png' alt='Download Video Game COOKIE RUN: KINGDOM HD Wallpaper by sesame101'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/130/1305688.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

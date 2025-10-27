@@ -1,0 +1,129 @@
+<title>Delicious 3D Pastries Wallpaper for Sweet Home Decor</title>
+                    <meta name="description" content="Transform your space with eye-catching 3D pastries wallpaper! Ideal for kitchens and cafes, our vibrant designs add charm and style. Explore various patterns to create a delightful atmosphere that leaves a lasting impression. Perfect for sweetening up any room in your home or business!">
+                    <meta name="keywords" content="3d pastries wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-pastries-wallpaper">
+                            <span itemprop="name">3d pastries wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious 3D Pastries Wallpaper for Sweet Home Decor</h1>
+                <p>Elevate your decor with stunning 3D pastries wallpaper that brings a touch of sweetness to any room. Perfect for kitchens, cafés, or dessert shops, these visually striking designs create an inviting atmosphere. Choose from a variety of colorful pastry patterns to make your walls pop and delight your guests.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Pastry Donut Chocolate Food Wall Mural Wallpaper, Creative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81g4f8n95tL.jpg' alt='3D Pastry Donut Chocolate Food Wall Mural Wallpaper, Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81g4f8n95tL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Homemade Bakery Background Wallpaper Wall Mural Peel and Stick Wallpaper  41 | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ew8AAOSw8Lxkh~-M/s-l400.jpg' alt='3D Homemade Bakery Background Wallpaper Wall Mural Peel and Stick Wallpaper  41 | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ew8AAOSw8Lxkh~-M/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Pastry Donut Chocolate Food Wall Mural Wallpaper, Creative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81j5mViucaL._AC_UF894,1000_QL80_.jpg' alt='3D Pastry Donut Chocolate Food Wall Mural Wallpaper, Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81j5mViucaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bread Baking 3D Wall Mural, Cafe Dessert Shop Murals, Removable Wallpaper  for Storefront Restaurant Beauty Salon Hotels">
+                                <img itemprop="contentUrl url" src='https://sc04.alicdn.com/kf/H6bea71c1231a4cd3af2cf94513358d9e7.png' alt='Bread Baking 3D Wall Mural, Cafe Dessert Shop Murals, Removable Wallpaper  for Storefront Restaurant Beauty Salon Hotels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alibaba" />
+                                </span>
+                                <a href='https://sc04.alicdn.com/kf/H6bea71c1231a4cd3af2cf94513358d9e7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Sweet Pastries Bread Assortment Top View Wall Mural Wallpaper GD 5227">
+                                <img itemprop="contentUrl url" src='https://jessartdecoration.com.au/cdn/shop/files/2_df876a2f-7ade-457d-9ed4-ff9193c6aac5.jpg?crop=center&height=2000&v=1685983493&width=2795' alt='3D Sweet Pastries Bread Assortment Top View Wall Mural Wallpaper GD 5227'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2795">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jess Art Decoration" />
+                                </span>
+                                <a href='https://jessartdecoration.com.au/cdn/shop/files/2_df876a2f-7ade-457d-9ed4-ff9193c6aac5.jpg?crop=center&height=2000&v=1685983493&width=2795' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweets Wall Graphics Desserts Cupcakes Donut Cookie Wallpaper Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16895977/r/il/cb209b/5969916592/il_570xN.5969916592_mh5a.jpg' alt='Sweets Wall Graphics Desserts Cupcakes Donut Cookie Wallpaper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16895977/r/il/cb209b/5969916592/il_570xN.5969916592_mh5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,314 Cake Shop Wallpaper Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-background-cakes-cupcakes-macaroons-600nw-429536668.jpg' alt='11,314 Cake Shop Wallpaper Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-background-cakes-cupcakes-macaroons-600nw-429536668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bakery Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/a43af8/4657003026/il_fullxfull.4657003026_rmys.jpg' alt='Bakery Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/a43af8/4657003026/il_fullxfull.4657003026_rmys.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Watercolor Bakery Bread Wallpaper Wall Mural Peel and Stick Wallpaper 10  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/uTwAAOSwVGRkh0es/s-l400.jpg' alt='3D Watercolor Bakery Bread Wallpaper Wall Mural Peel and Stick Wallpaper 10  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/uTwAAOSwVGRkh0es/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Sweet Pastries Bread Assortment Top View Wall Mural Wallpaper GD 5227">
+                                <img itemprop="contentUrl url" src='https://jessartdecoration.com.au/cdn/shop/files/3_dad65601-d4c3-440a-bc6c-e69bc0e35e9b.jpg?crop=center&height=2000&v=1685983492&width=2665' alt='3D Sweet Pastries Bread Assortment Top View Wall Mural Wallpaper GD 5227'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2665">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jess Art Decoration" />
+                                </span>
+                                <a href='https://jessartdecoration.com.au/cdn/shop/files/3_dad65601-d4c3-440a-bc6c-e69bc0e35e9b.jpg?crop=center&height=2000&v=1685983492&width=2665' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

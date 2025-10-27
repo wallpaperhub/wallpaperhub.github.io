@@ -1,0 +1,129 @@
+<title>Dark San Francisco: Haunting Images & Mystical Views</title>
+                    <meta name="description" content="Delve into the mysterious allure of dark San Francisco with captivating images that showcase the city's vibrant shadows. Experience the haunting landscapes and iconic landmarks that come alive at night, revealing a unique beauty perfect for your visual journey.">
+                    <meta name="keywords" content="dark san francisco images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-san-francisco-images">
+                            <span itemprop="name">dark san francisco images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark San Francisco: Haunting Images & Mystical Views</h1>
+                <p>Explore the haunting beauty of dark San Francisco images that capture the city's enigmatic charm. From eerie fog shrouding the Golden Gate Bridge to shadowy alleys in the Mission District, these visuals evoke a sense of mystery. Discover the hidden stories and atmospheric secrets that make San Francisco captivating at night.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark and Gripping Time-Lapse Captures San Francisco Like You've ...">
+                                <img itemprop="contentUrl url" src='https://iso.500px.com/wp-content/uploads/2015/02/gotham_cover.jpeg' alt='Dark and Gripping Time-Lapse Captures San Francisco Like You've ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="500px ISO" />
+                                </span>
+                                <a href='https://iso.500px.com/wp-content/uploads/2015/02/gotham_cover.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After Dark, San Francisco and the Golden Gate Bridge, Marin ...">
+                                <img itemprop="contentUrl url" src='https://garyhartblog.com/wp-content/uploads/2018/11/s5s1300ggb_afterdark_screensaver.jpg' alt='After Dark, San Francisco and the Golden Gate Bridge, Marin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eloquent Images by Gary Hart" />
+                                </span>
+                                <a href='https://garyhartblog.com/wp-content/uploads/2018/11/s5s1300ggb_afterdark_screensaver.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Glass Art - Golden Gate - Dark, San Francisco | Buy at ...">
+                                <img itemprop="contentUrl url" src='https://static.posters.cz/image/1300/glass-art/golden-gate-dark-san-francisco-i25550.jpg' alt='Wall Glass Art - Golden Gate - Dark, San Francisco | Buy at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters" />
+                                </span>
+                                <a href='https://static.posters.cz/image/1300/glass-art/golden-gate-dark-san-francisco-i25550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,500+ San Francisco Skyline At Night Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/476881195/photo/bay-bridge-and-san-francisco-skyline-at-sunset.jpg?s=612x612&w=0&k=20&c=dBeGdmYS8eOufXGT_YdRkuvKfLKUHFYwVaL9gHbkSXo=' alt='4,500+ San Francisco Skyline At Night Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/476881195/photo/bay-bridge-and-san-francisco-skyline-at-sunset.jpg?s=612x612&w=0&k=20&c=dBeGdmYS8eOufXGT_YdRkuvKfLKUHFYwVaL9gHbkSXo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark Side of San Francisco | Travel Channel">
+                                <img itemprop="contentUrl url" src='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2011/09/22/5d/idea_the-dark-side-of-san-francisco_311x175.rend.hgtvcom.1280.720.suffix/1491586321767.jpeg' alt='The Dark Side of San Francisco | Travel Channel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel Channel" />
+                                </span>
+                                <a href='https://travel.home.sndimg.com/content/dam/images/travel/fullset/2011/09/22/5d/idea_the-dark-side-of-san-francisco_311x175.rend.hgtvcom.1280.720.suffix/1491586321767.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco, Dark City Painting by OLENA McMurtrey | Saatchi Art">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1158233/art/5939043/5008837-HSC00001-7.jpg' alt='San Francisco, Dark City Painting by OLENA McMurtrey | Saatchi Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1158233/art/5939043/5008837-HSC00001-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco noir by Fred Lyon. I watched Dark Passage and Top ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3183947900425867320' alt='San Francisco noir by Fred Lyon. I watched Dark Passage and Top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="1562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3183947900425867320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Black and White Pictures | Black and White Downtown ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9555763/r/il/997059/4220786129/il_570xN.4220786129_luvj.jpg' alt='San Francisco Black and White Pictures | Black and White Downtown ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9555763/r/il/997059/4220786129/il_570xN.4220786129_luvj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Dark Skyline At Night Far Away Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1196728546/photo/san-francisco-dark-skyline-at-night-far-away.jpg?s=170667a&w=0&k=20&c=Z-AJwbiPje6c4-wpigFLSTyIAwD4hQahxbtEVOjESeo=' alt='San Francisco Dark Skyline At Night Far Away Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1196728546/photo/san-francisco-dark-skyline-at-night-far-away.jpg?s=170667a&w=0&k=20&c=Z-AJwbiPje6c4-wpigFLSTyIAwD4hQahxbtEVOjESeo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Francisco Black White Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/san-francisco-skyline-bay-bridge-260nw-238327576.jpg' alt='San Francisco Black White Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/san-francisco-skyline-bay-bridge-260nw-238327576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Watch SNL Tonight: Live Comedy & Celeb Guests!</title>
+                    <meta name="description" content="Join us for a thrilling night of SNL! Enjoy hilarious sketches, celebrity appearances, and live music. Don't miss the laughs and surprises in tonight's episode! Tune in and experience the magic of live comedy right from your screen.">
+                    <meta name="keywords" content="hosting snl tonight">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hosting-snl-tonight">
+                            <span itemprop="name">hosting snl tonight</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Watch SNL Tonight: Live Comedy & Celeb Guests!</h1>
+                <p>Get ready for an exciting night as SNL returns with a fresh episode! Expect hilarious sketches, celebrity guests, and live musical performances that will keep you entertained. Tune in to witness the comedic brilliance that SNL is known for. Don’t miss out on the laughs and surprises tonight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Host for SNL Season 49: The Complete List for 2023-2024 ...">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/10/pete-davidson-ice-spice-saturday-night-live.jpg' alt='Every Host for SNL Season 49: The Complete List for 2023-2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2023/10/pete-davidson-ice-spice-saturday-night-live.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Saturday Night Live New Tonight? February 8, 2025 SNL Host ...">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/11/1871_babymoon_wh_0263_0.jpg' alt='Is Saturday Night Live New Tonight? February 8, 2025 SNL Host ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/11/1871_babymoon_wh_0263_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Saturday Night Live New Tonight? February 1, 2025 SNL Host ...">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/11/snl-5006-bill-burr_0.jpg' alt='Is Saturday Night Live New Tonight? February 1, 2025 SNL Host ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/11/snl-5006-bill-burr_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is 'SNL' New Tonight (Mar. 1, 2025)? Host, Musical Guest - Parade">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/t_share/MjA5OTExNzc0NDc5MTMyMzI5/saturday-night-live---season-50.jpg' alt='Is 'SNL' New Tonight (Mar. 1, 2025)? Host, Musical Guest - Parade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/t_share/MjA5OTExNzc0NDc5MTMyMzI5/saturday-night-live---season-50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paul Mescal, Shaboozey and Chloe Fineman Are Getting Tipsy on SNL">
+                                <img itemprop="contentUrl url" src='https://www.nbc.com/sites/nbcblog/files/styles/16_9_medium/public/media_mpx/thumbnails/mpxstatic-nbcmpx.nbcuni.com/image/1010/523/SNL_ThursPromo_PaulMescal_120624.jpg' alt='Paul Mescal, Shaboozey and Chloe Fineman Are Getting Tipsy on SNL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC" />
+                                </span>
+                                <a href='https://www.nbc.com/sites/nbcblog/files/styles/16_9_medium/public/media_mpx/thumbnails/mpxstatic-nbcmpx.nbcuni.com/image/1010/523/SNL_ThursPromo_PaulMescal_120624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every 'Saturday Night Live' season 50 host and musical guest">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/dvRFjxyNN1NhTlsnEf9n3Dd-8-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Martin-Short-SNL-120224-37f1cb3f12834c2d8a54ed84b5bb5247.jpg' alt='Every 'Saturday Night Live' season 50 host and musical guest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/dvRFjxyNN1NhTlsnEf9n3Dd-8-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Martin-Short-SNL-120224-37f1cb3f12834c2d8a54ed84b5bb5247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is 'SNL' on Tonight? Watch Jennifer Lopez Host 'Saturday Night ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/1551398/watch-jennifer-lopez-host-saturday-night-live.jpg' alt='Is 'SNL' on Tonight? Watch Jennifer Lopez Host 'Saturday Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/1551398/watch-jennifer-lopez-host-saturday-night-live.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every 'Saturday Night Live' season 49 host and musical guest">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/VGVNilOvqY-NHSdXFdT3OrFn2o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sydney-Sweeney-SNL-030624-db2e19d75d98417e9a88c438537e646e.jpg' alt='Every 'Saturday Night Live' season 49 host and musical guest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/VGVNilOvqY-NHSdXFdT3OrFn2o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sydney-Sweeney-SNL-030624-db2e19d75d98417e9a88c438537e646e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SNL' host tonight: Musical guest, cast, where to watch Paul Mescal">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/24/USAT/76549479007-gty-2185846536.jpg?crop=4909,2761,x0,y0&width=660&height=371&format=pjpg&auto=webp' alt='SNL' host tonight: Musical guest, cast, where to watch Paul Mescal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/24/USAT/76549479007-gty-2185846536.jpg?crop=4909,2761,x0,y0&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is there a new 'Saturday Night Live' tonight? When, where, how to ...">
+                                <img itemprop="contentUrl url" src='https://media.9news.com/assets/KUSA/images/fae8aba2-1322-4bca-96ca-c4a600079f7f/20250118T165303/fae8aba2-1322-4bca-96ca-c4a600079f7f_1140x641.jpg' alt='Is there a new 'Saturday Night Live' tonight? When, where, how to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9News" />
+                                </span>
+                                <a href='https://media.9news.com/assets/KUSA/images/fae8aba2-1322-4bca-96ca-c4a600079f7f/20250118T165303/fae8aba2-1322-4bca-96ca-c4a600079f7f_1140x641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

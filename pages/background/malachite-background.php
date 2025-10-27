@@ -1,0 +1,129 @@
+<title>Stunning Malachite Backgrounds: Nature's Green Marble</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="malachite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/malachite-background">
+                            <span itemprop="name">malachite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Malachite Backgrounds: Nature's Green Marble</h1>
+                <p>Malachite backgrounds are rich in vibrant green colors with stunning swirls and patterns that evoke a sense of nature's beauty. This mineral, often used in design, adds depth and elegance to any setting. Perfect for wallpapers, textiles, and home decor, malachite backgrounds enhance aesthetics, creating a luxurious vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Images – Browse 37,749 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/28/17/98/360_F_328179880_t5ld0lSCGaDbdkGul9VG88hLvyTEOtC8.jpg' alt='Malachite Images – Browse 37,749 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/28/17/98/360_F_328179880_t5ld0lSCGaDbdkGul9VG88hLvyTEOtC8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Images – Browse 37,749 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/51/78/63/360_F_251786382_9OimVH3QNCbPiqW5JguihtBCf36oCsgB.jpg' alt='Malachite Images – Browse 37,749 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/51/78/63/360_F_251786382_9OimVH3QNCbPiqW5JguihtBCf36oCsgB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Magic – Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/MrP.-Home-X-EnvyCo-Collections-Page-800x800-04_21c96f8c-dce2-4675-8d76-10a3a0db0266.jpg?v=1722608206' alt='Malachite Magic – Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/MrP.-Home-X-EnvyCo-Collections-Page-800x800-04_21c96f8c-dce2-4675-8d76-10a3a0db0266.jpg?v=1722608206' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Malachite Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/Painted-Malachite-800.jpg?v=1722609141' alt='Painted Malachite Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/Painted-Malachite-800.jpg?v=1722609141' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Green: Over 15,110 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1449668885/display_1500/stock-photo-abstract-background-fake-stone-texture-malachite-green-agate-jasper-marble-slab-with-gold-glitter-1449668885.jpg' alt='Malachite Green: Over 15,110 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1449668885/display_1500/stock-photo-abstract-background-fake-stone-texture-malachite-green-agate-jasper-marble-slab-with-gold-glitter-1449668885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Crystal Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715858379/articles/ME0004GR02W_product.jpg' alt='Malachite Crystal Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715858379/articles/ME0004GR02W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite Background Images – Browse 27,703 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/38/72/35/360_F_1038723521_N1APMVzpY2LTejZ2wwJXLxL2k6huD5bN.jpg' alt='Malachite Background Images – Browse 27,703 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/38/72/35/360_F_1038723521_N1APMVzpY2LTejZ2wwJXLxL2k6huD5bN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malachite">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperie.com/imager/images/654/il_fullxfull.1194735948_t3ha_938f35d430e8ca3a9a8e2e9b4e54d6ed.jpg' alt='Malachite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaperie" />
+                                </span>
+                                <a href='https://www.wallpaperie.com/imager/images/654/il_fullxfull.1194735948_t3ha_938f35d430e8ca3a9a8e2e9b4e54d6ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="390+ Malachite Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1318808812/vector/black-and-green-watercolor-background-with-gold-glitter-watercolor-alcohol-ink-splash-liquid.jpg?s=612x612&w=0&k=20&c=u30tB4mJFMR0OGFssL20wNe1V6V-S5smqDM-QQDACSA=' alt='390+ Malachite Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1318808812/vector/black-and-green-watercolor-background-with-gold-glitter-watercolor-alcohol-ink-splash-liquid.jpg?s=612x612&w=0&k=20&c=u30tB4mJFMR0OGFssL20wNe1V6V-S5smqDM-QQDACSA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Malachite Background with Stone Texture, Realistic ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-malachite-background-stone-texture-realistic-surface-decoration-wallpaper-desktop-poster-booklet-cover-printing-296776222.jpg' alt='Abstract Malachite Background with Stone Texture, Realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-malachite-background-stone-texture-realistic-surface-decoration-wallpaper-desktop-poster-booklet-cover-printing-296776222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

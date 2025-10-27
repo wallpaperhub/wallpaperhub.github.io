@@ -1,0 +1,129 @@
+<title>Stylish Home Screen Aesthetic Wallpapers for Boys</title>
+                    <meta name="description" content="Discover the coolest aesthetic wallpapers for boys that enhance your home screen. From minimalistic designs to bold graphics, find the perfect look that matches your style. Transform your device and make a statement with eye-catching backgrounds that resonate with your interests!">
+                    <meta name="keywords" content="home screen aesthetic wallpaper for boys">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/home-screen-aesthetic-wallpaper-for-boys">
+                            <span itemprop="name">home screen aesthetic wallpaper for boys</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Home Screen Aesthetic Wallpapers for Boys</h1>
+                <p>Elevate your home screen with trendy wallpaper designs tailored for boys. Choose from sleek minimalism, vibrant graffiti, or edgy landscapes that reflect your personality while keeping your tech stylish. Perfect for gamers, sports enthusiasts, or those who love urban vibes, these wallpapers will transform your screen into a visual masterpiece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2e/9e/70/2e9e70c6ba2b38abfbdcc9283a0d4ce7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2e/9e/70/2e9e70c6ba2b38abfbdcc9283a0d4ce7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy Cool Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/boy-cool-lock-screen-knpu1k7et8l7xa2l.jpg' alt='Boy Cool Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/boy-cool-lock-screen-knpu1k7et8l7xa2l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, black and white, boy, cloud, dark, gentle, moon, simple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/759/449/HD-wallpaper-aesthetic-black-and-white-boy-cloud-dark-gentle-moon-simple-guy-sky-teenager.jpg' alt='Aesthetic, black and white, boy, cloud, dark, gentle, moon, simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/759/449/HD-wallpaper-aesthetic-black-and-white-boy-cloud-dark-gentle-moon-simple-guy-sky-teenager.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Home Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/home-screen-iqng12pxqlrpzgzo.jpg' alt='100+] Home Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/home-screen-iqng12pxqlrpzgzo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper / lock screen / home screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/64/2c/80642cf4c5a13df4e871aec638d19aed.jpg' alt='wallpaper / lock screen / home screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/64/2c/80642cf4c5a13df4e871aec638d19aed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Boy Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-boy-devil-skull-0vyrbc3pc0wn2lp9.jpg' alt='Aesthetic Boy Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-boy-devil-skull-0vyrbc3pc0wn2lp9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for boys">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/33/e5/84/33e584c087ce001bef07a549371a64be.jpg' alt='Wallpaper for boys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/33/e5/84/33e584c087ce001bef07a549371a64be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kece Parah: Live Wallpaper Aesthetic Terbaik">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7442929612654513463&location=0&aid=1988' alt='Kece Parah: Live Wallpaper Aesthetic Terbaik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7442929612654513463&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fluffy Aesthetic Clouds Home Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/fluffy-aesthetic-clouds-home-screen-us9i106hkfewl4tw.jpg' alt='Fluffy Aesthetic Clouds Home Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/fluffy-aesthetic-clouds-home-screen-us9i106hkfewl4tw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Boy HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/aesthetic-boy-joker-h07e7iejguoh5agh.jpg' alt='Aesthetic Boy HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/aesthetic-boy-joker-h07e7iejguoh5agh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

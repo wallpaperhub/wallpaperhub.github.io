@@ -1,0 +1,129 @@
+<title>Stunning Blue Moon Photos: Capture the Celestial Beauty</title>
+                    <meta name="description" content="Explore breathtaking blue moon photos that capture the beauty of this rare celestial event. Discover tips, techniques, and inspiration for photographing the blue moon, making every shot a mesmerizing masterpiece. Perfect for photographers and sky gazers alike!">
+                    <meta name="keywords" content="blue moon photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-moon-photos">
+                            <span itemprop="name">blue moon photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Moon Photos: Capture the Celestial Beauty</h1>
+                <p>Blue moon photos are a captivating sight that mesmerizes sky gazers and photographers alike. Capturing the rare event, these images showcase the moon's silvery glow against a backdrop of twinkling stars. Whether you're a seasoned photographer or an enthusiast, blue moon photography offers a unique opportunity to create stunning celestial art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Moon — what is it and when is the next one? | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/DrRN4BTQ9Wk8fHdGjKB2A.jpg' alt='Blue Moon — what is it and when is the next one? | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/DrRN4BTQ9Wk8fHdGjKB2A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full blue moon over lake [1600x900] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9ege4szb2o3x.jpg?width=1080&crop=smart&auto=webp&s=40d8d58ceb5928ae1754660f1ca8ef7a94c74f48' alt='Full blue moon over lake [1600x900] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9ege4szb2o3x.jpg?width=1080&crop=smart&auto=webp&s=40d8d58ceb5928ae1754660f1ca8ef7a94c74f48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Blue Moon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1589383544287-a670dcc9d242?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZSUyMG1vb258ZW58MHx8MHx8fDA%3D' alt='1K+ Blue Moon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1589383544287-a670dcc9d242?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZSUyMG1vb258ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Blue Moon?">
+                                <img itemprop="contentUrl url" src='https://c.tadst.com/gfx/1200x630/full-moon-peeking-tree-branches-fog.jpg?1' alt='What Is a Blue Moon?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time and Date" />
+                                </span>
+                                <a href='https://c.tadst.com/gfx/1200x630/full-moon-peeking-tree-branches-fog.jpg?1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See the Rare Super Blue Moon in Photos | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2024/08/super-blue-moon-2024-china.jpg' alt='See the Rare Super Blue Moon in Photos | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2024/08/super-blue-moon-2024-china.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What a blue Moon is and when the next one is visible | BBC Sky at ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2021/05/blue-moon.jpg' alt='What a blue Moon is and when the next one is visible | BBC Sky at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2021/05/blue-moon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Blue Moon Images – Browse 74,725 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/69/77/79/360_F_1169777982_ZFeDtXoQY185cg2rvhZcVNMVKsKpRJmQ.jpg' alt='Midnight Blue Moon Images – Browse 74,725 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/69/77/79/360_F_1169777982_ZFeDtXoQY185cg2rvhZcVNMVKsKpRJmQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What a blue Moon is and when the next one is visible | BBC Sky at ...">
+                                <img itemprop="contentUrl url" src='https://c02.purpledshub.com/uploads/sites/48/2020/09/GettyImages-680783485-b0c48be.jpg' alt='What a blue Moon is and when the next one is visible | BBC Sky at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2127">
+                                <meta itemprop="height" content="1410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC Sky at Night Magazine" />
+                                </span>
+                                <a href='https://c02.purpledshub.com/uploads/sites/48/2020/09/GettyImages-680783485-b0c48be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midnight Blue Moon Images – Browse 74,725 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/46/45/77/360_F_946457732_8DBdHyRqVBbGxh5ul6sKyV5XtuZsUXkf.jpg' alt='Midnight Blue Moon Images – Browse 74,725 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/46/45/77/360_F_946457732_8DBdHyRqVBbGxh5ul6sKyV5XtuZsUXkf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Rare Blue Moon Will Grace Texas Skies This August">
+                                <img itemprop="contentUrl url" src='https://offloadmedia.feverup.com/secretdallas.com/wp-content/uploads/2024/08/02071002/FotoJet-44.jpg' alt='A Rare Blue Moon Will Grace Texas Skies This August'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secret Dallas" />
+                                </span>
+                                <a href='https://offloadmedia.feverup.com/secretdallas.com/wp-content/uploads/2024/08/02071002/FotoJet-44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

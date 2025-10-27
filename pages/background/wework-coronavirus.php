@@ -1,0 +1,129 @@
+<title>WeWork & COVID-19: Adapting to New Work Trends</title>
+                    <meta name="description" content="Explore how WeWork navigated the challenges posed by COVID-19. Discover the company's strategies for adaptability, including enhanced health protocols and flexible leasing, to meet the evolving needs of businesses in a post-pandemic world.">
+                    <meta name="keywords" content="wework coronavirus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wework-coronavirus">
+                            <span itemprop="name">wework coronavirus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WeWork & COVID-19: Adapting to New Work Trends</h1>
+                <p>WeWork faced significant challenges during the coronavirus pandemic, as many companies shifted to remote work. With a decrease in demand for shared office spaces, WeWork adapted by enhancing health protocols, offering flexible leasing options, and focusing on safety measures. The company's future now hinges on a hybrid workspace model.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WeWork Response to COVID-19 (Novel Coronavirus) | WeWork">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/ideas/wp-content/uploads/sites/4/2022/05/Web_72DPI-GATEWAY_1_Hot_Seats_1013.jpg' alt='WeWork Response to COVID-19 (Novel Coronavirus) | WeWork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/ideas/wp-content/uploads/sites/4/2022/05/Web_72DPI-GATEWAY_1_Hot_Seats_1013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coronavirus May Kill WeWork">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5e715db6aa542800075a36f6/Coronavirus-May-Kill-WeWork-WeWork-faces-infections--office-closures-and-a-business/0x0.jpg?format=jpg&crop=2865,1500,x363,y0,safe&height=1500&width=2865' alt='Coronavirus May Kill WeWork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2865">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5e715db6aa542800075a36f6/Coronavirus-May-Kill-WeWork-WeWork-faces-infections--office-closures-and-a-business/0x0.jpg?format=jpg&crop=2865,1500,x363,y0,safe&height=1500&width=2865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WeWork proposes layout changes for its post-pandemic offices - The ...">
+                                <img itemprop="contentUrl url" src='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6P5C5TUWII6VLM3EVHMTGMTXQ.jpg' alt='WeWork proposes layout changes for its post-pandemic offices - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6P5C5TUWII6VLM3EVHMTGMTXQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reimagining work in the era of COVID-19 - Ideas (en-GB)">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/en-GB/ideas/wp-content/uploads/sites/11/2020/06/Web_150DPI-20150208_WeWork_Covid-Response_712_header.jpg?fit=1120%2C630' alt='Reimagining work in the era of COVID-19 - Ideas (en-GB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/en-GB/ideas/wp-content/uploads/sites/11/2020/06/Web_150DPI-20150208_WeWork_Covid-Response_712_header.jpg?fit=1120%2C630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A note on WeWork's approach to the coronavirus - WeWork Newsroom">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/03/Web_150DPI-20191209_WeWork_101-North-1st-Ave-Phoenix_007_Twitter.jpg?fit=1024%2C576' alt='A note on WeWork's approach to the coronavirus - WeWork Newsroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/03/Web_150DPI-20191209_WeWork_101-North-1st-Ave-Phoenix_007_Twitter.jpg?fit=1024%2C576' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How WeWork earned a certificate for COVID-19 response plans">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/ideas/wp-content/uploads/sites/4/2021/03/Web_150DPI-20210123-Gotham-Center-Brand-Shoot-Shot-8-0045_final_v1-1.jpg?fit=1120%2C630' alt='How WeWork earned a certificate for COVID-19 response plans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/ideas/wp-content/uploads/sites/4/2021/03/Web_150DPI-20210123-Gotham-Center-Brand-Shoot-Shot-8-0045_final_v1-1.jpg?fit=1120%2C630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top three HVAC questions in the time of COVID-19 - Ideas (en-GB)">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/en-GB/ideas/wp-content/uploads/sites/11/2020/06/Web_150DPI-20191030_WeWork_1460-Mission-St_San-Francisco_014_v1.jpg?fit=1120%2C630' alt='Top three HVAC questions in the time of COVID-19 - Ideas (en-GB)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/en-GB/ideas/wp-content/uploads/sites/11/2020/06/Web_150DPI-20191030_WeWork_1460-Mission-St_San-Francisco_014_v1.jpg?fit=1120%2C630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How WeWork updated our global spaces amid COVID-19">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/09/Web_150DPI-20191203_WeWork_511-W-25th-St-NYC_010_v1.jpg?fit=1120%2C630' alt='How WeWork updated our global spaces amid COVID-19'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/09/Web_150DPI-20191203_WeWork_511-W-25th-St-NYC_010_v1.jpg?fit=1120%2C630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WeWork Food Labs members rally during the coronavirus crisis">
+                                <img itemprop="contentUrl url" src='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/04/ARowley_TheLuupe_WeWorkFoodLabs_012620_0316_ret_ACDR01_v1.jpg?fit=1120%2C630' alt='WeWork Food Labs members rally during the coronavirus crisis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeWork" />
+                                </span>
+                                <a href='https://www.wework.com/ideas/wp-content/uploads/sites/4/2020/04/ARowley_TheLuupe_WeWorkFoodLabs_012620_0316_ret_ACDR01_v1.jpg?fit=1120%2C630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How WeWork coworking space survived the coronavirus pandemic | Vox">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22190204/GettyImages_1225517584.jpg?quality=90&strip=all&crop=16.663235899547,0,66.673528200906,100' alt='How WeWork coworking space survived the coronavirus pandemic | Vox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3206">
+                                <meta itemprop="height" content="3239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22190204/GettyImages_1225517584.jpg?quality=90&strip=all&crop=16.663235899547,0,66.673528200906,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Slytherin Phone Wallpapers: Capture Your House Spirit</title>
+                    <meta name="description" content="Discover captivating Slytherin phone wallpapers to express your Hogwarts house pride! Our collection features sleek designs and vibrant imagery, perfect for fans of cunning and ambition. Personalize your mobile device with unique Slytherin-themed backgrounds. Download now and show your allegiance!">
+                    <meta name="keywords" content="slytherin wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/slytherin-wallpaper-phone">
+                            <span itemprop="name">slytherin wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Slytherin Phone Wallpapers: Capture Your House Spirit</h1>
+                <p>Transform your phone with stunning Slytherin wallpaper! Featuring the iconic green and silver colors, these wallpapers channel cunning and ambition, perfect for any Harry Potter fan. Whether you prefer sleek designs or vibrant depictions of the Slytherin crest, there's a wallpaper to match your style. Elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Slytherin Wallpaper Options For Your Phone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/f6/af/f7f6af831145ad88d351cbda1c20fc5c.jpg' alt='30+ Free Slytherin Wallpaper Options For Your Phone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/f6/af/f7f6af831145ad88d351cbda1c20fc5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I was looking for a classy Slytherin iphone wallpaper but I couldn ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a4ooe925ew351.png?auto=webp&s=d981d11126a972b47c0cb6e49c3fe9cb9fd7a8ae' alt='I was looking for a classy Slytherin iphone wallpaper but I couldn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a4ooe925ew351.png?auto=webp&s=d981d11126a972b47c0cb6e49c3fe9cb9fd7a8ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Slytherin Backgrounds for your iPhone! - Prada & Pearls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/e2/f7/c7e2f7c5209dbdf146039397e35d9100.jpg' alt='30+ Free Slytherin Backgrounds for your iPhone! - Prada & Pearls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/e2/f7/c7e2f7c5209dbdf146039397e35d9100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Slytherin wallpaper set designed by me : r/Design">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/slytherin-wallpaper-set-designed-by-me-v0-q2z88arruxac1.png?width=1170&format=png&auto=webp&s=3f88b344c12977f80b5019458974dec665a39115' alt='  Slytherin wallpaper set designed by me : r/Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/slytherin-wallpaper-set-designed-by-me-v0-q2z88arruxac1.png?width=1170&format=png&auto=webp&s=3f88b344c12977f80b5019458974dec665a39115' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Slytherin Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/slytherin-phone-wqc9mkzmcwzlq0bt.jpg' alt='100+] Slytherin Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/slytherin-phone-wqc9mkzmcwzlq0bt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Slytherin Traits Phone Wallpaper by emily-corene on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cfdc50d-9688-4b0b-95eb-c7d1411f6403/d7yljq6-df6a0105-493a-4976-85c8-8155859e012e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjZmRjNTBkLTk2ODgtNGIwYi05NWViLWM3ZDE0MTFmNjQwM1wvZDd5bGpxNi1kZjZhMDEwNS00OTNhLTQ5NzYtODVjOC04MTU1ODU5ZTAxMmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B8KJsQYNQKsxQBbtEQlACIhtm1Bu3UYHCH5F-EBPP9U' alt='HD Slytherin Traits Phone Wallpaper by emily-corene on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cfdc50d-9688-4b0b-95eb-c7d1411f6403/d7yljq6-df6a0105-493a-4976-85c8-8155859e012e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjZmRjNTBkLTk2ODgtNGIwYi05NWViLWM3ZDE0MTFmNjQwM1wvZDd5bGpxNi1kZjZhMDEwNS00OTNhLTQ5NzYtODVjOC04MTU1ODU5ZTAxMmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B8KJsQYNQKsxQBbtEQlACIhtm1Bu3UYHCH5F-EBPP9U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slytherin Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/9b/51/4a9b51c06f319f9820b78254877b47f0.jpg' alt='Slytherin Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/9b/51/4a9b51c06f319f9820b78254877b47f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Experience the power of the magical wizarding world with ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/slytherin-phone-8t4hbpoljknn00xw.jpg' alt='Download "Experience the power of the magical wizarding world with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/slytherin-phone-8t4hbpoljknn00xw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slytherin, harry potter, slytherin, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/161/392/HD-wallpaper-slytherin-harry-potter-slytherin.jpg' alt='Slytherin, harry potter, slytherin, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/161/392/HD-wallpaper-slytherin-harry-potter-slytherin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slytherin - Phone Wallpaper :) : r/harrypotter">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dl6dez1842071.jpg' alt='Slytherin - Phone Wallpaper :) : r/harrypotter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dl6dez1842071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cosmic Neon Galaxy Moon Wallpaper</title>
+                    <meta name="description" content="Elevate your screen with captivating neon galaxy moon wallpaper! Perfect for those who love vibrant cosmic designs, this wallpaper brings a blend of neon hues and celestial beauty to your device. Download now for a unique, mesmerizing look that’s sure to impress!">
+                    <meta name="keywords" content="neon galaxy moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/neon-galaxy-moon-wallpaper">
+                            <span itemprop="name">neon galaxy moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cosmic Neon Galaxy Moon Wallpaper</h1>
+                <p>Transform your device with stunning neon galaxy moon wallpaper! This breathtaking design combines vibrant neon colors with a cosmic backdrop, featuring luminous moons against galaxies filled with stars. Ideal for adding a touch of cosmic wonder to your screen, these wallpapers are perfect for astronomy lovers and art enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow In The Dark Neon Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glow-in-the-dark-neon-moon-awjtk471vzxi96t8.jpg' alt='Glow In The Dark Neon Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glow-in-the-dark-neon-moon-awjtk471vzxi96t8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_570xN.3568639508_ksjo.jpg' alt='Celestial Neon Ring Moons Digital Wallpaper Download - iPhone/Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30152599/r/il/4f24ff/3568639508/il_570xN.3568639508_ksjo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Moon - IPhone Wallpapers : iPhone Wallpapers | Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/ca/bc/b2cabccd0d800d46c3f50c41f6f0b0e7.jpg' alt='Super Moon - IPhone Wallpapers : iPhone Wallpapers | Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/ca/bc/b2cabccd0d800d46c3f50c41f6f0b0e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Moon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-moon-purple-storm-wiaypengp1qytkab.jpg' alt='100+] Neon Moon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-moon-purple-storm-wiaypengp1qytkab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Wolf With Neon Moon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-wolf-with-neon-moon-zhmebs9teu9kd7qa.jpg' alt='Download Galaxy Wolf With Neon Moon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-wolf-with-neon-moon-zhmebs9teu9kd7qa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Moon Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dramatic-neon-moon-9w4cg82k11qbv30p.jpg' alt='Neon Moon Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dramatic-neon-moon-9w4cg82k11qbv30p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neon moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/703/768/HD-wallpaper-planet-alperen-batin-earth-galaxy-iphone-x-moon-neon-star-universe-thumbnail.jpg' alt='HD neon moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/703/768/HD-wallpaper-planet-alperen-batin-earth-galaxy-iphone-x-moon-neon-star-universe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanting Neon Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/magical-neon-moon-i9o8wbbuag6pp8xb.webp' alt='Enchanting Neon Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/magical-neon-moon-i9o8wbbuag6pp8xb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Neon Galaxy Moon, World, Purple, Nature, Art, Background ...">
+                                <img itemprop="contentUrl url" src='https://img1.wallspic.com/previews/8/0/4/5/6/165408/165408-neon_galaxy_moon-world-purple-nature-art-x750.jpg' alt='Wallpaper Neon Galaxy Moon, World, Purple, Nature, Art, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img1.wallspic.com/previews/8/0/4/5/6/165408/165408-neon_galaxy_moon-world-purple-nature-art-x750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Neon Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/romantic-neon-moon-hr484v2bxx7c85op.jpg' alt='Romantic Neon Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/romantic-neon-moon-hr484v2bxx7c85op.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Powerful Quotes from "The Yellow Wallpaper"</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="the yellow wallpaper quotes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/the-yellow-wallpaper-quotes">
+                            <span itemprop="name">the yellow wallpaper quotes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Powerful Quotes from "The Yellow Wallpaper"</h1>
+                <p>In Charlotte Perkins Gilman's "The Yellow Wallpaper," haunting quotes illuminate the struggle against oppression. Lines like "I don’t want to make myself sick" capture the narrator’s descent into madness, while "There is no reason to suffer like this" reflect her desperate fight for freedom and self-identity within confining societal norms.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writer's Quote Wednesday. This weeks Writer's Quote Wednesday is ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*i7pQr2a9PWxIaoZL.jpg' alt='Writer's Quote Wednesday. This weeks Writer's Quote Wednesday is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lisa Marie Blair - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*i7pQr2a9PWxIaoZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Quote: Nobody Knows But Me | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3346204721.4925/fposter,small,wall_texture,product,750x1000.jpg' alt='The Yellow Wallpaper Quote: Nobody Knows But Me | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3346204721.4925/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bookquotes – Casey Carlisle">
+                                <img itemprop="contentUrl url" src='https://strokingfire.wordpress.com/wp-content/uploads/2019/06/bq-the-yellow-wallpaper-by-casey-carlisle.jpg?w=620' alt='bookquotes – Casey Carlisle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Casey Carlisle - WordPress.com" />
+                                </span>
+                                <a href='https://strokingfire.wordpress.com/wp-content/uploads/2019/06/bq-the-yellow-wallpaper-by-casey-carlisle.jpg?w=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book Review: The Yellow Wallpaper (Charlotte Perkins Gilman ...">
+                                <img itemprop="contentUrl url" src='https://booksandbluess.co.in/wp-content/uploads/2021/05/your_custom_beautiful_quotes_here.jpg' alt='Book Review: The Yellow Wallpaper (Charlotte Perkins Gilman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Books and blues" />
+                                </span>
+                                <a href='https://booksandbluess.co.in/wp-content/uploads/2021/05/your_custom_beautiful_quotes_here.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman Quote: “It is the strangest yellow, that ...">
+                                <img itemprop="contentUrl url" src='https://quotefancy.com/media/wallpaper/3840x2160/6420550-Charlotte-Perkins-Gilman-Quote-It-is-the-strangest-yellow-that.jpg' alt='Charlotte Perkins Gilman Quote: “It is the strangest yellow, that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="QuoteFancy" />
+                                </span>
+                                <a href='https://quotefancy.com/media/wallpaper/3840x2160/6420550-Charlotte-Perkins-Gilman-Quote-It-is-the-strangest-yellow-that.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Quote: Nobody Knows But Me | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3346204948.4925/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='The Yellow Wallpaper Quote: Nobody Knows But Me | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3346204948.4925/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlotte Perkins Gilman, 'The Yellow Wallpaper' #quotes #… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4668/38874656364_67314988fe_z.jpg' alt='Charlotte Perkins Gilman, 'The Yellow Wallpaper' #quotes #… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4668/38874656364_67314988fe_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/e2/f1/bd/e2f1bd6a26d4bd9dd0d2853bed50f6d3.jpg' alt='The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/e2/f1/bd/e2f1bd6a26d4bd9dd0d2853bed50f6d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Penguin Little Black Classics 'The Yellow Wall-Paper' by Charlotte ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/57/01/70570167d4b8d25eb52b5ed56fedadb3.jpg' alt='Penguin Little Black Classics 'The Yellow Wall-Paper' by Charlotte ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/57/01/70570167d4b8d25eb52b5ed56fedadb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Quote: Life is very much more exciting | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3346283429.6978/fposter,small,wall_texture,product,750x1000.jpg' alt='The Yellow Wallpaper Quote: Life is very much more exciting | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3346283429.6978/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

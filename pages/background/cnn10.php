@@ -1,0 +1,129 @@
+<title>CNN10: Essential News for Young Minds</title>
+                    <meta name="description" content="Discover CNN10, the news program designed for students! Get essential updates on global events in a youth-friendly format. Stay informed and engaged with clear, concise reporting tailored for young viewers. Perfect for promoting awareness and critical thinking in today's fast-paced world.">
+                    <meta name="keywords" content="cnn10">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cnn10">
+                            <span itemprop="name">cnn10</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CNN10: Essential News for Young Minds</h1>
+                <p>CNN10 is an engaging news program tailored for a younger audience, delivering essential current events and global stories. Each episode distills complex topics into digestible segments, encouraging critical thinking and fostering a well-informed youth. With a focus on clarity, CNN10 empowers students to stay updated on world affairs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN 10 | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/whitecnn-10-final-logo.png?c=original&q=w_1050,c_fill' alt='CNN 10 | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/whitecnn-10-final-logo.png?c=original&q=w_1050,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN 10 - Podcast on CNN Audio">
+                                <img itemprop="contentUrl url" src='https://www.cnn.com/audio/static/images/podcasts/cnn-10/wide.564bed90.jpg' alt='CNN 10 - Podcast on CNN Audio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://www.cnn.com/audio/static/images/podcasts/cnn-10/wide.564bed90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN 10 - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_mlen-VEu5MtFD19Kofini2c8f6SM_IH1XdM_Ry_z5Nmaw=s900-c-k-c0x00ffffff-no-rj' alt='CNN 10 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_mlen-VEu5MtFD19Kofini2c8f6SM_IH1XdM_Ry_z5Nmaw=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teaching Methods and Assessments to Use with CNN10 News Videos">
+                                <img itemprop="contentUrl url" src='http://civiceducator.org/wp-content/uploads/2017/09/CNN10-Screenshot.png' alt='Teaching Methods and Assessments to Use with CNN10 News Videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="745">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Civic Educator" />
+                                </span>
+                                <a href='http://civiceducator.org/wp-content/uploads/2017/09/CNN10-Screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is CNN 10? | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/170113153322-cnn10-logo-only.png?c=original' alt='What is CNN 10? | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/170113153322-cnn10-logo-only.png?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN 10 | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/220910150339-cnn-10-out-of-10.jpg?c=16x9&q=w_800,c_fill' alt='CNN 10 | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/220910150339-cnn-10-out-of-10.jpg?c=16x9&q=w_800,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kicking Off Coverage | January 10, 2022">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ljsKbEpoP84/maxresdefault.jpg' alt='Kicking Off Coverage | January 10, 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ljsKbEpoP84/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ponderosa Mention on CNN 10 | Ponderosa Middle School">
+                                <img itemprop="contentUrl url" src='https://core-docs.s3.amazonaws.com/klamath_falls_city_schools_ar/article/image/large_c7325cda-570b-4970-bd29-3dc24de80c7e.png' alt='Ponderosa Mention on CNN 10 | Ponderosa Middle School'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Klamath Falls City Schools" />
+                                </span>
+                                <a href='https://core-docs.s3.amazonaws.com/klamath_falls_city_schools_ar/article/image/large_c7325cda-570b-4970-bd29-3dc24de80c7e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE RETURN OF CNN 10 | August 14, 2023">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QvpTiq398JI/maxresdefault.jpg' alt='THE RETURN OF CNN 10 | August 14, 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QvpTiq398JI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CNN 10 | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/coy-10.jpeg?c=16x9&q=h_270,w_480,c_fill' alt='CNN 10 | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/coy-10.jpeg?c=16x9&q=h_270,w_480,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

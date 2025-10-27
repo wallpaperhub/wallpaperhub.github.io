@@ -1,0 +1,129 @@
+<title>Stylish Tile Wallpapers for Your Desktop | Customize Your Space</title>
+                    <meta name="description" content="Add a fresh touch to your desktop with trendy tile wallpapers. Discover unique patterns and vibrant colors that make your workspace inspiring. Perfect for creative minds, our collection enhances your computer’s appeal effortlessly. Refresh your desktop with stunning tile designs today!">
+                    <meta name="keywords" content="tile wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/tile-wallpaper-desktop">
+                            <span itemprop="name">tile wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Tile Wallpapers for Your Desktop | Customize Your Space</h1>
+                <p>Tile wallpaper desktop is a stylish and modern way to customize your computer’s background. With a variety of patterns and colors, tile wallpapers can enhance your workspace and inspire creativity. From geometric designs to nature motifs, they cater to every preference. Explore stunning options to refresh your desktop now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Tile Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGlsZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' alt='1000+ Tile Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGlsZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Fashioned Tiled Wallpaper | Trisquel GNU/Linux - Run free!">
+                                <img itemprop="contentUrl url" src='https://trisquel.info/files/awesome_bg_0.png' alt='Old Fashioned Tiled Wallpaper | Trisquel GNU/Linux - Run free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="264">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trisquel GNU/Linux" />
+                                </span>
+                                <a href='https://trisquel.info/files/awesome_bg_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tile-tujmxunr92wno4nh.jpg' alt='100+] Tile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tile-tujmxunr92wno4nh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tile Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tile-iel0lk4xjszckxen.jpg' alt='100+] Tile Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tile-iel0lk4xjszckxen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiles by Susanlu4esm">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/103/1039671.jpg' alt='Tiles by Susanlu4esm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/103/1039671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Tile Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-golden-stars-background-tile-seamless-background-image_558825.jpg' alt='Golden Tile Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210207/pngtree-golden-stars-background-tile-seamless-background-image_558825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tile wallpapers fit any computer! - wallpapers post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/nxI5a9i.jpeg' alt='Tile wallpapers fit any computer! - wallpapers post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/nxI5a9i.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tile wallpapers fit any computer! - wallpapers post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/4bChYnq.jpeg' alt='Tile wallpapers fit any computer! - wallpapers post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/4bChYnq.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ok, now I made a tiled desktop wallpaper of the whole cast! : r ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/LrhrJXP.jpg' alt='Ok, now I made a tiled desktop wallpaper of the whole cast! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/LrhrJXP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Fashioned Tiled Wallpaper | Trisquel GNU/Linux - Run free!">
+                                <img itemprop="contentUrl url" src='https://trisquel.info/files/Screenshot%20-%2001172016%20-%2001:47:06%20PM.png' alt='Old Fashioned Tiled Wallpaper | Trisquel GNU/Linux - Run free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trisquel GNU/Linux" />
+                                </span>
+                                <a href='https://trisquel.info/files/Screenshot%20-%2001172016%20-%2001:47:06%20PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Dark Anime Lock Screen Wallpapers: Intricate Designs & Aesthetic Appeal</title>
+                    <meta name="description" content="Explore a stunning selection of dark anime wallpapers to elevate your lock screen. Perfectly designed for anime fans, these wallpapers combine artistry with your personal style, offering a unique look that stands out on mobile devices. Download now to transform your screen with captivating anime visuals!">
+                    <meta name="keywords" content="lock screen dark anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-dark-anime-wallpaper">
+                            <span itemprop="name">lock screen dark anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Anime Lock Screen Wallpapers: Intricate Designs & Aesthetic Appeal</h1>
+                <p>Transform your device's aesthetic with dark anime wallpapers for your lock screen. Featuring striking visuals and captivating characters, these wallpapers create an immersive experience that resonates with anime lovers. Discover a collection that enhances your screen's look while reflecting your unique style and passion for the genre.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Anime lock screen wallpapers ideas | anime lock screen, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/9d/36/bc9d36cf8343715a20e9f26d89ce69d0.jpg' alt='8 Anime lock screen wallpapers ideas | anime lock screen, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/9d/36/bc9d36cf8343715a20e9f26d89ce69d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/284/393/HD-wallpaper-dark-anime.jpg' alt='Dark, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/284/393/HD-wallpaper-dark-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by hannah on Simple Anime Wallpapers :) | Anime lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/04/cb/d704cb7c4ca86546d44accf2193ca85d.jpg' alt='Pin by hannah on Simple Anime Wallpapers :) | Anime lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/04/cb/d704cb7c4ca86546d44accf2193ca85d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a3/5c/a0/a35ca06111cb2d8bfdbd6addec8fee87.jpg' alt='anime wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a3/5c/a0/a35ca06111cb2d8bfdbd6addec8fee87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper ; lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/55/21/075521c0ed9937991a178dd33a982692.jpg' alt='wallpaper ; lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/55/21/075521c0ed9937991a178dd33a982692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black glitch wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/375/724/HD-wallpaper-uchiha-itachi-anime-black-glitch-naruto.jpg' alt='HD black glitch wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/375/724/HD-wallpaper-uchiha-itachi-anime-black-glitch-naruto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lock Screen Pirate King Luffy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-lock-screen-pirate-king-luffy-lbklvosuh5eow741.jpg' alt='Anime Lock Screen Pirate King Luffy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-lock-screen-pirate-king-luffy-lbklvosuh5eow741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Makes a wonderful lock screen wallpaper for dark mode users. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2hxh8bb7o8471.jpg?auto=webp&s=7bbd9580609e50530e5f2dc26391f0792c208b5a' alt='Makes a wonderful lock screen wallpaper for dark mode users. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2hxh8bb7o8471.jpg?auto=webp&s=7bbd9580609e50530e5f2dc26391f0792c208b5a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime eyes, black, screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/593/380/HD-wallpaper-anime-eyes-black-screen.jpg' alt='Anime eyes, black, screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/593/380/HD-wallpaper-anime-eyes-black-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto wallpaper | Anime lock screen wallpapers, Recent anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/f5/81/3af581b84ec7ecb349d68811d00a7417.jpg' alt='Naruto wallpaper | Anime lock screen wallpapers, Recent anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/f5/81/3af581b84ec7ecb349d68811d00a7417.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

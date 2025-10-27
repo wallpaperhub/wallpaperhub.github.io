@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic VSCO Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the perfect aesthetic VSCO wallpapers to personalize your device. Explore vibrant designs, soft pastels, and minimalist visuals that embody the trending VSCO culture. Elevate your screen with stunning wallpapers that showcase your unique style and vibe!">
+                    <meta name="keywords" content="aesthetic vsco wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-vsco-wallpaper">
+                            <span itemprop="name">aesthetic vsco wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic VSCO Wallpapers for Your Device</h1>
+                <p>Aesthetic VSCO wallpapers elevate your digital space, combining vibrant colors and dreamy visuals for a trendy aesthetic. These wallpapers feature nature-inspired elements, soft pastels, and minimalist designs that capture the essence of VSCO culture. Personalize your device with a stunning wallpaper that reflects your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VSCO Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/6e/a6/146ea697e572447994471b6d222b609c.jpg' alt='VSCO Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/6e/a6/146ea697e572447994471b6d222b609c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Vsco Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/no-bad-feelings-aesthetic-vsco-collage-e7987grtbe0l84ra.jpg' alt='Aesthetic Vsco Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/no-bad-feelings-aesthetic-vsco-collage-e7987grtbe0l84ra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vsco wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/e5/f0/31e5f0a19184a9c804854072093379ca.jpg' alt='vsco wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/e5/f0/31e5f0a19184a9c804854072093379ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic VSCO Collage Clashing Patterns Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-vsco-collage-clashing-patterns-0ddccrtagvx7fqrn.jpg' alt='Download Aesthetic VSCO Collage Clashing Patterns Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-vsco-collage-clashing-patterns-0ddccrtagvx7fqrn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vsco Pink Yeeted Cover Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-vsco-collage-with-orange-theme-8uuoluycjg9ldnf2.webp' alt='Vsco Pink Yeeted Cover Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-vsco-collage-with-orange-theme-8uuoluycjg9ldnf2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Vsco Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/you-re-doing-great-aesthetic-vsco-hjcbvd905k4knjvo.jpg' alt='200+] Vsco Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/you-re-doing-great-aesthetic-vsco-hjcbvd905k4knjvo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute vsco wallpapers-347">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/97/e7/8d97e77472b1e9d29384e0b9b779b3a9.jpg' alt='Cute vsco wallpapers-347'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/97/e7/8d97e77472b1e9d29384e0b9b779b3a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wavy Background Aesthetic Vsco Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-wavy-background-aesthetic-vsco-ysw9cq5xz9ht8tqb.jpg' alt='Vintage Wavy Background Aesthetic Vsco Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-wavy-background-aesthetic-vsco-ysw9cq5xz9ht8tqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 9 Secrets About Vsco Iphone Backgrounds Only A Handful… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/50153469322_c6244c08ee_b.jpg' alt='The 9 Secrets About Vsco Iphone Backgrounds Only A Handful… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/50153469322_c6244c08ee_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vsco summer wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c5/66/7e/c5667e414f18c942f252d4054477dcc0.jpg' alt='Vsco summer wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c5/66/7e/c5667e414f18c942f252d4054477dcc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Alien Planet Wonders: Exotic Backgrounds Unveiled</title>
+                    <meta name="description" content="Explore the captivating backgrounds of alien planets where surreal landscapes and mysterious life forms challenge our understanding of the universe. Dive into vibrant skies, unique ecosystems, and the endless possibilities of extraterrestrial environments. Join us in uncovering these otherworldly marvels!">
+                    <meta name="keywords" content="alien planet background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alien-planet-background">
+                            <span itemprop="name">alien planet background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Alien Planet Wonders: Exotic Backgrounds Unveiled</h1>
+                <p>On distant alien planets, landscapes defy imagination. Vivid skies painted in hues of purple and teal, towering crystalline structures, and oceans of liquid methane create mesmerizing backdrops. Unique flora and fauna thrive under different atmospheres, challenging our understanding of life. Exploring such worlds expands our horizons beyond Earth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Alien Planet Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300799100/vector/mars-surface-landscape-alien-planet-background-saturn-on-starry-sky-vector-red-desert-with.jpg?s=612x612&w=0&k=20&c=Oz3B32_Q7Jq2dVrq2IB9s8DWZoWgqOKSkGpM7ZQkEWY=' alt='1,100+ Alien Planet Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300799100/vector/mars-surface-landscape-alien-planet-background-saturn-on-starry-sky-vector-red-desert-with.jpg?s=612x612&w=0&k=20&c=Oz3B32_Q7Jq2dVrq2IB9s8DWZoWgqOKSkGpM7ZQkEWY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leyiyi 7x5ft Fantasy Alien Planet Backdrop Outer Space Planets Grunge Rock  Mountains Wild World Galaxy Photo Background Planetarium Decor Kids ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610KtFBuNWL._AC_UF894,1000_QL80_.jpg' alt='Leyiyi 7x5ft Fantasy Alien Planet Backdrop Outer Space Planets Grunge Rock  Mountains Wild World Galaxy Photo Background Planetarium Decor Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610KtFBuNWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space background with silver and pink alien planet landscape ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/07/62/50/65/1000_F_762506535_ZiPNqhYrNPjsqBySYzVsL3dlF2QwF6Dz.jpg' alt='Space background with silver and pink alien planet landscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/07/62/50/65/1000_F_762506535_ZiPNqhYrNPjsqBySYzVsL3dlF2QwF6Dz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,200+ Alien Planet Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/913058614/photo/alien-planet-sci-fi-landscape.jpg?s=612x612&w=0&k=20&c=b-eArQmHmRTX7AbhwuxYFZcZ8x6NdV2lCSuHen0s-Ug=' alt='9,200+ Alien Planet Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/913058614/photo/alien-planet-sci-fi-landscape.jpg?s=612x612&w=0&k=20&c=b-eArQmHmRTX7AbhwuxYFZcZ8x6NdV2lCSuHen0s-Ug=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,710 Alien World Background Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/space-game-vector-background-fantasy-600nw-2270942549.jpg' alt='11,710 Alien World Background Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/space-game-vector-background-fantasy-600nw-2270942549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien Planet World Stock Illustrations – 56,206 Alien Planet World ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mountains-beautiful-transparent-sea-planets-background-elements-image-furnished-nasa-48965761.jpg' alt='Alien Planet World Stock Illustrations – 56,206 Alien Planet World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mountains-beautiful-transparent-sea-planets-background-elements-image-furnished-nasa-48965761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Alien Planet - 3D rendered computer artwork">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/71/02/29/26/700_FO71022926_00f6464400d5ace7d93d8960d4325d9a.jpg,700,485,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,435,jpg)/wall-murals-alien-planet-3d-rendered-computer-artwork.jpg.jpg' alt='Wall Mural Alien Planet - 3D rendered computer artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/71/02/29/26/700_FO71022926_00f6464400d5ace7d93d8960d4325d9a.jpg,700,485,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,435,jpg)/wall-murals-alien-planet-3d-rendered-computer-artwork.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien Planet Backdrop Outer Space Backdrop Abstract Universe Planet Galaxy  Birthday Party Photography Background for Baby Boy Kids Space Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Z-8JC++EL._AC_UF894,1000_QL80_.jpg' alt='Alien Planet Backdrop Outer Space Backdrop Abstract Universe Planet Galaxy  Birthday Party Photography Background for Baby Boy Kids Space Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Z-8JC++EL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,710 Alien World Background Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/alien-planet-surface-futuristic-landscape-600nw-1898962729.jpg' alt='11,710 Alien World Background Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/alien-planet-surface-futuristic-landscape-600nw-1898962729.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien Planet Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42135_WP.jpg' alt='Alien Planet Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42135_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

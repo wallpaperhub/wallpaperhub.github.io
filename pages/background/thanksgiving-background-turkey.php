@@ -1,0 +1,129 @@
+<title>Thanksgiving Turkey Background: The Iconic Symbol of Gratitude</title>
+                    <meta name="description" content="Explore the significance of turkey in Thanksgiving celebrations. Learn about its historical roots, cultural symbolism, and how it serves as the centerpiece of festive gatherings. Celebrate gratitude and abundance with insights into this beloved tradition.">
+                    <meta name="keywords" content="thanksgiving background turkey">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thanksgiving-background-turkey">
+                            <span itemprop="name">thanksgiving background turkey</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thanksgiving Turkey Background: The Iconic Symbol of Gratitude</h1>
+                <p>Thanksgiving is a cherished holiday in the United States, celebrated with family gatherings and feasts. One of its most iconic symbols is the turkey, often the center of the dining table. This large bird represents abundance and gratitude, embodying the harvest season and the spirit of giving thanks for the blessings of the past year.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,600+ Thanksgiving Turkey Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175226083/vector/turkey-in-a-hat-peeks-out-with-a-pumpkin-and-autumn-leaves-place-for-text-blanche.jpg?s=612x612&w=0&k=20&c=4LlvpvNfF-3PpxCszmNUvEvSrhZnQNLHBmpyMj7bS5M=' alt='4,600+ Thanksgiving Turkey Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175226083/vector/turkey-in-a-hat-peeks-out-with-a-pumpkin-and-autumn-leaves-place-for-text-blanche.jpg?s=612x612&w=0&k=20&c=4LlvpvNfF-3PpxCszmNUvEvSrhZnQNLHBmpyMj7bS5M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Background Turkey Images – Browse 123,621 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/00/50/68/360_F_300506870_8bk8Xtlb1gUaPUQo3QxzqZVBqQuKmUuk.jpg' alt='Thanksgiving Background Turkey Images – Browse 123,621 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/00/50/68/360_F_300506870_8bk8Xtlb1gUaPUQo3QxzqZVBqQuKmUuk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Thanksgiving Turkey Background - Cute Thanksgiving Turkey ...">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/backgrounds/thanksgiving/cute-thanksgiving-turkey-background.png' alt='Cute Thanksgiving Turkey Background - Cute Thanksgiving Turkey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/backgrounds/thanksgiving/cute-thanksgiving-turkey-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Thanksgiving background with happy turkey">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/thanksgiving-background-with-happy-turkey_52683-47383.jpg' alt='Free Vector | Thanksgiving background with happy turkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/thanksgiving-background-with-happy-turkey_52683-47383.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Turkey Round Backdrop Cover Happy Thanksgiving Day Round Backdrop  Cover (No Stand) Rustic Wood Pumpkin Maple Background Party Supplies ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61MY64qD10L._AC_UF894,1000_QL80_.jpg' alt='Cute Turkey Round Backdrop Cover Happy Thanksgiving Day Round Backdrop  Cover (No Stand) Rustic Wood Pumpkin Maple Background Party Supplies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61MY64qD10L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cartoon Turkey Pilgrim With Hat On Orange Gradient Background ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1279795096/vector/cute-cartoon-turkey-pilgrim-with-hat-on-orange-gradient-background-thanksgiving-poster.jpg?s=1024x1024&w=is&k=20&c=D0SzyWVWj4CVBU6I5N0ZC-UjhDkzDxxIln25nFUbWOM=' alt='Cute Cartoon Turkey Pilgrim With Hat On Orange Gradient Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1279795096/vector/cute-cartoon-turkey-pilgrim-with-hat-on-orange-gradient-background-thanksgiving-poster.jpg?s=1024x1024&w=is&k=20&c=D0SzyWVWj4CVBU6I5N0ZC-UjhDkzDxxIln25nFUbWOM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Turkey Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/thanksgiving-turkey-dinner-above-view-260nw-2516951893.jpg' alt='Thanksgiving Turkey Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/thanksgiving-turkey-dinner-above-view-260nw-2516951893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Flat thanksgiving background with turkey and pumpkins">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-thanksgiving-background-with-turkey-pumpkins_23-2150821212.jpg' alt='Free Vector | Flat thanksgiving background with turkey and pumpkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-thanksgiving-background-with-turkey-pumpkins_23-2150821212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving background with turkey 11373433 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/373/433/non_2x/thanksgiving-background-with-turkey-vector.jpg' alt='Thanksgiving background with turkey 11373433 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/373/433/non_2x/thanksgiving-background-with-turkey-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfectly Roasted Thanksgiving Turkey With Holiday Sides ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20241030/pngtree-perfectly-roasted-thanksgiving-turkey-with-holiday-sides-image_16469200.jpg' alt='Perfectly Roasted Thanksgiving Turkey With Holiday Sides ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20241030/pngtree-perfectly-roasted-thanksgiving-turkey-with-holiday-sides-image_16469200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

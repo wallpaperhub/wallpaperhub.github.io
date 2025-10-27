@@ -1,0 +1,129 @@
+<title>Revera Services: Quality Care for Seniors</title>
+                    <meta name="description" content="Discover Revera Services, where we provide exceptional care tailored for seniors. From assisted living to memory care, our compassionate team focuses on enhancing well-being and delivering personalized support for a fulfilling lifestyle. Experience the difference with Revera, your trusted partner in senior care.">
+                    <meta name="keywords" content="revera services">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/revera-services">
+                            <span itemprop="name">revera services</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revera Services: Quality Care for Seniors</h1>
+                <p>Revera Services offers comprehensive solutions tailored for seniors, focusing on enhancing quality of life through innovative care and support. With skilled staff and personalized programs, Revera specializes in assisted living, memory care, and rehabilitation services, ensuring a dignified and fulfilling lifestyle for every resident.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revera | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQHAL93V4whMLw/company-logo_200_200/company-logo_200_200/0/1631338503406?e=2147483647&v=beta&t=46SiMljG2zvEayUPJcsMsTwGFzbin_bj7GmhvlWEVlM' alt='Revera | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQHAL93V4whMLw/company-logo_200_200/company-logo_200_200/0/1631338503406?e=2147483647&v=beta&t=46SiMljG2zvEayUPJcsMsTwGFzbin_bj7GmhvlWEVlM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HCN and Revera to Acquire Regal Lifestyle Communities Through ...">
+                                <img itemprop="contentUrl url" src='https://mms.businesswire.com/media/20150618005607/en/473305/5/Revera_FullColour-01.jpg' alt='HCN and Revera to Acquire Regal Lifestyle Communities Through ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Wire" />
+                                </span>
+                                <a href='https://mms.businesswire.com/media/20150618005607/en/473305/5/Revera_FullColour-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Case Study: Revera Living Empowers Hybrid Work with Logitech">
+                                <img itemprop="contentUrl url" src='https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/video-collaboration/resource-center/case-study/revera-living-og-image.jpg?v=1' alt='Case Study: Revera Living Empowers Hybrid Work with Logitech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logitech" />
+                                </span>
+                                <a href='https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/video-collaboration/resource-center/case-study/revera-living-og-image.jpg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Telecom acquires Revera for $96.5 million">
+                                <img itemprop="contentUrl url" src='https://channellife.co.nz/uploads/story/2014/12/05/revera.webp' alt='Telecom acquires Revera for $96.5 million'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ChannelLife New Zealand" />
+                                </span>
+                                <a href='https://channellife.co.nz/uploads/story/2014/12/05/revera.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re Vera Services">
+                                <img itemprop="contentUrl url" src='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2Fcad3c693-e562-4271-a2f8-a66390e82166_hero.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' alt='Re Vera Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.reveraservices.com" />
+                                </span>
+                                <a href='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2Fcad3c693-e562-4271-a2f8-a66390e82166_hero.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re Vera Services">
+                                <img itemprop="contentUrl url" src='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2F4a1ddcc8-ee1a-43b8-aed7-4b29a9fd330f_young-people-in-college-2022-02-02-04-49-33-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' alt='Re Vera Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.reveraservices.com" />
+                                </span>
+                                <a href='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2F4a1ddcc8-ee1a-43b8-aed7-4b29a9fd330f_young-people-in-college-2022-02-02-04-49-33-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revera (Systems and Information Management) 2025 Company Profile ...">
+                                <img itemprop="contentUrl url" src='https://image.pitchbook.com/FzwZF6WiVpuQ82NiI9UKD0ClYrK1674577966917_200x200' alt='Revera (Systems and Information Management) 2025 Company Profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PitchBook" />
+                                </span>
+                                <a href='https://image.pitchbook.com/FzwZF6WiVpuQ82NiI9UKD0ClYrK1674577966917_200x200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re Vera Services">
+                                <img itemprop="contentUrl url" src='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2F539da69a-b697-4be4-8beb-4ae2b85198c9_teacher-with-mature-female-adult-student-using-mob-2022-02-02-04-52-26-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' alt='Re Vera Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.reveraservices.com" />
+                                </span>
+                                <a href='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2F539da69a-b697-4be4-8beb-4ae2b85198c9_teacher-with-mature-female-adult-student-using-mob-2022-02-02-04-52-26-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revera Inc. | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E0BAQElRtTYJObk9w/company-logo_200_200/company-logo_200_200/0/1704990436936/revera_inc_logo?e=2147483647&v=beta&t=KgeBwDbSIPhPjnOtXS9dYLWHoFwcyTSaopqn4rbP-As' alt='Revera Inc. | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E0BAQElRtTYJObk9w/company-logo_200_200/company-logo_200_200/0/1704990436936/revera_inc_logo?e=2147483647&v=beta&t=KgeBwDbSIPhPjnOtXS9dYLWHoFwcyTSaopqn4rbP-As' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re Vera Services">
+                                <img itemprop="contentUrl url" src='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2Fc0ffb353-58fa-4e8a-b85a-bb30c02f8e75_students-14-15-in-classroom-2022-02-02-03-57-11-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' alt='Re Vera Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.reveraservices.com" />
+                                </span>
+                                <a href='https://www.reveraservices.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freveraservices%2Fc0ffb353-58fa-4e8a-b85a-bb30c02f8e75_students-14-15-in-classroom-2022-02-02-03-57-11-utc.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

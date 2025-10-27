@@ -1,0 +1,129 @@
+<title>Stunning Water Clipart for Your Creative Projects</title>
+                    <meta name="description" content="Discover a collection of stunning water clipart to elevate your designs. Perfect for websites, presentations, and print materials, our vibrant images of waves, raindrops, and more add a refreshing touch. Explore now to find the perfect graphics for your creative needs!">
+                    <meta name="keywords" content="water clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/water-clipart">
+                            <span itemprop="name">water clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Water Clipart for Your Creative Projects</h1>
+                <p>Water clipart enhances your designs with vibrant and versatile images of water elements. Whether you need illustrations of waves, raindrops, or serene lakes, quality water clipart can elevate your project’s aesthetic appeal. Perfect for educational materials, websites, and print media, these graphics convey freshness and fluidity effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/74/81/26/360_F_174812600_UjdOR4wCeQeXGG43RwlwfcPbKLD503pL.jpg' alt='Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/74/81/26/360_F_174812600_UjdOR4wCeQeXGG43RwlwfcPbKLD503pL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3500+ Free Water Clipart Images">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/4213/glass-of-water-clipart-original.png' alt='3500+ Free Water Clipart Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2231">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/4213/glass-of-water-clipart-original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220+ Water Bottle Clipart Pictures Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/522999703/vector/water-drop-holding-a-water-bottle.jpg?s=612x612&w=0&k=20&c=ADOasHTyFhN6IsKYZpq-3OFQN0uexBTjN-eUq2DGdCE=' alt='220+ Water Bottle Clipart Pictures Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/522999703/vector/water-drop-holding-a-water-bottle.jpg?s=612x612&w=0&k=20&c=ADOasHTyFhN6IsKYZpq-3OFQN0uexBTjN-eUq2DGdCE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/71/80/64/360_F_871806466_6BByc2znc22ehflIW4XRTYtDd1qLe6cc.jpg' alt='Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/71/80/64/360_F_871806466_6BByc2znc22ehflIW4XRTYtDd1qLe6cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water tap clip art cartoon Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/41/44/water-tap-clip-art-cartoon-vector-1554144.jpg' alt='Water tap clip art cartoon Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/41/44/water-tap-clip-art-cartoon-vector-1554144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Clip Art Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/water-drop-splash-white-background_52465-155.jpg?semt=ais_hybrid' alt='Water Clip Art Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/water-drop-splash-white-background_52465-155.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Water Bottle Stock Illustrations – 28,166 Cartoon Water ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/happy-water-plastic-bottle-cartoon-mascot-character-waving-happy-water-plastic-bottle-cartoon-mascot-character-waving-vector-194025742.jpg' alt='Cartoon Water Bottle Stock Illustrations – 28,166 Cartoon Water ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/happy-water-plastic-bottle-cartoon-mascot-character-waving-happy-water-plastic-bottle-cartoon-mascot-character-waving-vector-194025742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20190820/ourmid/pngtree-drops-of-water-falling-from-the-sky-is-rain-png-image_1694690.jpg' alt='Water Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20190820/ourmid/pngtree-drops-of-water-falling-from-the-sky-is-rain-png-image_1694690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glass Water Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/sticker-glass-water-white-background_1308-76439.jpg' alt='Glass Water Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/sticker-glass-water-white-background_1308-76439.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/30/64/10/360_F_130641020_PpaiSWfFysNiGjw1LLgtxhrCGbmNf09v.jpg' alt='Water Clipart Images – Browse 346,972 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/30/64/10/360_F_130641020_PpaiSWfFysNiGjw1LLgtxhrCGbmNf09v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

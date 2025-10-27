@@ -1,0 +1,129 @@
+<title>Stunning 4K Pattern Wallpapers for Every Screen</title>
+                    <meta name="description" content="Discover a collection of breathtaking 4K pattern wallpapers that bring life to your screens. Perfect for desktops and smartphones, find unique designs that reflect your style and enhance your visual experience. Download your favorite patterns today for crisp, vibrant backgrounds!">
+                    <meta name="keywords" content="4k pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-pattern-wallpaper">
+                            <span itemprop="name">4k pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Pattern Wallpapers for Every Screen</h1>
+                <p>4K pattern wallpapers elevate your digital space with stunning visuals and intricate designs. Featuring vibrant colors and unmatched detail, these wallpapers are perfect for personalizing your devices. Whether you prefer floral, geometric, or abstract patterns, a 4K wallpaper transforms your screen into a mesmerizing canvas, enhancing your viewing experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1800+] Pattern Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pattern-4u7ed6koskqhcez1.jpg' alt='1800+] Pattern Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pattern-4u7ed6koskqhcez1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Wallpaper 4K, Pattern, Spiral, Neon">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/geometric-pattern-spiral-neon-gradient-black-background-5k-2880x1800-1202.png' alt='Geometric Wallpaper 4K, Pattern, Spiral, Neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/geometric-pattern-spiral-neon-gradient-black-background-5k-2880x1800-1202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Artistic Pattern 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/114/1146320.jpg' alt='Download Minimalist Artistic Pattern 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/114/1146320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic 4K Pattern Wallpaper, HD Artist 4K Wallpapers, Images and ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/artistic-4k-pattern_a25lZ2yUmZqaraWkpJRobWllrWdma2U.jpg' alt='Artistic 4K Pattern Wallpaper, HD Artist 4K Wallpapers, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/artistic-4k-pattern_a25lZ2yUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Desktop Wallpapers in 4K (2020) - Hongkiat">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/pattern-wallpapers/01.jpg' alt='Pattern Desktop Wallpapers in 4K (2020) - Hongkiat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/pattern-wallpapers/01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL PATTERN WALLPAPER - Heroscreen | Free image stock. Background ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQti582OgyoW3qMzAIDTVBTKw2bMaBuUviWaU-BQis2zlGWpp1oGR6uguiUjciJLiKlAgdQdBTS9WZ8oNJqodeW6MKSL1qTtllG8Ft5K1IMjxgzycEp7SamXwzBehRUZKqPITW4j0MgFg/s2535/v2-09072021-COOL-PATTERN-HD.png' alt='COOL PATTERN WALLPAPER - Heroscreen | Free image stock. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQti582OgyoW3qMzAIDTVBTKw2bMaBuUviWaU-BQis2zlGWpp1oGR6uguiUjciJLiKlAgdQdBTS9WZ8oNJqodeW6MKSL1qTtllG8Ft5K1IMjxgzycEp7SamXwzBehRUZKqPITW4j0MgFg/s2535/v2-09072021-COOL-PATTERN-HD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1685656440548-d8cad874d5d8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0dGVybiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Pattern Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1685656440548-d8cad874d5d8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0dGVybiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Wallpapers pattern ideas | pattern wallpaper, wallpaper, pattern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/64/94/95/649495ea08176d3cdf958c3ec49786ed.jpg' alt='30 Wallpapers pattern ideas | pattern wallpaper, wallpaper, pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/64/94/95/649495ea08176d3cdf958c3ec49786ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polygon Wallpaper (Iphone) #3520">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/polygon-2560x1440-4k-5k-wallpaper-iphone-wallpaper-triangle-3520.jpg' alt='Polygon Wallpaper (Iphone) #3520'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/polygon-2560x1440-4k-5k-wallpaper-iphone-wallpaper-triangle-3520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Orange Blue Fractal Circles Art Pattern Abstraction ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/colorful_orange_blue_fractal_circles_art_pattern_abstraction_points_background_wallpaper_background_4k_hd_abstract-1440x2560.jpg' alt='Colorful Orange Blue Fractal Circles Art Pattern Abstraction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/colorful_orange_blue_fractal_circles_art_pattern_abstraction_points_background_wallpaper_background_4k_hd_abstract-1440x2560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

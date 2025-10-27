@@ -1,0 +1,129 @@
+<title>Discover Adelle Caballero: Rising Star and Performer</title>
+                    <meta name="description" content="Explore the remarkable journey of Adelle Caballero, a talented performer making waves in the entertainment scene. Learn about her inspiring story and dynamic performances that captivate audiences everywhere. Follow her rise and stay updated on her latest projects and achievements!">
+                    <meta name="keywords" content="adelle caballero">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adelle-caballero">
+                            <span itemprop="name">adelle caballero</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Adelle Caballero: Rising Star and Performer</h1>
+                <p>Adelle Caballero is a rising star known for her dynamic performances and captivating presence. With a unique blend of talent and passion, she has quickly gained popularity in the entertainment industry. Adelle's journey showcases her dedication to her craft, as she continues to inspire audiences with her versatility and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adelle Caballero – NBC New York">
+                                <img itemprop="contentUrl url" src='https://media.nbcnewyork.com/2022/02/Adelle_about_us.jpg?quality=85&strip=all&resize=1200%2C675' alt='Adelle Caballero – NBC New York'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC 4 New York" />
+                                </span>
+                                <a href='https://media.nbcnewyork.com/2022/02/Adelle_about_us.jpg?quality=85&strip=all&resize=1200%2C675' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Adelle Caballero">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063941430389' alt='Profile for Adelle Caballero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063941430389' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Adelle Caballero">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363856170303386' alt='Profile for Adelle Caballero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363856170303386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Adelle Caballero">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1367888546566805' alt='Profile for Adelle Caballero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1367888546566805' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adelle Caballero Age, Bio, NBC, Husband, Net Worth, & More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f8/b6/77/f8b6777cdeaaedd2ecd450aab5b9c7f4.jpg' alt='Adelle Caballero Age, Bio, NBC, Husband, Net Worth, & More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f8/b6/77/f8b6777cdeaaedd2ecd450aab5b9c7f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive | NY1 traffic reporter Adelle Caballero suggests network ...">
+                                <img itemprop="contentUrl url" src='https://pagesix.com/wp-content/uploads/sites/3/2019/10/adelle-caballero-03.jpg?quality=75&strip=all' alt='Exclusive | NY1 traffic reporter Adelle Caballero suggests network ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Six" />
+                                </span>
+                                <a href='https://pagesix.com/wp-content/uploads/sites/3/2019/10/adelle-caballero-03.jpg?quality=75&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Adelle Caballero">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1419695878052738' alt='Profile for Adelle Caballero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1419695878052738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our students had an enriching experience during a visit from Adelle  Caballero, the Traffic Anchor for NBC 4 New York’s “Today in New York”.  Listening to Ms. Caballero captivated our young audience. We ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3323090601775632251' alt='Our students had an enriching experience during a visit from Adelle  Caballero, the Traffic Anchor for NBC 4 New York’s “Today in New York”.  Listening to Ms. Caballero captivated our young audience. We ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3323090601775632251' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adelle Caballero on X: "growing body. You helped make me feel ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DyMGD1jU8AEbCK3.jpg' alt='Adelle Caballero on X: "growing body. You helped make me feel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DyMGD1jU8AEbCK3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roma Torre on X: "So very sad to learn that our veteran traffic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EHXDzIEWwAA6OnE.jpg' alt='Roma Torre on X: "So very sad to learn that our veteran traffic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EHXDzIEWwAA6OnE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

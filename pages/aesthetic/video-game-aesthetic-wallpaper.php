@@ -1,0 +1,129 @@
+<title>Stunning Video Game Aesthetic Wallpapers for Every Gamer</title>
+                    <meta name="description" content="Discover eye-catching video game aesthetic wallpapers to personalize your devices. From vivid landscapes to iconic characters, find the perfect backdrop that showcases your love for gaming and art. Enhance your screen with engaging designs that resonate with your gaming style.">
+                    <meta name="keywords" content="video game aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/video-game-aesthetic-wallpaper">
+                            <span itemprop="name">video game aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Video Game Aesthetic Wallpapers for Every Gamer</h1>
+                <p>Transform your device with captivating video game aesthetic wallpapers that blend nostalgia and creativity. Explore unique designs inspired by various gaming genres, featuring iconic characters, immersive worlds, and vibrant colors. Perfect for gamers and art lovers alike, these wallpapers elevate your screen with style and personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-gaming-0t1xkev44ldbbamw.jpg' alt='100+] Aesthetic Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-gaming-0t1xkev44ldbbamw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/af/ba/7fafbabcbcd449c35779da2211d4c09a.jpg' alt='Video Game Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/af/ba/7fafbabcbcd449c35779da2211d4c09a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8bit Video Game Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/8bit-video-game-retro-aesthetic-iphone-qqbqx8tom6414h34.jpg' alt='8bit Video Game Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/8bit-video-game-retro-aesthetic-iphone-qqbqx8tom6414h34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Retro Gaming Game Over Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/retro-gaming-game-over-aesthetic-ukfklw5rceafjnvq.jpg' alt='Download Retro Gaming Game Over Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/retro-gaming-game-over-aesthetic-ukfklw5rceafjnvq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Artwork: Retro Gaming ideas | retro gaming, retro, video game art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/21/2f/45/212f456c5f7a2bb0c526b4fab543ed3a.jpg' alt='150 Artwork: Retro Gaming ideas | retro gaming, retro, video game art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/21/2f/45/212f456c5f7a2bb0c526b4fab543ed3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Arcade video gaming lo fi aesthetic wallpaper Men ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/arcade-video-gaming-lo-fi-aesthetic-wallpaper-men-playing-games-old-school-machines-2d-vector-cartoon-objects-illustration-purple-lofi-background-90s-retro-album-art-chill-vibes_151150-17774.jpg' alt='Premium Vector | Arcade video gaming lo fi aesthetic wallpaper Men ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/arcade-video-gaming-lo-fi-aesthetic-wallpaper-men-playing-games-old-school-machines-2d-vector-cartoon-objects-illustration-purple-lofi-background-90s-retro-album-art-chill-vibes_151150-17774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Arcade Bliss - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/136/thumb-350-1364878.webp' alt='Retro Arcade Bliss - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/136/thumb-350-1364878.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Ignite Your Gaming Adventure With Aesthetic Gaming ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/ignite-your-gaming-adventure-with-aesthetic-gaming-2hctehynrcog2jy9.webp' alt='Download free Ignite Your Gaming Adventure With Aesthetic Gaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/ignite-your-gaming-adventure-with-aesthetic-gaming-2hctehynrcog2jy9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Aesthetics Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-vaporwave-background_23-2148884184.jpg' alt='Video Game Aesthetics Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-vaporwave-background_23-2148884184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arcade Aesthetic Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/arcade-aesthetic-art-uuade5j481cgrdm9.jpg' alt='Arcade Aesthetic Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/arcade-aesthetic-art-uuade5j481cgrdm9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Star Field Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover mesmerizing star field wallpaper to elevate your room's atmosphere. Our collection features vibrant cosmic designs that inspire creativity and tranquility. Perfect for any space, transform your home or office into an enchanting starry sky experience.">
+                    <meta name="keywords" content="star field wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-field-wallpaper">
+                            <span itemprop="name">star field wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Field Wallpaper for Your Space</h1>
+                <p>Transform your walls into a breathtaking galaxy with star field wallpaper. Perfect for creating a calming ambiance or inspiring creativity, these designs feature stunning cosmic visuals that captivate the imagination. Ideal for bedrooms, offices, or game rooms, embrace the beauty of the universe right in your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More 4k & 8k Starfield Wallpapers (Link in Comments) : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-4k-8k-starfield-wallpapers-link-in-comments-v0-pfisbuzgufjb1.jpg?width=1080&crop=smart&auto=webp&s=501ae406e4c2db7ef36e305497e8f4c4f634968f' alt='More 4k & 8k Starfield Wallpapers (Link in Comments) : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-4k-8k-starfield-wallpapers-link-in-comments-v0-pfisbuzgufjb1.jpg?width=1080&crop=smart&auto=webp&s=501ae406e4c2db7ef36e305497e8f4c4f634968f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gryc86s5ivjb1.jpg' alt='New Official Starfield Wallpaper from Bethesda : r/XboxSeriesX'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gryc86s5ivjb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Space Star Field Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241190/Deep-Space-Star-Field-Wallpaper-Mural.jpg?v=638164808998800000' alt='Deep Space Star Field Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241190/Deep-Space-Star-Field-Wallpaper-Mural.jpg?v=638164808998800000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's your Starfield Wallpaper : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zmuc1adeeqhb1.jpg' alt='What's your Starfield Wallpaper : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zmuc1adeeqhb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More 4k & 8k Starfield Wallpapers (Link in Comments) : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/more-4k-8k-starfield-wallpapers-link-in-comments-v0-utcrxf0hufjb1.jpg?width=3440&format=pjpg&auto=webp&s=e6b0c8112eef14edbeb07bae0ab1a2f5326c234d' alt='More 4k & 8k Starfield Wallpapers (Link in Comments) : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/more-4k-8k-starfield-wallpapers-link-in-comments-v0-utcrxf0hufjb1.jpg?width=3440&format=pjpg&auto=webp&s=e6b0c8112eef14edbeb07bae0ab1a2f5326c234d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I think i found a new wallpaper :) : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xsrjh00md6pb1.png' alt='I think i found a new wallpaper :) : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xsrjh00md6pb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Dark">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58531/starfield-dark.jpg?h=699&q=85' alt='Starfield Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58531/starfield-dark.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Wallpapers - Deltia's Gaming">
+                                <img itemprop="contentUrl url" src='https://deltiasgaming.com/wp-content/uploads/2023/03/Starfield-Official-Logo-Image-Blank.jpg' alt='Starfield Wallpapers - Deltia's Gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deltia's Gaming" />
+                                </span>
+                                <a href='https://deltiasgaming.com/wp-content/uploads/2023/03/Starfield-Official-Logo-Image-Blank.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Station - HD Wallpaper | Download Free">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/133/1333736.png' alt='Starfield Station - HD Wallpaper | Download Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/133/1333736.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_starfield_03_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' alt='Starfield UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_starfield_03_1440pwide.jpg&height=450&width=506&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

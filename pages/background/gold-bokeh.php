@@ -1,0 +1,129 @@
+<title>Shimmering Gold Bokeh: Elevate Your Photography</title>
+                    <meta name="description" content="Discover the enchanting world of gold bokeh! Ideal for special events and photography, this mesmerizing effect brings warmth and elegance to your visuals. Learn how to incorporate shimmering gold bokeh into your photos and elevate your artistic flair with simple techniques. Perfect for any occasion!">
+                    <meta name="keywords" content="gold bokeh">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gold-bokeh">
+                            <span itemprop="name">gold bokeh</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmering Gold Bokeh: Elevate Your Photography</h1>
+                <p>Gold bokeh creates a stunning visual effect, perfect for adding a touch of elegance and warmth to your photos. The shimmering circles of light evoke a sense of luxury and celebration, making it ideal for weddings, parties, and festive occasions. Elevate your photography by incorporating this beautiful bokeh style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,200+ Gold Bokeh On Black Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/638678352/photo/gold-background.jpg?s=612x612&w=0&k=20&c=M2Vov6cDOoaIm8DGlAUp6EytCDvqZ6ipaANNgG09L3I=' alt='6,200+ Gold Bokeh On Black Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/638678352/photo/gold-background.jpg?s=612x612&w=0&k=20&c=M2Vov6cDOoaIm8DGlAUp6EytCDvqZ6ipaANNgG09L3I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Bokeh Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1514214460829-5f081763862a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMGJva2VofGVufDB8fDB8fHww' alt='Gold Bokeh Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1514214460829-5f081763862a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZCUyMGJva2VofGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold bokeh blurred light. Abstract background with bokeh effect ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/97/49/11/1000_F_497491195_Tk8hcak5DcGxoGrMAlH5oUWP1hHMlUTp.jpg' alt='Gold bokeh blurred light. Abstract background with bokeh effect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/97/49/11/1000_F_497491195_Tk8hcak5DcGxoGrMAlH5oUWP1hHMlUTp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOLD BOKEH LIGHTS Background Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/27/70/80/1000_F_127708093_CtADp0XaOvPkWLaY9hWg7QG7CW54rDuu.jpg' alt='GOLD BOKEH LIGHTS Background Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/27/70/80/1000_F_127708093_CtADp0XaOvPkWLaY9hWg7QG7CW54rDuu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="317,100+ Gold Bokeh Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1077965134/photo/golden-glitter-falling-sparkle-background.jpg?s=612x612&w=0&k=20&c=siHpELkMJbuBHpOdtaiCvtfH9CZ1GxTH3jW2__zrhSk=' alt='317,100+ Gold Bokeh Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1077965134/photo/golden-glitter-falling-sparkle-background.jpg?s=612x612&w=0&k=20&c=siHpELkMJbuBHpOdtaiCvtfH9CZ1GxTH3jW2__zrhSk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold bokeh effect by Karen Foley">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/gold-bokeh-effect-karen-foley.jpg' alt='Gold bokeh effect by Karen Foley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/gold-bokeh-effect-karen-foley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Bokeh Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-bokeh-background_23-2149323823.jpg' alt='Gold Bokeh Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-bokeh-background_23-2149323823.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Abstract golden background with blur sparkle ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/05/76/35/36/1000_F_576353663_0ZrHIJGpsyTUnEoyRR1bhgdLHxh50kTK.jpg' alt='Photo & Art Print Abstract golden background with blur sparkle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/05/76/35/36/1000_F_576353663_0ZrHIJGpsyTUnEoyRR1bhgdLHxh50kTK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden bokeh. Shiny defocused gold bokeh lights shimmering soft ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs/800_3754611_q2zchsav4ekput2rwzielio4glowrvl8wxnwifrw.jpg' alt='Golden bokeh. Shiny defocused gold bokeh lights shimmering soft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs/800_3754611_q2zchsav4ekput2rwzielio4glowrvl8wxnwifrw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Bokeh Spots Backdrop, Photography Background for Party Celebration  and Home Decorations, 20x10FT Photo Studio Booth Props Backdrops for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61qiHap0VBL._AC_UF894,1000_QL80_.jpg' alt='Golden Bokeh Spots Backdrop, Photography Background for Party Celebration  and Home Decorations, 20x10FT Photo Studio Booth Props Backdrops for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61qiHap0VBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

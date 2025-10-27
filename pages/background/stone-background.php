@@ -1,0 +1,129 @@
+<title>Stone Backgrounds: Elevate Your Design Aesthetic</title>
+                    <meta name="description" content="Discover the beauty of stone backgrounds to enhance your design. Perfect for architecture, interiors, and landscaping, these natural textures combine elegance and durability, providing a unique appeal that complements any style. Explore how stone can transform your spaces today!">
+                    <meta name="keywords" content="stone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stone-background">
+                            <span itemprop="name">stone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stone Backgrounds: Elevate Your Design Aesthetic</h1>
+                <p>A stone background adds timeless elegance and a natural aesthetic to any space. Ideal for both indoor and outdoor projects, stone textures provide depth and character. Whether used in architecture, landscaping, or interior design, they create a durable foundation with a rustic charm that complements various styles and atmospheres.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,062,400+ Rock Stone Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/471060950/photo/black-stone-wall-texture.jpg?s=612x612&w=0&k=20&c=JQYKNG3MgA1LjgHGoYJxg_fexmA_5BsHtNLP89Y1r3o=' alt='3,062,400+ Rock Stone Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/471060950/photo/black-stone-wall-texture.jpg?s=612x612&w=0&k=20&c=JQYKNG3MgA1LjgHGoYJxg_fexmA_5BsHtNLP89Y1r3o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grunge-wall-texture_1194-6108.jpg' alt='Stone Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grunge-wall-texture_1194-6108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Wallpaper Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/188/390/non_2x/beautiful-natural-stone-background-ai-photo.jpg' alt='Stone Wallpaper Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/188/390/non_2x/beautiful-natural-stone-background-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone background, rock wall backdrop with rough texture. Abstract ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/20/00/18/1000_F_120001886_O5sE5bYZPIq97sXu9So5baXryksND2yR.jpg' alt='Stone background, rock wall backdrop with rough texture. Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/20/00/18/1000_F_120001886_O5sE5bYZPIq97sXu9So5baXryksND2yR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlMTJfYV9oaWdoLXJlc29sdXRpb25fdGV4dHVyZV9vZl9kYXJrX3NsYXRlX3dpdGhfc184ZWY3NTFhMy00Y2IwLTQyNTAtODQ5Ni0wMjUwNzNkN2IyMGVfMS5qcGc.jpg' alt='Black Stone Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsb2ZmaWNlMTJfYV9oaWdoLXJlc29sdXRpb25fdGV4dHVyZV9vZl9kYXJrX3NsYXRlX3dpdGhfc184ZWY3NTFhMy00Y2IwLTQyNTAtODQ5Ni0wMjUwNzNkN2IyMGVfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Background Photos, Download The BEST Free Stone Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/8892/pexels-photo.jpg?cs=srgb&dl=pexels-life-of-pix-8892.jpg&fm=jpg' alt='Stone Background Photos, Download The BEST Free Stone Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4811">
+                                <meta itemprop="height" content="3187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/8892/pexels-photo.jpg?cs=srgb&dl=pexels-life-of-pix-8892.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Wall background">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/48518/stone-wall-background.jpg?h=699&q=85' alt='Stone Wall background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/48518/stone-wall-background.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Images – Browse 36,254,321 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/17/49/87/360_F_317498725_ZjMx0F1o2R3qSQFUv2sPuUCNLCvwk7MA.jpg' alt='Stone Images – Browse 36,254,321 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/17/49/87/360_F_317498725_ZjMx0F1o2R3qSQFUv2sPuUCNLCvwk7MA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210410/pngtree-black-real-rock-stone-wall-background-image_606853.jpg' alt='Stone Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210410/pngtree-black-real-rock-stone-wall-background-image_606853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/modern-grey-paint-limestone-texture-background-white-light-seam-home-wall-paper-back-flat-subway-concrete-stone-table-floor-concept-surreal-granite-quarry-stucco-surface-background-grunge-pattern_707519-16162.jpg?semt=ais_hybrid' alt='Stone Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/modern-grey-paint-limestone-texture-background-white-light-seam-home-wall-paper-back-flat-subway-concrete-stone-table-floor-concept-surreal-granite-quarry-stucco-surface-background-grunge-pattern_707519-16162.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Your Favorite Cozy Coffee Shop</title>
+                    <meta name="description" content="Find your perfect escape at this cozy coffee shop! Indulge in rich coffee blends and delicious pastries, all in a warm, inviting atmosphere. Ideal for productivity or relaxation, this spot is a local gem you don’t want to miss. Visit us today!">
+                    <meta name="keywords" content="cozy coffee shop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cozy-coffee-shop">
+                            <span itemprop="name">cozy coffee shop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Your Favorite Cozy Coffee Shop</h1>
+                <p>Nestled in the heart of the city, this cozy coffee shop is the perfect retreat for coffee lovers. Soft lighting, comfy seating, and the aroma of fresh brews invite you to relax. Enjoy artisanal coffee blends, homemade pastries, and a warm ambiance, whether you're working, reading, or catching up with friends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cozy Coffee Shop Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/9/e/2/9e237ee0-de74-490a-8b4e-bde695f93ab2_large/cozy-coffee-shop-stockcake.jpg' alt='Free Cozy Coffee Shop Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/9/e/2/9e237ee0-de74-490a-8b4e-bde695f93ab2_large/cozy-coffee-shop-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Cozy Coffee Shop with Smooth Piano Jazz Music - Background Instrumental  to Relax, Study, Work">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/h-PfBxoMq_4/maxresdefault.jpg' alt='4K Cozy Coffee Shop with Smooth Piano Jazz Music - Background Instrumental  to Relax, Study, Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/h-PfBxoMq_4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cozy coffee shop Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/6/1/d/61d4ed7d-e707-46ce-aee7-17c185aa59dd_large/cozy-coffee-shop-stockcake.jpg' alt='Free Cozy coffee shop Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/6/1/d/61d4ed7d-e707-46ce-aee7-17c185aa59dd_large/cozy-coffee-shop-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 cozy coffee shops and cafes in Chicago | Choose Chicago">
+                                <img itemprop="contentUrl url" src='https://cdn.choosechicago.com/uploads/2022/11/2-0200-scaled-e1668009159934.jpg' alt='8 cozy coffee shops and cafes in Chicago | Choose Chicago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Choose Chicago" />
+                                </span>
+                                <a href='https://cdn.choosechicago.com/uploads/2022/11/2-0200-scaled-e1668009159934.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Rainy Day Cozy Coffee Shop 4K ☕ Smooth Jazz Music to  Relax/Study/Work to">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ekSJVmxMiL4/maxresdefault.jpg' alt='Autumn Rainy Day Cozy Coffee Shop 4K ☕ Smooth Jazz Music to  Relax/Study/Work to'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ekSJVmxMiL4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="any coffee shops/cafes with a cozy, dark, dark academia vibe like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/any-coffee-shops-cafes-with-a-cozy-dark-dark-academia-vibe-v0-tt9km924mukc1.png?width=960&format=png&auto=webp&s=857f1653af82893965cb446e158557ee0f599b11' alt='any coffee shops/cafes with a cozy, dark, dark academia vibe like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/any-coffee-shops-cafes-with-a-cozy-dark-dark-academia-vibe-v0-tt9km924mukc1.png?width=960&format=png&auto=webp&s=857f1653af82893965cb446e158557ee0f599b11' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="any coffee shops/cafes with a cozy, dark, dark academia vibe like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/any-coffee-shops-cafes-with-a-cozy-dark-dark-academia-vibe-v0-eg29lc46mukc1.png?width=1280&format=png&auto=webp&s=222b76d49131d6a0fc99d2081ac8e2a2382c4487' alt='any coffee shops/cafes with a cozy, dark, dark academia vibe like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/any-coffee-shops-cafes-with-a-cozy-dark-dark-academia-vibe-v0-eg29lc46mukc1.png?width=1280&format=png&auto=webp&s=222b76d49131d6a0fc99d2081ac8e2a2382c4487' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Café Coffee is back open! In midtown and looking for refreshments?  Come check us out and share with your friends! Help support the ministry!">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2555420365267899176' alt='Cozy Café Coffee is back open! In midtown and looking for refreshments?  Come check us out and share with your friends! Help support the ministry!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2555420365267899176' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Coffee Shop ☕ Jazz in the Background - 211 songs - playlist ...">
+                                <img itemprop="contentUrl url" src='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c089d11c70e4089ba3e6ac56' alt='Cozy Coffee Shop ☕ Jazz in the Background - 211 songs - playlist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c089d11c70e4089ba3e6ac56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Cozy coffee shop ideas | cozy coffee shop, coffee shop, coffee ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/99/7b/36/997b36182f0b67e2d9319d633d3069a8.jpg' alt='16 Cozy coffee shop ideas | cozy coffee shop, coffee shop, coffee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/99/7b/36/997b36182f0b67e2d9319d633d3069a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

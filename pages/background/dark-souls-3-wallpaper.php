@@ -1,0 +1,129 @@
+<title>Dark Souls 3 Wallpapers: Stunning Images for Fans</title>
+                    <meta name="description" content="Explore a collection of striking Dark Souls 3 wallpapers, perfect for fans of the game. Beautify your devices with high-quality images that showcase the dark and mesmerizing atmosphere of Lothric. Immersive art awaits—download yours today!">
+                    <meta name="keywords" content="dark souls 3 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-souls-3-wallpaper">
+                            <span itemprop="name">dark souls 3 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Souls 3 Wallpapers: Stunning Images for Fans</h1>
+                <p>Discover the hauntingly beautiful world of Dark Souls 3 with stunning wallpapers that capture the essence of this iconic RPG. From ominous landscapes to fierce battles, our selection of high-quality images will transport you straight into the Ashen One's journey. Perfect for fans looking to personalize their devices with art from the realm of Lothric.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found a cool new DS3 wallpaper : r/darksouls3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dito0kvh8y471.jpg?auto=webp&s=d70575eaab7ed195a6e856183e4c342f6a0ff14f' alt='Found a cool new DS3 wallpaper : r/darksouls3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dito0kvh8y471.jpg?auto=webp&s=d70575eaab7ed195a6e856183e4c342f6a0ff14f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls III 4K Wallpaper by DA-GameCovers on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4c1bfd6-740f-4577-a3d0-0cb5b71fb2df/dhmqzoh-45df3888-af41-431b-b82f-75df009fc745.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0YzFiZmQ2LTc0MGYtNDU3Ny1hM2QwLTBjYjViNzFmYjJkZlwvZGhtcXpvaC00NWRmMzg4OC1hZjQxLTQzMWItYjgyZi03NWRmMDA5ZmM3NDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1J7bYwl4zyyrvc5_KxhrKZ8eoK-HzUaGT_gMszCCxbs' alt='Dark Souls III 4K Wallpaper by DA-GameCovers on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4c1bfd6-740f-4577-a3d0-0cb5b71fb2df/dhmqzoh-45df3888-af41-431b-b82f-75df009fc745.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0YzFiZmQ2LTc0MGYtNDU3Ny1hM2QwLTBjYjViNzFmYjJkZlwvZGhtcXpvaC00NWRmMzg4OC1hZjQxLTQzMWItYjgyZi03NWRmMDA5ZmM3NDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1J7bYwl4zyyrvc5_KxhrKZ8eoK-HzUaGT_gMszCCxbs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Dark Souls 3 - Soul of cinder 4K">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1624067862864258448/8EC60D3FE06A487B46979FC08F10D6AC4A13A3AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Dark Souls 3 - Soul of cinder 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1624067862864258448/8EC60D3FE06A487B46979FC08F10D6AC4A13A3AE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found these cool dark souls 3 ios wallpapers. Felt like I hade to ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gvhaz7xa4tu61.jpg' alt='Found these cool dark souls 3 ios wallpapers. Felt like I hade to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="1652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gvhaz7xa4tu61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls III HD Wallpaper: Fiery Knight">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/600/600925.jpg' alt='Dark Souls III HD Wallpaper: Fiery Knight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/600/600925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls III – PlayStation Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/03/Dark-Souls-III-4K-Main.jpg?ssl=1' alt='Dark Souls III – PlayStation Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Wallpapers" />
+                                </span>
+                                <a href='https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/03/Dark-Souls-III-4K-Main.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Souls III HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/135/1355980.jpeg' alt='Download Dark Souls III HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/135/1355980.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Dark Souls 3 Gaming Wallpaper, HD Games 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/4k-dark-souls-3-gaming_bWZnZ2iUmZqaraWkpJRobWllrWdma2U.jpg' alt='4K Dark Souls 3 Gaming Wallpaper, HD Games 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/4k-dark-souls-3-gaming_bWZnZ2iUmZqaraWkpJRobWllrWdma2U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls III Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Dark-Souls-III-PS4-Wallpapers-21.jpg' alt='Dark Souls III Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Dark-Souls-III-PS4-Wallpapers-21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IRITHYLL OF THE BOREAL VALLEY - DARK SOULS III (1920x1080) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wueixgu8ffz71.jpg' alt='IRITHYLL OF THE BOREAL VALLEY - DARK SOULS III (1920x1080) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wueixgu8ffz71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

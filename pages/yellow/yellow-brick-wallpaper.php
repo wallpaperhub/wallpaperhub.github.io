@@ -1,0 +1,129 @@
+<title>Vibrant Yellow Brick Wallpaper: Elevate Your Interior Style</title>
+                    <meta name="description" content="Discover the charm of yellow brick wallpaper! Perfect for creating a cozy, stylish atmosphere, this design brings warmth and texture to any room. Easily transform your space with this eye-catching wallpaper that complements various decor styles effortlessly. Upgrade your interiors today!">
+                    <meta name="keywords" content="yellow brick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-brick-wallpaper">
+                            <span itemprop="name">yellow brick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow Brick Wallpaper: Elevate Your Interior Style</h1>
+                <p>Transform your space with vibrant yellow brick wallpaper! This stunning design adds warmth and character to any room, capturing the rustic charm of brickwork while maintaining a modern flair. Ideal for accent walls, it pairs beautifully with various decor styles, ensuring your home feels inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yellow Brick Wall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58196/light-yellow-brick-wall.jpg?h=699&q=85' alt='Light Yellow Brick Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58196/light-yellow-brick-wall.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Yellow Brick Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1559242593-4dedc2dd4767?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8eWVsbG93JTIwYnJpY2t8ZW58MHx8MHx8fDA%3D' alt='50,000+ Yellow Brick Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1559242593-4dedc2dd4767?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8eWVsbG93JTIwYnJpY2t8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Faux Brick Effect Wallpaper Mural – Wallpapered Ltd.">
+                                <img itemprop="contentUrl url" src='https://wallpapered.com/cdn/shop/files/Yellow-Brick.jpg?v=1735327789' alt='Yellow Faux Brick Effect Wallpaper Mural – Wallpapered Ltd.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapered" />
+                                </span>
+                                <a href='https://wallpapered.com/cdn/shop/files/Yellow-Brick.jpg?v=1735327789' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Yellow Brick Textured 3D 3D Rendering Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room  Decoration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gFVkugOfL.jpg' alt='Peel and Stick Wallpaper Yellow Brick Textured 3D 3D Rendering Self  Adhesive Removable and Contact Paper for Room Home Bedroom Living Room  Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gFVkugOfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Yellow Brick Wall Pattern Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1201809645/vector/yellow-brick-tile-wall.jpg?s=612x612&w=0&k=20&c=79wERveM8X7dUI7vevMzcA3WzO7z5b1lniURMu5Bdko=' alt='1,500+ Yellow Brick Wall Pattern Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1201809645/vector/yellow-brick-tile-wall.jpg?s=612x612&w=0&k=20&c=79wERveM8X7dUI7vevMzcA3WzO7z5b1lniURMu5Bdko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Brick Wall Seamless Background Texture - Metallic Shiny Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/d209a9/4823154989/il_570xN.4823154989_3pfh.jpg' alt='Gold Brick Wall Seamless Background Texture - Metallic Shiny Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/d209a9/4823154989/il_570xN.4823154989_3pfh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Yellow Brick Wall Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-yellow-brick-wall-phone-kr3qgpre94p2frl5.jpg' alt='Plain Yellow Brick Wall Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-yellow-brick-wall-phone-kr3qgpre94p2frl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Yellow Brick Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1615457938971-3ab61c1c0d57?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVsbG93JTIwYnJpY2t8ZW58MHx8MHx8fDA%3D' alt='50,000+ Yellow Brick Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1615457938971-3ab61c1c0d57?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVsbG93JTIwYnJpY2t8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Brick Images – Browse 332,087 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/24/20/32/360_F_924203247_MoiLm2nLTiUXQOya89b7r8m883TAdrhb.jpg' alt='Yellow Brick Images – Browse 332,087 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/24/20/32/360_F_924203247_MoiLm2nLTiUXQOya89b7r8m883TAdrhb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall of Bricks, Yellow">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1680174120/articles/R19634_interior1.jpg' alt='Wall of Bricks, Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1642">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1680174120/articles/R19634_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

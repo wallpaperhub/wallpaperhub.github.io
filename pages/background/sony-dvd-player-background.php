@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="sony dvd player background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sony-dvd-player-background">
+                            <span itemprop="name">sony dvd player background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sony DVD Player Background : r/FrutigerAero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-sony-dvd-player-background-v0-02drj2hus5ud1.jpeg?auto=webp&s=bbed41773ba8a57b713a8d74f450e53b3086c0ff' alt='The Sony DVD Player Background : r/FrutigerAero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-sony-dvd-player-background-v0-02drj2hus5ud1.jpeg?auto=webp&s=bbed41773ba8a57b713a8d74f450e53b3086c0ff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD player background : r/nostalgia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/sony-dvd-player-background-v0-l472p7azo9de1.png?auto=webp&s=52605951e9b6d5db5425df856766d57323080645' alt='Sony DVD player background : r/nostalgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/sony-dvd-player-background-v0-l472p7azo9de1.png?auto=webp&s=52605951e9b6d5db5425df856766d57323080645' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Player Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8C1PZ0Y0Iqs/hqdefault.jpg?days_since_epoch=20148' alt='Sony DVD Player Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8C1PZ0Y0Iqs/hqdefault.jpg?days_since_epoch=20148' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Wallpaper 1 (Dithered Edition V1) by Tatarashvili04 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/589beaa6-cc38-42e3-9d25-3730af8b188e/dgmr4cj-3a11684c-ed0d-454b-be3c-bef2480168fa.png/v1/fill/w_640,h_482,q_80,strp/sony_dvd_wallpaper_1__dithered_edition_v1__by_tatarashvili04_dgmr4cj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgyIiwicGF0aCI6IlwvZlwvNTg5YmVhYTYtY2MzOC00MmUzLTlkMjUtMzczMGFmOGIxODhlXC9kZ21yNGNqLTNhMTE2ODRjLWVkMGQtNDU0Yi1iZTNjLWJlZjI0ODAxNjhmYS5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.RfL-YwjmHq88oblzQw_LpgJGaCs8sfI-jARtZP8Miek' alt='Sony DVD Wallpaper 1 (Dithered Edition V1) by Tatarashvili04 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/589beaa6-cc38-42e3-9d25-3730af8b188e/dgmr4cj-3a11684c-ed0d-454b-be3c-bef2480168fa.png/v1/fill/w_640,h_482,q_80,strp/sony_dvd_wallpaper_1__dithered_edition_v1__by_tatarashvili04_dgmr4cj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgyIiwicGF0aCI6IlwvZlwvNTg5YmVhYTYtY2MzOC00MmUzLTlkMjUtMzczMGFmOGIxODhlXC9kZ21yNGNqLTNhMTE2ODRjLWVkMGQtNDU0Yi1iZTNjLWJlZjI0ODAxNjhmYS5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.RfL-YwjmHq88oblzQw_LpgJGaCs8sfI-jARtZP8Miek' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Player Green Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dwne9qT63Cw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigbMA8=&rs=AOn4CLCrJaLHbvr0-2Q9MPtsEp_jb1NKzA' alt='Sony DVD Player Green Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dwne9qT63Cw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGBEgcigbMA8=&rs=AOn4CLCrJaLHbvr0-2Q9MPtsEp_jb1NKzA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Players and BD players splash/menu screens : r/nostalgia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sony-dvd-players-and-bd-players-splash-menu-screens-v0-q7ujfudmuafd1.jpg?width=400&format=pjpg&auto=webp&s=137ff56411a2a12c9d2cea1f42eec602f003d4b5' alt='Sony DVD Players and BD players splash/menu screens : r/nostalgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sony-dvd-players-and-bd-players-splash-menu-screens-v0-q7ujfudmuafd1.jpg?width=400&format=pjpg&auto=webp&s=137ff56411a2a12c9d2cea1f42eec602f003d4b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Wallpaper 1 (Dithered Edition V2) by Tatarashvili04 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/589beaa6-cc38-42e3-9d25-3730af8b188e/dgmr4cl-9bf0270d-647d-46d9-9733-8c4843ec8a3d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4OWJlYWE2LWNjMzgtNDJlMy05ZDI1LTM3MzBhZjhiMTg4ZVwvZGdtcjRjbC05YmYwMjcwZC02NDdkLTQ2ZDktOTczMy04YzQ4NDNlYzhhM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tupk76673ykOns4IeW-Ls8hLb9LB3Idvvd6q3SDbDK0' alt='Sony DVD Wallpaper 1 (Dithered Edition V2) by Tatarashvili04 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/589beaa6-cc38-42e3-9d25-3730af8b188e/dgmr4cl-9bf0270d-647d-46d9-9733-8c4843ec8a3d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4OWJlYWE2LWNjMzgtNDJlMy05ZDI1LTM3MzBhZjhiMTg4ZVwvZGdtcjRjbC05YmYwMjcwZC02NDdkLTQ2ZDktOTczMy04YzQ4NDNlYzhhM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tupk76673ykOns4IeW-Ls8hLb9LB3Idvvd6q3SDbDK0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Player Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fW_Nc_CsftA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gSSgTMA8=&rs=AOn4CLAuSetBiks-wDh2pEUpquiBa710Pg' alt='Sony DVD Player Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fW_Nc_CsftA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gSSgTMA8=&rs=AOn4CLAuSetBiks-wDh2pEUpquiBa710Pg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Player Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b9bKSTIpkBU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gEygUMA8=&rs=AOn4CLB6c-Wb7i7fO_sg3ru9YE10oIQE8A' alt='Sony DVD Player Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b9bKSTIpkBU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gEygUMA8=&rs=AOn4CLB6c-Wb7i7fO_sg3ru9YE10oIQE8A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sony DVD Player Loading (Better Quality) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ymzFhgcwIlI/maxresdefault.jpg' alt='Sony DVD Player Loading (Better Quality) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ymzFhgcwIlI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

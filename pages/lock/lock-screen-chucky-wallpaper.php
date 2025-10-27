@@ -1,0 +1,129 @@
+<title>Chucky Lock Screen Wallpapers: Spooky & Stylish!</title>
+                    <meta name="description" content="Discover the best lock screen Chucky wallpapers to give your phone a thrilling makeover. Dive into chilling designs that capture the essence of this horror icon. Perfect for all fans, choose from various styles and make your device stand out with a touch of terror!">
+                    <meta name="keywords" content="lock screen chucky wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-chucky-wallpaper">
+                            <span itemprop="name">lock screen chucky wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chucky Lock Screen Wallpapers: Spooky & Stylish!</h1>
+                <p>Elevate your device's aesthetic with eerie lock screen Chucky wallpapers. Perfect for fans of horror and thrillers, these vibrant designs capture Chucky's menacing charm and add a spooky touch to your phone. Choose from various styles, from classic images to artistic interpretations, and showcase your love for this iconic character!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky iPhone Lock-Screen Wallpaper I made if anyone wants it : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/28y2m7iynhy91.jpg' alt='Chucky iPhone Lock-Screen Wallpaper I made if anyone wants it : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="3461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/28y2m7iynhy91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky lock screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/14/bc/1114bc3d9773530cab7dcb0f7ebc9c50.jpg' alt='Chucky lock screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/14/bc/1114bc3d9773530cab7dcb0f7ebc9c50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Chucky Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/chucky-0hd0bhn3esyu146z.jpg' alt='100+] Chucky Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/chucky-0hd0bhn3esyu146z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is by far the sickest lock screen I've ever had. (iOS 16) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/hmZdha8HGfrTDAU1My2I8AfTb1WDx1FKFNiXY_q3xxI.jpg?width=640&crop=smart&auto=webp&s=72807e09a1efec21046ee82ed9ba04d06c1b90d3' alt='This is by far the sickest lock screen I've ever had. (iOS 16) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/hmZdha8HGfrTDAU1My2I8AfTb1WDx1FKFNiXY_q3xxI.jpg?width=640&crop=smart&auto=webp&s=72807e09a1efec21046ee82ed9ba04d06c1b90d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Lock screen or home screen for iPhone.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ad/0e/d3/ad0ed33b49be7bd35a0b087629590b31.jpg' alt='Chucky Lock screen or home screen for iPhone.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ad/0e/d3/ad0ed33b49be7bd35a0b087629590b31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Good Guy Close-up Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/scary-chucky-holding-injection-odcel1t1v6jioonc.webp' alt='Chucky Good Guy Close-up Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/scary-chucky-holding-injection-odcel1t1v6jioonc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Chucky Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/1d/ce/fa1dceabe7ccab68b507d78aafe226f3.jpg' alt='HD Chucky Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/1d/ce/fa1dceabe7ccab68b507d78aafe226f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Wallpaper Iphone Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/52/f7/f8/52f7f863d216f0f7ab06d9e3f6d25433.jpg' alt='Chucky Wallpaper Iphone Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/52/f7/f8/52f7f863d216f0f7ab06d9e3f6d25433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Chucky Wallpaper Lock Screen Google Play apps ...">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/Tgr277SJ3gA_9AbCd45SI_J4b_1IhPBX82OYcCfBJH8APrvbO3OcUM-qq1rtF7JYYuM' alt='Download Chucky Wallpaper Lock Screen Google Play apps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile9" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/Tgr277SJ3gA_9AbCd45SI_J4b_1IhPBX82OYcCfBJH8APrvbO3OcUM-qq1rtF7JYYuM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Wallpapers for Android - Free download and software reviews ...">
+                                <img itemprop="contentUrl url" src='https://images.dwncdn.net/images/t_app-icon-l/p/3ea98870-ac68-4d1c-898e-08dea7be33bf/656385346/2072_4-78399838-imgingest-5368618966062437459.png' alt='Chucky Wallpapers for Android - Free download and software reviews ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET Download" />
+                                </span>
+                                <a href='https://images.dwncdn.net/images/t_app-icon-l/p/3ea98870-ac68-4d1c-898e-08dea7be33bf/656385346/2072_4-78399838-imgingest-5368618966062437459.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

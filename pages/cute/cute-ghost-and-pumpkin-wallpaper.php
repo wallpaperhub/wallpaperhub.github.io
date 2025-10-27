@@ -1,0 +1,129 @@
+<title>Adorable Ghost & Pumpkin Wallpaper for Halloween</title>
+                    <meta name="description" content="Discover our adorable ghost and pumpkin wallpaper, perfect for adding a festive touch to your devices! Ideal for Halloween or anyone who loves a whimsical design, this wallpaper combines playful ghosts with vibrant pumpkins. Download now for a cute seasonal update to your screens!">
+                    <meta name="keywords" content="cute ghost and pumpkin wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-ghost-and-pumpkin-wallpaper">
+                            <span itemprop="name">cute ghost and pumpkin wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Ghost & Pumpkin Wallpaper for Halloween</h1>
+                <p>Cute ghost and pumpkin wallpaper brings a playful touch to your devices, perfect for Halloween or year-round charm. Featuring adorable ghost characters playfully soaring around colorful pumpkins, this wallpaper adds whimsy and joy. Transform your screens with this delightful design that captures the spirit of the season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute ghost and pumpkin wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/f1/f1/dff1f16554882b3ee88ac38e9d0d3cef.jpg' alt='Cute ghost and pumpkin wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/f1/f1/dff1f16554882b3ee88ac38e9d0d3cef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Ghost Phone Wallpapers    Floral Pumpkin Aesthetic Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/32/12/0432123465ab08505e5503118b1b2ad0.jpg' alt='50 Ghost Phone Wallpapers    Floral Pumpkin Aesthetic Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/32/12/0432123465ab08505e5503118b1b2ad0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost And Black Pumpkin Cute Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/ghost-and-black-pumpkin-cute-halloween-iphone-tgexymre8xustjy9.jpg' alt='Ghost And Black Pumpkin Cute Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/ghost-and-black-pumpkin-cute-halloween-iphone-tgexymre8xustjy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Pumpkin Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17110410/p/f/m/xCRpu4eoRF06Ux1CGv2HRbWNLFABknS--h-zW9qRsP8hjiz2rydFZYk/Small%20Cottagecore%20Ghosts%20Woodland%20Autumn.jpg' alt='Ghost Pumpkin Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17110410/p/f/m/xCRpu4eoRF06Ux1CGv2HRbWNLFABknS--h-zW9qRsP8hjiz2rydFZYk/Small%20Cottagecore%20Ghosts%20Woodland%20Autumn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Pumpkin Halloween Funny Pumpkins And Ghosts Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202406/ghost-pumpkin-halloween-funny-pumpkins-and-ghosts-wallpaper_9610025.jpg!sw800' alt='Ghost Pumpkin Halloween Funny Pumpkins And Ghosts Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202406/ghost-pumpkin-halloween-funny-pumpkins-and-ghosts-wallpaper_9610025.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Pumpkins and Ghosts for Halloween Digital Seamless Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/11daa4/3905078349/il_570xN.3905078349_gf3o.jpg' alt='Boho Pumpkins and Ghosts for Halloween Digital Seamless Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/11daa4/3905078349/il_570xN.3905078349_gf3o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The cutest ghost wallpapers    | Gallery posted by Taryn | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7421586391710335494&index=2&sign=5ff9b0b2ea7f8a64622e412bbbdeee12' alt='The cutest ghost wallpapers    | Gallery posted by Taryn | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7421586391710335494&index=2&sign=5ff9b0b2ea7f8a64622e412bbbdeee12' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pumpkins and ghosts wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/6d/08/8c6d08cdcbf74dde48c6745bf7634a47.jpg' alt='pumpkins and ghosts wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/6d/08/8c6d08cdcbf74dde48c6745bf7634a47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Halloween vector seamless pattern with Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/halloween-vector-seamless-pattern-with-kawaii-cute-ghost-pumpkin-cartoon-animals-background_107335-683.jpg' alt='Premium Vector | Halloween vector seamless pattern with Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/halloween-vector-seamless-pattern-with-kawaii-cute-ghost-pumpkin-cartoon-animals-background_107335-683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boo. Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/7e/f6/447ef6e597994a4f16f8e388baf42acd.jpg' alt='Boo. Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/7e/f6/447ef6e597994a4f16f8e388baf42acd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Top Barou Blue Lock Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of high-quality Barou Blue Lock wallpapers. Perfect for fans looking to personalize their devices, these images capture the essence of Barou’s character and style. Download now to elevate your wallpaper game and enjoy vibrant visuals!">
+                    <meta name="keywords" content="barou blue lock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/barou-blue-lock-wallpaper">
+                            <span itemprop="name">barou blue lock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Barou Blue Lock Wallpapers for Your Device</h1>
+                <p>Discover stunning Barou Blue Lock wallpapers that bring your favorite character to life! Perfect for fans, these wallpapers showcase Barou's incredible skills and striking design, enhancing your device’s look. Upgrade your screen with high-quality images that resonate with the excitement of the Blue Lock series. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/29/34/512934eac8315643a1f3cd293866a002.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/29/34/512934eac8315643a1f3cd293866a002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shouei Barou (Blue Lock) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5519/shouei-barou-blue-lock.jpg' alt='Shouei Barou (Blue Lock) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5519/shouei-barou-blue-lock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barou Shouei - Blue Lock - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/50/09/4350090df5e5751e7b8f82cecd7df3ec.jpg' alt='Barou Shouei - Blue Lock - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/50/09/4350090df5e5751e7b8f82cecd7df3ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King barou it is..... (￣.￣) // Art by me : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/king-barou-it-is-art-by-me-v0-05tbe4s5jana1.png?width=640&crop=smart&auto=webp&s=f5d25dc461511218b89dff10ca19fc5e02a63c53' alt='King barou it is..... (￣.￣) // Art by me : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/king-barou-it-is-art-by-me-v0-05tbe4s5jana1.png?width=640&crop=smart&auto=webp&s=f5d25dc461511218b89dff10ca19fc5e02a63c53' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/72/64/3f726457338479d8c1a2b4e022b10114.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/72/64/3f726457338479d8c1a2b4e022b10114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barou    Blue Lock wallpaper‼️">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DEFAgtdOHTg/1/image.jpg' alt='Barou    Blue Lock wallpaper‼️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DEFAgtdOHTg/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE LOCK Anime Wallpapers and Backgrounds - Crunchyroll News">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/178900/1242x2208/1d751f3d91/1d5334fb4faaa733418ea76f273bee3d1679685013_main.jpg/m/filters:quality(95)format(webp)' alt='BLUE LOCK Anime Wallpapers and Backgrounds - Crunchyroll News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchyroll" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/178900/1242x2208/1d751f3d91/1d5334fb4faaa733418ea76f273bee3d1679685013_main.jpg/m/filters:quality(95)format(webp)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Barou Manga Poster Canvas Poster Bedroom Decor Sports ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71F9sp4GQRL._AC_UF894,1000_QL80_.jpg' alt='Blue Lock Barou Manga Poster Canvas Poster Bedroom Decor Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ca" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71F9sp4GQRL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Barou - Bluelock OP 2">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2040728357326821222/E1EC004BA0A448CC1279B0603FD50C999E65F48E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Barou - Bluelock OP 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2040728357326821222/E1EC004BA0A448CC1279B0603FD50C999E65F48E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="King barou it is..... (￣.￣) // Art by me : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/king-barou-it-is-art-by-me-v0-er0v6t6bjana1.png?width=1900&format=png&auto=webp&s=2f6762edd213c7d44e15e507b8b45e7085b95f15' alt='King barou it is..... (￣.￣) // Art by me : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="3380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/king-barou-it-is-art-by-me-v0-er0v6t6bjana1.png?width=1900&format=png&auto=webp&s=2f6762edd213c7d44e15e507b8b45e7085b95f15' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

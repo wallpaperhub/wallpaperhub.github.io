@@ -1,0 +1,129 @@
+<title>Spooky Sam Trick 'r Treat iPhone Wallpapers</title>
+                    <meta name="description" content="Discover the best Sam Trick 'r Treat iPhone wallpapers this Halloween! Download stunning images featuring your favorite spooky character, perfect for adding a festive touch to your device. Get into the Halloween spirit with these easy-to-install backgrounds!">
+                    <meta name="keywords" content="sam trick r treat iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sam-trick-r-treat-iphone-wallpaper">
+                            <span itemprop="name">sam trick r treat iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Sam Trick 'r Treat iPhone Wallpapers</h1>
+                <p>Transform your iPhone screen this Halloween with an eye-catching Sam Trick 'r Treat wallpaper! Featuring the iconic character from the cult classic film, these spooky designs will capture the spirit of the season. Easy to download and perfectly sized for your device, enjoy a festive backdrop that thrills and chills!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick r treat, horror, movie, HD phone wallpaper | Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/2b/3d/ab2b3d07fd808e878ea078d3902fd6a7.jpg' alt='Trick r treat, horror, movie, HD phone wallpaper | Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/2b/3d/ab2b3d07fd808e878ea078d3902fd6a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/73/1f/87731fb7824cb9319c3db91f3e758d50.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/73/1f/87731fb7824cb9319c3db91f3e758d50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sam “trick 'r treat” lockscreens reblog or like if you save ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9afb48fe2cbfb0aa239e30606ea105b6/tumblr_oxl7va8xzq1v64f77o3_640.pnj' alt='sam “trick 'r treat” lockscreens reblog or like if you save ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9afb48fe2cbfb0aa239e30606ea105b6/tumblr_oxl7va8xzq1v64f77o3_640.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270 Sam trick r treat ideas | sam trick r treat, trick r treat ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/ae/66/ecae66702e6947cdbfe851d1e5c690c9.jpg' alt='270 Sam trick r treat ideas | sam trick r treat, trick r treat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/ae/66/ecae66702e6947cdbfe851d1e5c690c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Best Trick or treat ( Sam) ideas | sam trick r treat, trick r ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/31/bb/a8/31bba81f96701b03f4f932a979abc686.jpg' alt='130 Best Trick or treat ( Sam) ideas | sam trick r treat, trick r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/31/bb/a8/31bba81f96701b03f4f932a979abc686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sam Trick R' Treat iPhone Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/1/san-trick-r-treat-diana-levin.jpg' alt='Sam Trick R' Treat iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/1/san-trick-r-treat-diana-levin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download trick r treat Movie Poster Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trick-r-treat-5qm8qu4sv63f6wjj.jpg' alt='Download trick r treat Movie Poster Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trick-r-treat-5qm8qu4sv63f6wjj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick r' Treat Sam Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/10/b6/4210b6627a6c3e24042bd49403fdec9f.jpg' alt='Trick r' Treat Sam Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/10/b6/4210b6627a6c3e24042bd49403fdec9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick r Treat, black, halloween, halloween, movie, theme, trick or ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/424/294/HD-wallpaper-trick-r-treat-trick-r-treat-2007-movie-poster-comedy-horror-thriller-anna-paquin-brian-cox-dylan-baker.jpg' alt='Trick r Treat, black, halloween, halloween, movie, theme, trick or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/424/294/HD-wallpaper-trick-r-treat-trick-r-treat-2007-movie-poster-comedy-horror-thriller-anna-paquin-brian-cox-dylan-baker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day 17 - TRICK R' TREAT (2007), #31daysofhalloween #Halloween #trickrtreat  #sam #horror #horrormovies #horrormovies">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3481764696548875922' alt='Day 17 - TRICK R' TREAT (2007), #31daysofhalloween #Halloween #trickrtreat  #sam #horror #horrormovies #horrormovies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3481764696548875922' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

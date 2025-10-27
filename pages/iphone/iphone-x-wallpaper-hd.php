@@ -1,0 +1,129 @@
+<title>Stunning HD Wallpapers for iPhone X</title>
+                    <meta name="description" content="Explore a curated collection of HD wallpapers for iPhone X that transform your device. Choose from breathtaking landscapes, abstract art, and more to personalize your screen. Enjoy vibrant, high-quality images optimized for your iPhone X display! Perfect for anyone wanting a fresh look every day.">
+                    <meta name="keywords" content="iphone x wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-x-wallpaper-hd">
+                            <span itemprop="name">iphone x wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD Wallpapers for iPhone X</h1>
+                <p>Discover the stunning world of iPhone X wallpaper in HD! Elevate your device's aesthetic with high-definition images that bring life and vibrancy to your screen. Whether you prefer nature, abstract designs, or stunning cityscapes, our collection offers a variety of stunning options that will make your iPhone X stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a5/3d/ee/a53deec4b43e4995470906eba2390be4.jpg' alt='360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a5/3d/ee/a53deec4b43e4995470906eba2390be4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone x wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/691/596/HD-wallpaper-iphone-x-stars-planet-thumbnail.jpg' alt='HD iphone x wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/691/596/HD-wallpaper-iphone-x-stars-planet-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download iPhone X Wallpaper Full HD For Cell Phones on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/04/7a/68047aaa9b6fc0e2f8a72ea9725cd72b.jpg' alt='   Free download iPhone X Wallpaper Full HD For Cell Phones on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/04/7a/68047aaa9b6fc0e2f8a72ea9725cd72b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: nature, water, iPhone, iPhone X, iphone xs, liquid ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/717/308/38/nature-water-iphone-iphone-x-wallpaper-preview.jpg' alt='HD wallpaper: nature, water, iPhone, iPhone X, iphone xs, liquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/717/308/38/nature-water-iphone-iphone-x-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Iphone X Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' alt='200+] Iphone X Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd iphone outlet x wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/40/c9/3f/40c93f5148f9e7cafc15ecdbdbf34156.jpg' alt='Hd iphone outlet x wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Road To Glenlough" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/40/c9/3f/40c93f5148f9e7cafc15ecdbdbf34156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone xs max, world, iphonexsmax cosmos, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/948/590/HD-wallpaper-iphone-xs-max-iphone-iphone-xs-max-thumbnail.jpg' alt='Iphone xs max, world, iphonexsmax cosmos, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/948/590/HD-wallpaper-iphone-xs-max-iphone-iphone-xs-max-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 11, Iphone X, Orange, Green, Blue, Stock, Abstract, Apple ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ios-11-iphone-x-orange-green-blue-stock-abstract-apple-6ywejvjxjt5rnh7h.jpg' alt='Ios 11, Iphone X, Orange, Green, Blue, Stock, Abstract, Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ios-11-iphone-x-orange-green-blue-stock-abstract-apple-6ywejvjxjt5rnh7h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/02/2a/72/022a72d5fef51f9df3921cbcf6b6b6e6.jpg' alt='360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/02/2a/72/022a72d5fef51f9df3921cbcf6b6b6e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Apple Iphone X Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/apple-iphone-x-max-multicolored-planet-9vnuh0nijtlxz8jy.jpg' alt='100+] Apple Iphone X Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="739">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/apple-iphone-x-max-multicolored-planet-9vnuh0nijtlxz8jy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

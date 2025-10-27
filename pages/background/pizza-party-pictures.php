@@ -1,0 +1,129 @@
+<title>Pizza Party: Capture Every Delicious Moment!</title>
+                    <meta name="description" content="Discover how to take amazing pizza party pictures that highlight the fun and flavors of your gathering. Perfect for sharing, these tips ensure every moment is captured, from cheesy slices to memorable laughs with friends. Elevate your pizza party experience with stunning visuals!">
+                    <meta name="keywords" content="pizza party pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pizza-party-pictures">
+                            <span itemprop="name">pizza party pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pizza Party: Capture Every Delicious Moment!</h1>
+                <p>Capture the fun and flavor of your pizza party with vibrant pictures that showcase the delicious pies and joyful moments. From cheesy slices to colorful toppings, every snapshot tells a story of laughter and good times shared with friends and family. Don’t forget those candid moments of everyone digging in!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Parties Fundraisers & Catering | Shakey's Pizza">
+                                <img itemprop="contentUrl url" src='https://www.shakeys.com/img/celebrations/celebrations-header.jpg' alt='Pizza Parties Fundraisers & Catering | Shakey's Pizza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shakey's Pizza" />
+                                </span>
+                                <a href='https://www.shakeys.com/img/celebrations/celebrations-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27,300+ Pizza Party Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1297246932/photo/different-tipes-of-pizza.jpg?s=612x612&w=0&k=20&c=SZXZlnirJNXl_0nrr8CbvJuZ_csHGXCEdVA9a5Kow1c=' alt='27,300+ Pizza Party Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1297246932/photo/different-tipes-of-pizza.jpg?s=612x612&w=0&k=20&c=SZXZlnirJNXl_0nrr8CbvJuZ_csHGXCEdVA9a5Kow1c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Host The Most Epic Pizza Party - Broma Bakery">
+                                <img itemprop="contentUrl url" src='https://bromabakery.com/wp-content/uploads/2017/06/Pizza-Bar-18.jpg' alt='How To Host The Most Epic Pizza Party - Broma Bakery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broma Bakery" />
+                                </span>
+                                <a href='https://bromabakery.com/wp-content/uploads/2017/06/Pizza-Bar-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Local students rewarded with pizza for grades, behavior">
+                                <img itemprop="contentUrl url" src='https://www.dailyworld.com/gcdn/-mm-/67c4db7ef6326dfb4a5abd4da5f80c0fc66185d2/c=0-119-2410-1481/local/-/media/2016/10/28/LAGroup/Opelousas/636132558387960965-pizza1.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp' alt='Local students rewarded with pizza for grades, behavior'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily World" />
+                                </span>
+                                <a href='https://www.dailyworld.com/gcdn/-mm-/67c4db7ef6326dfb4a5abd4da5f80c0fc66185d2/c=0-119-2410-1481/local/-/media/2016/10/28/LAGroup/Opelousas/636132558387960965-pizza1.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pizza party … a recipe">
+                                <img itemprop="contentUrl url" src='https://www.fornobravo.com/wp-content/uploads/2015/06/Slide13.jpg' alt='A pizza party … a recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forno Bravo" />
+                                </span>
+                                <a href='https://www.fornobravo.com/wp-content/uploads/2015/06/Slide13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza party - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Ubuntu_10.10_Countdown_Party_at_Taipei_101_BobChao_3.jpg' alt='Pizza party - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1936">
+                                <meta itemprop="height" content="2576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4e/Ubuntu_10.10_Countdown_Party_at_Taipei_101_BobChao_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pizza Parties at Pietro's Pizza.">
+                                <img itemprop="contentUrl url" src='https://www.pietrosrestaurants.com/wp-content/uploads/2014/12/Kids-Pizza-Party-Pietros.jpg' alt='Pizza Parties at Pietro's Pizza.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pietros Pizza" />
+                                </span>
+                                <a href='https://www.pietrosrestaurants.com/wp-content/uploads/2014/12/Kids-Pizza-Party-Pietros.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,377 Pizza Party Adults Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1904477555/photo/enjoying-a-pizza-together.jpg?s=612x612&w=gi&k=20&c=1cMJxwbiJEKCt2xRDF2xNTUm7aSJKSzCKQqLZAY00Us=' alt='5,377 Pizza Party Adults Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1904477555/photo/enjoying-a-pizza-together.jpg?s=612x612&w=gi&k=20&c=1cMJxwbiJEKCt2xRDF2xNTUm7aSJKSzCKQqLZAY00Us=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Grilled Pizza Party">
+                                <img itemprop="contentUrl url" src='https://images.food52.com/cEvv_tLjyDvqa7h5Q_8n3jFqr2k=/750x500/d8bfede4-96d4-4d97-b687-32a24ca4a66b--DSC03481-1.JPG' alt='A Grilled Pizza Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food52" />
+                                </span>
+                                <a href='https://images.food52.com/cEvv_tLjyDvqa7h5Q_8n3jFqr2k=/750x500/d8bfede4-96d4-4d97-b687-32a24ca4a66b--DSC03481-1.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 creative pizza toppings for the most awesome DIY pizza party.">
+                                <img itemprop="contentUrl url" src='https://coolmomeats.com/wp-content/uploads/sites/5/2017/09/how-to-get-kids-to-talk-at-the-dinner-table-Cool-Mom-Eats-e1505312686946.jpg' alt='25 creative pizza toppings for the most awesome DIY pizza party.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Mom Eats" />
+                                </span>
+                                <a href='https://coolmomeats.com/wp-content/uploads/sites/5/2017/09/how-to-get-kids-to-talk-at-the-dinner-table-Cool-Mom-Eats-e1505312686946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

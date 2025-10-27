@@ -1,0 +1,129 @@
+<title>Vibrant Swirl Backgrounds for Dynamic Designs</title>
+                    <meta name="description" content="Discover the captivating world of swirl backgrounds! Perfect for enhancing your designs with vibrant patterns that bring energy and movement. Explore how these versatile backgrounds can elevate your projects, from website aesthetics to striking digital art. Ideal for any creative endeavor!">
+                    <meta name="keywords" content="swirl background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/swirl-background">
+                            <span itemprop="name">swirl background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Swirl Backgrounds for Dynamic Designs</h1>
+                <p>Swirl backgrounds add a dynamic and artistic flair to designs, enhancing visual appeal. Whether used in digital art, websites, or presentations, these vibrant patterns can create a sense of movement and energy. Perfect for adding depth and interest, swirl backgrounds are versatile and can complement a wide variety of themes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/203/791/non_2x/psychedelic-swirl-groovy-poster-psychedelic-retro-wave-wallpaper-liquid-groovy-background-design-illustration-vector.jpg' alt='Swirl Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/203/791/non_2x/psychedelic-swirl-groovy-poster-psychedelic-retro-wave-wallpaper-liquid-groovy-background-design-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Abstract Swirl Background Graphic by davidzydd · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/02/11/Pink-Abstract-Swirl-Background-Graphics-1-1-580x387.jpg' alt='Pink Abstract Swirl Background Graphic by davidzydd · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/02/11/Pink-Abstract-Swirl-Background-Graphics-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="466,200+ Swirl Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1435388845/vector/vector-seamless-pattern-with-flowing-salted-caramel-abstract-sweet-texture-creative.jpg?s=612x612&w=0&k=20&c=mDzYtcu-EsIDbk957hh_-hQVcRuIUg_Fa-0z7cbMx3Q=' alt='466,200+ Swirl Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1435388845/vector/vector-seamless-pattern-with-flowing-salted-caramel-abstract-sweet-texture-creative.jpg?s=612x612&w=0&k=20&c=mDzYtcu-EsIDbk957hh_-hQVcRuIUg_Fa-0z7cbMx3Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 11 | Retro Swirl Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-purple-swirl-background_23-2149920056.jpg' alt='Page 11 | Retro Swirl Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-purple-swirl-background_23-2149920056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirl background, rotating spiral, retro starburst or sunburst ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/92/58/91/1000_F_292589100_4kLO8KE1kQtmyHYEOM2YIQKVbXfgAXs4.jpg' alt='Swirl background, rotating spiral, retro starburst or sunburst ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/92/58/91/1000_F_292589100_4kLO8KE1kQtmyHYEOM2YIQKVbXfgAXs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Pink Swirl Background Texture Graphic by Magnolia Blooms ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/cb/2c/0ccb2ce12f4fd803ec54131d34e83e2f.jpg' alt='Beautiful Pink Swirl Background Texture Graphic by Magnolia Blooms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/cb/2c/0ccb2ce12f4fd803ec54131d34e83e2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spiral, Swirl, Background. Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2017/10/08/14/06/spiral-2829988_1280.jpg' alt='Download Spiral, Swirl, Background. Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2017/10/08/14/06/spiral-2829988_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Swirl Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/025/339/636/small/abstract-groovy-hippie-background-psychedelic-waves-swirl-70s-color-illustration-free-vector.jpg' alt='Retro Swirl Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/025/339/636/small/abstract-groovy-hippie-background-psychedelic-waves-swirl-70s-color-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Swirl Background Graphic by davidzydd · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Blue-Swirl-Background-Graphics-1.jpg' alt='Blue Swirl Background Graphic by davidzydd · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Blue-Swirl-Background-Graphics-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="832,100+ Swirls Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1371565596/vector/1970-wavy-swirl-seamless-pattern-in-orange-and-pink-colors-hand-drawn-vector-illustration.jpg?s=612x612&w=0&k=20&c=-mGONQiEQ2N4o6rF5FUF5ldTFcoLb6T49XFeLjCw5dA=' alt='832,100+ Swirls Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1371565596/vector/1970-wavy-swirl-seamless-pattern-in-orange-and-pink-colors-hand-drawn-vector-illustration.jpg?s=612x612&w=0&k=20&c=-mGONQiEQ2N4o6rF5FUF5ldTFcoLb6T49XFeLjCw5dA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Ghost Wallpapers for iPhone: Spooky & Cute!</title>
+                    <meta name="description" content="Explore our collection of cute ghost wallpapers for iPhone! Perfect for adding a touch of whimsy and charm, these designs are ideal for Halloween or any time of year. Download now and personalize your device with delightful spirits that make your screen stand out!">
+                    <meta name="keywords" content="cute ghost wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-ghost-wallpaper-iphone">
+                            <span itemprop="name">cute ghost wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Ghost Wallpapers for iPhone: Spooky & Cute!</h1>
+                <p>Transform your iPhone with adorable cute ghost wallpaper! Perfect for Halloween or year-round, these charming ghosts add a playful touch to your screen. From sweet smiling spirits to whimsical ghost designs, discover a collection that will delight and enchant. Show off your personality with these spooky yet cute designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw42HIISE/2/0/900w/canva-beige-cute-ghost-illustrative-halloween-phone-wallpaper-qMgmrqvcK_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Cute Ghost Phone Wallpapers    Floral Purple Halloween Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/77/cf/2077cfd578faa486d2100507e29a157f.jpg' alt='50 Cute Ghost Phone Wallpapers    Floral Purple Halloween Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/77/cf/2077cfd578faa486d2100507e29a157f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Halloween Iphone Ghost Pattern Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-halloween-iphone-ghost-pattern-884o49lxa4kxt3qy.jpg' alt='Download Cute Halloween Iphone Ghost Pattern Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-halloween-iphone-ghost-pattern-884o49lxa4kxt3qy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable ghost wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFvln9XKSM/1/0/900w/canva-peach-pink-cute-floral-ghost-halloween-phone-wallpaper-fZOmYtLJ1Is.jpg' alt='Free and customizable ghost wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFvln9XKSM/1/0/900w/canva-peach-pink-cute-floral-ghost-halloween-phone-wallpaper-fZOmYtLJ1Is.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute ghost wallpapers if anyone wants them ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b839c799da2e32fe7aa54058d4a7b176/9e09a062fd17c0b1-40/s1280x1920/841d44b43b45aef7381c84dd79b3611aad9bf447.jpg' alt='Cute ghost wallpapers if anyone wants them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b839c799da2e32fe7aa54058d4a7b176/9e09a062fd17c0b1-40/s1280x1920/841d44b43b45aef7381c84dd79b3611aad9bf447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ghost Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/64/48/8a64485e14d104c3f1daebd98ac4ff88.jpg' alt='Pink Ghost Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/64/48/8a64485e14d104c3f1daebd98ac4ff88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Simple Cute Ghost For Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-simple-cute-ghost-for-iphone-6w8aenfkplnjuek0.jpg' alt='Cool Simple Cute Ghost For Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-simple-cute-ghost-for-iphone-6w8aenfkplnjuek0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/72/c3/9e72c3caad3499b2b3476d959193d0fa.jpg' alt='Ghost iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/72/c3/9e72c3caad3499b2b3476d959193d0fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Ghost Wallpaper, Halloween Wallpaper, iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45146766/r/il/c9ff5b/5290545816/il_fullxfull.5290545816_ks90.jpg' alt='Light Blue Ghost Wallpaper, Halloween Wallpaper, iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45146766/r/il/c9ff5b/5290545816/il_fullxfull.5290545816_ks90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

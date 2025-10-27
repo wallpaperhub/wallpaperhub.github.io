@@ -1,0 +1,129 @@
+<title>Essential Guide to Background Check Lawyers</title>
+                    <meta name="description" content="Discover how background check lawyers can protect your rights during employment or tenant screenings. Get expert guidance on navigating complex regulations and resolving disputes efficiently. Stay informed and empowered with legal support tailored to your needs.">
+                    <meta name="keywords" content="background check lawyers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-lawyers">
+                            <span itemprop="name">background check lawyers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Background Check Lawyers</h1>
+                <p>Background check lawyers specialize in providing legal advice and representation on issues related to background checks, such as employment screenings, tenant checks, and credit reports. They help clients understand their rights, ensure compliance with regulations, and address disputes. With their expertise, you can navigate the complexities of background checks confidently.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Check Report Errors Lawyer | Atlanta, Georgia">
+                                <img itemprop="contentUrl url" src='https://www.wsjustice.com/wp-content/uploads/2021/12/Employment-Background-Check-Report-Errors-Lawyer.jpg' alt='Employment Background Check Report Errors Lawyer | Atlanta, Georgia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Consumer Law Attorneys" />
+                                </span>
+                                <a href='https://www.wsjustice.com/wp-content/uploads/2021/12/Employment-Background-Check-Report-Errors-Lawyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix Background Check Errors with Our Attorneys | Consumer ...">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fpractice-area%2F65f84cce02dce.jpg&w=1920&q=75' alt='Fix Background Check Errors with Our Attorneys | Consumer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fpractice-area%2F65f84cce02dce.jpg&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks - Ogletree">
+                                <img itemprop="contentUrl url" src='https://ogletree.com/app/uploads/BackgroundChecks_GettyImages-921342970-scaled.jpeg' alt='Background Checks - Ogletree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ogletree Deakins" />
+                                </span>
+                                <a href='https://ogletree.com/app/uploads/BackgroundChecks_GettyImages-921342970-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Someone Else's Criminal Record On Background Report Lawyer ...">
+                                <img itemprop="contentUrl url" src='https://www.wsjustice.com/wp-content/uploads/2021/12/Someone-Elses-Criminal-Record-On-Background-Report-Lawyer.jpg' alt='Someone Else's Criminal Record On Background Report Lawyer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Consumer Law Attorneys" />
+                                </span>
+                                <a href='https://www.wsjustice.com/wp-content/uploads/2021/12/Someone-Elses-Criminal-Record-On-Background-Report-Lawyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Expungement Lawyers Near Me: Georgia Expungement Attorneys ...">
+                                <img itemprop="contentUrl url" src='https://www.georgiacriminaldefense.com/photos/criminal-background-check-ga.jpg' alt='Expungement Lawyers Near Me: Georgia Expungement Attorneys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kohn & Yager" />
+                                </span>
+                                <a href='https://www.georgiacriminaldefense.com/photos/criminal-background-check-ga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legal Background Checks for Law Firms | GVN">
+                                <img itemprop="contentUrl url" src='https://www.globalverificationnetwork.com/wp-content/uploads/2020/06/lawyer-01-01.jpg' alt='Legal Background Checks for Law Firms | GVN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Verification Network" />
+                                </span>
+                                <a href='https://www.globalverificationnetwork.com/wp-content/uploads/2020/06/lawyer-01-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlanta Expungement Lawyer & Law Firm - Free Consultation">
+                                <img itemprop="contentUrl url" src='https://www.georgiadefenseatty.com/wp-content/uploads/2023/09/atlanta-expungement-lawyer.jpg' alt='Atlanta Expungement Lawyer & Law Firm - Free Consultation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Law Office of Delisa Williams PC" />
+                                </span>
+                                <a href='https://www.georgiadefenseatty.com/wp-content/uploads/2023/09/atlanta-expungement-lawyer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check | Philadelphia Discrimination Lawyer">
+                                <img itemprop="contentUrl url" src='https://www.discrimlaw.net/wp-content/uploads/2021/01/bigstock-Criminal-Background-Check-Insu-145491782.jpg' alt='Background Check | Philadelphia Discrimination Lawyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gold Law Firm P.C." />
+                                </span>
+                                <a href='https://www.discrimlaw.net/wp-content/uploads/2021/01/bigstock-Criminal-Background-Check-Insu-145491782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Lawyer in Florida - Pre Employment Background ...">
+                                <img itemprop="contentUrl url" src='https://www.fhlawpa.com/wp-content/uploads/2020/01/Pre-Employment-Background-Check-What-Shows-Up-300x200.jpg' alt='Background Check Lawyer in Florida - Pre Employment Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fowkes & Hasanbasic, Accident and Insurance Lawyers" />
+                                </span>
+                                <a href='https://www.fhlawpa.com/wp-content/uploads/2020/01/Pre-Employment-Background-Check-What-Shows-Up-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Good Deed Goes Unpunished? Use Lawyers to Avoid Trouble Related ...">
+                                <img itemprop="contentUrl url" src='https://www.thelelawblog.com/wp-content/uploads/sites/928/2022/05/criminal-background-check-1194077069-e1652736732104.jpg' alt='No Good Deed Goes Unpunished? Use Lawyers to Avoid Trouble Related ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Labor & Employment Law Blog" />
+                                </span>
+                                <a href='https://www.thelelawblog.com/wp-content/uploads/sites/928/2022/05/criminal-background-check-1194077069-e1652736732104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

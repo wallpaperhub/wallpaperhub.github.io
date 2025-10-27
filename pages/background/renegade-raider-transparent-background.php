@@ -1,0 +1,129 @@
+<title>Renegade Raider: Iconic Skin with Transparent Background</title>
+                    <meta name="description" content="Explore the legendary Renegade Raider skin from Fortnite! Download high-quality transparent background images to enhance your gaming content and showcase your favorite character effortlessly. Perfect for social media, fan art, or creative projects. Get yours today!">
+                    <meta name="keywords" content="renegade raider transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/renegade-raider-transparent-background">
+                            <span itemprop="name">renegade raider transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Renegade Raider: Iconic Skin with Transparent Background</h1>
+                <p>Discover the iconic Renegade Raider skin from Fortnite, featuring a unique design that players love. This character stands out with its cool aesthetics and fierce vibe, making it a sought-after item in the game. Download transparent background images to showcase your passion for this legendary outfit in your projects, memes, or fan art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider PNG Image - PurePNG | Free transparent ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-fortnite-renegade-raiderfortnitefortnite-battle-royalebattle-royaleepic-gamesgames-1251525436215hhjr0.png' alt='Fortnite Renegade Raider PNG Image - PurePNG | Free transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-fortnite-renegade-raiderfortnitefortnite-battle-royalebattle-royaleepic-gamesgames-1251525436215hhjr0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="renegaderaider #skin #fortnite #sticker #freetoedit - Fortnite ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/ba/f9/7ebaf9d52d36cb6a7a321fe090961732.jpg' alt='renegaderaider #skin #fortnite #sticker #freetoedit - Fortnite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/ba/f9/7ebaf9d52d36cb6a7a321fe090961732.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-Image.png' alt='Fortnite Renegade Raider PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="920">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-File.png' alt='Fortnite Renegade Raider PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-File.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider - Fortnite Renegade Raider Png ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/5a/68/c05a68f35d1fa3ffb046e625fd4999e2.jpg' alt='Fortnite Renegade Raider - Fortnite Renegade Raider Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/5a/68/c05a68f35d1fa3ffb046e625fd4999e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-Isolated-Pic.png' alt='Fortnite Renegade Raider PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-Isolated-Pic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renegade Raider (outfit) - Fortnite Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/50/BattleRoyaleSkin16.png/revision/latest?cb=20200410140722' alt='Renegade Raider (outfit) - Fortnite Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fortnite_gamepedia/images/5/50/BattleRoyaleSkin16.png/revision/latest?cb=20200410140722' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renegade Raider Clipart Transparent - Renegade Raider Png ...">
+                                <img itemprop="contentUrl url" src='https://www.pngfind.com/pngs/m/686-6865672_renegade-raider-clipart-transparent-renegade-raider-png-transparent.png' alt='Renegade Raider Clipart Transparent - Renegade Raider Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PngFind" />
+                                </span>
+                                <a href='https://www.pngfind.com/pngs/m/686-6865672_renegade-raider-clipart-transparent-renegade-raider-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Renegade Raider PNG Images Transparent Free Download">
+                                <img itemprop="contentUrl url" src='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-HD-Isolated.png' alt='Fortnite Renegade Raider PNG Images Transparent Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG Mart" />
+                                </span>
+                                <a href='https://www.pngmart.com/files/22/Fortnite-Renegade-Raider-PNG-HD-Isolated.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Survival Specialist Png Image - Fortnite Renegade Raider ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/195-1958223_fortnite-survival-specialist-png-image-fortnite-renegade-raider.png' alt='Fortnite Survival Specialist Png Image - Fortnite Renegade Raider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/195-1958223_fortnite-survival-specialist-png-image-fortnite-renegade-raider.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

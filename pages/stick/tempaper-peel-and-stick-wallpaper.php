@@ -1,0 +1,129 @@
+<title>Revamp Your Space: Tempaper Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the magic of Tempaper peel and stick wallpaper! Perfect for easy home updates, this adhesive wallpaper allows you to create stunning spaces without the mess. Choose from a variety of stylish designs to refresh any room effortlessly. Ideal for renters and DIY lovers alike!">
+                    <meta name="keywords" content="tempaper peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/tempaper-peel-and-stick-wallpaper">
+                            <span itemprop="name">tempaper peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space: Tempaper Peel and Stick Wallpaper</h1>
+                <p>Tempaper peel and stick wallpaper transforms any space effortlessly. Ideal for renters and DIY enthusiasts, it offers a hassle-free way to add style without commitment. With a wide array of patterns and colors, you can quickly refresh your rooms by simply peeling off the backing and sticking it to the wall. No glue, no mess!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moons Peel and Stick Wallpaper Panels">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/fp1178-tempaper-moons-periwinkle-bedroom_1800x1800.jpg?v=1649182448' alt='Moons Peel and Stick Wallpaper Panels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/fp1178-tempaper-moons-periwinkle-bedroom_1800x1800.jpg?v=1649182448' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canvas Palm Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/cp16005-tempaper-canvaspalm-greengrove-rgb.jpg?v=1725132161' alt='Canvas Palm Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/cp16005-tempaper-canvaspalm-greengrove-rgb.jpg?v=1725132161' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bohemia Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BH16006-neutral-bohemia-removable-wallpaper-bedroom.jpg?v=1724341850' alt='Bohemia Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BH16006-neutral-bohemia-removable-wallpaper-bedroom.jpg?v=1724341850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Palm Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/PP15126-Neutral-PaintedPalm-Tempaper-living-room-3.jpg?v=1725581085' alt='Painted Palm Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/PP15126-Neutral-PaintedPalm-Tempaper-living-room-3.jpg?v=1725581085' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Rainforest Peel & Stick Wallpaper RA537, Color: Green ...">
+                                <img itemprop="contentUrl url" src='https://jcpenney.scene7.com/is/image/JCPenney/DP0411202307503372M?resmode=sharp2&op_sharpen=1&wid=350&hei=350' alt='Tempaper Rainforest Peel & Stick Wallpaper RA537, Color: Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JCPenney" />
+                                </span>
+                                <a href='https://jcpenney.scene7.com/is/image/JCPenney/DP0411202307503372M?resmode=sharp2&op_sharpen=1&wid=350&hei=350' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birds of Paradise Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BP689-green-birds-of-paradise-peel-stick-wallpaper-table.jpg?v=1724538781' alt='Birds of Paradise Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BP689-green-birds-of-paradise-peel-stick-wallpaper-table.jpg?v=1724538781' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pansies Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/pa10638-tempaper-pansies-clovergreen-entryway-rgb.jpg?v=1725582946' alt='Pansies Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/pa10638-tempaper-pansies-clovergreen-entryway-rgb.jpg?v=1725582946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deco Shell Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/DC15238-fresh-mint-deco-shell-peel-and-stick-wallpaper-bench-entry_1800x1800.jpg?v=1723144182' alt='Deco Shell Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/DC15238-fresh-mint-deco-shell-peel-and-stick-wallpaper-bench-entry_1800x1800.jpg?v=1723144182' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Petite Garden Party Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/PG15055-blue-petite-garden-party-peel-stick-wallpaper-living-room.jpg?v=1724538492' alt='Petite Garden Party Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/PG15055-blue-petite-garden-party-peel-stick-wallpaper-living-room.jpg?v=1724538492' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Paintable Removable Peel and Stick Wallpaper, 20.5 in X 33 ft,  Made in the USA">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KgKWeZIxL._AC_UF894,1000_QL80_.jpg' alt='Tempaper Paintable Removable Peel and Stick Wallpaper, 20.5 in X 33 ft,  Made in the USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KgKWeZIxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Lockscreen Wallpapers: Cute & Colorful Designs</title>
+                    <meta name="description" content="Explore the cutest lockscreen wallpapers to brighten up your phone! From adorable animals to charming patterns, find the perfect design that reflects your personality. Stay inspired with these delightful wallpapers that make unlocking your device a joy! Perfect for any age and taste!">
+                    <meta name="keywords" content="lockscreen wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/lockscreen-wallpaper-cute">
+                            <span itemprop="name">lockscreen wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Lockscreen Wallpapers: Cute & Colorful Designs</h1>
+                <p>Looking for the perfect lockscreen wallpaper that radiates cuteness? Discover charming designs featuring adorable animals, sweet pastel colors, and whimsical patterns! Whether you love puppies, kittens, or playful illustrations, these wallpapers will add a delightful touch to your device. Spice up your phone with a dash of cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' alt='100+] Cute Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-lock-screen-3tvlbul8rsessetb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' alt='Lockscreen Wallpaper Inspiration Aesthetic Mobile Wallpaper Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdHAyNDctMDgtaW5zdGFncmFtc3RvcnktMDQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' alt='Love locked, cute, goodnight, lockscreen, pastel, pretty, sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/520/980/HD-wallpaper-love-locked-cute-goodnight-lockscreen-pastel-pretty-sky-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="370 Pastel/Galaxy Lockscreen ideas | cute wallpapers, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d2/f8/18/d2f8181e5caaa3f8b1b7e1a13f26f15a.jpg' alt='370 Pastel/Galaxy Lockscreen ideas | cute wallpapers, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d2/f8/18/d2f8181e5caaa3f8b1b7e1a13f26f15a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute lock screen 2025 wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0061/4295/1514/files/long-blog-be-mine-phone-wallpaper-lock-screen_mini.jpg' alt='Cute lock screen 2025 wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0061/4295/1514/files/long-blog-be-mine-phone-wallpaper-lock-screen_mini.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' alt='100+] Cute Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-iphone-lock-screen-vmx9m5alwlfj1tk4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 20+ Cute Lock Screen Wallpapers Ideas in 2024 - Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/blog-richtext-image/black-cute-halloween-ghost-lock-screen-wallpaper.jpg' alt='Top 20+ Cute Lock Screen Wallpapers Ideas in 2024 - Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/blog-richtext-image/black-cute-halloween-ghost-lock-screen-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute #lockscreen #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/4e/2b/3e4e2bf292b68a34a017dad7d93eff83.jpg' alt='Cute #lockscreen #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/4e/2b/3e4e2bf292b68a34a017dad7d93eff83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen cute on sale">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/548/688/HD-wallpaper-%CC%97-%E2%80%A2-bear-aesthetic-%E2%9C%BF-aesthestic-beige-lockscreen-poster-tasar%C4%B1mlar%C4%B1-arkaplan-tasar%C4%B1mlar%C4%B1-pandalar-cute-beige.jpg' alt='Lockscreen cute on sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/548/688/HD-wallpaper-%CC%97-%E2%80%A2-bear-aesthetic-%E2%9C%BF-aesthestic-beige-lockscreen-poster-tasar%C4%B1mlar%C4%B1-arkaplan-tasar%C4%B1mlar%C4%B1-pandalar-cute-beige.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Strawberry Kawaii Iphone Lock Screen | Pink Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_570xN.4171085007_juv5.jpg' alt='Cute Pink Strawberry Kawaii Iphone Lock Screen | Pink Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/0a8b98/4171085007/il_570xN.4171085007_juv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

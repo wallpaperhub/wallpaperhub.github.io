@@ -1,0 +1,129 @@
+<title>Stunning Red Magic Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover mesmerizing red magic wallpaper that energizes your screens. Vibrant and dynamic, our collection is designed to impress and enhance your digital experience. Perfect for showcasing your style and passion, explore our selection today and transform your device with striking visuals!">
+                    <meta name="keywords" content="red magic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-magic-wallpaper">
+                            <span itemprop="name">red magic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Magic Wallpaper for Your Device</h1>
+                <p>Elevate your device's aesthetic with striking red magic wallpaper. Infused with vibrant hues and enchanting designs, these wallpapers transform your screen into a captivating art piece. Perfect for those who embrace passion and energy, red magic wallpaper enhances your digital experience while reflecting your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/10_cad3c874-7746-40d4-8923-b684e010438a.png?v=1655815533' alt='REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmagic" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/10_cad3c874-7746-40d4-8923-b684e010438a.png?v=1655815533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original REDMAGIC Wallpapers! – REDMAGIC (Global)">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0013/1235/8460/files/Wallpaper-3-RedMagic.jpg?v=1527518427' alt='Original REDMAGIC Wallpapers! – REDMAGIC (Global)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="REDMAGIC" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0013/1235/8460/files/Wallpaper-3-RedMagic.jpg?v=1527518427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/7_4a8e5230-5dd4-4fbc-aecf-3c551373fc72.png?v=1655815555' alt='REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmagic" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/7_4a8e5230-5dd4-4fbc-aecf-3c551373fc72.png?v=1655815555' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original REDMAGIC Wallpapers! – REDMAGIC (Global)">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/redmagic-gg/wallpapers/Wallpaper-4-Mobile-RedMagic.jpg' alt='Original REDMAGIC Wallpapers! – REDMAGIC (Global)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="REDMAGIC" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/redmagic-gg/wallpapers/Wallpaper-4-Mobile-RedMagic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/REDMAGIC_Cyberpunk_Wallpaper-3.png?v=1655815609' alt='REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmagic" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/REDMAGIC_Cyberpunk_Wallpaper-3.png?v=1655815609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/Mora_Wallpaper-1.png?v=1655815449' alt='REDMAGIC (US and Canada) - Get All Your REDMAGIC Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redmagic" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0024/0684/2441/files/Mora_Wallpaper-1.png?v=1655815449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safe - Red Magic 8 Stock Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/IMG_2617.png' alt='Safe - Red Magic 8 Stock Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1116">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2023/04/IMG_2617.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original REDMAGIC Wallpapers! – REDMAGIC (Global)">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/redmagic-gg/wallpapers/Wallpaper-2-Mobile-RedMagic.jpg' alt='Original REDMAGIC Wallpapers! – REDMAGIC (Global)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="REDMAGIC" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/redmagic-gg/wallpapers/Wallpaper-2-Mobile-RedMagic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nubia Red Magic 7 (Pro) Stock Wallpapers [FHD+] (Official)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d8/49/ca/d849ca2bc4123e5fb14fd58002690f76.jpg' alt='Download Nubia Red Magic 7 (Pro) Stock Wallpapers [FHD+] (Official)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d8/49/ca/d849ca2bc4123e5fb14fd58002690f76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nubia Red Magic 6 Wallpaper (YTECHB Exclusive)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/6a/39/b06a3984e230c598969ed4c08e5e1037.jpg' alt='Nubia Red Magic 6 Wallpaper (YTECHB Exclusive)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/6a/39/b06a3984e230c598969ed4c08e5e1037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

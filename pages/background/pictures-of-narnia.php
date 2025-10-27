@@ -1,0 +1,129 @@
+<title>Narnia: Enchanting Pictures from C.S. Lewis's World</title>
+                    <meta name="description" content="Discover captivating images of Narnia, the magical realm created by C.S. Lewis. Explore stunning visuals that bring to life the iconic characters and breathtaking landscapes from this beloved saga. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="pictures of narnia">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-narnia">
+                            <span itemprop="name">pictures of narnia</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Narnia: Enchanting Pictures from C.S. Lewis's World</h1>
+                <p>Explore the enchanting world of Narnia with stunning pictures that capture the magic of C.S. Lewis’s beloved stories. From the icy landscapes ruled by the White Witch to the vibrant woods filled with mythical creatures, each image brings to life the timeless adventures of Peter, Susan, Edmund, and Lucy. Discover Narnia today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg' alt='The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1385">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Narnia">
+                                <img itemprop="contentUrl url" src='http://joshzandman.com/cdn/shop/files/narnia_site_cover.jpg?v=1718489162&width=2048' alt='Narnia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Josh Zandman Magic" />
+                                </span>
+                                <a href='http://joshzandman.com/cdn/shop/files/narnia_site_cover.jpg?v=1718489162&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Weirdest Details in the Narnia Movies">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2025/01/10-weirdest-details-in-the-narnia-movies.jpg' alt='The Weirdest Details in the Narnia Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2025/01/10-weirdest-details-in-the-narnia-movies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revisiting Narnia – Grow Christians">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.growchristians.org/wp-content/uploads/2023/11/Lucy-Narnia.jpg?resize=1024%2C640&ssl=1' alt='Revisiting Narnia – Grow Christians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grow Christians" />
+                                </span>
+                                <a href='https://i0.wp.com/www.growchristians.org/wp-content/uploads/2023/11/Lucy-Narnia.jpg?resize=1024%2C640&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reminiscing Narnia. Missing my childhood life has brought… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*CRWoEpoPUZGhJ43m0upxYw.jpeg' alt='Reminiscing Narnia. Missing my childhood life has brought… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="madnoodler - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*CRWoEpoPUZGhJ43m0upxYw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOTMwNjNmNDgtYWFhMi00NjRhLTk5YjAtMjNjYTVkYjQwOWQwXkEyXkFqcGc@._V1_.jpg' alt='The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOTMwNjNmNDgtYWFhMi00NjRhLTk5YjAtMjNjYTVkYjQwOWQwXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What do the Narnia cast look like now? | The US Sun">
+                                <img itemprop="contentUrl url" src='https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000002987885.jpg?strip=all&w=960' alt='What do the Narnia cast look like now? | The US Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The US Sun" />
+                                </span>
+                                <a href='https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/NINTCHDBPICT000002987885.jpg?strip=all&w=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover the Land of Narnia in Bohemian Switzerland - Northern Hikes">
+                                <img itemprop="contentUrl url" src='https://blog.northernhikes.com/wp-content/uploads/2017/12/6490e03dd61fc75444d5a7da4953cef5-1024x682.jpg' alt='Discover the Land of Narnia in Bohemian Switzerland - Northern Hikes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northern Hikes" />
+                                </span>
+                                <a href='https://blog.northernhikes.com/wp-content/uploads/2017/12/6490e03dd61fc75444d5a7da4953cef5-1024x682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lamp-post | The Chronicles of Narnia Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/narnia/images/6/61/Lamppost.jpg/revision/latest/scale-to-width-down/255?cb=20080518024442' alt='Lamp-post | The Chronicles of Narnia Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="255">
+                                <meta itemprop="height" content="317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Chronicles of Narnia Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/narnia/images/6/61/Lamppost.jpg/revision/latest/scale-to-width-down/255?cb=20080518024442' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chronicles of Narnia | ScreenRant">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/img_7421.JPG' alt='Chronicles of Narnia | ScreenRant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/img_7421.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

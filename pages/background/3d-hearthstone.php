@@ -1,0 +1,129 @@
+<title>Experience 3D Hearthstone: A New Dimension of Card Gaming</title>
+                    <meta name="description" content="Discover 3D Hearthstone, where your favorite card game evolves! Experience breathtaking graphics, animated cards, and a dynamic gaming environment that enhances strategy and excitement. Dive into this immersive world and redefine your card-playing adventures!">
+                    <meta name="keywords" content="3d hearthstone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-hearthstone">
+                            <span itemprop="name">3d hearthstone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience 3D Hearthstone: A New Dimension of Card Gaming</h1>
+                <p>3D Hearthstone brings an immersive twist to the beloved card game, merging strategy with stunning visuals. Players can expect enhanced graphics and dynamic animations, elevating the gameplay experience. With captivating 3D elements, each card comes alive, making strategy and tactics more engaging than ever before!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearthstone 3D printed card. 3d modeled & 3D printed this as a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ay40xolb0vp11.jpg' alt='Hearthstone 3D printed card. 3d modeled & 3D printed this as a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ay40xolb0vp11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D/Shadow Box Hearthstone Cards : 5 Steps (with Pictures ...">
+                                <img itemprop="contentUrl url" src='https://content.instructables.com/FNP/TWIH/JX574E8V/FNPTWIHJX574E8V.jpg?auto=webp' alt='3D/Shadow Box Hearthstone Cards : 5 Steps (with Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4051">
+                                <meta itemprop="height" content="3375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instructables" />
+                                </span>
+                                <a href='https://content.instructables.com/FNP/TWIH/JX574E8V/FNPTWIHJX574E8V.jpg?auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Card Hearthstone inspired (Fan art shadowbox)">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTM1MFgxMDgw/z/SJ0AAOSwotVkW80n/$_57.JPG?set_id=880000500F' alt='3D Card Hearthstone inspired (Fan art shadowbox)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTM1MFgxMDgw/z/SJ0AAOSwotVkW80n/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Blizzard create/sell 3D skins? I mean, the idea is great but ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/why-blizzard-create-sell-3d-skins-i-mean-the-idea-is-great-v0-pbcz33y56web1.jpg?width=1077&format=pjpg&auto=webp&s=f90c0bbdb35166957bfb10a71b309a0b177e72b9' alt='Why Blizzard create/sell 3D skins? I mean, the idea is great but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1077">
+                                <meta itemprop="height" content="885">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/why-blizzard-create-sell-3d-skins-i-mean-the-idea-is-great-v0-pbcz33y56web1.jpg?width=1077&format=pjpg&auto=webp&s=f90c0bbdb35166957bfb10a71b309a0b177e72b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real 3D Hearthstone Cards - General Chat - Off Topic - HearthPwn ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/fUJ0yC6.jpg' alt='Real 3D Hearthstone Cards - General Chat - Off Topic - HearthPwn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HearthPwn" />
+                                </span>
+                                <a href='https://i.imgur.com/fUJ0yC6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearthstone 3D Artwork | Game-Art-HQ">
+                                <img itemprop="contentUrl url" src='http://www.game-art-hq.com/wp-content/uploads/2014/09/Hearthstone-Heroes-of-Warcraft-3D-Game-Art.jpg' alt='Hearthstone 3D Artwork | Game-Art-HQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game-Art-HQ" />
+                                </span>
+                                <a href='http://www.game-art-hq.com/wp-content/uploads/2014/09/Hearthstone-Heroes-of-Warcraft-3D-Game-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Hearthstone Card: 9 Best Hearthstone Cards to 3D Print | All3DP">
+                                <img itemprop="contentUrl url" src='https://i.all3dp.com/wp-content/uploads/2015/09/27125955/a2d5124dce9c1492cbacc93136515f01d8c6d803.jpg' alt='DIY Hearthstone Card: 9 Best Hearthstone Cards to 3D Print | All3DP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All3DP" />
+                                </span>
+                                <a href='https://i.all3dp.com/wp-content/uploads/2015/09/27125955/a2d5124dce9c1492cbacc93136515f01d8c6d803.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DTCG Custom Shadowbox - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25371635/r/il/da0ba3/5986757583/il_fullxfull.5986757583_sydg.jpg' alt='DTCG Custom Shadowbox - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25371635/r/il/da0ba3/5986757583/il_fullxfull.5986757583_sydg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearthstone - New Legendary 3d Hero Skins">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vlPyIlqxPpw/maxresdefault.jpg' alt='Hearthstone - New Legendary 3d Hero Skins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vlPyIlqxPpw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Hearthstone Cards! Got this for Christmas, what do you think ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3d-hearthstone-cards-got-this-for-christmas-what-do-you-v0-9mf9bbb2wn8a1.jpg?width=3024&format=pjpg&auto=webp&s=3581ece2dedc8f75cd493ef7139a680048fd2f47' alt='3D Hearthstone Cards! Got this for Christmas, what do you think ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3d-hearthstone-cards-got-this-for-christmas-what-do-you-v0-9mf9bbb2wn8a1.jpg?width=3024&format=pjpg&auto=webp&s=3581ece2dedc8f75cd493ef7139a680048fd2f47' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

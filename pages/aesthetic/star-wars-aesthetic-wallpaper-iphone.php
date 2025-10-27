@@ -1,0 +1,129 @@
+<title>Stunning Star Wars Aesthetic Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful Star Wars aesthetic wallpapers for your iPhone! Choose from a variety of designs featuring your favorite characters and scenes to give your device a galactic makeover. Download now to unleash the Force on your home and lock screens!">
+                    <meta name="keywords" content="star wars aesthetic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/star-wars-aesthetic-wallpaper-iphone">
+                            <span itemprop="name">star wars aesthetic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars Aesthetic Wallpapers for iPhone</h1>
+                <p>Explore the captivating world of Star Wars with stunning aesthetic wallpapers for your iPhone. Featuring iconic characters, galactic landscapes, and the mesmerizing beauty of the Force, these wallpapers will elevate your device's look. Transform your iPhone experience and embrace the Star Wars universe wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars wallpapers iphone aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/14/71/6f147108a03738a5de716f97c016619d.jpg' alt='Star Wars wallpapers iphone aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/14/71/6f147108a03738a5de716f97c016619d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STAR WARS | iPhone X Wallpapers #iphonexwallpaperfullhd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/c1/bc/34c1bcfb89e9f8e51b219f83426be7bc.jpg' alt='STAR WARS | iPhone X Wallpapers #iphonexwallpaperfullhd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/c1/bc/34c1bcfb89e9f8e51b219f83426be7bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-mandalorian-star-wars-4k-iphone-ajgrnidjjz9b4d31.jpg' alt='100+] Star Wars 4k Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-mandalorian-star-wars-4k-iphone-ajgrnidjjz9b4d31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a minimal illustration I did for Star Wars day- thought I'd ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yag24eeqdgw01.jpg?width=1080&crop=smart&auto=webp&s=d981b3c6c4b0b1e990508b664ee03898956f3ac4' alt='Here's a minimal illustration I did for Star Wars day- thought I'd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yag24eeqdgw01.jpg?width=1080&crop=smart&auto=webp&s=d981b3c6c4b0b1e990508b664ee03898956f3ac4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Iphone 11 Star Wars R2-d2 Neon Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-iphone-11-star-wars-r2-d2-neon-aesthetic-hcjxfbgumbxcyu6k.jpg' alt='Cool Iphone 11 Star Wars R2-d2 Neon Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-iphone-11-star-wars-r2-d2-neon-aesthetic-hcjxfbgumbxcyu6k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Star Wars wallpapers : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yl7msdyxjhs91.jpg?width=640&crop=smart&auto=webp&s=f2aa66556a436b160a247276c29aefed294ec4b1' alt='Some Star Wars wallpapers : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yl7msdyxjhs91.jpg?width=640&crop=smart&auto=webp&s=f2aa66556a436b160a247276c29aefed294ec4b1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Star Wars wallpaper for iPhone and android phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/a6/92/0ea692756858faec769c08aad1e2ce76.jpg' alt='Disney's Star Wars wallpaper for iPhone and android phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/a6/92/0ea692756858faec769c08aad1e2ce76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Star Wars wallpaper iPhone pack">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2024/06/R2D2-Tatooine-gradient-iPhone-wallpaper.png' alt='Artistic Star Wars wallpaper iPhone pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2024/06/R2D2-Tatooine-gradient-iPhone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/popular-phone-darth-vader-uh8ywdoyoe8fa12t.jpg' alt='100+] Star Wars Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/popular-phone-darth-vader-uh8ywdoyoe8fa12t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ba/d6/a5bad657fab32c9f23146117a1dddbcf.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ba/d6/a5bad657fab32c9f23146117a1dddbcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

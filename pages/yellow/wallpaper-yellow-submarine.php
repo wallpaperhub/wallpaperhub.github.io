@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Submarine Wallpaper</title>
+                    <meta name="description" content="Add a splash of color to your home with Yellow Submarine wallpaper! Perfect for inspiring creativity and fun, our designs are iconic and playful, making any room feel vibrant. Ideal for kids' spaces or unique decor, discover the joy of transforming your walls with timeless art.">
+                    <meta name="keywords" content="wallpaper yellow submarine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/wallpaper-yellow-submarine">
+                            <span itemprop="name">wallpaper yellow submarine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Submarine Wallpaper</h1>
+                <p>Explore the vibrant world of "Yellow Submarine" wallpaper! Inspired by the iconic Beatles film, these designs bring a playful, psychedelic vibe to any space. Perfect for children's rooms or creative studios, these wallpapers feature whimsical imagery that sparks joy and imagination. Dive into a sea of color and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Beatles Yellow Submarine HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/541/thumb-1920-541754.jpg' alt='The Beatles Yellow Submarine HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/541/thumb-1920-541754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Submarine Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-submarine-1920-x-1080-wallpaper-fmrl97hbumdlo3sr.jpg' alt='100+] Yellow Submarine Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-submarine-1920-x-1080-wallpaper-fmrl97hbumdlo3sr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie poster for Yellow Submarine (1968). (peter max I assume??)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/01/4f/ee/014fee10da1f7a26faeb634178fcb14b.jpg' alt='Movie poster for Yellow Submarine (1968). (peter max I assume??)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/01/4f/ee/014fee10da1f7a26faeb634178fcb14b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Submarine Wallpaper by Pmag1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67510a60-fb76-431a-8473-0d00f15d9be9/d5gn54v-b1386cae-23c7-4423-b5ad-4870317db7ff.png/v1/fill/w_900,h_483,q_80,strp/yellow_submarine_wallpaper_by_pmag1_d5gn54v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgzIiwicGF0aCI6IlwvZlwvNjc1MTBhNjAtZmI3Ni00MzFhLTg0NzMtMGQwMGYxNWQ5YmU5XC9kNWduNTR2LWIxMzg2Y2FlLTIzYzctNDQyMy1iNWFkLTQ4NzAzMTdkYjdmZi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FVFTS2hSl9Ex-_dGegzO2KNJA0-p6MK5xVL1lCsJh30' alt='Yellow Submarine Wallpaper by Pmag1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/67510a60-fb76-431a-8473-0d00f15d9be9/d5gn54v-b1386cae-23c7-4423-b5ad-4870317db7ff.png/v1/fill/w_900,h_483,q_80,strp/yellow_submarine_wallpaper_by_pmag1_d5gn54v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgzIiwicGF0aCI6IlwvZlwvNjc1MTBhNjAtZmI3Ni00MzFhLTg0NzMtMGQwMGYxNWQ5YmU5XC9kNWduNTR2LWIxMzg2Y2FlLTIzYzctNDQyMy1iNWFkLTQ4NzAzMTdkYjdmZi5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FVFTS2hSl9Ex-_dGegzO2KNJA0-p6MK5xVL1lCsJh30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow submarine">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/ab/46/24ab46a34e42a8578c9812876803485f.jpg' alt='yellow submarine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/ab/46/24ab46a34e42a8578c9812876803485f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Beatles Yellow Submarine HD Wallpaper: A Colorful Musical Journey">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/467/thumb-1920-467648.jpg' alt='The Beatles Yellow Submarine HD Wallpaper: A Colorful Musical Journey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/467/thumb-1920-467648.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Submarine, art, world, Beatles, Album, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/835/635/HD-wallpaper-yellow-submarine-art-world-beatles-album.jpg' alt='Yellow Submarine, art, world, Beatles, Album, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/835/635/HD-wallpaper-yellow-submarine-art-world-beatles-album.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Journey Through the Magical World of Yellow Submarine ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-submarine-1527-x-2175-wallpaper-12e7fvv68z2zwp3q.jpg' alt='Download Journey Through the Magical World of Yellow Submarine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1348">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-submarine-1527-x-2175-wallpaper-12e7fvv68z2zwp3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Beatles Yellow Submarine Phone Background by UrLogicFails on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/194da47d-f709-4ce9-aa0f-b5ae3f0bcd64/dampoe8-53477e7f-e018-4684-90f2-a128bf950327.png/v1/fill/w_900,h_1600,q_80,strp/the_beatles_yellow_submarine_phone_background_by_urlogicfails_dampoe8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzE5NGRhNDdkLWY3MDktNGNlOS1hYTBmLWI1YWUzZjBiY2Q2NFwvZGFtcG9lOC01MzQ3N2U3Zi1lMDE4LTQ2ODQtOTBmMi1hMTI4YmY5NTAzMjcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MAqm2xDu6yVNtWuWUkQPkT7dqGRoomwo1NrgdLj69Vs' alt='The Beatles Yellow Submarine Phone Background by UrLogicFails on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/194da47d-f709-4ce9-aa0f-b5ae3f0bcd64/dampoe8-53477e7f-e018-4684-90f2-a128bf950327.png/v1/fill/w_900,h_1600,q_80,strp/the_beatles_yellow_submarine_phone_background_by_urlogicfails_dampoe8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzE5NGRhNDdkLWY3MDktNGNlOS1hYTBmLWI1YWUzZjBiY2Q2NFwvZGFtcG9lOC01MzQ3N2U3Zi1lMDE4LTQ2ODQtOTBmMi1hMTI4YmY5NTAzMjcucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MAqm2xDu6yVNtWuWUkQPkT7dqGRoomwo1NrgdLj69Vs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Submarine Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/CGq4CxC.png' alt='Yellow Submarine Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/CGq4CxC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ghost Face Wallpaper: Spook Up Your Screen!</title>
+                    <meta name="description" content="Discover unique Ghost Face wallpaper options to elevate your device's aesthetic! Perfect for horror enthusiasts, these eye-catching designs will give your screens a spooky flair. Explore various styles and embrace the chilling vibe today! Perfect for mobile users seeking to enhance their backgrounds with suspenseful art.">
+                    <meta name="keywords" content="ghost face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ghost-face-wallpaper">
+                            <span itemprop="name">ghost face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ghost Face Wallpaper: Spook Up Your Screen!</h1>
+                <p>Transform your device's look with chilling Ghost Face wallpaper designs! Perfect for horror fans, these wallpapers showcase the iconic masked figure in various eerie settings. Whether you prefer a minimalist style or vibrant artwork, elevate your screen's aesthetics with a touch of suspense and thrill. Dive into the spooky vibes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Digital Painting Of Ghostface From Scream Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/artistic-digital-painting-of-ghostface-from-scream-9hfi9os4eg1vdknr.jpg' alt='Artistic Digital Painting Of Ghostface From Scream Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/artistic-digital-painting-of-ghostface-from-scream-9hfi9os4eg1vdknr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ghost face phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c1/54/ffc154d428e81d6b43ab444787754599.jpg' alt='ghost face phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c1/54/ffc154d428e81d6b43ab444787754599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Ghostface Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-ghostface-0w0v6q8ox4z97m45.jpg' alt='100+] Iphone Ghostface Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-ghostface-0w0v6q8ox4z97m45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day 4. Made wallpaper for The Ghost Face because it was highly ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xnvt89hrspd31.png' alt='Day 4. Made wallpaper for The Ghost Face because it was highly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xnvt89hrspd31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Best Ghost face wallpaper aesthetic ideas | ghost faces, scary ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0b/5f/7f/0b5f7f27114698c4fbacb16d5f2b340f.png' alt='150 Best Ghost face wallpaper aesthetic ideas | ghost faces, scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="806">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0b/5f/7f/0b5f7f27114698c4fbacb16d5f2b340f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ghost Face (Wallpaper) : r/deadbydaylight">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zsajgryevkl51.png' alt='The Ghost Face (Wallpaper) : r/deadbydaylight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zsajgryevkl51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost face wallpaper by kata232 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e566a68b-79d3-4928-a361-97d942980d75/dhrq2ou-8e767906-867a-4c56-8f69-415f86a08476.jpg/v1/fill/w_670,h_1192,q_70,strp/ghost_face_wallpaper_by_kata232_dhrq2ou-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwOCIsInBhdGgiOiJcL2ZcL2U1NjZhNjhiLTc5ZDMtNDkyOC1hMzYxLTk3ZDk0Mjk4MGQ3NVwvZGhycTJvdS04ZTc2NzkwNi04NjdhLTRjNTYtOGY2OS00MTVmODZhMDg0NzYuanBnIiwid2lkdGgiOiI8PTczNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.d32woITYATFnKkArLB5tArcAyeqFjeeIj7XwcM4BiCI' alt='Ghost face wallpaper by kata232 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e566a68b-79d3-4928-a361-97d942980d75/dhrq2ou-8e767906-867a-4c56-8f69-415f86a08476.jpg/v1/fill/w_670,h_1192,q_70,strp/ghost_face_wallpaper_by_kata232_dhrq2ou-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwOCIsInBhdGgiOiJcL2ZcL2U1NjZhNjhiLTc5ZDMtNDkyOC1hMzYxLTk3ZDk0Mjk4MGQ3NVwvZGhycTJvdS04ZTc2NzkwNi04NjdhLTRjNTYtOGY2OS00MTVmODZhMDg0NzYuanBnIiwid2lkdGgiOiI8PTczNiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.d32woITYATFnKkArLB5tArcAyeqFjeeIj7XwcM4BiCI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ghostface wallpaper aesthetic     in 2022 | Ghostface wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/40/31/794031d108617bd87c481f57e87e730c.jpg' alt='ghostface wallpaper aesthetic     in 2022 | Ghostface wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/40/31/794031d108617bd87c481f57e87e730c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ghostface Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/ghostface-7kgek8bjhtlmum9b.jpg' alt='100+] Ghostface Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/ghostface-7kgek8bjhtlmum9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghostface in 2021. Edgy, Beautiful dark art, Horror movie art ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/840/842/HD-wallpaper-ghostface-in-2021-edgy-beautiful-dark-art-horror-movie-art-edgy-beautiful-dark-art-ghost-faces-beautiful-creepy.jpg' alt='Ghostface in 2021. Edgy, Beautiful dark art, Horror movie art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/840/842/HD-wallpaper-ghostface-in-2021-edgy-beautiful-dark-art-horror-movie-art-edgy-beautiful-dark-art-ghost-faces-beautiful-creepy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

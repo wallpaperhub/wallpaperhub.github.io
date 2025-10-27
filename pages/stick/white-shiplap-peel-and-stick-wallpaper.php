@@ -1,0 +1,129 @@
+<title>White Shiplap Peel and Stick Wallpaper: Effortless Style</title>
+                    <meta name="description" content="Add charm to your home with white shiplap peel and stick wallpaper. Perfect for any room, this easy-to-apply, removable design gets you that rustic look without the commitment! Ideal for renters and DIY projects alike. Redefine your space stylishly and affordably today!">
+                    <meta name="keywords" content="white shiplap peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/white-shiplap-peel-and-stick-wallpaper">
+                            <span itemprop="name">white shiplap peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>White Shiplap Peel and Stick Wallpaper: Effortless Style</h1>
+                <p>Transform your space with white shiplap peel and stick wallpaper! This stylish, easy-to-use wallpaper brings the charm of rustic shiplap to any room without the hassle of traditional wallpaper. Perfect for DIY enthusiasts, it’s removable, making it ideal for renters. Elevate your decor effortlessly with this chic option!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grace & Gardenia GW1002 White Shiplap Peel & Stick Wallpaper 20.5 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81d0moVAM9L.jpg' alt='Grace & Gardenia GW1002 White Shiplap Peel & Stick Wallpaper 20.5 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1551">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81d0moVAM9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Shiplap Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3820">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3774777179_krss.jpg' alt='Realistic Shiplap Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3820'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3774777179_krss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Shiplap Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq.  Ft.) NU2187 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/329268e2-b440-4904-bed1-582fa011ee01/svn/nuwallpaper-wallpaper-rolls-nu2187-64_1000.jpg' alt='NuWallpaper Shiplap Vinyl Peel & Stick Wallpaper Roll (Covers 30.75 Sq.  Ft.) NU2187 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/329268e2-b440-4904-bed1-582fa011ee01/svn/nuwallpaper-wallpaper-rolls-nu2187-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Shiplap Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3820">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3711401666_bb1p.jpg?v=1646987851&width=3000' alt='Realistic Shiplap Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3820'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3711401666_bb1p.jpg?v=1646987851&width=3000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PSW1176RL Magnolia Home Shiplap Peel & Stick Wallpaper - White ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/PSW1176RL-magnolia-home-Shiplap-peel-and-stick-wallpaper.jpg?v=1601402102&width=1946' alt='PSW1176RL Magnolia Home Shiplap Peel & Stick Wallpaper - White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/PSW1176RL-magnolia-home-Shiplap-peel-and-stick-wallpaper.jpg?v=1601402102&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Shiplap White Vinyl Peel & Stick Wallpaper Roll (Covers ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/527fda0c-9b79-45dd-ba7e-9577da0c9455/svn/roommates-wallpaper-rolls-rmk11240wp-64_600.jpg' alt='RoomMates Shiplap White Vinyl Peel & Stick Wallpaper Roll (Covers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/527fda0c-9b79-45dd-ba7e-9577da0c9455/svn/roommates-wallpaper-rolls-rmk11240wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiplap Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11240WP__RS4_681ba61b-1d20-46d7-99d3-a39bf656775f.jpg?v=1703808134&width=2400' alt='Shiplap Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11240WP__RS4_681ba61b-1d20-46d7-99d3-a39bf656775f.jpg?v=1703808134&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Shiplap Peel & Stick Wallpaper White - Threshold™: Removable  Vinyl, Wood Grain, Stain-Resistant, Washable">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_149b1238-02e0-4bc2-87b1-03aa075b2275?wid=300&hei=300&fmt=pjpeg' alt='Textured Shiplap Peel & Stick Wallpaper White - Threshold™: Removable  Vinyl, Wood Grain, Stain-Resistant, Washable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_149b1238-02e0-4bc2-87b1-03aa075b2275?wid=300&hei=300&fmt=pjpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiplap White Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://chelsealaneco.com/cdn/shop/products/0019724_shiplap-peel-and-stick-wallpaper.jpg?v=1588137384&width=720' alt='Shiplap White Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelsea Lane" />
+                                </span>
+                                <a href='https://chelsealaneco.com/cdn/shop/products/0019724_shiplap-peel-and-stick-wallpaper.jpg?v=1588137384&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 28.18 sq. ft. Shiplap Peel and Stick Wallpaper RMK11808WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4fba38e7-b493-44b8-83a6-a80c64e42bf6/svn/roommates-wallpaper-rolls-rmk11808wp-64_600.jpg' alt='RoomMates 28.18 sq. ft. Shiplap Peel and Stick Wallpaper RMK11808WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4fba38e7-b493-44b8-83a6-a80c64e42bf6/svn/roommates-wallpaper-rolls-rmk11808wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

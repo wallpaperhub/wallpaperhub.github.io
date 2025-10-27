@@ -1,0 +1,129 @@
+<title>Discover the Exciting World of Galaga: A Classic Arcade Adventure</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="galaga background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaga-background">
+                            <span itemprop="name">galaga background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Exciting World of Galaga: A Classic Arcade Adventure</h1>
+                <p>Galaga is a classic arcade game developed by Namco in 1981. Set in space, players control a starfighter battling waves of alien enemies. The game is known for its engaging gameplay, colorful graphics, and memorable sound effects. Galaga's two-player mode and unique bug-like enemies have made it a nostalgic favorite for generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga Arcade Game Space and Stars Background">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/galaga-arcade-game-space-and-footage-033608965_iconl.jpeg' alt='Galaga Arcade Game Space and Stars Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/galaga-arcade-game-space-and-footage-033608965_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga Hd Cool Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fb/7a/95/fb7a9558ba35d3d6711a21c252c77cde.jpg' alt='Galaga Hd Cool Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fb/7a/95/fb7a9558ba35d3d6711a21c252c77cde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga background by chaingrower on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/689f6cdf-a6e7-4c31-abe7-0b60bba8217a/db4sp3l-325c994d-821e-42e2-a3db-c65457437ec9.png/v1/fill/w_1024,h_701,q_80,strp/galaga_background_by_chaingrower_db4sp3l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAxIiwicGF0aCI6IlwvZlwvNjg5ZjZjZGYtYTZlNy00YzMxLWFiZTctMGI2MGJiYTgyMTdhXC9kYjRzcDNsLTMyNWM5OTRkLTgyMWUtNDJlMi1hM2RiLWM2NTQ1NzQzN2VjOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2LcOMcczrPj08VyWFZdNJbGxOwrFRvsZh5iw4NCR9No' alt='Galaga background by chaingrower on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/689f6cdf-a6e7-4c31-abe7-0b60bba8217a/db4sp3l-325c994d-821e-42e2-a3db-c65457437ec9.png/v1/fill/w_1024,h_701,q_80,strp/galaga_background_by_chaingrower_db4sp3l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAxIiwicGF0aCI6IlwvZlwvNjg5ZjZjZGYtYTZlNy00YzMxLWFiZTctMGI2MGJiYTgyMTdhXC9kYjRzcDNsLTMyNWM5OTRkLTgyMWUtNDJlMi1hM2RiLWM2NTQ1NzQzN2VjOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2LcOMcczrPj08VyWFZdNJbGxOwrFRvsZh5iw4NCR9No' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga (1981) - The Pixels">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.the-pixels.com/wp-content/uploads/2016/06/background.gif?resize=364%2C542&ssl=1' alt='Galaga (1981) - The Pixels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pixels" />
+                                </span>
+                                <a href='https://i0.wp.com/www.the-pixels.com/wp-content/uploads/2016/06/background.gif?resize=364%2C542&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Galaga HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/235/thumb-1920-235961.png' alt='Download Video Game Galaga HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/235/thumb-1920-235961.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga contest pixel art">
+                                <img itemprop="contentUrl url" src='https://dinopixel.com/preload/0321/Galaga.png' alt='Galaga contest pixel art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dinopixel" />
+                                </span>
+                                <a href='https://dinopixel.com/preload/0321/Galaga.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga Free Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/2d/94/202d94634f31d60bfb17614a6c150d14.jpg' alt='Galaga Free Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/2d/94/202d94634f31d60bfb17614a6c150d14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga is finally getting an origin story! - Old School Gamer Magazine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.oldschoolgamermagazine.com/wp-content/uploads/2017/08/galaga.png?fit=224%2C288&ssl=1' alt='Galaga is finally getting an origin story! - Old School Gamer Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old School Gamer Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/www.oldschoolgamermagazine.com/wp-content/uploads/2017/08/galaga.png?fit=224%2C288&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaga Extreme! • Images • WallpaperFusion by Binary Fortress Software">
+                                <img itemprop="contentUrl url" src='https://binaryfortressdownloads.com/Download/WPF/Images/291/WallpaperFusion-galaga-extreme-1680x480.jpg' alt='Galaga Extreme! • Images • WallpaperFusion by Binary Fortress Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperFusion" />
+                                </span>
+                                <a href='https://binaryfortressdownloads.com/Download/WPF/Images/291/WallpaperFusion-galaga-extreme-1680x480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Galaga HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/573/573253.jpg' alt='Download Video Game Galaga HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/573/573253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

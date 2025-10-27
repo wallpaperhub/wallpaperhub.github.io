@@ -1,0 +1,129 @@
+<title>Embrace August: Summer's Last Hurrah!</title>
+                    <meta name="description" content="Discover the magic of August! Celebrate summer's final days with outdoor adventures, festivals, and cherished moments. Embrace this vibrant month and explore all it has to offer as we transition into the beautiful autumn season. Join us in welcoming August!">
+                    <meta name="keywords" content="hello august">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hello-august">
+                            <span itemprop="name">hello august</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace August: Summer's Last Hurrah!</h1>
+                <p>Hello August! As summer lingers, this month brings a blend of sunshine and transition. It’s a time for late vacations, harvest festivals, and enjoying the outdoors before autumn’s chill. Let's embrace the vibrant energy, with long days perfect for adventures or simply savoring the warmth. Welcome the new opportunities and experiences this month has to offer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/76/38/79/360_F_276387917_sBbTrhnPXcMlXAVwM8zlDBADok4MyXkh.jpg' alt='Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/76/38/79/360_F_276387917_sBbTrhnPXcMlXAVwM8zlDBADok4MyXkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/81/02/82/360_F_281028256_akvaSGwcJ8AzuMWd12BN7s9gbqueL2Pm.jpg' alt='Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/81/02/82/360_F_281028256_akvaSGwcJ8AzuMWd12BN7s9gbqueL2Pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/71/a0/4471a072db585b75b07675c4343f1bb3.jpg' alt='Hello August'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/71/a0/4471a072db585b75b07675c4343f1bb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="357 Hello August Sun Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hello-august-country-landscape-golden-grass-light-sunset-sun-background-summer-season-hello-august-country-324506858.jpg' alt='357 Hello August Sun Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hello-august-country-landscape-golden-grass-light-sunset-sun-background-summer-season-hello-august-country-324506858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August month writing notebook">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61kkSEuZNGS._AC_UF1000,1000_QL80_.jpg' alt='Hello August month writing notebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61kkSEuZNGS._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/16/21/84/360_F_116218428_pRI73fLBPKgoNOgdrETOqjm1X3LSFvYv.jpg' alt='Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/16/21/84/360_F_116218428_pRI73fLBPKgoNOgdrETOqjm1X3LSFvYv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple "Hello, August" Free Monthly Printable Art - This is our Bliss">
+                                <img itemprop="contentUrl url" src='https://thisisourbliss.com/wp-content/uploads/2020/08/Hello-August-Free-Printable-copy-2.jpg' alt='Simple "Hello, August" Free Monthly Printable Art - This is our Bliss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="This is our Bliss" />
+                                </span>
+                                <a href='https://thisisourbliss.com/wp-content/uploads/2020/08/Hello-August-Free-Printable-copy-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/86/27/46/360_F_886274664_VZRbp7HTiBtVvK2VnterEyjfpqeIOXTK.jpg' alt='Hello August Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/86/27/46/360_F_886274664_VZRbp7HTiBtVvK2VnterEyjfpqeIOXTK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello August">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/89/b8/c0/89b8c019d4fb72c03013dca9cf8175c1.jpg' alt='Hello August'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/89/b8/c0/89b8c019d4fb72c03013dca9cf8175c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome August Quotes to Say Hello - Morning Quote Dream">
+                                <img itemprop="contentUrl url" src='https://morningquotedream.com/wp-content/uploads/2024/07/Screenshot-2024-07-29-at-4.15.26-AM-1-1170x747.png' alt='Welcome August Quotes to Say Hello - Morning Quote Dream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morning Quote Dream" />
+                                </span>
+                                <a href='https://morningquotedream.com/wp-content/uploads/2024/07/Screenshot-2024-07-29-at-4.15.26-AM-1-1170x747.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

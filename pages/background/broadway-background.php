@@ -1,0 +1,129 @@
+<title>Exploring the Magic of Broadway: A Historical Overview</title>
+                    <meta name="description" content="Discover the rich history of Broadway, the heart of American theater. From its origins in the 19th century to today's dazzling performances, learn what makes it the ultimate destination for theater lovers. Experience the magic of musicals, stellar actors, and unforgettable shows on the iconic streets of New York City.">
+                    <meta name="keywords" content="broadway background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broadway-background">
+                            <span itemprop="name">broadway background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Magic of Broadway: A Historical Overview</h1>
+                <p>Broadway's vibrant history dates back to the 19th century, evolving into a cultural landmark synonymous with top-tier theatrical performances. Known for its unforgettable musicals, stunning choreography, and iconic actors, Broadway captivates audiences worldwide. Each year, countless visitors flock to Times Square to experience this enchanting art form firsthand.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/50/55/89/360_F_650558940_tEBbdvozC4nXS5rfa6Xk4cpKMSo8txcx.jpg' alt='Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/50/55/89/360_F_650558940_tEBbdvozC4nXS5rfa6Xk4cpKMSo8txcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/01/22/31/360_F_101223165_LOhYAhgUGvNiKdHAZ1H14ghB9DgXylm9.jpg' alt='Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/01/22/31/360_F_101223165_LOhYAhgUGvNiKdHAZ1H14ghB9DgXylm9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,000+ Broadway Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/458089077/photo/illuminated-broadway-theatres-on-times-square.jpg?s=612x612&w=0&k=20&c=cWVhQbcfN5-0XHXC_G9e6no3H7I0Ol4RPpxc_2iXSnw=' alt='24,000+ Broadway Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/458089077/photo/illuminated-broadway-theatres-on-times-square.jpg?s=612x612&w=0&k=20&c=cWVhQbcfN5-0XHXC_G9e6no3H7I0Ol4RPpxc_2iXSnw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/07/16/14/360_F_807161486_KU5OzSLuFsvbPB9i1z62JZsRjirzpjs6.jpg' alt='Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/07/16/14/360_F_807161486_KU5OzSLuFsvbPB9i1z62JZsRjirzpjs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/40/36/99/360_F_540369968_i5jMIPlF0HkfrSkcrV2pncQjbmg0tKXM.jpg' alt='Broadway Background Images – Browse 31,533 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/40/36/99/360_F_540369968_i5jMIPlF0HkfrSkcrV2pncQjbmg0tKXM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Broadway - Gotta Dance">
+                                <img itemprop="contentUrl url" src='https://gotta-dance.com/wp-content/uploads/2021/11/gotta-dance-A-Brief-History-of-Broadway-scaled.jpg' alt='A Brief History of Broadway - Gotta Dance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gotta Dance" />
+                                </span>
+                                <a href='https://gotta-dance.com/wp-content/uploads/2021/11/gotta-dance-A-Brief-History-of-Broadway-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26 Broadway Zoom Backgrounds for Your Virtual Halloween Party ...">
+                                <img itemprop="contentUrl url" src='https://assets.playbill.com/editorial/_articleLeadImage/8dbacd02cea1fb844fac7d622925c6ef-hadestown-1.jpg' alt='26 Broadway Zoom Backgrounds for Your Virtual Halloween Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playbill" />
+                                </span>
+                                <a href='https://assets.playbill.com/editorial/_articleLeadImage/8dbacd02cea1fb844fac7d622925c6ef-hadestown-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Backdrop, Theater Backdrop, Vaudeville Photo Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11263773/r/il/acb4fa/3739658158/il_fullxfull.3739658158_qtkg.jpg' alt='Broadway Backdrop, Theater Backdrop, Vaudeville Photo Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11263773/r/il/acb4fa/3739658158/il_fullxfull.3739658158_qtkg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/310/310/small_2x/stage-with-spotlight-and-lights-photo.jpg' alt='Broadway Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/310/310/small_2x/stage-with-spotlight-and-lights-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop EN040 Broadway Theatre District">
+                                <img itemprop="contentUrl url" src='http://www.backdropsfantastic.com/backdrop_images/300's/EN-040-Broadway-Theatre-District.jpg' alt='Backdrop EN040 Broadway Theatre District'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic" />
+                                </span>
+                                <a href='http://www.backdropsfantastic.com/backdrop_images/300's/EN-040-Broadway-Theatre-District.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

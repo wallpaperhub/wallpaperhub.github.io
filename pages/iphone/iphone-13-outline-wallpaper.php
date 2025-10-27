@@ -1,0 +1,129 @@
+<title>Stunning Outline Wallpapers for iPhone 13</title>
+                    <meta name="description" content="Discover eye-catching outline wallpapers for your iPhone 13! Explore a range of stylish and minimalistic designs that enhance your device's appearance. Perfect for personalizing your phone while keeping it sleek. Download now to give your iPhone a fresh, unique look!">
+                    <meta name="keywords" content="iphone 13 outline wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-13-outline-wallpaper">
+                            <span itemprop="name">iphone 13 outline wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Outline Wallpapers for iPhone 13</h1>
+                <p>Elevate the look of your iPhone 13 with stunning outline wallpapers! These artistic designs feature sleek lines and minimalistic styles that complement your device's aesthetic. Choose from a variety of colors and patterns to match your personality. Download your favorite outline wallpaper today and make your iPhone stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 rainbow border (1170x2532) : r/Amoledbackgrounds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/srcqga5u8jn81.jpg' alt='iPhone 13 rainbow border (1170x2532) : r/Amoledbackgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/srcqga5u8jn81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Max - Border Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2a/45/6c/2a456c32260c8bea901e0a6fe2d949ca.jpg' alt='iPhone 13 Pro Max - Border Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2a/45/6c/2a456c32260c8bea901e0a6fe2d949ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Max Hex Neon Border Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/b9/76/17b97694ec8f971134bb45f63c0cd236.jpg' alt='iPhone 13 Pro Max Hex Neon Border Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/b9/76/17b97694ec8f971134bb45f63c0cd236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red border wallpaper for iPhone 13 Mini. Made from MKBHD's red ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/SyJfDrww5dnwGKFmC-Xvw5u3aZxyVDt1Bm1vVYhHnoQ.jpg?auto=webp&s=f04935fa9aabda9620c15cfde92f7956daa92349' alt='Red border wallpaper for iPhone 13 Mini. Made from MKBHD's red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/SyJfDrww5dnwGKFmC-Xvw5u3aZxyVDt1Bm1vVYhHnoQ.jpg?auto=webp&s=f04935fa9aabda9620c15cfde92f7956daa92349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Borders Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10417542.jpg' alt='iPhone 13 Borders Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10417542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Neon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/8a/5e/7d8a5e8014cac4a54d5d6315843ddd93.jpg' alt='iPhone 13 Pro Neon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/8a/5e/7d8a5e8014cac4a54d5d6315843ddd93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Max Black and White Border Wallpaper! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iphone-13-pro-max-black-and-white-border-wallpaper-v0-0u8svdfw2dx81.jpg?width=1080&crop=smart&auto=webp&s=20a0d1ac3c1676069c2a178939eac9abb774d005' alt='iPhone 13 Pro Max Black and White Border Wallpaper! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iphone-13-pro-max-black-and-white-border-wallpaper-v0-0u8svdfw2dx81.jpg?width=1080&crop=smart&auto=webp&s=20a0d1ac3c1676069c2a178939eac9abb774d005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Border Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8505334.jpg' alt='iPhone 13 Border Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8505334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Borders Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13019453.png' alt='iPhone 13 Borders Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13019453.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] iPhone 13/13 Pro - Blackwaves & Rainbow Border : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/borsbypnkjq81.png' alt='OC] iPhone 13/13 Pro - Blackwaves & Rainbow Border : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1346">
+                                <meta itemprop="height" content="2916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/borsbypnkjq81.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

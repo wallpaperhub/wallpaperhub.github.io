@@ -1,0 +1,129 @@
+<title>Rihanna Aesthetic Wallpaper: Captivating Designs for Your Devices</title>
+                    <meta name="description" content="Explore beautiful Rihanna aesthetic wallpaper for your phone and laptop. Find unique designs that embody her style, music, and artistry. Perfect for fans looking to personalize their devices with stunning visuals. Download now to transform your screen!">
+                    <meta name="keywords" content="rihanna aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/rihanna-aesthetic-wallpaper">
+                            <span itemprop="name">rihanna aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rihanna Aesthetic Wallpaper: Captivating Designs for Your Devices</h1>
+                <p>Discover the stunning world of Rihanna aesthetic wallpaper, where artistry meets style. Whether you're a fan of her iconic fashion or her vibrant music, these wallpapers capture her essence. Choose from bold colors, dreamy themes, and artistic designs that reflect Rihanna’s unique vibe, perfect for personalizing your devices with flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Wallpaper (Tap on photo)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/84/c1/8384c1bf48dfb6dbfdf9a2226ea420b8.jpg' alt='Rihanna Wallpaper (Tap on photo)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/84/c1/8384c1bf48dfb6dbfdf9a2226ea420b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/07/46/d307469d93595fb5e246da6f36b923b7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/07/46/d307469d93595fb5e246da6f36b923b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pinterest | hblackwell33 ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/34/02/1234022f32d202a31d3275d43e837488.jpg' alt='pinterest | hblackwell33 ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/34/02/1234022f32d202a31d3275d43e837488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6816434.jpg' alt='Rihanna Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6816434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rihanna background – @loxxscreens on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1c09716e25de6cdcb879c8de3f47b690/084b9909c533d5bb-7b/s1280x1920/f487a487bc1c53ba02c579f8af302f5ece1d360f.jpg' alt='rihanna background – @loxxscreens on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1c09716e25de6cdcb879c8de3f47b690/084b9909c533d5bb-7b/s1280x1920/f487a487bc1c53ba02c579f8af302f5ece1d360f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/4c/4e/9b4c4e214a44a7b58e169a769d05078b.jpg' alt='                                    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/4c/4e/9b4c4e214a44a7b58e169a769d05078b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Girl Smoking Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rihanna-girl-smoking-3kmii6v7p0n1dhh7.jpg' alt='Rihanna Girl Smoking Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rihanna-girl-smoking-3kmii6v7p0n1dhh7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61 Rihanna Wallpaper ideas | rihanna, rihanna riri, rihanna love">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9e/a0/44/9ea044e3ea92433e5edc1fd37fc760e4.jpg' alt='61 Rihanna Wallpaper ideas | rihanna, rihanna riri, rihanna love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9e/a0/44/9ea044e3ea92433e5edc1fd37fc760e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna, my way, silence and listening, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/165/183/HD-wallpaper-rihanna-my-way-silence-and-listening.jpg' alt='Rihanna, my way, silence and listening, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/165/183/HD-wallpaper-rihanna-my-way-silence-and-listening.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Blac Queen on girls | Rihanna love, Rihanna riri, Rihanna ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/8a/ae/e48aae67a71344878427c4358da9f824.jpg' alt='Pin by Blac Queen on girls | Rihanna love, Rihanna riri, Rihanna ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/8a/ae/e48aae67a71344878427c4358da9f824.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

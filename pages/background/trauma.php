@@ -1,0 +1,129 @@
+<title>Understanding Trauma: Healing and Resilience</title>
+                    <meta name="description" content="Explore the impact of trauma on mental and physical health. Learn effective coping strategies, the importance of support systems, and how professional help can facilitate healing and resilience in the aftermath of distressing experiences.">
+                    <meta name="keywords" content="trauma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trauma">
+                            <span itemprop="name">trauma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Trauma: Healing and Resilience</h1>
+                <p>Trauma can deeply affect individuals, altering their emotional, psychological, and physical well-being. It often stems from distressing experiences, such as accidents, abuse, or loss. Recovery requires time, support, and coping strategies, emphasizing the need for understanding and professional help to heal and rebuild resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trauma: causes, symptoms, effects, and treatments - The Diamond ...">
+                                <img itemprop="contentUrl url" src='https://diamondrehabthailand.com/wp-content/uploads/2024/04/trauma.png' alt='Trauma: causes, symptoms, effects, and treatments - The Diamond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1748">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Diamond Rehab Thailand" />
+                                </span>
+                                <a href='https://diamondrehabthailand.com/wp-content/uploads/2024/04/trauma.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Trauma and How To Heal">
+                                <img itemprop="contentUrl url" src='https://assets.clevelandclinic.org/transform/0ed1f8ed-c26d-4e24-802d-ab54f9282165/healing-trauma-218622570' alt='Types of Trauma and How To Heal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic Health Essentials" />
+                                </span>
+                                <a href='https://assets.clevelandclinic.org/transform/0ed1f8ed-c26d-4e24-802d-ab54f9282165/healing-trauma-218622570' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Trauma? Types, Treatment, and More">
+                                <img itemprop="contentUrl url" src='https://www.verywellhealth.com/thmb/DhA2mG2GDSFi0sH3yjafnvIaqZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH_Illustration_Types-of-Trauma_Illustrator_Sydney-Saporito_Final-906be1df6c0c424fbf3553a90023c390.jpg' alt='What is Trauma? Types, Treatment, and More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Health" />
+                                </span>
+                                <a href='https://www.verywellhealth.com/thmb/DhA2mG2GDSFi0sH3yjafnvIaqZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH_Illustration_Types-of-Trauma_Illustrator_Sydney-Saporito_Final-906be1df6c0c424fbf3553a90023c390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conquering PTSD | Banyan Mental Health">
+                                <img itemprop="contentUrl url" src='https://mentalhealth.banyantreatmentcenter.com/wp-content/uploads/2020/05/mental-trauma.jpg' alt='Conquering PTSD | Banyan Mental Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banyan Mental Health - Banyan Treatment Center" />
+                                </span>
+                                <a href='https://mentalhealth.banyantreatmentcenter.com/wp-content/uploads/2020/05/mental-trauma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What IS Trauma? — Flourish Psychotherapy and Nutrition">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/649e0ec5d3fe962964a381d0/1693157809981-HD9CWNP2W11MPJOX5BYB/trauma.png' alt='What IS Trauma? — Flourish Psychotherapy and Nutrition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flourish Psychotherapy and Nutrition" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/649e0ec5d3fe962964a381d0/1693157809981-HD9CWNP2W11MPJOX5BYB/trauma.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trauma: causes, symptoms, effects, and treatments - The Diamond ...">
+                                <img itemprop="contentUrl url" src='https://diamondrehabthailand.com/wp-content/uploads/2024/04/trauma-causes.png' alt='Trauma: causes, symptoms, effects, and treatments - The Diamond ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1748">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Diamond Rehab Thailand" />
+                                </span>
+                                <a href='https://diamondrehabthailand.com/wp-content/uploads/2024/04/trauma-causes.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trauma: Its Effects on Our Life and Our Mindsets - Ryan Gottfredson">
+                                <img itemprop="contentUrl url" src='https://ryangottfredson.com/wp-content/uploads/2020/08/Trauma-3-scaled.jpeg' alt='Trauma: Its Effects on Our Life and Our Mindsets - Ryan Gottfredson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ryan Gottfredson" />
+                                </span>
+                                <a href='https://ryangottfredson.com/wp-content/uploads/2020/08/Trauma-3-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Addressing Childhood Trauma | Danielle Rousseau">
+                                <img itemprop="contentUrl url" src='https://onecms-res.cloudinary.com/image/upload/s--ISaZPzKd--/f_auto,q_auto/c_fill,g_auto,h_622,w_830/v1/mediacorp/tdy/image/2024/04/19/20240419-ns-childhood_adverse_experiences_trauma.jpg?itok=Liff_cBt' alt='Addressing Childhood Trauma | Danielle Rousseau'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boston University" />
+                                </span>
+                                <a href='https://onecms-res.cloudinary.com/image/upload/s--ISaZPzKd--/f_auto,q_auto/c_fill,g_auto,h_622,w_830/v1/mediacorp/tdy/image/2024/04/19/20240419-ns-childhood_adverse_experiences_trauma.jpg?itok=Liff_cBt' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yes, Emotional Trauma Can Affect the Brain">
+                                <img itemprop="contentUrl url" src='https://images.everydayhealth.com/images/emotional-health/ptsd/how-trauma-affects-the-brain-1440x810.jpg' alt='Yes, Emotional Trauma Can Affect the Brain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everyday Health" />
+                                </span>
+                                <a href='https://images.everydayhealth.com/images/emotional-health/ptsd/how-trauma-affects-the-brain-1440x810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PTSD (Post-Traumatic Stress Disorder): Symptoms & Treatment">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9545-post-traumatic-stress-disorder-ptsd.jpg' alt='PTSD (Post-Traumatic Stress Disorder): Symptoms & Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/9545-post-traumatic-stress-disorder-ptsd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

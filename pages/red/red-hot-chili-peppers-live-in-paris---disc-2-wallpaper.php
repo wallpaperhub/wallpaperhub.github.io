@@ -1,0 +1,129 @@
+<title>Red Hot Chili Peppers Live in Paris: Disc 2 Wallpaper</title>
+                    <meta name="description" content="Download stunning Red Hot Chili Peppers Live in Paris - Disc 2 wallpaper! Perfect for fans, this vibrant design showcases the band's electrifying performance. Brighten your device with this unique art piece and relive the music magic! Optimized for all screens and a must-have for rock enthusiasts.">
+                    <meta name="keywords" content="red hot chili peppers live in paris - disc 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-hot-chili-peppers-live-in-paris---disc-2-wallpaper">
+                            <span itemprop="name">red hot chili peppers live in paris - disc 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red Hot Chili Peppers Live in Paris: Disc 2 Wallpaper</h1>
+                <p>Explore the vibrant imagery of the Red Hot Chili Peppers Live in Paris - Disc 2 wallpaper! This captivating artwork captures the energy and spirit of the band's electrifying performance. Perfect for fans, this wallpaper brings a piece of live rock magic to your device, reminding you of unforgettable moments and the joy of music.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live in Paris | Red Hot Chili Peppers Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/redhotchilipeppers/images/f/f9/LiveInParisEPAltCover.png/revision/latest?cb=20160710193213' alt='Live in Paris | Red Hot Chili Peppers Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Hot Chili Peppers Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/redhotchilipeppers/images/f/f9/LiveInParisEPAltCover.png/revision/latest?cb=20160710193213' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-9ucfl6f8997a1.jpg?width=959&format=pjpg&auto=webp&s=924bc2c72f2c366a06b719bef6a956cde0e57367' alt='RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-9ucfl6f8997a1.jpg?width=959&format=pjpg&auto=webp&s=924bc2c72f2c366a06b719bef6a956cde0e57367' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-4ggoea0b997a1.jpg?width=959&format=pjpg&auto=webp&s=6bd34bf7d1a18454f22c63b6705b2a52f9e2e26a' alt='RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-4ggoea0b997a1.jpg?width=959&format=pjpg&auto=webp&s=6bd34bf7d1a18454f22c63b6705b2a52f9e2e26a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-gfe9t31e997a1.jpg?width=959&format=pjpg&auto=webp&s=91de8190b15f050a9844557025c35cf28c03977f' alt='RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-gfe9t31e997a1.jpg?width=959&format=pjpg&auto=webp&s=91de8190b15f050a9844557025c35cf28c03977f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-mxzqz2nc997a1.jpg?width=959&format=pjpg&auto=webp&s=1f46605c51e4201e86adb1e473e53eb3ccb99fbb' alt='RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-mxzqz2nc997a1.jpg?width=959&format=pjpg&auto=webp&s=1f46605c51e4201e86adb1e473e53eb3ccb99fbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hot Chili Peppers - Search and Destroy - Live at Olympia ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TAetm2h39v8/maxresdefault.jpg' alt='Red Hot Chili Peppers - Search and Destroy - Live at Olympia ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TAetm2h39v8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hot Chili Peppers - Bercy, Paris, FR 13th February 2003 [SOUNDBOARD  FULL SHOW]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mLJu_y3CYnE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCggPCh_MA8=&rs=AOn4CLCImWc_qyzJkjLxT9RnmnQDOCPQiA' alt='Red Hot Chili Peppers - Bercy, Paris, FR 13th February 2003 [SOUNDBOARD  FULL SHOW]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mLJu_y3CYnE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCggPCh_MA8=&rs=AOn4CLCImWc_qyzJkjLxT9RnmnQDOCPQiA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-0tl42s0g997a1.jpg?width=959&format=pjpg&auto=webp&s=f6c4dd02ecf4748b5d7ee95269a3ed183ad513fe' alt='RHCP Live Collection [YouTube Playlist] : r/RedHotChiliPeppers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rhcp-live-collection-youtube-playlist-v0-0tl42s0g997a1.jpg?width=959&format=pjpg&auto=webp&s=f6c4dd02ecf4748b5d7ee95269a3ed183ad513fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RHCP Live (@redhot_live) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1491105770703888388/OUkNm_Kr_400x400.jpg' alt='RHCP Live (@redhot_live) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1491105770703888388/OUkNm_Kr_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster Red Hot Chili Peppers - Live Colour Me | Wall Art | 3+1 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.europosters.eu/image/750/posters/red-hot-chili-peppers-live-colour-me-i123371.jpg' alt='Poster Red Hot Chili Peppers - Live Colour Me | Wall Art | 3+1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://cdn.europosters.eu/image/750/posters/red-hot-chili-peppers-live-colour-me-i123371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

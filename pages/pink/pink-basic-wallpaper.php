@@ -1,0 +1,129 @@
+<title>Chic & Versatile Pink Basic Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover our chic pink basic wallpaper, perfect for enhancing any space. Its serene hue adds warmth and style to bedrooms, nurseries, and more. Easy to apply, this wallpaper transforms your home with elegance and simplicity. Elevate your decor today with our versatile pink wallpaper!">
+                    <meta name="keywords" content="pink basic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-basic-wallpaper">
+                            <span itemprop="name">pink basic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic & Versatile Pink Basic Wallpaper for Every Room</h1>
+                <p>Transform your space with our pink basic wallpaper, adding a touch of elegance and warmth. Perfect for any room, this versatile wallpaper complements various decor styles, from modern to classic. Its soft hue creates a calming ambiance, making it ideal for bedrooms, nurseries, or living areas. Easy to apply, it enhances your home effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' alt='Plain Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Peggy Sue' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_4e3992c8-50e8-4229-9271-9a5f387d5a27_720x.jpg?v=1633378577' alt=''Peggy Sue' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/PeggySue_web_Pink_4e3992c8-50e8-4229-9271-9a5f387d5a27_720x.jpg?v=1633378577' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/abstract-light-pink-wallpaper-background-image_53876-102526.jpg' alt='Simple Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/abstract-light-pink-wallpaper-background-image_53876-102526.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="202,900+ Basic Pink Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1064140298/vector/pale-pink-stripes-seamless-pattern.jpg?s=612x612&w=0&k=20&c=q2Rc4z4lYGHMpIQTOI4ZiawaijPS8JE166REQ9h679U=' alt='202,900+ Basic Pink Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1064140298/vector/pale-pink-stripes-seamless-pattern.jpg?s=612x612&w=0&k=20&c=q2Rc4z4lYGHMpIQTOI4ZiawaijPS8JE166REQ9h679U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Simple Pink Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-pink-0kwjob05hnd9r5re.jpg' alt='Download Simple Pink Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-pink-0kwjob05hnd9r5re.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Pink Floral">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/7c/68/e67c68fd2696ab56ea3ca86e0ffaa57f.jpg' alt='Basic Pink Floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/7c/68/e67c68fd2696ab56ea3ca86e0ffaa57f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Pink Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-gradient-background_78370-3286.jpg' alt='Basic Pink Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-gradient-background_78370-3286.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get lost in the dreamy hue of simple pink Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-pink-750-x-1334-1q4wxfdiz6j72ijt.jpg' alt='Download Get lost in the dreamy hue of simple pink Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-pink-750-x-1334-1q4wxfdiz6j72ijt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHyWNDgTk/1/0/900w/canva-beige-and-pink-minimalist-watercolor-phone-wallpaper-ekYZtsnj5oQ.jpg' alt='Customize 6,082+ Pink Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHyWNDgTk/1/0/900w/canva-beige-and-pink-minimalist-watercolor-phone-wallpaper-ekYZtsnj5oQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Simple Clean Background, Wallpaper, Pink, Simple Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-pink-simple-clean-background-picture-image_1357296.jpg' alt='Pink Simple Clean Background, Wallpaper, Pink, Simple Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-pink-simple-clean-background-picture-image_1357296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

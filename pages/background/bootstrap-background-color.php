@@ -1,0 +1,129 @@
+<title>Enhance Your Website with Bootstrap Background Colors</title>
+                    <meta name="description" content="Discover how to effectively use Bootstrap background colors to elevate your web design. Learn about built-in classes and customization options to create eye-catching, responsive layouts that engage visitors on any device. Optimize your site’s aesthetic with simple yet powerful styling techniques.">
+                    <meta name="keywords" content="bootstrap background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bootstrap-background-color">
+                            <span itemprop="name">bootstrap background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Website with Bootstrap Background Colors</h1>
+                <p>Bootstrap allows you to easily customize background colors in your web designs. By utilizing built-in classes like 'bg-primary', 'bg-success', or 'bg-danger', you can quickly apply different color schemes to elements. Additionally, you have the flexibility to create custom backgrounds using utility classes, ensuring your site looks vibrant and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap 5 Background Color - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20221104084331/bgcolor1.png' alt='Bootstrap 5 Background Color - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20221104084331/bgcolor1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap Colors: Learn to Change Bootstrap Background Color">
+                                <img itemprop="contentUrl url" src='https://www.bitdegree.org/learn/storage/media/images/7383b588-563f-4117-82bd-4c866b5490bd.jpg' alt='Bootstrap Colors: Learn to Change Bootstrap Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BitDegree" />
+                                </span>
+                                <a href='https://www.bitdegree.org/learn/storage/media/images/7383b588-563f-4117-82bd-4c866b5490bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap - Change the Text Background Color on a web page ...">
+                                <img itemprop="contentUrl url" src='https://studyopedia.com/wp-content/uploads/2022/10/Bootstrap-Change-Background-Color.jpg' alt='Bootstrap - Change the Text Background Color on a web page ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Studyopedia" />
+                                </span>
+                                <a href='https://studyopedia.com/wp-content/uploads/2022/10/Bootstrap-Change-Background-Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap background color and css color ,opacity,how we get good ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:688/1*uQhGXK_zAOORrNkdlzFR-g.png' alt='Bootstrap background color and css color ,opacity,how we get good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:688/1*uQhGXK_zAOORrNkdlzFR-g.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Bootstrap Colors and Make Your UI Pop - Blogs">
+                                <img itemprop="contentUrl url" src='https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/32613c5c-fb1c-472f-b016-2de0dea4eba8.png' alt='How to Use Bootstrap Colors and Make Your UI Pop - Blogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1930">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purecode.AI" />
+                                </span>
+                                <a href='https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/32613c5c-fb1c-472f-b016-2de0dea4eba8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap background color and css color ,opacity,how we get good ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*-_nKfK5MHRMDeYuCHfrHNw.png' alt='Bootstrap background color and css color ,opacity,how we get good ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*-_nKfK5MHRMDeYuCHfrHNw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Beginner's Guide to the Latest Bootstrap 5 Utilities">
+                                <img itemprop="contentUrl url" src='https://designmodo.com/wp-content/uploads/2021/04/2.png' alt='A Beginner's Guide to the Latest Bootstrap 5 Utilities'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designmodo" />
+                                </span>
+                                <a href='https://designmodo.com/wp-content/uploads/2021/04/2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bootstrap 4 | Colors - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20220526030229/Screenshot489.png' alt='Bootstrap 4 | Colors - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20220526030229/Screenshot489.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Bootstrap 4 background color looks completely different on ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/6ritV.png' alt='html - Bootstrap 4 background color looks completely different on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/6ritV.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Bootstrap Colors and Make Your UI Pop - Blogs">
+                                <img itemprop="contentUrl url" src='https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/b85973a8-24eb-4bea-81ce-cd329159dba5.png' alt='How to Use Bootstrap Colors and Make Your UI Pop - Blogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purecode.AI" />
+                                </span>
+                                <a href='https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/b85973a8-24eb-4bea-81ce-cd329159dba5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

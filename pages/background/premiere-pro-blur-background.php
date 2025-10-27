@@ -1,0 +1,129 @@
+<title>Blur Background in Premiere Pro: A Quick Guide</title>
+                    <meta name="description" content="Learn how to easily blur backgrounds in Adobe Premiere Pro! Our guide provides simple steps to enhance your videos by focusing viewer attention and creating a professional look. Perfect for beginners and experienced editors alike. Optimize your content now!">
+                    <meta name="keywords" content="premiere pro blur background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/premiere-pro-blur-background">
+                            <span itemprop="name">premiere pro blur background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blur Background in Premiere Pro: A Quick Guide</h1>
+                <p>In Adobe Premiere Pro, adding a blur effect to your background can enhance visual storytelling by drawing attention to your subject. Use the Gaussian Blur or Lens Blur effects for smooth transitions. Simply apply the effect to the background layer, adjust the blur level, and create a depth of field that makes your video stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO BLUR THE BACKGROUND ON A VERTICAL VIDEO in Premiere Pro Tutorials  for Beginners">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3ooxW4kK5tQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA4xZklmXK2V1o3ND8S_1RkXwThfw' alt='HOW TO BLUR THE BACKGROUND ON A VERTICAL VIDEO in Premiere Pro Tutorials  for Beginners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3ooxW4kK5tQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA4xZklmXK2V1o3ND8S_1RkXwThfw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get Blurry Background in Premiere Pro CC (Fast Tutorial)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QKGSLaOdqSA/maxresdefault.jpg' alt='How to get Blurry Background in Premiere Pro CC (Fast Tutorial)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QKGSLaOdqSA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Blurred Background and Depth of Field - Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4kP2MgUlY7Y/maxresdefault.jpg' alt='How to Get Blurred Background and Depth of Field - Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4kP2MgUlY7Y/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Backgrounds in Adobe Premiere Pro: Detailed Instructions">
+                                <img itemprop="contentUrl url" src='https://images.wondershare.com/filmora/article-images/2023/02/inverting-the-mask-to-blur-background-in-premiere-pro.png' alt='How to Blur Backgrounds in Adobe Premiere Pro: Detailed Instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare Filmora" />
+                                </span>
+                                <a href='https://images.wondershare.com/filmora/article-images/2023/02/inverting-the-mask-to-blur-background-in-premiere-pro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Backgrounds in Adobe Premiere Pro: Detailed Instructions">
+                                <img itemprop="contentUrl url" src='https://images.wondershare.com/filmora/article-images/2023/02/adding-background-blur-effect-to-video-in-filmora.png' alt='How to Blur Backgrounds in Adobe Premiere Pro: Detailed Instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare Filmora" />
+                                </span>
+                                <a href='https://images.wondershare.com/filmora/article-images/2023/02/adding-background-blur-effect-to-video-in-filmora.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Learn 3 Most Common Gaussian Blur Effects in Premiere Pro - Motion ...">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2021/04/28184426/Premiere-Pro-Gaussian-Blur-Effects.jpg' alt='Learn 3 Most Common Gaussian Blur Effects in Premiere Pro - Motion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2021/04/28184426/Premiere-Pro-Gaussian-Blur-Effects.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premiere Pro Tutorial: How to Make Background Blur Effects!!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tfnrNnjPf8M/maxresdefault.jpg' alt='Premiere Pro Tutorial: How to Make Background Blur Effects!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tfnrNnjPf8M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur Background In Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SOgkaWi1R5E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfi_roRW3OhR0IdH2C6ZEK3mQAZQ' alt='How To Blur Background In Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SOgkaWi1R5E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfi_roRW3OhR0IdH2C6ZEK3mQAZQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ways to Use a Common Blur Effect in Premiere Pro - Motion Array">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2019/01/11185159/Hero-Premiere-Pro-3-Blur-Effects.jpg' alt='3 Ways to Use a Common Blur Effect in Premiere Pro - Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2019/01/11185159/Hero-Premiere-Pro-3-Blur-Effects.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Create a Blurry Background in Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uaPgj2Tr4Fw/maxresdefault.jpg' alt='How To Create a Blurry Background in Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uaPgj2Tr4Fw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

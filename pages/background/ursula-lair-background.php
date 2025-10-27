@@ -1,0 +1,129 @@
+<title>Exploring Ursula Lair: The Iconic Sea Witch</title>
+                    <meta name="description" content="Delve into the intriguing background of Ursula Lair, the iconic sea witch from "The Little Mermaid." Learn about her influences, motivations, and role in the beloved tale. Discover why she remains a captivating character in animated history.">
+                    <meta name="keywords" content="ursula lair background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ursula-lair-background">
+                            <span itemprop="name">ursula lair background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Ursula Lair: The Iconic Sea Witch</h1>
+                <p>Ursula Lair, often referenced in pop culture, is a character inspired by Hans Christian Andersen's "The Little Mermaid." Her background as a sea witch showcases a blend of malevolence and complexity, driven by a desire for power and revenge against King Triton. Ursula captivates audiences with her cunning, charisma, and memorable musical numbers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair Backdrop Rentals | TheatreWorld® Backdrops">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/twbmarketingprod/files/production/606/ba5cf7f320/ursulas-lair-scenic-backdrop-hero-2e3114.jpg' alt='Ursula's Lair Backdrop Rentals | TheatreWorld® Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheatreWorld® Backdrops" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/twbmarketingprod/files/production/606/ba5cf7f320/ursulas-lair-scenic-backdrop-hero-2e3114.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula Lair background by musicmermaid on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae08475b-79fd-4bc6-80ba-1c29dd9eaaba/ddi993g-24eeb794-7a5f-4133-ad25-5262140d605a.png/v1/fill/w_1130,h_707/ursula_lair_background_by_musicmermaid_ddi993g-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMDg0NzViLTc5ZmQtNGJjNi04MGJhLTFjMjlkZDllYWFiYVwvZGRpOTkzZy0yNGVlYjc5NC03YTVmLTQxMzMtYWQyNS01MjYyMTQwZDYwNWEucG5nIiwiaGVpZ2h0IjoiPD0xMjAxIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvYWUwODQ3NWItNzlmZC00YmM2LTgwYmEtMWMyOWRkOWVhYWJhXC9tdXNpY21lcm1haWQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.oZ9NgLRE_M2VytdKYaQDQmSmjjil-sJNhorF8Q6PgCQ' alt='Ursula Lair background by musicmermaid on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1130">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae08475b-79fd-4bc6-80ba-1c29dd9eaaba/ddi993g-24eeb794-7a5f-4133-ad25-5262140d605a.png/v1/fill/w_1130,h_707/ursula_lair_background_by_musicmermaid_ddi993g-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMDg0NzViLTc5ZmQtNGJjNi04MGJhLTFjMjlkZDllYWFiYVwvZGRpOTkzZy0yNGVlYjc5NC03YTVmLTQxMzMtYWQyNS01MjYyMTQwZDYwNWEucG5nIiwiaGVpZ2h0IjoiPD0xMjAxIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvYWUwODQ3NWItNzlmZC00YmM2LTgwYmEtMWMyOWRkOWVhYWJhXC9tdXNpY21lcm1haWQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.oZ9NgLRE_M2VytdKYaQDQmSmjjil-sJNhorF8Q6PgCQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/1/1f/Ursula_s_lair.jpg/revision/latest?cb=20170429184719' alt='Ursula's Lair | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/1/1f/Ursula_s_lair.jpg/revision/latest?cb=20170429184719' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair Projected Backdrops - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/groshdigital/watermark/8028.jpg' alt='Ursula's Lair Projected Backdrops - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/groshdigital/watermark/8028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair - Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Ursulas-Lair-backdrop-ES8161-fullsize-scaled.jpg' alt='Ursula's Lair - Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Ursulas-Lair-backdrop-ES8161-fullsize-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair | The Little Mermaid Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/little-mermaid/images/f/fe/Littlemermaid_922.jpg/revision/latest?cb=20160216003544' alt='Ursula's Lair | The Little Mermaid Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Little Mermaid Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/little-mermaid/images/f/fe/Littlemermaid_922.jpg/revision/latest?cb=20160216003544' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair Backdrop Rentals | TheatreWorld® Backdrops">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/twbmarketingprod/files/production/607/b5a533e912/ursulas-lair-scenic-backdrop-feci-lightbox-94e6aa.jpg' alt='Ursula's Lair Backdrop Rentals | TheatreWorld® Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheatreWorld® Backdrops" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/twbmarketingprod/files/production/607/b5a533e912/ursulas-lair-scenic-backdrop-feci-lightbox-94e6aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Villains - Ursula's Lair by Ai-Zen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/22/bf/dc22bf0b79eb5f5e3005d73633957d39.jpg' alt='Disney Villains - Ursula's Lair by Ai-Zen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/22/bf/dc22bf0b79eb5f5e3005d73633957d39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D161 Ursula's Lair (D161) | JaDuke Backdrops">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/64e2a7_2ad8250e94ac4a32abb5bc4d1cc5e4cd~mv2.png/v1/fill/w_480,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64e2a7_2ad8250e94ac4a32abb5bc4d1cc5e4cd~mv2.png' alt='D161 Ursula's Lair (D161) | JaDuke Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JaDuke Backdrops" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/64e2a7_2ad8250e94ac4a32abb5bc4d1cc5e4cd~mv2.png/v1/fill/w_480,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/64e2a7_2ad8250e94ac4a32abb5bc4d1cc5e4cd~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ursula's Lair | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/3/3b/640px-Ursula%27s_Lair_%28Art%29.png/revision/latest/scale-to-width-down/250?cb=20121212221847' alt='Ursula's Lair | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/3/3b/640px-Ursula%27s_Lair_%28Art%29.png/revision/latest/scale-to-width-down/250?cb=20121212221847' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

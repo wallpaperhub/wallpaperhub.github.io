@@ -1,0 +1,129 @@
+<title>Top Benefits of First Advantage Background Checks</title>
+                    <meta name="description" content="Discover the key benefits of First Advantage background checks. Ensure your hiring process is safe and informed with reliable data on candidates. Protect your business and maintain a trustworthy workforce with accurate background information.">
+                    <meta name="keywords" content="first advantage background check status">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/first-advantage-background-check-status">
+                            <span itemprop="name">first advantage background check status</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Benefits of First Advantage Background Checks</h1>
+                <p>First advantage background checks provide businesses with the peace of mind they need when hiring new employees. By accessing comprehensive and accurate data on criminal history, employment records, and more, employers can make informed decisions. This reduces the risk of workplace issues and builds a safer, more reliable workforce.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsyQ' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="835">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsyQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I check the status of my background check ...">
+                                <img itemprop="contentUrl url" src='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000hBYW&feoid=00N5a00000DD58D&refid=0EM5a00000AfCDW' alt='ServiceConnect - How do I check the status of my background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000hBYW&feoid=00N5a00000DD58D&refid=0EM5a00000AfCDW' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATt23' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATt23' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How can I track the progress of my report?">
+                                <img itemprop="contentUrl url" src='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000ZAdp&feoid=00N5a00000DD58D&refid=0EM5a00000AMciH' alt='ServiceConnect - How can I track the progress of my report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000ZAdp&feoid=00N5a00000DD58D&refid=0EM5a00000AMciH' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - Case status tool for candidates">
+                                <img itemprop="contentUrl url" src='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000hAGa&feoid=00N5a00000DD58D&refid=0EM5a00000B2o1k' alt='ServiceConnect - Case status tool for candidates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://help.fadv.com/servlet/rtaImage?eid=ka05a000000hAGa&feoid=00N5a00000DD58D&refid=0EM5a00000B2o1k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsxh' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsxh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - Case Status Tool for First Advantage clients">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000Z8K7&feoid=00N5a00000DD58D&refid=0EM5a00000B2oBL' alt='ServiceConnect - Case Status Tool for First Advantage clients'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000Z8K7&feoid=00N5a00000DD58D&refid=0EM5a00000B2oBL' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Advantage Background Check Status">
+                                <img itemprop="contentUrl url" src='https://first-advantage-background-check-status.govbackgroundchecks.com/screenshots/first-advantage-background-check-status/2.jpg' alt='First Advantage Background Check Status'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://first-advantage-background-check-status.govbackgroundchecks.com/screenshots/first-advantage-background-check-status/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - Case Status Tool for First Advantage clients">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000Z8K7&feoid=00N5a00000DD58D&refid=0EM5a00000B2oAD' alt='ServiceConnect - Case Status Tool for First Advantage clients'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="255">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000Z8K7&feoid=00N5a00000DD58D&refid=0EM5a00000B2oAD' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Analytics & Reporting – First Advantage APAC">
+                                <img itemprop="contentUrl url" src='https://fadv.com/apac/wp-content/uploads/sites/3/InsightAdvantageClickList1.webp' alt='Analytics & Reporting – First Advantage APAC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://fadv.com/apac/wp-content/uploads/sites/3/InsightAdvantageClickList1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

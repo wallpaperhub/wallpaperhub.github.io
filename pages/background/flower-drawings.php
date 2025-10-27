@@ -1,0 +1,129 @@
+<title>Stunning Flower Drawings: Capture Nature's Beauty</title>
+                    <meta name="description" content="Discover the captivating world of flower drawings! From intricate designs to simple sketches, our collection inspires creativity and appreciation for nature. Perfect for artists and flower enthusiasts alike, explore techniques, styles, and tips to enhance your artistic journey with blooms.">
+                    <meta name="keywords" content="flower drawings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flower-drawings">
+                            <span itemprop="name">flower drawings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Drawings: Capture Nature's Beauty</h1>
+                <p>Flower drawings are a beautiful way to express creativity and appreciation for nature. From delicate petals to vibrant colors, these illustrations can capture the essence of blossoms in various styles, such as realistic, abstract, or cartoonish. Whether for personal enjoyment or artistic practice, flower drawings inspire and bring joy to many. Perfect for artists of all levels!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inktober Flower Drawings 2019 — Katrina Crouch Art">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1578273835464-U3RJF466VEDEVQW9CEI7/A+graceful+cluster+of+Azalea+flowers+-+Azalea+flower+drawing+in+ink+by+Katrina+Crouch+of+Blushed+Design.++Delicate+shading+adds+depth+to+the+drawing+without+overpowering+the+gentle+contour.+%23azaleadrawing+%23flowerdrawing+%23flowerillustration+%23botanicalillustrationink' alt='Inktober Flower Drawings 2019 — Katrina Crouch Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katrina Crouch Art" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1578273835464-U3RJF466VEDEVQW9CEI7/A+graceful+cluster+of+Azalea+flowers+-+Azalea+flower+drawing+in+ink+by+Katrina+Crouch+of+Blushed+Design.++Delicate+shading+adds+depth+to+the+drawing+without+overpowering+the+gentle+contour.+%23azaleadrawing+%23flowerdrawing+%23flowerillustration+%23botanicalillustrationink' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw flowers easy step by step with pencil || Flower drawing tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/nBcNq8a1xTw/maxresdefault.jpg' alt='How to draw flowers easy step by step with pencil || Flower drawing tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/nBcNq8a1xTw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Flowers To Draw">
+                                <img itemprop="contentUrl url" src='https://www.allaboutdrawings.com/image-files/outline-wildflower.jpg' alt='Easy Flowers To Draw'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Drawings" />
+                                </span>
+                                <a href='https://www.allaboutdrawings.com/image-files/outline-wildflower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540760553004-K8W1RRW6VLMH2JPAUY5R/Flower+drawings+of+cosmos+flowers+by+Katrina+of+Blushed+Design.++This+blog+post+reveals+a+collection+of+botanical+illustrations+and+flower+drawings+from+the+annual+inktober+challenge.+%23inktober+%23flowerdrawings+%23botnaicalillustrations+%23blushedbotanicals+www.blusheddesign.com' alt='Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katrina Crouch Art" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540760553004-K8W1RRW6VLMH2JPAUY5R/Flower+drawings+of+cosmos+flowers+by+Katrina+of+Blushed+Design.++This+blog+post+reveals+a+collection+of+botanical+illustrations+and+flower+drawings+from+the+annual+inktober+challenge.+%23inktober+%23flowerdrawings+%23botnaicalillustrations+%23blushedbotanicals+www.blusheddesign.com' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Line Drawing Flowers, Wild Flowers, Wall Art, Personalized ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40777488/r/il/31ce57/5072616514/il_570xN.5072616514_rv4w.jpg' alt='Simple Line Drawing Flowers, Wild Flowers, Wall Art, Personalized ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40777488/r/il/31ce57/5072616514/il_570xN.5072616514_rv4w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Easy Flower Drawing Ideas • Mina Drawing">
+                                <img itemprop="contentUrl url" src='https://minadrawing.com/wp-content/uploads/2024/02/easy-flower-drawing-ideas-cover.jpg' alt='15 Easy Flower Drawing Ideas • Mina Drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mina Drawing" />
+                                </span>
+                                <a href='https://minadrawing.com/wp-content/uploads/2024/02/easy-flower-drawing-ideas-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Flower Coloring Pages: Free Printable Sheets">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/a5/e5/3da5e55227b368b5db7668a295ff9b12.jpg' alt='75 Flower Coloring Pages: Free Printable Sheets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/a5/e5/3da5e55227b368b5db7668a295ff9b12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Flower: Step by Step In 10 Minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l5kBJo7aKVM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBywfI5IBBC5ecH1BkwtBidfQ9Vuw' alt='How To Draw A Flower: Step by Step In 10 Minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l5kBJo7aKVM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBywfI5IBBC5ecH1BkwtBidfQ9Vuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Simple Flower, Drawing, Step by Step, by Dawn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/51/0d/1e/510d1ef157a99161b5334a7ec38fe3ef.jpg' alt='How To Draw A Simple Flower, Drawing, Step by Step, by Dawn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="401">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/51/0d/1e/510d1ef157a99161b5334a7ec38fe3ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540835753508-97H8YQ7OLRGML4GWV6GJ/Twin+violets+flower+drawing.++I+love+how+the+violets+are+dancing+together+in+this+flower+drawing%E2%80%94intertwined+and+gracefully+connected...++See+this+and+more+flower+drawings+at+www.blusheddesign.com+%23flowerdrawings+%23blushedbotanicals+%23botanicalillustrations' alt='Flower Drawings | Inktober 2018 Roundup — Katrina Crouch Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katrina Crouch Art" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5705cdf2a3360c9af8604891/1540835753508-97H8YQ7OLRGML4GWV6GJ/Twin+violets+flower+drawing.++I+love+how+the+violets+are+dancing+together+in+this+flower+drawing%E2%80%94intertwined+and+gracefully+connected...++See+this+and+more+flower+drawings+at+www.blusheddesign.com+%23flowerdrawings+%23blushedbotanicals+%23botanicalillustrations' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

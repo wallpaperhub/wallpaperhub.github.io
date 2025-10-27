@@ -1,0 +1,129 @@
+<title>Elegant Gray & White Floral Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Discover the beauty of gray and white floral wallpaper. Perfect for adding a touch of elegance to any room, this wallpaper features delicate floral patterns in soothing colors, ideal for creating a calm and stylish environment. Upgrade your decor effortlessly!">
+                    <meta name="keywords" content="gray and white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/gray-and-white-floral-wallpaper">
+                            <span itemprop="name">gray and white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gray & White Floral Wallpaper for Chic Interiors</h1>
+                <p>Transform your space with elegant gray and white floral wallpaper. This stunning design blends sophistication with a touch of nature, making it ideal for any room. Whether you're decorating a living room, bedroom, or office, the subtle hues and intricate floral patterns add charm and style, creating a serene atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressionist Floral Dreams Wallpaper - Gray & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/CL2520-York-Impressionist-Floral-Dreams-Wallpaper-gray_37837222-84d2-4326-9c50-341cfa826928.jpg?v=1571709049' alt='Impressionist Floral Dreams Wallpaper - Gray & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/CL2520-York-Impressionist-Floral-Dreams-Wallpaper-gray_37837222-84d2-4326-9c50-341cfa826928.jpg?v=1571709049' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Floral Black, Grey & White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grand-floral-black-grey-white-wallpaper-ynhn-l.jpg' alt='Grand Floral Black, Grey & White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grand-floral-black-grey-white-wallpaper-ynhn-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395514 Floral Texture Blue Grey White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247145.jpg' alt='Galerie EN3395514 Floral Texture Blue Grey White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' alt='Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395214 Floral Texture White Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247142.jpg' alt='Galerie EN3395214 Floral Texture White Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247142.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Vintage Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_big.jpg' alt='Grey Vintage Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1519">
+                                <meta itemprop="height" content="1519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2022/07/grey-vintage-floral-wallpaper_big.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage peony print removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Grey-floral-design-magnolia-peony-wallpaper-for-powder-room_1100x.jpg?v=1635247854' alt='Vintage peony print removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Grey-floral-design-magnolia-peony-wallpaper-for-powder-room_1100x.jpg?v=1635247854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Birds of Paraside Breeze Grey Floral Grey Wallpaper Sample  2901-25412SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dcf02618-3600-4d43-8ce0-1a7a2589a1f1/svn/a-street-prints-wallpaper-samples-2901-25412sam-64_600.jpg' alt='A-Street Prints Birds of Paraside Breeze Grey Floral Grey Wallpaper Sample  2901-25412SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dcf02618-3600-4d43-8ce0-1a7a2589a1f1/svn/a-street-prints-wallpaper-samples-2901-25412sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Gray Floral Peel and Stick Removable Wallpaper 6468">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/floral_123686468_01_52e37619-79b2-42b8-bd10-0447d67da874-sw_1200x1200.jpg?v=1617122607' alt='White and Gray Floral Peel and Stick Removable Wallpaper 6468'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/floral_123686468_01_52e37619-79b2-42b8-bd10-0447d67da874-sw_1200x1200.jpg?v=1617122607' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

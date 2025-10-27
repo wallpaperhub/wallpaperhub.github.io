@@ -1,0 +1,129 @@
+<title>Stunning Mars Pictures: Explore the Red Planet</title>
+                    <meta name="description" content="Discover the captivating pictures of Mars, showcasing its unique landscapes and features. From red plains to mighty volcanoes, each image reveals a new aspect of this intriguing planet. Dive into the wonders of the Red Planet with our stunning visual gallery!">
+                    <meta name="keywords" content="picture of mars">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-mars">
+                            <span itemprop="name">picture of mars</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mars Pictures: Explore the Red Planet</h1>
+                <p>Mars, the fourth planet from the sun, is a striking world known for its reddish hue, resulting from iron oxide on its surface. Images reveal its diverse terrain, featuring vast plains, towering volcanoes, and deep canyons, showcasing a landscape both barren and breathtaking. NASA's rovers and orbiters continuously unveil its mysteries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png' alt='Mars - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1558">
+                                <meta itemprop="height" content="1558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Year, New Mars: Red Planet Gets Active as Spring Begins (Mars Report)">
+                                <img itemprop="contentUrl url" src='https://science.nasa.gov/wp-content/uploads/2023/04/272_MarsInSight_poster-jpg.webp' alt='New Year, New Mars: Red Planet Gets Active as Spring Begins (Mars Report)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://science.nasa.gov/wp-content/uploads/2023/04/272_MarsInSight_poster-jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars Lander Will Peer Inside the Red Planet | Scientific American">
+                                <img itemprop="contentUrl url" src='https://static.scientificamerican.com/sciam/cache/file/C454F5A6-536E-4C9F-AA6AF354BB85A85B_source.jpg?w=1200' alt='Mars Lander Will Peer Inside the Red Planet | Scientific American'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scientific American" />
+                                </span>
+                                <a href='https://static.scientificamerican.com/sciam/cache/file/C454F5A6-536E-4C9F-AA6AF354BB85A85B_source.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars Facts - Interesting Facts about Planet Mars">
+                                <img itemprop="contentUrl url" src='https://space-facts.com/wp-content/uploads/mars-v2.jpg' alt='Mars Facts - Interesting Facts about Planet Mars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Facts" />
+                                </span>
+                                <a href='https://space-facts.com/wp-content/uploads/mars-v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars - NASA Science">
+                                <img itemprop="contentUrl url" src='https://science.nasa.gov/wp-content/uploads/2024/07/pia26344-1600x.gif?w=1024' alt='Mars - NASA Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://science.nasa.gov/wp-content/uploads/2024/07/pia26344-1600x.gif?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg' alt='Mars - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2205">
+                                <meta itemprop="height" content="2205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars: Evidence detected of lake beneath planet's surface | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/180725085608-01-mars-lake-radar-evidence.jpg?q=x_0,y_565,h_1392,w_2474,c_crop/w_1280' alt='Mars: Evidence detected of lake beneath planet's surface | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/180725085608-01-mars-lake-radar-evidence.jpg?q=x_0,y_565,h_1392,w_2474,c_crop/w_1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mars: The Red Planet">
+                                <img itemprop="contentUrl url" src='https://perexpteamworks.com/wp-content/uploads/2024/07/mars-cover.webp' alt='Mars: The Red Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PerEXP Teamworks" />
+                                </span>
+                                <a href='https://perexpteamworks.com/wp-content/uploads/2024/07/mars-cover.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spacepedia | Solar System Scope">
+                                <img itemprop="contentUrl url" src='https://www.solarsystemscope.com/spacepedia/images/handbook/renders/mars.png' alt='Spacepedia | Solar System Scope'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spacepedia | Solar System Scope" />
+                                </span>
+                                <a href='https://www.solarsystemscope.com/spacepedia/images/handbook/renders/mars.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Laser Zapped the Rocks on Mars and Revealed a Long-Lost Water World">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/martian-landscape-with-lakes-water-royalty-free-image-1715019044.jpg?crop=0.428xw:1.00xh;0.287xw,0&resize=1200:*' alt='A Laser Zapped the Rocks on Mars and Revealed a Long-Lost Water World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popular Mechanics" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/martian-landscape-with-lakes-water-royalty-free-image-1715019044.jpg?crop=0.428xw:1.00xh;0.287xw,0&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

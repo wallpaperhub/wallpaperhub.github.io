@@ -1,0 +1,129 @@
+<title>Charming Vintage Flower Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Explore our collection of vintage flower wallpaper. Perfect for creating a cozy atmosphere, these designs blend classic beauty with contemporary style. Refresh your home effortlessly with floral patterns that capture the essence of timeless elegance. Ideal for any room! Shop now!">
+                    <meta name="keywords" content="wallpaper vintage flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/wallpaper-vintage-flowers">
+                            <span itemprop="name">wallpaper vintage flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Flower Wallpaper for Timeless Decor</h1>
+                <p>Transform your space with vintage floral wallpaper that evokes timeless elegance. Ideal for adding a touch of charm to any room, these designs combine classic motifs with modern color palettes. Whether you prefer soft pastels or bold hues, vintage flower wallpaper enhances your decor, making it inviting and stylish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Wallpaper Lilipinso">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/343667-extra_large/vintage-flowers-wallpaper-lilipinso.jpg' alt='Vintage Flowers Wallpaper Lilipinso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/343667-extra_large/vintage-flowers-wallpaper-lilipinso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Hand Painted Orchids Floral Wallpaper R8142">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' alt='Dark Green Hand Painted Orchids Floral Wallpaper R8142'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/products/DarkGreenHandPaintedOrchidsFloralWallpaperR8142.jpg?v=1736261000&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' alt='Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Desktop Wallpaper, Aesthetic Floral PC Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27946275/r/il/f2f4f5/3717212896/il_fullxfull.3717212896_5zii.jpg' alt='Vintage Flowers Desktop Wallpaper, Aesthetic Floral PC Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1422">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27946275/r/il/f2f4f5/3717212896/il_fullxfull.3717212896_5zii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Flowers Illustration Pattern Wallpaper, Vintage Floral ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/005_Front_Interior_Scene11-23.jpg' alt='Vintage Flowers Illustration Pattern Wallpaper, Vintage Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/005_Front_Interior_Scene11-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flowers, Vintage">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1709740397/articles/R19892_product.jpg' alt='Wild Flowers, Vintage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1709740397/articles/R19892_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' alt='Vintage Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45700-HDCrop.jpg?v=1665572275' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pink Flowers Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/1/8/18734056_crop.jpg' alt='Vintage Pink Flowers Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/1/8/18734056_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Color Vintage Floral Design Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/2_SOFTCOLORVINTAGEFLORAL_1100x.jpg?v=1659619670' alt='Soft Color Vintage Floral Design Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/2_SOFTCOLORVINTAGEFLORAL_1100x.jpg?v=1659619670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Floral Wallpaper Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/f/4/c/f4c35e8c-aa39-46f7-9ade-d914dce88c83_large/vintage-floral-wallpaper-stockcake.jpg' alt='Free Vintage Floral Wallpaper Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/f/4/c/f4c35e8c-aa39-46f7-9ade-d914dce88c83_large/vintage-floral-wallpaper-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

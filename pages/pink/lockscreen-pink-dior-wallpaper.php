@@ -1,0 +1,129 @@
+<title>Chic Pink Dior Lockscreen Wallpaper for Stylish Devices</title>
+                    <meta name="description" content="Discover stylish pink Dior lockscreen wallpapers that elevate your mobile experience. Perfect for fashion lovers, these wallpapers add a touch of elegance and charm to your device. Browse our collection and find the perfect design to showcase your unique style!">
+                    <meta name="keywords" content="lockscreen pink dior wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/lockscreen-pink-dior-wallpaper">
+                            <span itemprop="name">lockscreen pink dior wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Dior Lockscreen Wallpaper for Stylish Devices</h1>
+                <p>Enhance your device's aesthetic with a stunning pink Dior wallpaper for your lockscreen. This luxurious design embodies elegance and style, perfect for fashion enthusiasts. Discover a range of chic patterns and textures that bring a touch of sophistication to your screen. Transform your daily view with this iconic brand!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior pink wallpaper in 2022 | Dior wallpaper pink, 2000 wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/e2/ab/16e2abe670411895d6ccbb9ff6f12fb5.jpg' alt='Dior pink wallpaper in 2022 | Dior wallpaper pink, 2000 wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/e2/ab/16e2abe670411895d6ccbb9ff6f12fb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/87/9e/99879e785982b8e53575976cafb91f9c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/87/9e/99879e785982b8e53575976cafb91f9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior Wallpaper pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/77/4f/86774fa27ae747245b950a1bff6eb4cd.jpg' alt='Dior Wallpaper pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/77/4f/86774fa27ae747245b950a1bff6eb4cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink dior iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/34/96/ff34965b94c7d326d16f480dd75d06a7.jpg' alt='Pink dior iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/34/96/ff34965b94c7d326d16f480dd75d06a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Dior Xs Max Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7f/d4/7f/7fd47f59848a161dc6f8973bbc5f65df.jpg' alt='Pink Dior Xs Max Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7f/d4/7f/7fd47f59848a161dc6f8973bbc5f65df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/a3/16/2da3166ee8ffe90e0ec36db6fe805920.jpg' alt='Dior Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/a3/16/2da3166ee8ffe90e0ec36db6fe805920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreen pink dior wallpaper | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/88151cbe-5dfe-43cc-9ac1-f45bd117e0a7.jpeg' alt='lockscreen pink dior wallpaper | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/88151cbe-5dfe-43cc-9ac1-f45bd117e0a7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/0f/ce/fe0fce78e5f0df8c84ee944793b09006.jpg' alt='Purr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/0f/ce/fe0fce78e5f0df8c84ee944793b09006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Dior Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-dior-qetbbxhx44xaec6w.jpg' alt='100+] Pink Dior Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-dior-qetbbxhx44xaec6w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/69/52/8369523f0476abd9b59b15629e1e8475.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/69/52/8369523f0476abd9b59b15629e1e8475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

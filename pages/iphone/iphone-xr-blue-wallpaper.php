@@ -1,0 +1,129 @@
+<title>Stunning Blue Wallpapers for iPhone XR</title>
+                    <meta name="description" content="Explore a curated selection of beautiful blue wallpapers for your iPhone XR. Perfect for adding a personal touch to your device, these wallpapers capture the essence of tranquility and style. Download your favorite designs and refresh your screen today!">
+                    <meta name="keywords" content="iphone xr blue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-xr-blue-wallpaper">
+                            <span itemprop="name">iphone xr blue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Wallpapers for iPhone XR</h1>
+                <p>Discover stunning blue wallpapers for your iPhone XR that blend aesthetics and elegance. Whether you prefer calming ocean hues or vibrant sky gradients, our collection offers the perfect backdrop for your device. Elevate your iPhone XR experience with these visually striking blue wallpapers that reflect your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone XR Stock Wallpaper - Blue - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2018/09/2-2.png' alt='iPhone XR Stock Wallpaper - Blue - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2018/09/2-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone XR Wallpaper - Single Bubble - Blue - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2018/09/x-2.jpg' alt='iPhone XR Wallpaper - Single Bubble - Blue - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2018/09/x-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download iPhone Xr and iPhone Xs Stock Wallpapers (15 Wallpapers)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/70/44/28/704428769867ad5e701ef36b8a69aa55.jpg' alt='Download iPhone Xr and iPhone Xs Stock Wallpapers (15 Wallpapers)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/70/44/28/704428769867ad5e701ef36b8a69aa55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone xr wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/203/559/HD-wallpaper-iphone-xs-max-xsmax-iphone10-iphonex-iphonexr-xr-world-ios-thumbnail.jpg' alt='HD iphone xr wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/203/559/HD-wallpaper-iphone-xs-max-xsmax-iphone10-iphonex-iphonexr-xr-world-ios-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iphone Xr Stock Blue Abstract Bubbles Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xr-stock-i41dpkncauo8nqdx.jpg' alt='Download Iphone Xr Stock Blue Abstract Bubbles Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xr-stock-i41dpkncauo8nqdx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Look Stylish With The New Blue Iphone Xr. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-iphone-xr-vjz6ye7m0docvdi5.jpg' alt='Download Look Stylish With The New Blue Iphone Xr. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-iphone-xr-vjz6ye7m0docvdi5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Bubbles iPhone XR Stock Wallpapers | HD Wallpapers | ID #25919">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/blue_bubbles_iphone_xr_stock-HD.jpg' alt='Blue Bubbles iPhone XR Stock Wallpapers | HD Wallpapers | ID #25919'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2290">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/blue_bubbles_iphone_xr_stock-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best wallpaper for an blue iPhone XR. : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lcoeojkzv1861.jpg?width=640&crop=smart&auto=webp&s=4bafa66ae544d42c4e369324876f6c00b7cc1806' alt='Best wallpaper for an blue iPhone XR. : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lcoeojkzv1861.jpg?width=640&crop=smart&auto=webp&s=4bafa66ae544d42c4e369324876f6c00b7cc1806' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Iphone Xr Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-iphone-xr-2560-x-2560-e5fl200pygefyq5h.jpg' alt='100+] Blue Iphone Xr Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-iphone-xr-2560-x-2560-e5fl200pygefyq5h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue iPhone XR Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5328745.jpg' alt='Blue iPhone XR Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5328745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

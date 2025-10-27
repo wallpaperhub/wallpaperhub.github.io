@@ -1,0 +1,129 @@
+<title>Urban Expressions: The Impact of Street Walls</title>
+                    <meta name="description" content="Discover the vibrant world of street walls, where urban art breathes life into cityscapes. Explore how these walls reflect cultural narratives, enhance community identity, and serve as a canvas for creativity. Join us in celebrating the stories and artistry found in every corner of the city. Perfect for art lovers and city explorers!">
+                    <meta name="keywords" content="street wall">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/street-wall">
+                            <span itemprop="name">street wall</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Urban Expressions: The Impact of Street Walls</h1>
+                <p>Street walls tell stories of urban life, often adorned with vibrant murals, graffiti, and posters. They serve as a canvas for artistic expression and social commentary, transforming mundane roads into dynamic galleries. Beyond art, these walls work as barriers, offering safety and privacy, while enhancing the character of neighborhoods.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street wall mockup - Instant Download">
+                                <img itemprop="contentUrl url" src='https://mockups-design.com/wp-content/uploads/2022/12/Free_Wall_Mockup_2.jpg' alt='Street wall mockup - Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mockups Design" />
+                                </span>
+                                <a href='https://mockups-design.com/wp-content/uploads/2022/12/Free_Wall_Mockup_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="659,500+ Street Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/512321025/photo/industrial-background.jpg?s=612x612&w=0&k=20&c=DqNdLcBpqBOuP55-2q7mSiaNCbnuZA9-rVlA2Z18oBA=' alt='659,500+ Street Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/512321025/photo/industrial-background.jpg?s=612x612&w=0&k=20&c=DqNdLcBpqBOuP55-2q7mSiaNCbnuZA9-rVlA2Z18oBA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Wall Images – Browse 2,154,555 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/82/77/29/360_F_382772915_WDq27EEHVZGIBCedEYRgHO50L886SRBp.jpg' alt='Street Wall Images – Browse 2,154,555 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/82/77/29/360_F_382772915_WDq27EEHVZGIBCedEYRgHO50L886SRBp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Wall Images – Browse 2,154,555 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/84/92/97/360_F_84929789_b2E0ClcrohDWpru8uW2siz77bouh8IKZ.jpg' alt='Street Wall Images – Browse 2,154,555 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/84/92/97/360_F_84929789_b2E0ClcrohDWpru8uW2siz77bouh8IKZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Wall Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/180/970/non_2x/vibrant-graffiti-art-on-urban-brick-wall-depicting-colorful-flames-photo.jpeg' alt='Street Wall Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/180/970/non_2x/vibrant-graffiti-art-on-urban-brick-wall-depicting-colorful-flames-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Wall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/surface-texture-with-scratches_1136-222.jpg' alt='Street Wall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/surface-texture-with-scratches_1136-222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aged Street Wall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/49185/aged-street-wall.jpg?h=699&q=85' alt='Aged Street Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="573">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/49185/aged-street-wall.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Urban Background Empty Street Wall Pavement Stock Photo 457098724 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/urban-background-empty-street-wall-260nw-457098724.jpg' alt='Urban Background Empty Street Wall Pavement Stock Photo 457098724 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/urban-background-empty-street-wall-260nw-457098724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Wall Photos, Download The BEST Free Street Wall Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/162379/lost-places-pforphoto-leave-factory-162379.jpeg?cs=srgb&dl=pexels-pixabay-162379.jpg&fm=jpg' alt='Street Wall Photos, Download The BEST Free Street Wall Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/162379/lost-places-pforphoto-leave-factory-162379.jpeg?cs=srgb&dl=pexels-pixabay-162379.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="659,500+ Street Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/172482023/photo/concrete-facade-with-sidewalk.jpg?s=612x612&w=0&k=20&c=Xj9wCSc5wc8cOlm9vd6Ok8KoVBPKv6aUmzT4Vvdg8UE=' alt='659,500+ Street Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/172482023/photo/concrete-facade-with-sidewalk.jpg?s=612x612&w=0&k=20&c=Xj9wCSc5wc8cOlm9vd6Ok8KoVBPKv6aUmzT4Vvdg8UE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>What College Did LeBron James Attend?</title>
+                    <meta name="description" content="Discover the truth about LeBron James and his college journey. Did he attend college? Uncover how his high school career led him directly to the NBA. Get insights into his decision to skip college and the impact it had on his legendary basketball career.">
+                    <meta name="keywords" content="what college did lebron go to">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-college-did-lebron-go-to">
+                            <span itemprop="name">what college did lebron go to</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What College Did LeBron James Attend?</h1>
+                <p>LeBron James did not attend college; he skipped college basketball altogether and went directly to the NBA from high school. After an impressive career at St. Vincent-St. Mary High School in Akron, Ohio, he was the first overall pick in the 2003 NBA Draft, launching an illustrious professional career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did LeBron James Play College Basketball? | BetMGM">
+                                <img itemprop="contentUrl url" src='https://ekcfbmsotzc.exactdn.com/en/blog/wp-content/uploads/2023/05/nba-lebron-james-pass-high-school-st-vincent-st-marys-betmgm.jpg?strip=all&lossy=1&ssl=1' alt='Did LeBron James Play College Basketball? | BetMGM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BetMGM" />
+                                </span>
+                                <a href='https://ekcfbmsotzc.exactdn.com/en/blog/wp-content/uploads/2023/05/nba-lebron-james-pass-high-school-st-vincent-st-marys-betmgm.jpg?strip=all&lossy=1&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did LeBron James go to college? Ohio State, Duke headline teams ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2023-03/LeBron%20James%20032723.jpeg?itok=n1I8nO9l' alt='Did LeBron James go to college? Ohio State, Duke headline teams ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2023-03/LeBron%20James%20032723.jpeg?itok=n1I8nO9l' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBronJames">
+                                <img itemprop="contentUrl url" src='https://home.adelphi.edu/~ma21703/highschoollebron.jpg' alt='LeBronJames'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="917">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adelphi University" />
+                                </span>
+                                <a href='https://home.adelphi.edu/~ma21703/highschoollebron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron James college: Did L.A. Lakers star play college basketball?">
+                                <img itemprop="contentUrl url" src='https://www.dispatch.com/gcdn/presto/2023/02/08/NCOD/99597e97-18e9-4402-aacf-1b981dc06e66-Antonio_Pittman.JPG?crop=7565,4256,x0,y262&width=660&height=372&format=pjpg&auto=webp' alt='LeBron James college: Did L.A. Lakers star play college basketball?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.dispatch.com" />
+                                </span>
+                                <a href='https://www.dispatch.com/gcdn/presto/2023/02/08/NCOD/99597e97-18e9-4402-aacf-1b981dc06e66-Antonio_Pittman.JPG?crop=7565,4256,x0,y262&width=660&height=372&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What if LeBron James had been a Blue Devil? A Tar Heel? A Buckeye ...">
+                                <img itemprop="contentUrl url" src='https://www.saturdaydownsouth.com/app/uploads/2023/02/SDS-LeBron-James-Story.jpg' alt='What if LeBron James had been a Blue Devil? A Tar Heel? A Buckeye ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saturday Down South" />
+                                </span>
+                                <a href='https://www.saturdaydownsouth.com/app/uploads/2023/02/SDS-LeBron-James-Story.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron James is no fan of college basketball: 'The NCAA is corrupt ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/07ad3f3/2147483647/strip/true/crop/2048x1152+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2Fe1%2F2c2875381539d81a8c290dcbed7a%2Fla-1519760762-2iz0y52dmg-snap-image' alt='LeBron James is no fan of college basketball: 'The NCAA is corrupt ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/07ad3f3/2147483647/strip/true/crop/2048x1152+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2Fe1%2F2c2875381539d81a8c290dcbed7a%2Fla-1519760762-2iz0y52dmg-snap-image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superteams -- How LeBron, Kobe and others would have jolted ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2019/1028/ncb_superteams_page1_cr_16_9_USE.jpg' alt='Superteams -- How LeBron, Kobe and others would have jolted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2019/1028/ncb_superteams_page1_cr_16_9_USE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The time Urban Meyer tried recruiting LeBron James to Notre Dame">
+                                <img itemprop="contentUrl url" src='https://fightingirishwire.usatoday.com/gcdn/authoring/images/smg/2025/02/14/SUND/78662886007-2-27266.jpeg?width=660&height=435&fit=crop&format=pjpg&auto=webp' alt='The time Urban Meyer tried recruiting LeBron James to Notre Dame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fighting Irish Wire - USA Today" />
+                                </span>
+                                <a href='https://fightingirishwire.usatoday.com/gcdn/authoring/images/smg/2025/02/14/SUND/78662886007-2-27266.jpeg?width=660&height=435&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron look back: When King James played in Pittsburgh as a high ...">
+                                <img itemprop="contentUrl url" src='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/WEB-LeBron-James-Mellon-Arena-1675862572.jpg' alt='LeBron look back: When King James played in Pittsburgh as a high ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Post-Gazette" />
+                                </span>
+                                <a href='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/WEB-LeBron-James-Mellon-Arena-1675862572.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LeBron James's Band of Brothers | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/59e667c759227820827d15d9/16:9/w_1440,h_810,c_limit/t-LeBrons-Band-of-Brothers-October-2009.jpg' alt='LeBron James's Band of Brothers | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/59e667c759227820827d15d9/16:9/w_1440,h_810,c_limit/t-LeBrons-Band-of-Brothers-October-2009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

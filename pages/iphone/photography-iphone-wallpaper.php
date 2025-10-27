@@ -1,0 +1,129 @@
+<title>Stunning Photography iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of breathtaking photography iPhone wallpapers. Perfect for nature lovers and city explorers alike, these vibrant images will make your device stand out. Easily find the perfect wallpaper to match your personal style and elevate your iPhone's look! Download now!">
+                    <meta name="keywords" content="photography iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/photography-iphone-wallpaper">
+                            <span itemprop="name">photography iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Photography iPhone Wallpapers for Every Style</h1>
+                <p>Transform your device with stunning photography iPhone wallpapers. Explore captivating landscapes, vibrant cityscapes, and artistic images that bring your screen to life. Whether you prefer serene nature views or dynamic urban shots, there's a wallpaper for every style. Enhance your iPhone experience with gorgeous visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper by tarekomar375569 - Download on ZEDGE™ | 9c2e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0f/f8/31/0ff831013e099a50c610713b95d9b62b.jpg' alt='iphone wallpaper by tarekomar375569 - Download on ZEDGE™ | 9c2e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0f/f8/31/0ff831013e099a50c610713b95d9b62b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone-photography | HD WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://hamdawallpaperz.wordpress.com/wp-content/uploads/2017/09/iphone-photography-wallpaper.jpg' alt='iPhone-photography | HD WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="hd wallpapers - WordPress.com" />
+                                </span>
+                                <a href='https://hamdawallpaperz.wordpress.com/wp-content/uploads/2017/09/iphone-photography-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunsets on the Bridge iPhone X Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/fb/af/75fbaffed026e1170839f527984394c2.jpg' alt='Sunsets on the Bridge iPhone X Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/fb/af/75fbaffed026e1170839f527984394c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MODERN FREE IPHONE WALLPAPERS NO.3 - PremiumCoding">
+                                <img itemprop="contentUrl url" src='http://premiumcoding.com/wp-content/uploads/2014/03/Beautiful-Macro-Photography-Plant-Water-Bubble-iPhone-5-Wallpaper.jpg' alt='MODERN FREE IPHONE WALLPAPERS NO.3 - PremiumCoding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumCoding" />
+                                </span>
+                                <a href='http://premiumcoding.com/wp-content/uploads/2014/03/Beautiful-Macro-Photography-Plant-Water-Bubble-iPhone-5-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper | Cool cameras :-) | Pinterest | Photography ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c4/e7/6d/c4e76d78d1b7837cc9bb7f03449a3d11.jpg' alt='iPhone wallpaper | Cool cameras :-) | Pinterest | Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c4/e7/6d/c4e76d78d1b7837cc9bb7f03449a3d11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-Evening-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-Evening-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Drifting Feather Tumblr Photography iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tumblr-photography-iphone-qr6vdp5op0sb0ine.jpg' alt='Download Drifting Feather Tumblr Photography iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tumblr-photography-iphone-qr6vdp5op0sb0ine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="landscape photography of white mountain iPhone 11 Wallpapers Free ...">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-11-pro-max-wallpapers/download/79976/landscape-photography-of-white-mountain-iphone-11-pro-max-wallpaper-ilikewallpaper_com_1242x2688.jpg' alt='landscape photography of white mountain iPhone 11 Wallpapers Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-11-pro-max-wallpapers/download/79976/landscape-photography-of-white-mountain-iphone-11-pro-max-wallpaper-ilikewallpaper_com_1242x2688.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

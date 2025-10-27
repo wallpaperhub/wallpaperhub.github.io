@@ -1,0 +1,129 @@
+<title>Deebo Samuel: The NFL's Game-Changing Star</title>
+                    <meta name="description" content="Discover the electrifying talent of Deebo Samuel, a dynamic player for the San Francisco 49ers. With game-changing speed and versatility, he redefines the role of wide receivers in the NFL. Learn more about his impact on the field and highlights from his career.">
+                    <meta name="keywords" content="deebo samuel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/deebo-samuel">
+                            <span itemprop="name">deebo samuel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Deebo Samuel: The NFL's Game-Changing Star</h1>
+                <p>Deebo Samuel is a versatile wide receiver and running back for the San Francisco 49ers in the NFL. Known for his explosive speed, physicality, and playmaking ability, he has transformed the way offenses utilize skill players. Samuel's unique skill set allows him to excel in various roles, making him a key asset for his team.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commanders reportedly land wideout Deebo Samuel in trade with ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/99e0d189b5680d2e72a4a3149e17ad75c1cc19b0/0_247_8547_5128/master/8547.jpg?width=465&dpr=1&s=none&crop=none' alt='Commanders reportedly land wideout Deebo Samuel in trade with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/99e0d189b5680d2e72a4a3149e17ad75c1cc19b0/0_247_8547_5128/master/8547.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commanders acquire wide receiver Deebo Samuel in trade with 49ers ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-03/250301-deebo-samuel-wm-430p-5cdf68.jpg' alt='Commanders acquire wide receiver Deebo Samuel in trade with 49ers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-03/250301-deebo-samuel-wm-430p-5cdf68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deebo Samuel Sr. - San Francisco 49ers Wide Receiver - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3126486.png&w=350&h=254' alt='Deebo Samuel Sr. - San Francisco 49ers Wide Receiver - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3126486.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49ers deal Deebo Samuel to Commanders, sources say - ABC7 San ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/photo/2025/0301/r1458344_1296x729_16-9.jpg' alt='49ers deal Deebo Samuel to Commanders, sources say - ABC7 San ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC7 News" />
+                                </span>
+                                <a href='https://a.espncdn.com/photo/2025/0301/r1458344_1296x729_16-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESPN predicts 'perfect trade outcome' for 49ers WR Deebo Samuel ...">
+                                <img itemprop="contentUrl url" src='https://static.49erswebzone.com/v/TuOYbx/content/media/cache/article-770x433-d135e936010920ddd63ac534b886f406.jpg' alt='ESPN predicts 'perfect trade outcome' for 49ers WR Deebo Samuel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="49ers Webzone" />
+                                </span>
+                                <a href='https://static.49erswebzone.com/v/TuOYbx/content/media/cache/article-770x433-d135e936010920ddd63ac534b886f406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49ers Screwed Up Deebo Samuel Trade After Reports of Better Option">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4559,h_2564/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/246/01jnf36xv0s0abng5dxt.jpg' alt='49ers Screwed Up Deebo Samuel Trade After Reports of Better Option'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golden Gate Sports" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4559,h_2564/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/246/01jnf36xv0s0abng5dxt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49ers Send Star WR Deebo Samuel to Commanders in Blockbuster Trade ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2540001/49ers-wr-deebo-samuel.jpg?w=1600&h=1600&q=88&f=e6606b5ff04aa7c4d6fa3f91876af723' alt='49ers Send Star WR Deebo Samuel to Commanders in Blockbuster Trade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2540001/49ers-wr-deebo-samuel.jpg?w=1600&h=1600&q=88&f=e6606b5ff04aa7c4d6fa3f91876af723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BREAKING NEWS: Commanders Trade for Deebo Samuel - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/aALXxE8UW44/hqdefault.jpg' alt='BREAKING NEWS: Commanders Trade for Deebo Samuel - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/aALXxE8UW44/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commanders trading for 49ers star receiver Deebo Samuel">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_4323,h_2431,x_615,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/commander_country/01jna226m4kj8vg41dd4.jpg' alt='Commanders trading for 49ers star receiver Deebo Samuel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_4323,h_2431,x_615,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/commander_country/01jna226m4kj8vg41dd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49ers news: Deebo Samuel's trade will cost over $31 million in ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/aSBUT6ukbSNgDHAW2IZRdgAgdJI=/0x0:4789x3192/1200x800/filters:focal(1936x399:2702x1165)/cdn.vox-cdn.com/uploads/chorus_image/image/73938152/2191891978.0.jpg' alt='49ers news: Deebo Samuel's trade will cost over $31 million in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Niners Nation" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/aSBUT6ukbSNgDHAW2IZRdgAgdJI=/0x0:4789x3192/1200x800/filters:focal(1936x399:2702x1165)/cdn.vox-cdn.com/uploads/chorus_image/image/73938152/2191891978.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

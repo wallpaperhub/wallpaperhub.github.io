@@ -1,0 +1,129 @@
+<title>Star Wars Wallpaper: Transform Your Space with Epic Designs</title>
+                    <meta name="description" content="Explore our unique collection of Star Wars pattern wallpaper to bring the galaxy into your home! Perfect for fans, this wallpaper adds character to any room. Easily apply and enjoy a new backdrop that celebrates your love for the saga. Discover your favorite designs today!">
+                    <meta name="keywords" content="star wars pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-pattern-wallpaper">
+                            <span itemprop="name">star wars pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Wallpaper: Transform Your Space with Epic Designs</h1>
+                <p>Transform your space with stunning Star Wars pattern wallpaper! Featuring iconic characters and scenes, this wallpaper is perfect for true fans. Whether decorating a bedroom, game room, or office, your walls will come alive with the galaxy far, far away. Embrace the Force and elevate your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York RMK11036WP Star Wars Blueprint Peel And Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/211534.jpg' alt='York RMK11036WP Star Wars Blueprint Peel And Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/211534.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220+ Star Wars Inspired Patterns - Star Wars Patterns Wallpaper - Seamless  Patterns - Digital Paper - Digital Download - High Quality 300dpi - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7707657/r/il/14b5c3/6050191282/il_1080xN.6050191282_fgqp.jpg' alt='220+ Star Wars Inspired Patterns - Star Wars Patterns Wallpaper - Seamless  Patterns - Digital Paper - Digital Download - High Quality 300dpi - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7707657/r/il/14b5c3/6050191282/il_1080xN.6050191282_fgqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Star Wars Pattern Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/86/45/988645250ce99439ff7b4ee88af5243d.jpg' alt='Awesome Star Wars Pattern Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/86/45/988645250ce99439ff7b4ee88af5243d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Dark Side Peel & Stick Wallpaper - Dark Gray">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/RMK11063WP-dark-side-star-wars-peel-and-stick-wallpaper-gray-black.jpg?v=1576008986' alt='Star Wars Dark Side Peel & Stick Wallpaper - Dark Gray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/RMK11063WP-dark-side-star-wars-peel-and-stick-wallpaper-gray-black.jpg?v=1576008986' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York DI0998 Star Wars Good Night Galaxy Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/225172.jpg' alt='York DI0998 Star Wars Good Night Galaxy Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/225172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Star Wars Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Star_Wars_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_313670658_01_grande.jpg?v=1642623477' alt='Black and White Star Wars Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Star_Wars_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_313670658_01_grande.jpg?v=1642623477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roommates Star Wars The Dark Side Damask Peel And Stick Black ...">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6892327501870_20.jpg?v=1703233563' alt='Roommates Star Wars The Dark Side Damask Peel And Stick Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6892327501870_20.jpg?v=1703233563' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader, stormtrooper, Star Wars, pattern, yellow, yellow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/f0/ec/1cf0ece7c9471a1d291c556a7e0645e1.jpg' alt='Darth Vader, stormtrooper, Star Wars, pattern, yellow, yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/f0/ec/1cf0ece7c9471a1d291c556a7e0645e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Modern Star Wars Inspired Seamless Pattern for Printing ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40466588/r/il/2bb337/5224636917/il_fullxfull.5224636917_iz2n.jpg' alt='Minimalist Modern Star Wars Inspired Seamless Pattern for Printing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40466588/r/il/2bb337/5224636917/il_fullxfull.5224636917_iz2n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ships And Droids Pattern Wallpaper - Blue">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/243544/Ships-And-Droids-Pattern-Wallpaper---Blue.jpg?v=638165419594770000' alt='Ships And Droids Pattern Wallpaper - Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/243544/Ships-And-Droids-Pattern-Wallpaper---Blue.jpg?v=638165419594770000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Discover the Magical World of Polar Express"</title>
+                    <meta name="description" content="Explore the enchanting story of "The Polar Express," a timeless tale of belief and adventure. Learn about its origins, the animated film, and the magic it brings during the holiday season. Perfect for fans of all ages!">
+                    <meta name="keywords" content="polar express background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/polar-express-background">
+                            <span itemprop="name">polar express background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Magical World of Polar Express"</h1>
+                <p>"The Polar Express," a beloved children's book by Chris Van Allsburg, was published in 1985. It tells the magical story of a young boy who takes a train ride to the North Pole, illustrating themes of belief, wonder, and the spirit of Christmas. This enchanting tale has inspired an animated film, merchandise, and holiday events worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9X6Ft Christmas Train Backdrop Polar Express Old Fairy Train Photography  Backdrop Train Theme Xmas Party Decorations Snowy Winter Night Background  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61-wtZuTTvL._AC_UF894,1000_QL80_.jpg' alt='9X6Ft Christmas Train Backdrop Polar Express Old Fairy Train Photography  Backdrop Train Theme Xmas Party Decorations Snowy Winter Night Background  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61-wtZuTTvL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Train Backdrop, Express Train Backdrop to the North Pole, Winter  Themed Backdrop, Christmas Photo Backdrop CHS384 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/607583/4087065580/il_1080xN.4087065580_r86x.jpg' alt='Christmas Train Backdrop, Express Train Backdrop to the North Pole, Winter  Themed Backdrop, Christmas Photo Backdrop CHS384 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/607583/4087065580/il_1080xN.4087065580_r86x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10x8ftFabric Winter Night Train Photography Backdrop No Wrinkles Wonderland  Railway Polar Express Background Snowflake Portrait Photobooth Banner ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71tObA1sSXL._AC_UF894,1000_QL80_.jpg' alt='10x8ftFabric Winter Night Train Photography Backdrop No Wrinkles Wonderland  Railway Polar Express Background Snowflake Portrait Photobooth Banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71tObA1sSXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polar Express Race to the Pole">
+                                <img itemprop="contentUrl url" src='https://cdn.unifiedcommerce.com/content/product/media/large/705988721892-1.jpg' alt='Polar Express Race to the Pole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="863">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puzzle Warehouse" />
+                                </span>
+                                <a href='https://cdn.unifiedcommerce.com/content/product/media/large/705988721892-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polar Train Winter Snow Backdrop Photography Studio Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11810216/r/il/39b6d0/2013179302/il_fullxfull.2013179302_qm9m.jpg' alt='Polar Train Winter Snow Backdrop Photography Studio Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11810216/r/il/39b6d0/2013179302/il_fullxfull.2013179302_qm9m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook Paper - The Polar Express - Believe">
+                                <img itemprop="contentUrl url" src='https://paperhouseproductions.com/cdn/shop/products/PGL-2052E-Scrapbook-Paper-The-Polar-Express-Believe-2_800x.jpg?v=1649431443' alt='Scrapbook Paper - The Polar Express - Believe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paper House Productions" />
+                                </span>
+                                <a href='https://paperhouseproductions.com/cdn/shop/products/PGL-2052E-Scrapbook-Paper-The-Polar-Express-Believe-2_800x.jpg?v=1649431443' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polar Express Backdrop - Christmas | Backdrops Fantastic Australia">
+                                <img itemprop="contentUrl url" src='https://www.backdrops.com.au/wp-content/uploads/2017/11/Polar-Express-CH060AU.jpg' alt='Polar Express Backdrop - Christmas | Backdrops Fantastic Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic Australia" />
+                                </span>
+                                <a href='https://www.backdrops.com.au/wp-content/uploads/2017/11/Polar-Express-CH060AU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HamletHub">
+                                <img itemprop="contentUrl url" src='https://hamlethub-dev-images.s3.amazonaws.com/old/hh20mediafolder/942/201311/Polar%20Express%20train.jpg' alt='HamletHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HamletHub" />
+                                </span>
+                                <a href='https://hamlethub-dev-images.s3.amazonaws.com/old/hh20mediafolder/942/201311/Polar%20Express%20train.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polar Express Train Photography Backdrop, Winter, Snowy, Golden Ticket,  North Pole, Christmas Eve, Santa, Steamer, Night, Moon, Smokey, Sn">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/SLL_80.jpeg' alt='Polar Express Train Photography Backdrop, Winter, Snowy, Golden Ticket,  North Pole, Christmas Eve, Santa, Steamer, Night, Moon, Smokey, Sn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/SLL_80.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Christmas Polar-Express Backdrop for Photography Designed by Mini  MakeBelieve">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/kate_Polar-Express_photo_backdrop_5x3ft_BH1028544E.jpg?v=1624953295' alt='Kate Christmas Polar-Express Backdrop for Photography Designed by Mini  MakeBelieve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/kate_Polar-Express_photo_backdrop_5x3ft_BH1028544E.jpg?v=1624953295' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

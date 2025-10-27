@@ -1,0 +1,129 @@
+<title>Discover the Serenity of Palm Tree Beaches</title>
+                    <meta name="description" content="Unwind at stunning palm tree beaches where the sun, sand, and sea create the ultimate paradise. Enjoy lush landscapes, tranquil waters, and the perfect escape for relaxation or adventure. Plan your tropical getaway today!">
+                    <meta name="keywords" content="palm tree beach">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/palm-tree-beach">
+                            <span itemprop="name">palm tree beach</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Serenity of Palm Tree Beaches</h1>
+                <p>Palm tree beaches are idyllic retreats where golden sands meet the serene waves of the ocean. These tropical havens are adorned with swaying palm trees that provide shade and a picturesque backdrop. Visitors can relish sunbathing, swimming, or enjoying cocktails under the rustling fronds, making every moment a slice of paradise.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Tree Tropical Beach Poster Poster 24x16">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eIrSDxK-L._AC_UF894,1000_QL80_.jpg' alt='Palm Tree Tropical Beach Poster Poster 24x16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eIrSDxK-L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,800+ Beach Sunset Palm Trees Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/474185479/photo/barbados.jpg?s=612x612&w=0&k=20&c=CoMAIsVOAPd6IzyrigoQdTn6POtp-OSnMv0cS9AzBzc=' alt='112,800+ Beach Sunset Palm Trees Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/474185479/photo/barbados.jpg?s=612x612&w=0&k=20&c=CoMAIsVOAPd6IzyrigoQdTn6POtp-OSnMv0cS9AzBzc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Trees on white Beach">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/60742/palm-trees-on-white-beach.jpg?h=699&q=85' alt='Palm Trees on white Beach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://images.photowall.com/products/60742/palm-trees-on-white-beach.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mai Poina Beach Park Curved Palm Tree">
+                                <img itemprop="contentUrl url" src='https://photostorage.explorest.com/usa/hawaii/vlim-mai-poina-palmtree-compressed.jpg' alt='Mai Poina Beach Park Curved Palm Tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1373">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://photostorage.explorest.com/usa/hawaii/vlim-mai-poina-palmtree-compressed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Beach with Palm Tree">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/60524/coral-beach-with-palm-tree.jpg?h=699&q=85' alt='Coral Beach with Palm Tree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/60524/coral-beach-with-palm-tree.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k UHD Tropical Beach & Palm Trees on a Island, Ocean Sounds, Ocean Waves,  White Noise for Sleeping.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BNTs6-pNFRk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC8gVCh_MA8=&rs=AOn4CLDlCMvw1saK2k0GpAjYYg32PtZm1Q' alt='4k UHD Tropical Beach & Palm Trees on a Island, Ocean Sounds, Ocean Waves,  White Noise for Sleeping.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BNTs6-pNFRk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC8gVCh_MA8=&rs=AOn4CLDlCMvw1saK2k0GpAjYYg32PtZm1Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm tree beach background stock photo. Image of beach - 10742508">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/06/19/9e0619e1311dbaccc1bc5155bf43d9c4.jpg' alt='Palm tree beach background stock photo. Image of beach - 10742508'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/06/19/9e0619e1311dbaccc1bc5155bf43d9c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sunset Palm Tree Images – Browse 818,301 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/44/91/99/360_F_244919943_ykR3h7KkawrocsUthLQh96tNy0UaQAGF.jpg' alt='Beach Sunset Palm Tree Images – Browse 818,301 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/44/91/99/360_F_244919943_ykR3h7KkawrocsUthLQh96tNy0UaQAGF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Beach Crooked Palm Tree, North Shore Oahu">
+                                <img itemprop="contentUrl url" src='http://yahglobal.com/wp-content/uploads/2021/02/sunset_beach_crooked_palm_tree_1.jpg' alt='Sunset Beach Crooked Palm Tree, North Shore Oahu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YAHglobal" />
+                                </span>
+                                <a href='http://yahglobal.com/wp-content/uploads/2021/02/sunset_beach_crooked_palm_tree_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="571,500+ Beach Palm Trees Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300296030/photo/tropical-beach-palm-trees-sea-wave-and-white-sand.jpg?s=612x612&w=0&k=20&c=6xdlJDxSp5FVUpQC7AOt3ooHYPd3-gTQNF6lmwX5krk=' alt='571,500+ Beach Palm Trees Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300296030/photo/tropical-beach-palm-trees-sea-wave-and-white-sand.jpg?s=612x612&w=0&k=20&c=6xdlJDxSp5FVUpQC7AOt3ooHYPd3-gTQNF6lmwX5krk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

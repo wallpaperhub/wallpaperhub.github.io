@@ -1,0 +1,129 @@
+<title>Transform Your Space with Vintage Wallpaper Rolls</title>
+                    <meta name="description" content="Add elegance to your home with vintage wallpaper rolls. Explore unique patterns and textures that evoke nostalgia and enhance any interior. Perfect for DIY projects or professional renovations, our curated selection brings character and charm to your living spaces effortlessly. Embrace the vintage trend today!">
+                    <meta name="keywords" content="vintage wallpaper rolls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-wallpaper-rolls">
+                            <span itemprop="name">vintage wallpaper rolls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Vintage Wallpaper Rolls</h1>
+                <p>Discover the charm of vintage wallpaper rolls to elevate your interior decor. These timeless designs bring character and nostalgia to any space. Whether you prefer floral patterns, geometric shapes, or textured styles, vintage wallpaper adds a unique touch. Perfect for accent walls or full-room transformations, it’s an eco-friendly choice too!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One-of-a-kind Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_1673.jpg?v=1415828202' alt='One-of-a-kind Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1944">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_1673.jpg?v=1415828202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SURFACE STYLE Vintage Panel Cloud Vinyl Peel and Stick Wallpaper Roll  (Covers 30.75 sq. ft.) 160100WR">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4897c5b7-9115-49e9-beb8-3d1cd6656c80/svn/surface-style-wallpaper-rolls-160100wr-c3_600.jpg' alt='SURFACE STYLE Vintage Panel Cloud Vinyl Peel and Stick Wallpaper Roll  (Covers 30.75 sq. ft.) 160100WR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4897c5b7-9115-49e9-beb8-3d1cd6656c80/svn/surface-style-wallpaper-rolls-160100wr-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One-of-a-kind Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_0115_f704c891-cc18-4fd5-b328-3907f0e36ba8.jpg?v=1503951243' alt='One-of-a-kind Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_0115_f704c891-cc18-4fd5-b328-3907f0e36ba8.jpg?v=1503951243' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9.5M Vintage American Country Floral Embossed Textured Non-woven Wallpaper  Roll">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/-60AAOSwABNhE5JW/s-l1200.jpg' alt='9.5M Vintage American Country Floral Embossed Textured Non-woven Wallpaper  Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/-60AAOSwABNhE5JW/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Onyx Vintage Floral Vinyl Peel and Stick Wallpaper  Roll NW45700">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5fbc4921-649a-403f-ac96-e4e23fe0e3e6/svn/nextwall-wallpaper-rolls-nw45700-64_600.jpg' alt='NextWall 30.75 sq. ft. Onyx Vintage Floral Vinyl Peel and Stick Wallpaper  Roll NW45700'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5fbc4921-649a-403f-ac96-e4e23fe0e3e6/svn/nextwall-wallpaper-rolls-nw45700-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookley Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://paintedpaper.com/cdn/shop/files/brookley-vintage-wallpaperpainted-paper-588923.jpg?v=1740413359&width=1946' alt='Brookley Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Painted Paper" />
+                                </span>
+                                <a href='https://paintedpaper.com/cdn/shop/files/brookley-vintage-wallpaperpainted-paper-588923.jpg?v=1740413359&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Peel and Stick Wallpaper, Antique Wallpaper Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29488158/r/il/740e4d/3156588127/il_570xN.3156588127_2i5a.jpg' alt='3d Peel and Stick Wallpaper, Antique Wallpaper Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29488158/r/il/740e4d/3156588127/il_570xN.3156588127_2i5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One-of-a-kind Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_1854.jpg?v=1438715460' alt='One-of-a-kind Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures Vintage Wallpaper" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_1854.jpg?v=1438715460' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yasinet Peel and Stick Wallpaper Blue Vintage Wallpaper Removable Floral  Contact Paper Self-Adhesive Blue Floral Wallpaper Boho for Walls Cabinets  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81OszjhDRrL._AC_UF894,1000_QL80_.jpg' alt='Yasinet Peel and Stick Wallpaper Blue Vintage Wallpaper Removable Floral  Contact Paper Self-Adhesive Blue Floral Wallpaper Boho for Walls Cabinets  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81OszjhDRrL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c25fffb4-f78d-4e43-87d9-9adf301ebf09/svn/nextwall-wallpaper-rolls-nw45702-64_600.jpg' alt='NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and Stick  Wallpaper Roll NW45702'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c25fffb4-f78d-4e43-87d9-9adf301ebf09/svn/nextwall-wallpaper-rolls-nw45702-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

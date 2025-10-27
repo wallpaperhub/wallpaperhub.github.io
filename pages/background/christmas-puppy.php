@@ -1,0 +1,129 @@
+<title>Joyful Christmas Puppies: The Perfect Holiday Gift</title>
+                    <meta name="description" content="Celebrate this Christmas with a lovable puppy! Discover the joy and happiness these furry friends bring to your holiday festivities. From cute antics to heartwarming cuddles, a Christmas puppy is the perfect addition to your family. Create lasting memories this season with a loyal companion!">
+                    <meta name="keywords" content="christmas puppy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-puppy">
+                            <span itemprop="name">christmas puppy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joyful Christmas Puppies: The Perfect Holiday Gift</h1>
+                <p>Christmas puppies bring joy and warmth to the holiday season! These adorable bundles of fur are perfect companions for cozy family gatherings. As they play with ribbons and chase after holiday decorations, their delightful antics create unforgettable memories. Welcome a puppy into your home this Christmas for love, laughter, and endless cuddles!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40,100+ Christmas Puppy Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/526835843/photo/christmas-puppy.jpg?s=612x612&w=0&k=20&c=zkLOPIusz_z9zoysT8SncJWtZwLgXVVVPqzus9hKFws=' alt='40,100+ Christmas Puppy Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/526835843/photo/christmas-puppy.jpg?s=612x612&w=0&k=20&c=zkLOPIusz_z9zoysT8SncJWtZwLgXVVVPqzus9hKFws=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Perfect Gift? A Vet's Advice for a Christmas Puppy Present ...">
+                                <img itemprop="contentUrl url" src='https://moderndogmagazine.com/wp-content/uploads/2019/11/christmas-puppy.jpg' alt='A Perfect Gift? A Vet's Advice for a Christmas Puppy Present ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Dog Magazine" />
+                                </span>
+                                <a href='https://moderndogmagazine.com/wp-content/uploads/2019/11/christmas-puppy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Of The Cutest Christmas Puppies On Earth [PICTURES]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/21/3a/ba213ae41496d54031ad7743244b6c01.jpg' alt='30 Of The Cutest Christmas Puppies On Earth [PICTURES]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/21/3a/ba213ae41496d54031ad7743244b6c01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Ask Before Giving a Puppy for Christmas | Greenfield Puppies">
+                                <img itemprop="contentUrl url" src='https://cdn.greenfieldpuppies.com/wp-content/uploads/2017/11/puppy-for-christmas-golden-retriever-puppy-with-santa-hat.jpg' alt='What to Ask Before Giving a Puppy for Christmas | Greenfield Puppies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5643">
+                                <meta itemprop="height" content="3762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenfield Puppies" />
+                                </span>
+                                <a href='https://cdn.greenfieldpuppies.com/wp-content/uploads/2017/11/puppy-for-christmas-golden-retriever-puppy-with-santa-hat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What You Need to Know Before Getting a Dog for Christmas – Canine ...">
+                                <img itemprop="contentUrl url" src='http://www.caninestyles.com/cdn/shop/articles/cc22622dd0bc74d1f357051c0ab92b12_3.jpg?v=1544199862' alt='What You Need to Know Before Getting a Dog for Christmas – Canine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canine Styles" />
+                                </span>
+                                <a href='http://www.caninestyles.com/cdn/shop/articles/cc22622dd0bc74d1f357051c0ab92b12_3.jpg?v=1544199862' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40,100+ Christmas Puppy Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1292968326/photo/golden-retriever-puppy-in-front-of-a-christmas-tree.jpg?s=612x612&w=0&k=20&c=tNUTmyH3mxLNHgPP_ySXuVE0pLiu3qR-nxf1gtbUmTk=' alt='40,100+ Christmas Puppy Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1292968326/photo/golden-retriever-puppy-in-front-of-a-christmas-tree.jpg?s=612x612&w=0&k=20&c=tNUTmyH3mxLNHgPP_ySXuVE0pLiu3qR-nxf1gtbUmTk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puppy Christmas" Images – Browse 485 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/36/30/97/360_F_1136309731_wx3GkQdV1PthBy7Y46kUX0b0lGdXXd23.jpg' alt='Puppy Christmas" Images – Browse 485 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/36/30/97/360_F_1136309731_wx3GkQdV1PthBy7Y46kUX0b0lGdXXd23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Puppy and Kitten with Scarves Christmas Card ...">
+                                <img itemprop="contentUrl url" src='https://leanintree.com/cdn/shop/files/76322.p01.jpg?v=1717214542&width=416' alt='Merry Christmas Puppy and Kitten with Scarves Christmas Card ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leanin' Tree" />
+                                </span>
+                                <a href='https://leanintree.com/cdn/shop/files/76322.p01.jpg?v=1717214542&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,073 Christmas Puppies Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/festive-christmas-background-little-breed-puppies-wearing-santa-hats-tree-341948283.jpg' alt='3,073 Christmas Puppies Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/festive-christmas-background-little-breed-puppies-wearing-santa-hats-tree-341948283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Puppy with Wreath, Paper Mache">
+                                <img itemprop="contentUrl url" src='https://theholidaybarn.com/cdn/shop/products/puppy-dog-with-wreath-wearing-santa-hat-bethany-lowe-christmas.jpg?v=1658000114' alt='Christmas Puppy with Wreath, Paper Mache'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Holiday Barn" />
+                                </span>
+                                <a href='https://theholidaybarn.com/cdn/shop/products/puppy-dog-with-wreath-wearing-santa-hat-bethany-lowe-christmas.jpg?v=1658000114' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

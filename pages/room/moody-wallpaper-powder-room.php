@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Moody Wallpaper for Your Powder Room</title>
+                    <meta name="description" content="Discover how moody wallpaper can elevate your powder room, creating a warm and inviting retreat. Explore rich colors and unique patterns that enhance ambiance while making a statement. Perfect for small spaces, this design choice adds character and style, transforming your everyday experience.">
+                    <meta name="keywords" content="moody wallpaper powder room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/moody-wallpaper-powder-room">
+                            <span itemprop="name">moody wallpaper powder room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Moody Wallpaper for Your Powder Room</h1>
+                <p>Transform your powder room into a mood-enhancing oasis with moody wallpaper. Deep colors and intricate patterns create a cozy atmosphere perfect for moments of solitude or entertaining guests. Choose harmonizing accessories to enhance the ambiance, combining elegance and sophistication in this often-overlooked space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charming and clever wallpaper in this moody powder room - it's ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3154370104338074935' alt='Charming and clever wallpaper in this moody powder room - it's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3154370104338074935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Moody Wallpaper | Botanical Watercolor Peach Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' alt='Black Moody Wallpaper | Botanical Watercolor Peach Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/8c2daa/5957947768/il_fullxfull.5957947768_brh1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get The Look: Moody Floral Powder Room | Lark & Linen Interior ...">
+                                <img itemprop="contentUrl url" src='https://jacquelynclark.com/wp-content/uploads/2017/11/102888154.jpg.rendition.largest.550.jpg' alt='Get The Look: Moody Floral Powder Room | Lark & Linen Interior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lark & Linen" />
+                                </span>
+                                <a href='https://jacquelynclark.com/wp-content/uploads/2017/11/102888154.jpg.rendition.largest.550.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Powder Rooms - Photos & Ideas | Houzz">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/8111827f00faea06_14-8711/home-design.jpg' alt='Moody Powder Rooms - Photos & Ideas | Houzz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1642">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/8111827f00faea06_14-8711/home-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Dark Neutrals Moody Floral Garden  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 763">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574815347_f3h9.jpg' alt='Wallpaper Peel and Stick Wallpaper Dark Neutrals Moody Floral Garden  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 763'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.5574815347_f3h9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a dark + stormy moody week, reminding me of this dark and moody ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430776403765321470' alt='a dark + stormy moody week, reminding me of this dark and moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430776403765321470' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Bathroom With Grasscloth Wallpaper - Remington Avenue">
+                                <img itemprop="contentUrl url" src='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-3.jpg' alt='Moody Bathroom With Grasscloth Wallpaper - Remington Avenue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remington Avenue" />
+                                </span>
+                                <a href='https://remingtonavenue.com/wp-content/uploads/2022/03/unnamed-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Refresh (After - During - Before) - Moody/Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/powder-room-refresh-after-during-before-moody-wallpaper-v0-n6p1irz45cfb1.jpg?width=3072&format=pjpg&auto=webp&s=8a2ed4a2d9caf4ba5155605ab375aaa309488ea2' alt='Powder Room Refresh (After - During - Before) - Moody/Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="4080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/powder-room-refresh-after-during-before-moody-wallpaper-v0-n6p1irz45cfb1.jpg?width=3072&format=pjpg&auto=webp&s=8a2ed4a2d9caf4ba5155605ab375aaa309488ea2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A moody floral bathroom – Diana Elizabeth Blog:">
+                                <img itemprop="contentUrl url" src='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' alt='A moody floral bathroom – Diana Elizabeth Blog:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diana Elizabeth Blog" />
+                                </span>
+                                <a href='https://dianaelizabethblog.com/wp-content/uploads2/2023/05/my-bathroom-wallpaper-makeover-dark-botanical-3275-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' alt='DIY Peel and Stick Wallpaper Powder Room Makeover | Our Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Aesthetic Abode" />
+                                </span>
+                                <a href='https://ouraestheticabode.com/wp-content/uploads/2022/11/OurAestheticAbode-15-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

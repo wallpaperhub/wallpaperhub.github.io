@@ -1,0 +1,129 @@
+<title>Stunning Wildflowers Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover breathtaking wildflower wallpapers for your iPhone. Elevate your device with vibrant, high-quality images that celebrate the beauty of nature. Perfect for nature lovers, these wallpapers add a touch of tranquility and color to your everyday life. Download your favorite now!">
+                    <meta name="keywords" content="wildflowers wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wildflowers-wallpaper-iphone">
+                            <span itemprop="name">wildflowers wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wildflowers Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning wildflower wallpapers that bring the beauty of nature to your screen. From vibrant blooms to serene landscapes, these HD images capture the essence of wildflowers in full bloom. Enjoy a daily dose of color and tranquility, and express your love for nature right on your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating Summer with 21 Wildflower iPhone Wallpapers | Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/a6/df/34a6dfc05008e65cd377298fa77a8362.jpg' alt='Celebrating Summer with 21 Wildflower iPhone Wallpapers | Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/a6/df/34a6dfc05008e65cd377298fa77a8362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz">
+                                <img itemprop="contentUrl url" src='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_LakeBg_iPhone.jpg' alt='Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abe Kislevitz" />
+                                </span>
+                                <a href='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_LakeBg_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Vibrant Summer Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/b5/21/beb5214177fa10df0557db6588cda2fd.jpg' alt='100+ Vibrant Summer Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/b5/21/beb5214177fa10df0557db6588cda2fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz">
+                                <img itemprop="contentUrl url" src='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_Purple_iPhone.jpg' alt='Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abe Kislevitz" />
+                                </span>
+                                <a href='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_Purple_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating Summer with 21 Wildflower iPhone Wallpapers | Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/fc/41/effc41d3da89a6d54ef169249998ceec.jpg' alt='Celebrating Summer with 21 Wildflower iPhone Wallpapers | Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/fc/41/effc41d3da89a6d54ef169249998ceec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwM2IuanBn.jpg' alt='Free Vectors, PNGs, Mockups & Backgrounds | rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vectors, PNGs, Mockups & Backgrounds | rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwM2IuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz">
+                                <img itemprop="contentUrl url" src='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_goldenfield_iPhone.jpg' alt='Wallpapers of the Month – Spring Wildflowers | Abe Kislevitz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abe Kislevitz" />
+                                </span>
+                                <a href='http://abekislevitz.com/wp/wp-content/uploads/2017/04/AbeKislevitz_goldenfield_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating Summer with 21 Wildflower iPhone . Preppy . Flower ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/381/113/HD-wallpaper-celebrating-summer-with-21-wildflower-iphone-preppy-flower-iphone-pink-flowers-flower-thumbnail.jpg' alt='Celebrating Summer with 21 Wildflower iPhone . Preppy . Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/381/113/HD-wallpaper-celebrating-summer-with-21-wildflower-iphone-preppy-flower-iphone-pink-flowers-flower-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wildflower Phone Wallpaper| iPhone Background | Android Background |  Android Wallpaper|Pink Wildflower Hills | Natural Beauty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43087104/r/il/562f88/4921997943/il_570xN.4921997943_hec6.jpg' alt='Pink Wildflower Phone Wallpaper| iPhone Background | Android Background |  Android Wallpaper|Pink Wildflower Hills | Natural Beauty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43087104/r/il/562f88/4921997943/il_570xN.4921997943_hec6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gallery's - Wildflower        | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122140008740068526' alt='Gallery's - Wildflower        | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122140008740068526' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

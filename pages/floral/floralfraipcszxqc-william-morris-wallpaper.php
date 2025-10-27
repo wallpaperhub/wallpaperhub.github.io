@@ -1,0 +1,129 @@
+<title>Transform Your Space with William Morris Floral Wallpaper</title>
+                    <meta name="description" content="Enhance your home decor with William Morris floral wallpaper. Discover timeless designs that bring elegance and warmth to your interiors, perfect for any style from vintage to modern. Explore our collection and elevate your space effortlessly!">
+                    <meta name="keywords" content="floral:fraipcszxqc= william morris wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floralfraipcszxqc-william-morris-wallpaper">
+                            <span itemprop="name">floral:fraipcszxqc= william morris wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with William Morris Floral Wallpaper</h1>
+                <p>William Morris wallpaper is an iconic representation of the Arts and Crafts movement, known for its intricate floral designs and rich color palettes. With motifs inspired by nature, Morris' wallpapers add a timeless elegance to any space, perfect for creating romantic, vintage, or bohemian interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Peel and Stick Wallpaper Art Decor William Morris Wallpaper  Strawberry Thief Botanical Blue/Green Wall Murals Home Kitchen Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81prSwW++dL.jpg' alt='Vintage Floral Peel and Stick Wallpaper Art Decor William Morris Wallpaper  Strawberry Thief Botanical Blue/Green Wall Murals Home Kitchen Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81prSwW++dL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly William Morris Floral Wallpaper Peel and Stick Vintage Dark Green  Pink Wall Murals Flower Wallpaper Removable Self-Adhesive Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81NijX0wDVL._AC_UF894,1000_QL80_.jpg' alt='Abyssaly William Morris Floral Wallpaper Peel and Stick Vintage Dark Green  Pink Wall Murals Flower Wallpaper Removable Self-Adhesive Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81NijX0wDVL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Floral Pattern wallpaper #3483">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684808_g0cw.jpg?v=1679544486&width=1080' alt='William Morris Floral Pattern wallpaper #3483'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684808_g0cw.jpg?v=1679544486&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper design">
+                                <img itemprop="contentUrl url" src='https://www.meisterdrucke.us/kunstwerke/1260px/William%20Morris%20-%20Floral%20wallpaper%20design%20-%20%28MeisterDrucke-275331%29.jpg' alt='Floral wallpaper design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MeisterDrucke" />
+                                </span>
+                                <a href='https://www.meisterdrucke.us/kunstwerke/1260px/William%20Morris%20-%20Floral%20wallpaper%20design%20-%20%28MeisterDrucke-275331%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granville William Morris Acanthus Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/granville-william-morris-acanthus-flora-xozg.jpg' alt='Granville William Morris Acanthus Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/granville-william-morris-acanthus-flora-xozg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Floral Pattern wallpaper #3483">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684896_mjj5.jpg?v=1679544486&width=1080' alt='William Morris Floral Pattern wallpaper #3483'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684896_mjj5.jpg?v=1679544486&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Vintage Floral Wallpaper | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.725550923.3821/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='William Morris Vintage Floral Wallpaper | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.725550923.3821/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Green Floral Wallpaper, Peel and Stick William Morris Style  Botanical Wall Decor, Removable Greenery">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/3-PA071-light-pink-green-floral-pattern-wallpaper.jpg?v=1730078834&width=2500' alt='Pink and Green Floral Wallpaper, Peel and Stick William Morris Style  Botanical Wall Decor, Removable Greenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/3-PA071-light-pink-green-floral-pattern-wallpaper.jpg?v=1730078834&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="William Morris Floral Pattern wallpaper #3483">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684798_m14g.jpg?v=1679544486&width=1080' alt='William Morris Floral Pattern wallpaper #3483'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4712684798_m14g.jpg?v=1679544486&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop William Morris Floral Wallpaper At Morris & Co.">
+                                <img itemprop="contentUrl url" src='https://www.wmorrisandco.com/media/catalog/product/cache/38d24800c98d591ae5d79d421524f1aa/g/o/golden-lily-morris-and-co-green-red-wallpaper-210398-image01.jpg' alt='Shop William Morris Floral Wallpaper At Morris & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="William Morris" />
+                                </span>
+                                <a href='https://www.wmorrisandco.com/media/catalog/product/cache/38d24800c98d591ae5d79d421524f1aa/g/o/golden-lily-morris-and-co-green-red-wallpaper-210398-image01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

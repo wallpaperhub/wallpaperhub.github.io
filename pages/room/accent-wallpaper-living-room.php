@@ -1,0 +1,129 @@
+<title>Transform Your Living Room with Accent Wallpaper</title>
+                    <meta name="description" content="Discover how accent wallpaper can elevate your living room's style. From bold prints to elegant textures, find the perfect design to make a statement in your home. Explore easy application options and create a unique space that reflects your personality and taste.">
+                    <meta name="keywords" content="accent wallpaper living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/accent-wallpaper-living-room">
+                            <span itemprop="name">accent wallpaper living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Living Room with Accent Wallpaper</h1>
+                <p>Accent wallpaper can transform your living room into a chic and stylish space. Choose bold patterns or subtle textures to create a focal point or complement your existing decor. Easy to apply and available in various designs, accent wallpaper adds character and warmth, making your living area inviting and unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Room Wallpaper Ideas That Make a Design Statement">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/VwncOi6vTB5VYmgNXUn-pZadIt8=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-119056d6b5ed4f0e9e7bd6e8ec67070e.jpg' alt='Living Room Wallpaper Ideas That Make a Design Statement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="1681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/VwncOi6vTB5VYmgNXUn-pZadIt8=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-119056d6b5ed4f0e9e7bd6e8ec67070e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living rooms with accent walls - Margarita Bravo">
+                                <img itemprop="contentUrl url" src='https://margaritabravo.com/wp-content/uploads/2023/01/Living-Room-With-Accent-Walls.jpg' alt='Living rooms with accent walls - Margarita Bravo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margarita Bravo" />
+                                </span>
+                                <a href='https://margaritabravo.com/wp-content/uploads/2023/01/Living-Room-With-Accent-Walls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Abstract Blue Marble Mural Living Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/632b25/5605056992/il_570xN.5605056992_4y2h.jpg' alt='Peel and Stick Wallpaper Abstract Blue Marble Mural Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/632b25/5605056992/il_570xN.5605056992_4y2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Stylish Accent Wall Ideas - How to Use Paint, Wallpaper, Wood ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/jessica-lagrange-interiors-portfolio-interiors-home-office-1501112112-816749-1544049319.jpg' alt='22 Stylish Accent Wall Ideas - How to Use Paint, Wallpaper, Wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/jessica-lagrange-interiors-portfolio-interiors-home-office-1501112112-816749-1544049319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pearl Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/PearlWallpaperBlackandWhiteGeometricPrint_2.png?v=1714600725&width=2048' alt='Pearl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/PearlWallpaperBlackandWhiteGeometricPrint_2.png?v=1714600725&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' alt='Modern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Living Room Accent Wall Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/dkAIPHTSleeHcU8WP7vGOkMgi9c=/1335x0/filters:no_upscale():strip_icc()/24301-8a897be7941e4fb4890381cb5231d421.jpg' alt='37 Living Room Accent Wall Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/dkAIPHTSleeHcU8WP7vGOkMgi9c=/1335x0/filters:no_upscale():strip_icc()/24301-8a897be7941e4fb4890381cb5231d421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Wallpaper Ideas For A Living Room Feature Wall in 2024 - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715614886/cronos-ha/blogs/accent-wall-living-room-ideas/Chloe-Lifestyle-Web-2.jpg' alt='5 Wallpaper Ideas For A Living Room Feature Wall in 2024 - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715614886/cronos-ha/blogs/accent-wall-living-room-ideas/Chloe-Lifestyle-Web-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accent wall ideas - 12 simple design tips | Livingetc">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/u6djXAHMAj7gFp2GtSpih7.jpg' alt='Accent wall ideas - 12 simple design tips | Livingetc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livingetc" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/u6djXAHMAj7gFp2GtSpih7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_fullxfull.3576068430_62az.jpg' alt='Modern Minimal Wallpaper. Removable and Self Adhesive. Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1454">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/9dc917/3576068430/il_fullxfull.3576068430_62az.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

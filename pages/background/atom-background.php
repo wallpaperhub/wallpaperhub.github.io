@@ -1,0 +1,129 @@
+<title>Understanding Atoms: The Building Blocks of Matter</title>
+                    <meta name="description" content="Explore the fascinating world of atoms, the essential units of matter that compose everything around us. Learn about atomic structure, components, and their significance in science. Discover how atoms interact to form the universe we see today.">
+                    <meta name="keywords" content="atom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/atom-background">
+                            <span itemprop="name">atom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Atoms: The Building Blocks of Matter</h1>
+                <p>Atoms are the fundamental building blocks of matter, consisting of a nucleus of protons and neutrons surrounded by a cloud of electrons. They are incredibly small, with sizes measured in picometers. Understanding atomic structure is crucial in fields like chemistry, physics, and materials science, forming the basis for all chemical reactions and interactions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atom Background Images – Browse 647,498 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/37/21/01/360_F_637210155_N7ZbmPbmXSgdzIyHbjWCOvpxqj7g7k0S.jpg' alt='Atom Background Images – Browse 647,498 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/37/21/01/360_F_637210155_N7ZbmPbmXSgdzIyHbjWCOvpxqj7g7k0S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atom Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/952/763/small_2x/science-atom-molecule-background.jpg' alt='Atom Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/952/763/small_2x/science-atom-molecule-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atom Images – Browse 1,071,403 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/91/30/61/360_F_191306165_s3BaSe1JFZLtBhCs5iPLTXbG7PmAyw2h.jpg' alt='Atom Images – Browse 1,071,403 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/91/30/61/360_F_191306165_s3BaSe1JFZLtBhCs5iPLTXbG7PmAyw2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atom Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/atomic-science-technology-background-vector-border-blue-neon-style-with-blank-space_53876-125999.jpg' alt='Atom Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/atomic-science-technology-background-vector-border-blue-neon-style-with-blank-space_53876-125999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract healthcare background with atom, molecule structure ...">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs/800_3501110_df45700c2fe6ac0456e6e32a4c3d115066f3aaec.jpg' alt='Abstract healthcare background with atom, molecule structure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs/800_3501110_df45700c2fe6ac0456e6e32a4c3d115066f3aaec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Atom Background Stock Photo, Picture and Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/ssilver/ssilver1508/ssilver150800040/43656376-abstract-atom-background.jpg' alt='Abstract Atom Background Stock Photo, Picture and Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/ssilver/ssilver1508/ssilver150800040/43656376-abstract-atom-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atom Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/490/645/non_2x/presentation-background-with-blue-plexus-line-dot-and-light-digital-texture-of-bionic-element-or-atom-web-science-website-structure-free-vector.jpg' alt='Atom Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/490/645/non_2x/presentation-background-with-blue-plexus-line-dot-and-light-digital-texture-of-bionic-element-or-atom-web-science-website-structure-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nuclear Atom Images – Browse 329,086 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/14/49/79/360_F_214497979_vxq52DxdHXmO8qwpAgaw4dCs29dWwseh.jpg' alt='Nuclear Atom Images – Browse 329,086 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/14/49/79/360_F_214497979_vxq52DxdHXmO8qwpAgaw4dCs29dWwseh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science Atom Stunning 3d Illustration Of A Molecule With Ball ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202408/science-atom-stunning-3d-illustration-of-a-molecule-with-ball-background_9797081.jpg!w700wp' alt='Science Atom Stunning 3d Illustration Of A Molecule With Ball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202408/science-atom-stunning-3d-illustration-of-a-molecule-with-ball-background_9797081.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19,170 Atom Background Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/futuristic-abstract-representation-atomic-structure-showcasing-concepts-nuclear-energy-scientific-exploration-glowing-359320012.jpg' alt='19,170 Atom Background Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/futuristic-abstract-representation-atomic-structure-showcasing-concepts-nuclear-energy-scientific-exploration-glowing-359320012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Hajime no Ippo iPhone Wallpapers</title>
+                    <meta name="description" content="Discover amazing Hajime no Ippo wallpapers for your iPhone! Immerse yourself in the vibrant art and inspiring themes of this iconic anime. Perfect for fans, these wallpapers will personalize your device and motivate you every day. Download your favorite designs today!">
+                    <meta name="keywords" content="hajime no ippo iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/hajime-no-ippo-iphone-wallpaper">
+                            <span itemprop="name">hajime no ippo iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hajime no Ippo iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning Hajime no Ippo wallpapers! Each wallpaper features dynamic art and iconic moments from the beloved boxing anime, capturing the spirit of determination and perseverance. Perfect for fans wanting to showcase their passion and motivation on their devices. Download now to elevate your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58 Hajime no ippo ideas in 2021 iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/f1/d2/2ef1d2f63ef8af0afe50533dfb9fc0bc.jpg' alt='58 Hajime no ippo ideas in 2021 iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/f1/d2/2ef1d2f63ef8af0afe50533dfb9fc0bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hajime no Ippo Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/6/4/2146412-1284x2778-iphone-hd-hajime-no-ippo-wallpaper-photo.jpg' alt='Hajime no Ippo Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/6/4/2146412-1284x2778-iphone-hd-hajime-no-ippo-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-cbkvtjo0orr81.jpg?width=720&format=pjpg&auto=webp&s=03d90cb1b7686756694fa5909cc92c7e5bc4e934' alt='Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-cbkvtjo0orr81.jpg?width=720&format=pjpg&auto=webp&s=03d90cb1b7686756694fa5909cc92c7e5bc4e934' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-hy619eo0orr81.jpg?width=555&format=pjpg&auto=webp&s=b2655cc9ae8d9940b6a0a940e2b12f4a1005f02a' alt='Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-hy619eo0orr81.jpg?width=555&format=pjpg&auto=webp&s=b2655cc9ae8d9940b6a0a940e2b12f4a1005f02a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ippo Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/0d/a6/800da6d2dcc05355c67eefd901291bd5.jpg' alt='Ippo Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/0d/a6/800da6d2dcc05355c67eefd901291bd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-jyoxvdo0orr81.jpg?width=720&format=pjpg&auto=webp&s=58f6460371f1b648aee6e3b7e190166436a12c5d' alt='Some Hajime no Ippo wallpapers I had on my phone : r/hajimenoippo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-hajime-no-ippo-wallpapers-i-had-on-my-phone-v0-jyoxvdo0orr81.jpg?width=720&format=pjpg&auto=webp&s=58f6460371f1b648aee6e3b7e190166436a12c5d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hajime no Ippo Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/3/5/2146806-1284x2778-mobile-hd-hajime-no-ippo-background-photo.jpg' alt='Hajime no Ippo Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/3/5/2146806-1284x2778-mobile-hd-hajime-no-ippo-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hajime no Ippo" iPhone Case by frerchop1 | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4864249503.0050/flat,750x1000,075,t.jpg' alt='Hajime no Ippo" iPhone Case by frerchop1 | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4864249503.0050/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ippo Makunouchi, hajime no ippo, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/689/115/HD-wallpaper-ippo-makunouchi-hajime-no-ippo-anime.jpg' alt='Ippo Makunouchi, hajime no ippo, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/689/115/HD-wallpaper-ippo-makunouchi-hajime-no-ippo-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ippo, ippo makunouchi, Hajime no ippo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/491/838/HD-wallpaper-ippo-ippo-makunouchi-hajime-no-ippo.jpg' alt='Ippo, ippo makunouchi, Hajime no ippo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/491/838/HD-wallpaper-ippo-ippo-makunouchi-hajime-no-ippo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

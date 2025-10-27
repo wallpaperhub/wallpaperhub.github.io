@@ -1,0 +1,129 @@
+<title>Stunning Happy New Year 2024 iPhone Wallpapers</title>
+                    <meta name="description" content="Discover amazing Happy New Year 2024 iPhone wallpapers to brighten up your device! Choose from a variety of festive designs to celebrate and welcome the new year in style. Perfect for adding a touch of joy to your mobile screen as you step into 2024!">
+                    <meta name="keywords" content="happy new year 2024 iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/happy-new-year-2024-iphone-wallpaper">
+                            <span itemprop="name">happy new year 2024 iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Happy New Year 2024 iPhone Wallpapers</h1>
+                <p>Celebrate the arrival of 2024 with stunning iPhone wallpapers that capture the joy of the New Year! Explore a diverse collection of vibrant designs featuring fireworks, festive themes, and inspirational quotes to inspire new beginnings. Elevate your phone's look and kickstart the new year with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 Pictures,New Year 2024 Wishes Photos Free HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/b8/53/dab85318b93961a7b188a46105aaa421.jpg' alt='Happy New Year 2024 Pictures,New Year 2024 Wishes Photos Free HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/b8/53/dab85318b93961a7b188a46105aaa421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 iPhone Wallpaper 1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/66/d5/6a/66d56a760269b6259961d40eb7c2ec15.jpg' alt='Happy New Year 2024 iPhone Wallpaper 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/66/d5/6a/66d56a760269b6259961d40eb7c2ec15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Years Iphone Wallpapers 2024">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d2/10/6c/d2106c1f572be0a92f5cb995eaca3c5f.jpg' alt='Happy New Years Iphone Wallpapers 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d2/10/6c/d2106c1f572be0a92f5cb995eaca3c5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 Phone... - Happy New Year 2025 Wishes | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=703754545218537' alt='Happy New Year 2024 Phone... - Happy New Year 2025 Wishes | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=703754545218537' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/42/28/44422800a105de5b617dc52c8c6b971c.jpg' alt='Happy New Year 2024 iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/42/28/44422800a105de5b617dc52c8c6b971c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year Images 2025... - Happy New Year Images 2025">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=792044902935609' alt='Happy New Year Images 2025... - Happy New Year Images 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=792044902935609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2024 Happy New Year - New Blessings - XMars">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/2024-happy-new-year-new-blessings-xmars-design-template-c75162f4646d36cb1539f5b22da9ac10_screen.jpg?ts=1698440474' alt='2024 Happy New Year - New Blessings - XMars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/2024-happy-new-year-new-blessings-xmars-design-template-c75162f4646d36cb1539f5b22da9ac10_screen.jpg?ts=1698440474' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 iPhone Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/33/ed/9133eddcc5e75f17dbb9d455ccb91940.jpg' alt='Happy New Year 2024 iPhone Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/33/ed/9133eddcc5e75f17dbb9d455ccb91940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 Images, Backgrounds & Wallpapers - Designbolts">
+                                <img itemprop="contentUrl url" src='https://www.designbolts.com/wp-content/uploads/2023/11/Happy-New-Year-iPhone15-Wallpaper-1.jpg' alt='Happy New Year 2024 Images, Backgrounds & Wallpapers - Designbolts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designbolts" />
+                                </span>
+                                <a href='https://www.designbolts.com/wp-content/uploads/2023/11/Happy-New-Year-iPhone15-Wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New year 2024 iPhone wallpaper | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjU5MC0wOGIteC5qcGc.jpg' alt='New year 2024 iPhone wallpaper | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2pvYjU5MC0wOGIteC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

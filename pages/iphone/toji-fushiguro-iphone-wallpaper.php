@@ -1,0 +1,129 @@
+<title>Toji Fushiguro iPhone Wallpapers: Stunning Anime Backgrounds</title>
+                    <meta name="description" content="Discover the best Toji Fushiguro iPhone wallpapers! Browse our collection of stunning, anime-inspired backgrounds to personalize your device. Perfect for fans of Jujutsu Kaisen, these vibrant designs will elevate your iPhone's aesthetic. Download now for free!">
+                    <meta name="keywords" content="toji fushiguro iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/toji-fushiguro-iphone-wallpaper">
+                            <span itemprop="name">toji fushiguro iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Toji Fushiguro iPhone Wallpapers: Stunning Anime Backgrounds</h1>
+                <p>Transform your device with stunning toji fushiguro iPhone wallpapers. Dive into the world of anime with vibrant designs featuring Toji, the powerful sorcerer from Jujutsu Kaisen. Personalize your home screen and lock screen with captivating images that reflect your love for the series. Download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/ae/4d/74ae4d2df01a188bb1fd8e4b7df68281.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/ae/4d/74ae4d2df01a188bb1fd8e4b7df68281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="toji fushiguro wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/52/e9/5752e9656b8f93ac76faaf9ca0b75707.jpg' alt='toji fushiguro wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/52/e9/5752e9656b8f93ac76faaf9ca0b75707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Toji Fushiguro - Jujutsu Kaisen - Gris">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/27/7d/b0277dbf142e72dfbbecbbf49aeb3a96.jpg' alt='Wallpaper Toji Fushiguro - Jujutsu Kaisen - Gris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/27/7d/b0277dbf142e72dfbbecbbf49aeb3a96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji Fushiguro Wallpaper Iphone Hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2b/54/82/2b5482027bad46f6cace511f72b38e38.jpg' alt='Toji Fushiguro Wallpaper Iphone Hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2b/54/82/2b5482027bad46f6cace511f72b38e38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji 4k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13859174.jpg' alt='Toji 4k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13859174.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji Fushiguro Wallpaper 4K, Fan Art, Jujutsu Kaisen">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/toji-fushiguro-fan-1179x2556-15229.jpg' alt='Toji Fushiguro Wallpaper 4K, Fan Art, Jujutsu Kaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/toji-fushiguro-fan-1179x2556-15229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji Fushiguro, Anime, Jujutsu kaisen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/859/28/HD-wallpaper-toji-fushiguro-anime-jujutsu-kaisen.jpg' alt='Toji Fushiguro, Anime, Jujutsu kaisen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/859/28/HD-wallpaper-toji-fushiguro-anime-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Toji Fushiguro – The Skilled Jujutsu Assassin Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/toji-fushiguro-2480-x-3164-wallpaper-ke38gwf8vk5ft4o7.jpg' alt='Download Toji Fushiguro – The Skilled Jujutsu Assassin Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1505">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/toji-fushiguro-2480-x-3164-wallpaper-ke38gwf8vk5ft4o7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji Fushiguro iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11547497.jpg' alt='Toji Fushiguro iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11547497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toji Fushiguro Wallpaper 4K, Minimal art, Jujutsu Kaisen">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/toji-fushiguro-750x1334-15221.png' alt='Toji Fushiguro Wallpaper 4K, Minimal art, Jujutsu Kaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/toji-fushiguro-750x1334-15221.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

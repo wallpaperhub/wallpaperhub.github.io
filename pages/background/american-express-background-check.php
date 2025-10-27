@@ -1,0 +1,129 @@
+<title>Understanding the American Express Background Check Process</title>
+                    <meta name="description" content="Explore the American Express background check process. Learn how they evaluate candidates through employment history, criminal records, and credit checks to maintain safety and integrity in their workforce. Ideal for job seekers and those seeking insights into corporate hiring practices.">
+                    <meta name="keywords" content="american express background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/american-express-background-check">
+                            <span itemprop="name">american express background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the American Express Background Check Process</h1>
+                <p>American Express conducts thorough background checks as part of its hiring process to ensure a safe and compliant work environment. These checks help assess candidates' integrity and reliability by reviewing employment history, criminal records, and credit history, reflecting the company's commitment to trust and security in its services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can anyone from American Express comment on how lo... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/can-anyone-from-american-express-comment-on-how-long-it-takes-to-hear-back-from-hr-after-hireright-background-check-is.png' alt='Can anyone from American Express comment on how lo... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/can-anyone-from-american-express-comment-on-how-long-it-takes-to-hear-back-from-hr-after-hireright-background-check-is.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Expect: Background Verification at American Express | American  Express">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8fLnwx--_Mg/maxresdefault.jpg' alt='What to Expect: Background Verification at American Express | American  Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8fLnwx--_Mg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Expect: Background Verification at American Express ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hPPNJ0_Dyhk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLVm2_Wmb2R9U3gqoL3kFRWiYK_w' alt='What to Expect: Background Verification at American Express ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hPPNJ0_Dyhk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLVm2_Wmb2R9U3gqoL3kFRWiYK_w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Financial News Archive">
+                                <img itemprop="contentUrl url" src='https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/1CMS_Chairmansletter2024_banner_wavy_UPDATE.png' alt='Financial News Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Express" />
+                                </span>
+                                <a href='https://www.americanexpress.com/content/dam/amex/en-us/newsroom/images/1CMS_Chairmansletter2024_banner_wavy_UPDATE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does American Express Do A Credit Check For Employment? - CreditGuide360.com">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F_DbDbaDEc4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBZRbKZz-s0dNH33m2Xq5eYQqmYzQ' alt='Does American Express Do A Credit Check For Employment? - CreditGuide360.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F_DbDbaDEc4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBZRbKZz-s0dNH33m2Xq5eYQqmYzQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does American Express hire felons? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/does-american-express-hire-felons.webp' alt='Does American Express hire felons? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/does-american-express-hire-felons.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Express 1000 dollar traveller's cheque abstract ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2XXD2FR/american-express-1000-dollar-travellers-cheque-abstract-background-closeup-2XXD2FR.jpg' alt='American Express 1000 dollar traveller's cheque abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2XXD2FR/american-express-1000-dollar-travellers-cheque-abstract-background-closeup-2XXD2FR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Express - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg' alt='American Express - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UNITED STATES $500 AMERICAN EXPRESS TRAVELERS CHEQUE - CANCELLED, HEAD OF  ROMAN!">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ZtoAAOSwunhkCoGK/s-l1200.jpg' alt='UNITED STATES $500 AMERICAN EXPRESS TRAVELERS CHEQUE - CANCELLED, HEAD OF  ROMAN!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ZtoAAOSwunhkCoGK/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Credit Intel by American Express | Financial Education Center">
+                                <img itemprop="contentUrl url" src='https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/content-hub/images/amex-hero-background-mobile.png' alt='Credit Intel by American Express | Financial Education Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Express" />
+                                </span>
+                                <a href='https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/content-hub/images/amex-hero-background-mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

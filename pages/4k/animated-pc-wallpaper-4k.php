@@ -1,0 +1,129 @@
+<title>Stunning 4K Animated PC Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover the best animated 4K wallpapers for your PC! Elevate your desktop with vibrant designs and mesmerizing animations. Perfect for gamers and anyone looking to personalize their workspace, our collection offers a stunning visual experience that transforms your screen. Download your favorite now!">
+                    <meta name="keywords" content="animated pc wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/animated-pc-wallpaper-4k">
+                            <span itemprop="name">animated pc wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Animated PC Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop experience with stunning 4K animated PC wallpapers. These high-resolution visuals bring your screen to life, featuring vibrant colors and captivating animations. Perfect for gamers and creatives alike, these wallpapers enhance your workspace and provide an immersive backdrop that showcases your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highway - 4k (3840x2160) Animated Wallpaper for Wallpaper Engine ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/j3FbxOjZJGdI8SD-sGx40vflerYZMdUjtMNCrB55kC8.jpg?auto=webp&s=71ee50c6cdc59fd0685b861b33ac66a5c4c22e81' alt='Highway - 4k (3840x2160) Animated Wallpaper for Wallpaper Engine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/j3FbxOjZJGdI8SD-sGx40vflerYZMdUjtMNCrB55kC8.jpg?auto=webp&s=71ee50c6cdc59fd0685b861b33ac66a5c4c22e81' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' alt='6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="motionbgs.com" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b1/d8/4a/b1d84aaef4b94f4573039ce3057978a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider man Animated RGB (RGB Taskbar) Wallpaper 4k 60fps">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZSAo0Y68tfs/maxresdefault.jpg' alt='Spider man Animated RGB (RGB Taskbar) Wallpaper 4k 60fps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZSAo0Y68tfs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Animated Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10002317.jpg' alt='4k Animated Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10002317.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Moving Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-moving-lanterns-in-the-sky-oz9kn244gbr8b8g4.jpg' alt='100+] 4k Moving Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-moving-lanterns-in-the-sky-oz9kn244gbr8b8g4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k animated background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5c/ac/7b/5cac7b24a26c09f3b9c4f4cdee94a06c.gif' alt='4k animated background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5c/ac/7b/5cac7b24a26c09f3b9c4f4cdee94a06c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animations 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9078348.png' alt='Animations 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9078348.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Objects Animated Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/metal-objects-animated-desktop-fxsfvn1s7a6xeewn.jpg' alt='Metal Objects Animated Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/metal-objects-animated-desktop-fxsfvn1s7a6xeewn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valorant Yoru Animation By Petar Rusev Live Wallpaper - DesktopHut">
+                                <img itemprop="contentUrl url" src='https://www.desktophut.com/images/thumb_1646739352_770542.jpg' alt='Valorant Yoru Animation By Petar Rusev Live Wallpaper - DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DesktopHut" />
+                                </span>
+                                <a href='https://www.desktophut.com/images/thumb_1646739352_770542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

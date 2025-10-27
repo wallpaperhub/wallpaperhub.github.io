@@ -1,0 +1,129 @@
+<title>Customizable Pregnancy Announcement Template: Share Your Joy!</title>
+                    <meta name="description" content="Discover our blank pregnancy announcement template, designed for your memorable reveal. Easy to customize, this template features a beautiful background for uploading your personal details. Perfect for sharing with loved ones, it's a must-have for celebrating your exciting news! Grab yours today!">
+                    <meta name="keywords" content="background mockup blank pregnancy announcement template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-mockup-blank-pregnancy-announcement-template">
+                            <span itemprop="name">background mockup blank pregnancy announcement template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customizable Pregnancy Announcement Template: Share Your Joy!</h1>
+                <p>Introducing our customizable blank pregnancy announcement template, perfect for sharing your joyful news! This background mockup allows you to easily add personal touches, ensuring your announcement is unique and heartfelt. Whether you're announcing to family or friends, this template offers a beautiful canvas for your special moment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/blank-square-wooden-frame-mockup-260nw-2293055505.jpg' alt='8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/blank-square-wooden-frame-mockup-260nw-2293055505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1429193588/photo/letter-board-baby-announcement-with-basket-baby-clothing-mock-up-space-for-design-pregnancy.jpg?s=612x612&w=0&k=20&c=fgF8iLotrB8yIpXFyyjCpeIe2mtrP0Y9k2m6Kz5UgQM=' alt='20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1429193588/photo/letter-board-baby-announcement-with-basket-baby-clothing-mock-up-space-for-design-pregnancy.jpg?s=612x612&w=0&k=20&c=fgF8iLotrB8yIpXFyyjCpeIe2mtrP0Y9k2m6Kz5UgQM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mockup for announcement pregnancy . Space for text on textile ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/22/08/83/1000_F_422088332_FIR4LN0QTk3CNdzrH4cO6IkT5k5YKFtQ.jpg' alt='Mockup for announcement pregnancy . Space for text on textile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/22/08/83/1000_F_422088332_FIR4LN0QTk3CNdzrH4cO6IkT5k5YKFtQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/baby-pregnancy-announcement-template-autumn-600nw-2435804029.jpg' alt='8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/baby-pregnancy-announcement-template-autumn-600nw-2435804029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1443425057/photo/letter-board-baby-announcement-with-basket-baby-clothing-mock-up-space-for-design-pregnancy.jpg?s=612x612&w=0&k=20&c=7V1EG80QXz_kb7JIAMuv4U_kKmlzTDn_UEIVQ8W8mNQ=' alt='20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1443425057/photo/letter-board-baby-announcement-with-basket-baby-clothing-mock-up-space-for-design-pregnancy.jpg?s=612x612&w=0&k=20&c=7V1EG80QXz_kb7JIAMuv4U_kKmlzTDn_UEIVQ8W8mNQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Images – Browse 16,448 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/74/01/22/360_F_474012291_YjSVgeHAo0bGUQLqz8FTk5QVUjJcihpj.jpg' alt='Pregnancy Announcement Images – Browse 16,448 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/74/01/22/360_F_474012291_YjSVgeHAo0bGUQLqz8FTk5QVUjJcihpj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pregnant-announcement-template-design-gender-260nw-2206901359.jpg' alt='8,094 Blank Baby Announcement Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pregnant-announcement-template-design-gender-260nw-2206901359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Letterboard Mockup Template, Social Media ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12444746/r/il/18dbc5/2408829558/il_fullxfull.2408829558_ia35.jpg' alt='Pregnancy Announcement Letterboard Mockup Template, Social Media ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12444746/r/il/18dbc5/2408829558/il_fullxfull.2408829558_ia35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1291689360/photo/blank-pregnancy-announcement-mockup-flat-lay-with-blank-baby-vest-space-or-sonogram-pacifier.jpg?s=612x612&w=0&k=20&c=B0GLcon4weLoK9-wiNOppt2EE4Omv8UOTsTyKS-2U1E=' alt='20+ Baby Announcement Letterboard Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1291689360/photo/blank-pregnancy-announcement-mockup-flat-lay-with-blank-baby-vest-space-or-sonogram-pacifier.jpg?s=612x612&w=0&k=20&c=B0GLcon4weLoK9-wiNOppt2EE4Omv8UOTsTyKS-2U1E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pregnancy Announcement Images – Browse 16,448 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/64/42/87/360_F_464428790_hFavRymDbnp3bs2aQtBOR8GUA1l7oiTl.jpg' alt='Pregnancy Announcement Images – Browse 16,448 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/64/42/87/360_F_464428790_hFavRymDbnp3bs2aQtBOR8GUA1l7oiTl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

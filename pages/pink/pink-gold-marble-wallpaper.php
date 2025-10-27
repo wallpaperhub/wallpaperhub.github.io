@@ -1,0 +1,129 @@
+<title>Stylish Pink Gold Marble Wallpaper for a Chic Space</title>
+                    <meta name="description" content="Discover the beauty of pink gold marble wallpaper! Perfect for adding elegance to any room, this chic design enhances your decor with a modern touch. Easy to apply and remove, it’s ideal for renters and homeowners alike. Elevate your interior style effortlessly!">
+                    <meta name="keywords" content="pink gold marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-gold-marble-wallpaper">
+                            <span itemprop="name">pink gold marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pink Gold Marble Wallpaper for a Chic Space</h1>
+                <p>Transform your space with pink gold marble wallpaper, a stunning blend of elegance and contemporary design. Ideal for accent walls, this wallpaper adds a sophisticated touch to any room. Whether you're redecorating or looking for a stylish upgrade, its luxurious hues create a warm, inviting atmosphere. Perfect for bedrooms, living rooms, and offices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper, Abstract Marble Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29488158/r/il/7350a5/3330564085/il_fullxfull.3330564085_rc2q.jpg' alt='Pink Marble Wallpaper, Abstract Marble Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29488158/r/il/7350a5/3330564085/il_fullxfull.3330564085_rc2q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gold Marble Abstract Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/122Riche-marbre-rose.webp?v=1710130430' alt='Pink Gold Marble Abstract Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/122Riche-marbre-rose.webp?v=1710130430' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' alt='Pink & Gold Marble Wallpaper Peel and Stick, Abstract Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31400792/r/il/e6e53e/3272710358/il_fullxfull.3272710358_oocb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink gold marble abstract background. alcohol ink golden line ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/33/34/79/1000_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' alt='pink gold marble abstract background. alcohol ink golden line ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/33/34/79/1000_F_533347974_ZRlM8o4CDosj8sHD3Qz6YOv13nMV0cqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gold Marble Wallpaper Peel and Stick, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18667765/r/il/57a174/5373506005/il_fullxfull.5373506005_phh3.jpg' alt='Pink and Gold Marble Wallpaper Peel and Stick, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18667765/r/il/57a174/5373506005/il_fullxfull.5373506005_phh3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper Mural Abstract Gold Gilt Large Art Wall Mural for  Bedroom Livingroom(Not Self-Adhesive)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71t2uQ7mtBL._AC_UF894,1000_QL80_.jpg' alt='Pink Marble Wallpaper Mural Abstract Gold Gilt Large Art Wall Mural for  Bedroom Livingroom(Not Self-Adhesive)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71t2uQ7mtBL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gold Marble Swirl Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/337-X.jpg?v=1657691019' alt='Pink Gold Marble Swirl Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/337-X.jpg?v=1657691019' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Abstract Style 3D Wallpaper Mural, Pink Marble Gold Line  Pattern Art Photo Mural Wallpaper, Wallpaper Wall Sticker for Living Room  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Vutu2Cg2L.jpg' alt='Amazon.com: Abstract Style 3D Wallpaper Mural, Pink Marble Gold Line  Pattern Art Photo Mural Wallpaper, Wallpaper Wall Sticker for Living Room  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Vutu2Cg2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gold Marble Glitter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-gold-marble-glitter-g8c2143bnac3oiw4.jpg' alt='Pink Gold Marble Glitter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-gold-marble-glitter-g8c2143bnac3oiw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

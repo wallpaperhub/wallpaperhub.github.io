@@ -1,0 +1,129 @@
+<title>Mental Hospital Rooms: A Safe Space for Healing</title>
+                    <meta name="description" content="Discover the role of mental hospital rooms in patient recovery. Learn how their design promotes safety, comfort, and therapeutic support, creating an environment ideal for healing mental health issues.">
+                    <meta name="keywords" content="mental hospital room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mental-hospital-room">
+                            <span itemprop="name">mental hospital room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mental Hospital Rooms: A Safe Space for Healing</h1>
+                <p>Mental hospital rooms are designed to promote safety and recovery for individuals experiencing mental health crises. These rooms often feature padded walls, minimal furniture, and calming colors to create a soothing environment. Privacy and comfort are prioritized, making it easier for patients to engage in therapy and receive the support they need.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Housed at the hospital: Stories of a youth mental health crisis ...">
+                                <img itemprop="contentUrl url" src='https://images.seattletimes.com/wp-content/uploads/2022/02/02182022_house-at-hospital_122017.jpg?d=2040x1361' alt='Housed at the hospital: Stories of a youth mental health crisis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Seattle Times" />
+                                </span>
+                                <a href='https://images.seattletimes.com/wp-content/uploads/2022/02/02182022_house-at-hospital_122017.jpg?d=2040x1361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life in A Psych Ward: What Are Mental Hospitals Like?">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/yixw23k2v6vo/1y1zsXhwfKxf3Izbsq3U9O/31760cb302fcee3447e84b3e75b94b1b/iStock-1202857752.jpg' alt='Life in A Psych Ward: What Are Mental Hospitals Like?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4754">
+                                <meta itemprop="height" content="3169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HealthCentral" />
+                                </span>
+                                <a href='https://images.ctfassets.net/yixw23k2v6vo/1y1zsXhwfKxf3Izbsq3U9O/31760cb302fcee3447e84b3e75b94b1b/iStock-1202857752.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russian Psychiatric Hospital Whistle-Blower Faces Blowback">
+                                <img itemprop="contentUrl url" src='https://gdb.rferl.org/2cf392cf-bbca-48ae-b9a8-1fda83dadc72_w1200_r1.jpg' alt='Russian Psychiatric Hospital Whistle-Blower Faces Blowback'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RFE/RL" />
+                                </span>
+                                <a href='https://gdb.rferl.org/2cf392cf-bbca-48ae-b9a8-1fda83dadc72_w1200_r1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safe Mental Health Rooms Opening">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dpmykpsih/image/upload/c_fill,dpr_1.0,f_auto,q_auto,w_329/st-francis-2021-site-384/media/d44fc390ddc9440fb344878287ce98c7/img_0911.jpg' alt='Safe Mental Health Rooms Opening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="329">
+                                <meta itemprop="height" content="247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="St. Francis Regional Medical Center" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dpmykpsih/image/upload/c_fill,dpr_1.0,f_auto,q_auto,w_329/st-francis-2021-site-384/media/d44fc390ddc9440fb344878287ce98c7/img_0911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="630+ Mental Hospital Room Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155557316/photo/mental-hospital-padded-room.jpg?s=612x612&w=0&k=20&c=-7zbqg1IWZiRN8MogSD8h0W1t2X6P1XMTRch9-oVYaQ=' alt='630+ Mental Hospital Room Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155557316/photo/mental-hospital-padded-room.jpg?s=612x612&w=0&k=20&c=-7zbqg1IWZiRN8MogSD8h0W1t2X6P1XMTRch9-oVYaQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Much-needed Everett mental health unit opens with 24 beds ...">
+                                <img itemprop="contentUrl url" src='https://www.heraldnet.com/wp-content/uploads/2021/07/25695229_web1_TSR-Mental-210706.jpg' alt='Much-needed Everett mental health unit opens with 24 beds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1302">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everett Herald" />
+                                </span>
+                                <a href='https://www.heraldnet.com/wp-content/uploads/2021/07/25695229_web1_TSR-Mental-210706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New $305 million Austin State Hospital unveiled | The Texas Tribune">
+                                <img itemprop="contentUrl url" src='https://thumbnails.texastribune.org/c098igDEaWQD6UuwtM2Uf7RVPf8=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/f35d4c0fa9528b7959960d3a81eb6596/0515%20AHS%20Opening%20MC%20TT%2025.JPG' alt='New $305 million Austin State Hospital unveiled | The Texas Tribune'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Texas Tribune" />
+                                </span>
+                                <a href='https://thumbnails.texastribune.org/c098igDEaWQD6UuwtM2Uf7RVPf8=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/f35d4c0fa9528b7959960d3a81eb6596/0515%20AHS%20Opening%20MC%20TT%2025.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Do's and Don'ts When Visiting Someone in a Psychiatric ...">
+                                <img itemprop="contentUrl url" src='https://ibpf.org/wp-content/uploads/2016/09/visiting-someone-in-psychiatric-hospital.png' alt='The Do's and Don'ts When Visiting Someone in a Psychiatric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Bipolar Foundation" />
+                                </span>
+                                <a href='https://ibpf.org/wp-content/uploads/2016/09/visiting-someone-in-psychiatric-hospital.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Future Inclusive Mental Health Inpatient Units: Designing for ...">
+                                <img itemprop="contentUrl url" src='https://www.healthdesign.org/sites/default/files/styles/flexslider_full/public/resource-images/HGA1_Inclusive%20patient%20room%20rendering.png?itok=3NwOYSLs' alt='Future Inclusive Mental Health Inpatient Units: Designing for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Center for Health Design" />
+                                </span>
+                                <a href='https://www.healthdesign.org/sites/default/files/styles/flexslider_full/public/resource-images/HGA1_Inclusive%20patient%20room%20rendering.png?itok=3NwOYSLs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental health care is facing a crisis. Here's how we're addressing it">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/presto/2019/04/07/PPHX/9e728a04-db78-45e5-9506-a3d81aed3ee4-maryvale_hospital011.jpg?crop=3599,2015,x0,y0' alt='Mental health care is facing a crisis. Here's how we're addressing it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3599">
+                                <meta itemprop="height" content="2015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/presto/2019/04/07/PPHX/9e728a04-db78-45e5-9506-a3d81aed3ee4-maryvale_hospital011.jpg?crop=3599,2015,x0,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

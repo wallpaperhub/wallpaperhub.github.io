@@ -1,0 +1,129 @@
+<title>Blur Background in Lightroom: Easy Guide</title>
+                    <meta name="description" content="Learn how to effortlessly blur the background in Lightroom with our step-by-step guide. Perfect for enhancing your portraits and focusing attention on your subjects. Unlock the full potential of your photos today!">
+                    <meta name="keywords" content="how to blur background in lightroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-blur-background-in-lightroom">
+                            <span itemprop="name">how to blur background in lightroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blur Background in Lightroom: Easy Guide</h1>
+                <p>To blur the background in Lightroom, start by selecting the subject using the Masking tool. Utilize the AI-powered tools to refine your selection. Once your subject is isolated, apply a reduction in clarity and sharpness to the background, adjusting the amount of blur to achieve your desired effect. Finally, fine-tune the colors and light for a polished look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur The Background In Lightroom – ShootDotEdit">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0553/6422/3136/files/Lightroom-Blur-Background-Blog_Image.png' alt='How To Blur The Background In Lightroom – ShootDotEdit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShootDotEdit" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0553/6422/3136/files/Lightroom-Blur-Background-Blog_Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom (3 Different Methods) - Pretty ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0163/6622/files/How_to_Sharpen_the_Background_in_Lightroom_1024x1024.jpg?v=1647013146' alt='How to Blur Background in Lightroom (3 Different Methods) - Pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Presets" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0163/6622/files/How_to_Sharpen_the_Background_in_Lightroom_1024x1024.jpg?v=1647013146' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur a Background in Lightroom?">
+                                <img itemprop="contentUrl url" src='https://r.tourboxtech.com/file/202305/Radial-Gradient-tool-lightroom.png' alt='How to Blur a Background in Lightroom?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TourBox" />
+                                </span>
+                                <a href='https://r.tourboxtech.com/file/202305/Radial-Gradient-tool-lightroom.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom (3 BEST ways!)">
+                                <img itemprop="contentUrl url" src='https://shotkit.com/wp-content/uploads/2020/10/Blur-Background-Lightroom-003.jpg' alt='How to Blur Background in Lightroom (3 BEST ways!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shotkit" />
+                                </span>
+                                <a href='https://shotkit.com/wp-content/uploads/2020/10/Blur-Background-Lightroom-003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur a Background in Lightroom (Step by Step Guide ...">
+                                <img itemprop="contentUrl url" src='https://designshack.net/wp-content/uploads/how-to-blur-background-lightroom-cc-2.jpg' alt='How to Blur a Background in Lightroom (Step by Step Guide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1533">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Shack" />
+                                </span>
+                                <a href='https://designshack.net/wp-content/uploads/how-to-blur-background-lightroom-cc-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom (3 Different Methods) - Pretty ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0163/6622/files/How_to_Blur_Background_with_linear_gradients_1024x1024.jpg?v=1647013382' alt='How to Blur Background in Lightroom (3 Different Methods) - Pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Presets" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0163/6622/files/How_to_Blur_Background_with_linear_gradients_1024x1024.jpg?v=1647013382' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom">
+                                <img itemprop="contentUrl url" src='https://media.greatbigphotographyworld.com/wp-content/uploads/2022/04/Daliah.jpg' alt='How to Blur Background in Lightroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Big Photography World" />
+                                </span>
+                                <a href='https://media.greatbigphotographyworld.com/wp-content/uploads/2022/04/Daliah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom: A Step-by-Step Guide">
+                                <img itemprop="contentUrl url" src='https://lightroom-photoshop-tutorials.com/wp-content/uploads/2024/07/How-to-Blur-Background-in-Lightroom-A-Step-by-Step-Guide-768x407.webp' alt='How to Blur Background in Lightroom: A Step-by-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lightroom Photoshop Tutorials" />
+                                </span>
+                                <a href='https://lightroom-photoshop-tutorials.com/wp-content/uploads/2024/07/How-to-Blur-Background-in-Lightroom-A-Step-by-Step-Guide-768x407.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Still Life Photographer in Narre Warren. Specialising in Still ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57b3b5ee725e25c504017623/1651202752422-JY2P9E9RRHF05STR9WFK/LR+mask+cleanup+2.jpg' alt='Still Life Photographer in Narre Warren. Specialising in Still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Still Life Photographer in Narre Warren. Specialising in Still ..." />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57b3b5ee725e25c504017623/1651202752422-JY2P9E9RRHF05STR9WFK/LR+mask+cleanup+2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Lightroom">
+                                <img itemprop="contentUrl url" src='https://colesclassroom.com/wp-content/uploads/2020/07/Blur-a-background-in-Lightroom.jpg' alt='How to Blur Background in Lightroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cole's Classroom" />
+                                </span>
+                                <a href='https://colesclassroom.com/wp-content/uploads/2020/07/Blur-a-background-in-Lightroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

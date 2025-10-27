@@ -1,0 +1,129 @@
+<title>Spooky iPhone Horror Movie Wallpapers for Thrill Seekers</title>
+                    <meta name="description" content="Explore our curated selection of horror movie wallpapers for iPhone! Ideal for fans of the genre, these chilling images bring the thrills right to your device. Perfect for those who love a touch of horror, our wallpapers are easy to download and display. Transform your screen today!">
+                    <meta name="keywords" content="iphone horror movie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-horror-movie-wallpaper">
+                            <span itemprop="name">iphone horror movie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky iPhone Horror Movie Wallpapers for Thrill Seekers</h1>
+                <p>Transform your iPhone into a thrilling experience with our collection of horror movie wallpapers! Dive into spine-chilling visuals that evoke fear and excitement. Whether you prefer classic horror icons or modern fright flicks, our high-quality images are perfect for setting a spooky mood on your device. Download now for a hauntingly good look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/76/5c/ee/765ceedd7c9eab231060acc4205df880.jpg' alt='Horror Movie Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/76/5c/ee/765ceedd7c9eab231060acc4205df880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by ... on Horror/slashers   in 2022 | Scary wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/45/32/58/45325830f65bfcaccb484ec8fae91eba.jpg' alt='Pin by ... on Horror/slashers   in 2022 | Scary wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/45/32/58/45325830f65bfcaccb484ec8fae91eba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror movies, horror movies, weclome, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/133/4/HD-wallpaper-horror-movies-horror-movies-weclome.jpg' alt='Horror movies, horror movies, weclome, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/133/4/HD-wallpaper-horror-movies-horror-movies-weclome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/04/95/120495a0c3175bc465829d2554ab9ec1.jpg' alt='Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/04/95/120495a0c3175bc465829d2554ab9ec1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Horror Movie Collage Magazines Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/horror-movie-collage-1080-x-1920-vl48sp8c2x093iuf.jpg' alt='Download Horror Movie Collage Magazines Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/horror-movie-collage-1080-x-1920-vl48sp8c2x093iuf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Horror movie wallpaper iphone ideas | halloween wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e1/c6/b2/e1c6b21a3c99ff0b02ba153e2c738ca1.jpg' alt='37 Horror movie wallpaper iphone ideas | halloween wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e1/c6/b2/e1c6b21a3c99ff0b02ba153e2c738ca1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Be scared by this eerie aesthetic horror iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-iphone-horror-qibpwu0j07vuf1cl.jpg' alt='Download Be scared by this eerie aesthetic horror iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-iphone-horror-qibpwu0j07vuf1cl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie, cool, creepy, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/666/892/HD-wallpaper-horror-movie-cool-creepy.jpg' alt='Horror Movie, cool, creepy, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/666/892/HD-wallpaper-horror-movie-cool-creepy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Lockscreens (Part 1) : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d3rw7braryn91.jpg' alt='Horror Lockscreens (Part 1) : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d3rw7braryn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Movie Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/64/c3/3c/64c33c3c1ce1616b0cd1136d4fccaebc.jpg' alt='Horror Movie Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/64/c3/3c/64c33c3c1ce1616b0cd1136d4fccaebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

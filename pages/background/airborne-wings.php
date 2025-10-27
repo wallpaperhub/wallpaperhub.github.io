@@ -1,0 +1,129 @@
+<title>Explore the Sky: The Fascinating World of Airborne Wings</title>
+                    <meta name="description" content="Discover the captivating mechanics and design of airborne wings, essential for flight in nature and aviation. Learn how these dynamic structures enable soaring adventures and embody the spirit of freedom in the skies.">
+                    <meta name="keywords" content="airborne wings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/airborne-wings">
+                            <span itemprop="name">airborne wings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Sky: The Fascinating World of Airborne Wings</h1>
+                <p>Airborne wings symbolize freedom and innovation in aviation. They are intricately designed structures that enable flight by generating lift through aerodynamic principles. Whether in nature with birds or in technology with aircraft, these wings showcase the incredible ability to defy gravity and explore the skies. In the world of flight, airborne wings are the key to adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parachutist Badge (United States) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/87/US_Army_Airborne_basic_parachutist_badge.gif' alt='Parachutist Badge (United States) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/87/US_Army_Airborne_basic_parachutist_badge.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US ARMY Airborne MASTER Parachutist Paratrooper Jump Wings Pin Oxidized  Badge">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61m-zTba+TL._AC_UY1000_.jpg' alt='US ARMY Airborne MASTER Parachutist Paratrooper Jump Wings Pin Oxidized  Badge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61m-zTba+TL._AC_UY1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parachutists (Jump Wings) Basic Brite Pin-on Badge">
+                                <img itemprop="contentUrl url" src='https://insigniadepot.com/cdn/shop/products/810010222886.jpg?v=1646170989' alt='Parachutists (Jump Wings) Basic Brite Pin-on Badge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insignia Depot" />
+                                </span>
+                                <a href='https://insigniadepot.com/cdn/shop/products/810010222886.jpg?v=1646170989' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airborne Jump Wings Basic Parachutist Badge Silver Oxide Finish">
+                                <img itemprop="contentUrl url" src='https://www.cavhooah.com/cdn/shop/files/Item182_1024x1024.jpg?v=1711567755' alt='Airborne Jump Wings Basic Parachutist Badge Silver Oxide Finish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CavHooah.com" />
+                                </span>
+                                <a href='https://www.cavhooah.com/cdn/shop/files/Item182_1024x1024.jpg?v=1711567755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. Army Parachutist Basic Jump Wing Full Size Sta-Brite® Pin-on Badge">
+                                <img itemprop="contentUrl url" src='https://stabriteinsignia.com/cdn/shop/files/A-343-FINAL.jpg?v=1708971694&width=1946' alt='U.S. Army Parachutist Basic Jump Wing Full Size Sta-Brite® Pin-on Badge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="STA-BRITE" />
+                                </span>
+                                <a href='https://stabriteinsignia.com/cdn/shop/files/A-343-FINAL.jpg?v=1708971694&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3x5 inch WHITE Army Airborne BASIC Jump Wings Sticker (Parachute Logo) Army  Lic. | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/xmgAAOSwxJlknGR4/s-l400.jpg' alt='3x5 inch WHITE Army Airborne BASIC Jump Wings Sticker (Parachute Logo) Army  Lic. | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/xmgAAOSwxJlknGR4/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airborne Jump Wings Master Parachutist Badge">
+                                <img itemprop="contentUrl url" src='http://www.cavhooah.com/cdn/shop/files/Item627_1200x1200.jpg?v=1711642567' alt='Airborne Jump Wings Master Parachutist Badge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1033">
+                                <meta itemprop="height" content="1033">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CavHooah.com" />
+                                </span>
+                                <a href='http://www.cavhooah.com/cdn/shop/files/Item627_1200x1200.jpg?v=1711642567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian Jump Wings">
+                                <img itemprop="contentUrl url" src='https://www.medalsofamerica.com/media/catalog/product/cache/28005f07da4eaaac92def29278b35184/c/a/canadian-jump-wings-2161762-b1125_ft_1.jpg' alt='Canadian Jump Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medals of America" />
+                                </span>
+                                <a href='https://www.medalsofamerica.com/media/catalog/product/cache/28005f07da4eaaac92def29278b35184/c/a/canadian-jump-wings-2161762-b1125_ft_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airborne Wings">
+                                <img itemprop="contentUrl url" src='https://overwatchdesigns.com/wp-content/uploads/2013/08/0-Airborne-Wings.png' alt='Airborne Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2401">
+                                <meta itemprop="height" content="2393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Overwatch Designs" />
+                                </span>
+                                <a href='https://overwatchdesigns.com/wp-content/uploads/2013/08/0-Airborne-Wings.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airborne Wings (Master) w/ Combat Jump Outdoor Flag">
+                                <img itemprop="contentUrl url" src='https://eliteflags.com/cdn/shop/products/airborne-wings-master-w-combat-jump-outdoor-flag-outdoor-flag-36-x-60-outdoor-flag-elite-flags-28117249917026_1024x1024.png?v=1627982776' alt='Airborne Wings (Master) w/ Combat Jump Outdoor Flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Flags" />
+                                </span>
+                                <a href='https://eliteflags.com/cdn/shop/products/airborne-wings-master-w-combat-jump-outdoor-flag-outdoor-flag-36-x-60-outdoor-flag-elite-flags-28117249917026_1024x1024.png?v=1627982776' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

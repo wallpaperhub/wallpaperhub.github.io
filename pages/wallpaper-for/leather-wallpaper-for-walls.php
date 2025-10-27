@@ -1,0 +1,129 @@
+<title>Elegant Leather Wallpaper for Stylish Walls</title>
+                    <meta name="description" content="Discover the elegance of leather wallpaper for your walls. Transform your space with luxurious textures and stylish designs that enhance any room. Explore a variety of colors and patterns to suit your decor, perfect for homes and offices alike!">
+                    <meta name="keywords" content="leather wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/leather-wallpaper-for-walls">
+                            <span itemprop="name">leather wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Leather Wallpaper for Stylish Walls</h1>
+                <p>Leather wallpaper offers a luxurious texture and timeless elegance, transforming any room into a sophisticated space. Available in various colors and patterns, it adds warmth and character to walls. Easy to install and maintain, leather wallpaper is perfect for homes and offices, providing both style and durability without compromising on aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall 3D Faux Leather Textured Backgound Wall Pattern Wallpaper  Roll for Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq.ft - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MvBBOsDsL.jpg' alt='Blooming Wall 3D Faux Leather Textured Backgound Wall Pattern Wallpaper  Roll for Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq.ft - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1006">
+                                <meta itemprop="height" content="939">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MvBBOsDsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Leather, 3d Wallpaper, Buttons, Black Wallpaper, Elegant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14468347/r/il/021d97/2363438919/il_fullxfull.2363438919_g8d1.jpg' alt='Black Leather, 3d Wallpaper, Buttons, Black Wallpaper, Elegant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14468347/r/il/021d97/2363438919/il_fullxfull.2363438919_g8d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Pearl luxury - white flowers on a leather textured background  with quilting - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/94234/role/image/size/1500x2240/type/ft-osmr-wiz1/f08f438b0467b28485aa5e199e540eb3.webp' alt='Wall Mural Pearl luxury - white flowers on a leather textured background  with quilting - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/94234/role/image/size/1500x2240/type/ft-osmr-wiz1/f08f438b0467b28485aa5e199e540eb3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather Rhombs">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1638281439/articles/R14121_interior2.jpg' alt='Leather Rhombs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1638281439/articles/R14121_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesterfield Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Chesterfield-3.jpg.optimal.jpg' alt='Chesterfield Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-Chesterfield-3.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Leather Wallpapers to Bring Luxury and Texture to Your Space">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1708969733-91Hj4PAdFKL.jpg?crop=1xw:1xh;center,top&resize=980:*' alt='15 Leather Wallpapers to Bring Luxury and Texture to Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1708969733-91Hj4PAdFKL.jpg?crop=1xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leather look wallpaper | Deceptively real embossing and feel ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tapetender70er.de/media/image/65/16/6e/Caiman-A_430905_518x389.jpg' alt='Leather look wallpaper | Deceptively real embossing and feel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="282">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper from the 70s" />
+                                </span>
+                                <a href='https://cdn.tapetender70er.de/media/image/65/16/6e/Caiman-A_430905_518x389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old vintage brown leather Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Old_vintage_brown_leather_Wall_Mural_Wallpaper_b_1400x.jpg?v=1735832702' alt='Old vintage brown leather Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Old_vintage_brown_leather_Wall_Mural_Wallpaper_b_1400x.jpg?v=1735832702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Leather">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/53180/landscape/wallpaper/room89.jpg?w=2000&q=80' alt='White Leather'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/53180/landscape/wallpaper/room89.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Stitched Dark Brown Leather Wallpaper R4381">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/FauxStitchedDarkBrownLeatherWallpaperR4381.png?v=1735842234&width=1024' alt='Faux Stitched Dark Brown Leather Wallpaper R4381'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/FauxStitchedDarkBrownLeatherWallpaperR4381.png?v=1735842234&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

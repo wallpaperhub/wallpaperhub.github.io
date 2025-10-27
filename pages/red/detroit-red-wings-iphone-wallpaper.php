@@ -1,0 +1,129 @@
+<title>Detroit Red Wings iPhone Wallpapers: Show Your Team Spirit</title>
+                    <meta name="description" content="Explore the ultimate collection of Detroit Red Wings iPhone wallpapers! Perfect for fans who want to showcase their team pride on their devices. Download high-quality images that capture the essence of hockey and keep your screen fresh and vibrant. Perfect for any Red Wings supporter!">
+                    <meta name="keywords" content="detroit red wings iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/detroit-red-wings-iphone-wallpaper">
+                            <span itemprop="name">detroit red wings iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Detroit Red Wings iPhone Wallpapers: Show Your Team Spirit</h1>
+                <p>Looking to show off your love for the Detroit Red Wings? Discover a collection of stunning iPhone wallpapers featuring your favorite hockey team! From iconic logos to action-packed moments on the ice, find the perfect backdrop for your device. Immerse yourself in the spirit of the game with these high-quality designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/vhcyl1e02vv4z6ess6jl.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/vhcyl1e02vv4z6ess6jl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/k2p61q7jzyd89j6qqre8.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/k2p61q7jzyd89j6qqre8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/djcrchteuvnhcxvjfbbt.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/djcrchteuvnhcxvjfbbt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/rwq7zk6wuhnjjzznpm86.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/rwq7zk6wuhnjjzznpm86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see your Red Wings themed phone lock screens/wallpapers! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-your-red-wings-themed-phone-lock-screens-wallpapers-v0-cmqqvtztxnqd1.jpeg?width=828&format=pjpg&auto=webp&s=f52ac6d558de6f7a7ffef3a4cc9af1179485e96a' alt='Let's see your Red Wings themed phone lock screens/wallpapers! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-your-red-wings-themed-phone-lock-screens-wallpapers-v0-cmqqvtztxnqd1.jpeg?width=828&format=pjpg&auto=webp&s=f52ac6d558de6f7a7ffef3a4cc9af1179485e96a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Detroit Red Wings Website | Detroit Red Wings">
+                                <img itemprop="contentUrl url" src='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/qbhdktlfbodhvpquca1p.jpg' alt='Official Detroit Red Wings Website | Detroit Red Wings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NHL.com" />
+                                </span>
+                                <a href='https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/qbhdktlfbodhvpquca1p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Detroit Red Wings (NHL) iPhone X/XS/XR Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/cc/ec/3fccecf72fc3cf9eac3c5d0097f392ac.jpg' alt='Detroit Red Wings (NHL) iPhone X/XS/XR Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/cc/ec/3fccecf72fc3cf9eac3c5d0097f392ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey Wings fans, Canes fan here. I made this wallpaper for a friend ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mxm3jm6geah61.jpg' alt='Hey Wings fans, Canes fan here. I made this wallpaper for a friend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mxm3jm6geah61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My quest to make a wallpaper for each NHL team: #11 RED WINGS : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/my-quest-to-make-a-wallpaper-for-each-nhl-team-red-wings-v0-7kld95axj0h91.jpg?width=1350&format=pjpg&auto=webp&s=fedde6482722842661a9ae2335e0a6d7503a147c' alt='My quest to make a wallpaper for each NHL team: #11 RED WINGS : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/my-quest-to-make-a-wallpaper-for-each-nhl-team-red-wings-v0-7kld95axj0h91.jpg?width=1350&format=pjpg&auto=webp&s=fedde6482722842661a9ae2335e0a6d7503a147c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see your Red Wings themed phone lock screens/wallpapers! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-your-red-wings-themed-phone-lock-screens-wallpapers-v0-d1ellwm05oqd1.jpeg?width=1028&format=pjpg&auto=webp&s=acdf7876247470a1ea1664103aa865511b8024a2' alt='Let's see your Red Wings themed phone lock screens/wallpapers! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="1828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-your-red-wings-themed-phone-lock-screens-wallpapers-v0-d1ellwm05oqd1.jpeg?width=1028&format=pjpg&auto=webp&s=acdf7876247470a1ea1664103aa865511b8024a2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

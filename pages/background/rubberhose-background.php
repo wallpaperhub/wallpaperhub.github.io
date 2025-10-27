@@ -1,0 +1,129 @@
+<title>Exploring the Charm of Rubberhose Animation</title>
+                    <meta name="description" content="Dive into the whimsical world of rubberhose animation! Discover its origins, unique style, and how it continues to influence modern animation. Perfect for enthusiasts and creators looking to understand this charming art form. Join us as we explore its playful aesthetic and legacy in the animation industry.">
+                    <meta name="keywords" content="rubberhose background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rubberhose-background">
+                            <span itemprop="name">rubberhose background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Charm of Rubberhose Animation</h1>
+                <p>Rubberhose animation originated in the 1920s and 30s, characterized by its exaggerated, bouncy characters and fluid movement. This playful style often features characters with flexible limbs, soft shapes, and minimal background details, allowing creativity to flow freely. Today, rubberhose is celebrated for its nostalgic charm and versatility in modern animation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - 1930's Rubberhose Animation">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/044/241/786/large/binu-herath-key.jpg?1639477321' alt='ArtStation - 1930's Rubberhose Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/044/241/786/large/binu-herath-key.jpg?1639477321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How They Did It: Creating A 1920s Rubber-Hose Animation Style For ...">
+                                <img itemprop="contentUrl url" src='https://www.cartoonbrew.com/wp-content/uploads/2019/07/waldosdream_a.gif' alt='How They Did It: Creating A 1920s Rubber-Hose Animation Style For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Brew" />
+                                </span>
+                                <a href='https://www.cartoonbrew.com/wp-content/uploads/2019/07/waldosdream_a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Hose Animation Explained | Displate Blog">
+                                <img itemprop="contentUrl url" src='https://blog.displate.com/wp-content/uploads/2022/11/img_63636bc071398.png' alt='Rubber Hose Animation Explained | Displate Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate Blog" />
+                                </span>
+                                <a href='https://blog.displate.com/wp-content/uploads/2022/11/img_63636bc071398.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Wild Classics Of Rubber Hose Animation That Inspired 'The ...">
+                                <img itemprop="contentUrl url" src='https://www.cartoonbrew.com/wp-content/uploads/2022/02/rubberhose_cartoon-1280x600.jpg' alt='The Wild Classics Of Rubber Hose Animation That Inspired 'The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Brew" />
+                                </span>
+                                <a href='https://www.cartoonbrew.com/wp-content/uploads/2022/02/rubberhose_cartoon-1280x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How They Did It: Creating A 1920s Rubber-Hose Animation Style For ...">
+                                <img itemprop="contentUrl url" src='https://www.cartoonbrew.com/wp-content/uploads/2019/07/waldosdream_c.gif' alt='How They Did It: Creating A 1920s Rubber-Hose Animation Style For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Brew" />
+                                </span>
+                                <a href='https://www.cartoonbrew.com/wp-content/uploads/2019/07/waldosdream_c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Procreate Animation｜Rubber hose Style｜Tutorial for Beginners">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FrPvzNEqBjA/maxresdefault.jpg' alt='Procreate Animation｜Rubber hose Style｜Tutorial for Beginners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FrPvzNEqBjA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John K Stuff: 2 Types of cartoonists-Origin of styles 2 -Rubber ...">
+                                <img itemprop="contentUrl url" src='http://johnkstuff.blogspot.com/uploaded_images/Plowboy_001-711398.jpg' alt='John K Stuff: 2 Types of cartoonists-Origin of styles 2 -Rubber ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John K Stuff" />
+                                </span>
+                                <a href='http://johnkstuff.blogspot.com/uploaded_images/Plowboy_001-711398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The ANIMATORIUM: Spaghetti Limbs, Bouncy Movements: The Age of ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB1nZGNGskAdtVSeaH7paKKSwB7Y7wELpKGCGDwboH1hJ4HsgVE9j55n3AKEYpr-Hpf3XQtmkjmNkvu3DL81ZLGZ2Ioqu2U95b1BK4P5X4WglbGt8gXB8Ld6z8UuPeRobhsdAum35PNFU/s1600/Mickey+and+Co.png' alt='The ANIMATORIUM: Spaghetti Limbs, Bouncy Movements: The Age of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The ANIMATORIUM" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB1nZGNGskAdtVSeaH7paKKSwB7Y7wELpKGCGDwboH1hJ4HsgVE9j55n3AKEYpr-Hpf3XQtmkjmNkvu3DL81ZLGZ2Ioqu2U95b1BK4P5X4WglbGt8gXB8Ld6z8UuPeRobhsdAum35PNFU/s1600/Mickey+and+Co.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1930 vintage cartoon or rubber hose art illustration | Upwork">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_400/v1698984891/catalog/1720292652482224128/a5meciuhetfk403neojj.jpg' alt='1930 vintage cartoon or rubber hose art illustration | Upwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Upwork" />
+                                </span>
+                                <a href='https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_400/v1698984891/catalog/1720292652482224128/a5meciuhetfk403neojj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubberhose Good and Evil (greyscale)">
+                                <img itemprop="contentUrl url" src='https://deskpads.gallery/wp-content/uploads/2022/07/Rubberhose-Good-and-Evil-greyscale.png' alt='Rubberhose Good and Evil (greyscale)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="deskpads.gallery" />
+                                </span>
+                                <a href='https://deskpads.gallery/wp-content/uploads/2022/07/Rubberhose-Good-and-Evil-greyscale.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

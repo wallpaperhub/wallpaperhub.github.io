@@ -1,0 +1,129 @@
+<title>Mastering Background Drawing: Tips & Techniques</title>
+                    <meta name="description" content="Learn essential tips and techniques for drawing stunning backgrounds. Enhance your artwork with depth and perspective while exploring various styles. Ideal for artists looking to improve their skills and create immersive scenes. Perfect for beginners and experts alike!">
+                    <meta name="keywords" content="how to draw backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-draw-backgrounds">
+                            <span itemprop="name">how to draw backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Background Drawing: Tips & Techniques</h1>
+                <p>To draw captivating backgrounds, start by selecting a focal point to lead the viewer's eye. Use perspective techniques to create depth, incorporating elements like trees, mountains, or buildings in layers. Experiment with colors to set the mood and use light and shadow for realism. Practice different styles and keep your compositions balanced.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw Backgrounds | Tutorial | DrawlikeaSir">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZhzdeThllUM/maxresdefault.jpg' alt='How to draw Backgrounds | Tutorial | DrawlikeaSir'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZhzdeThllUM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Background (Environments and Landscapes)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VkAOpEZQo20/maxresdefault.jpg' alt='How to Draw a Background (Environments and Landscapes)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VkAOpEZQo20/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw amazing backgrounds in five simple steps - Scottish ...">
+                                <img itemprop="contentUrl url" src='https://www.scottishbooktrust.com/uploads/store/mediaupload/6501/image/FINAL%20INTERIOR(1).jpg' alt='How to draw amazing backgrounds in five simple steps - Scottish ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2390">
+                                <meta itemprop="height" content="1348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scottish Book Trust" />
+                                </span>
+                                <a href='https://www.scottishbooktrust.com/uploads/store/mediaupload/6501/image/FINAL%20INTERIOR(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Background: Draw 1-Point Perspective">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ddALJ0S3ycg/maxresdefault.jpg' alt='How to Draw a Background: Draw 1-Point Perspective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ddALJ0S3ycg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Interior Backgrounds in 7 Easy Steps">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tSTyu-0_jQ0/maxresdefault.jpg' alt='How to Draw Interior Backgrounds in 7 Easy Steps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tSTyu-0_jQ0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Backgrounds for Beginners using 1-Point Perspective">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ijD59Hik9Eg/maxresdefault.jpg' alt='How to Draw Backgrounds for Beginners using 1-Point Perspective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ijD59Hik9Eg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Backgrounds - A Comprehensive Guide -">
+                                <img itemprop="contentUrl url" src='https://gabriellabalagna.com/wp-content/uploads/2021/08/Featured_Image-1-1024x529.png' alt='How to Draw Backgrounds - A Comprehensive Guide -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gabriella Balagna" />
+                                </span>
+                                <a href='https://gabriellabalagna.com/wp-content/uploads/2021/08/Featured_Image-1-1024x529.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Backgrounds in Perspective with Basic Steps - Ram ...">
+                                <img itemprop="contentUrl url" src='https://ramstudioscomics.com/wp-content/uploads/2022/08/Drawing_a_Background_Step_5.jpg' alt='How to Draw Backgrounds in Perspective with Basic Steps - Ram ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ram Studios Comics" />
+                                </span>
+                                <a href='https://ramstudioscomics.com/wp-content/uploads/2022/08/Drawing_a_Background_Step_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drafting “How to draw manga styled urban backgrounds from scratch ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/f0bb/414091/8cdda872fb16d0f0e09652bc6ec37728' alt='Drafting “How to draw manga styled urban backgrounds from scratch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/f0bb/414091/8cdda872fb16d0f0e09652bc6ec37728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips for Drawing Backgrounds!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tVynETvms-o/maxresdefault.jpg' alt='Tips for Drawing Backgrounds!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tVynETvms-o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

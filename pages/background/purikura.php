@@ -1,0 +1,129 @@
+<title>Capture Fun Moments: Discover Purikura Photo Booths</title>
+                    <meta name="description" content="Explore the world of purikura! Learn how these Japanese photo booths let you create stunning, customized photos with friends. Unleash your creativity and capture memorable moments in a playful and colorful way! Perfect for your next outing or celebration!">
+                    <meta name="keywords" content="purikura">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purikura">
+                            <span itemprop="name">purikura</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Capture Fun Moments: Discover Purikura Photo Booths</h1>
+                <p>Purikura, or photo sticker booths, originated in Japan and have become a vibrant part of youth culture. These booths allow friends to capture fun, customizable photos with various filters, borders, and stickers. With their colorful backgrounds and playful features, purikura offers a unique way to create lasting memories in a visually engaging way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Purikura! | All About Japan">
+                                <img itemprop="contentUrl url" src='https://imgcp.aacdn.jp/img-a/1200/900/global-aaj-front/article/2018/07/5b44430b92dc0_5b443a351541b_914502388.jpg' alt='All About Purikura! | All About Japan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1403">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllAbout-Japan.com" />
+                                </span>
+                                <a href='https://imgcp.aacdn.jp/img-a/1200/900/global-aaj-front/article/2018/07/5b44430b92dc0_5b443a351541b_914502388.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take a Purikura and Meet Your Teenage Alter Ego - WHEN IN TOKYO ...">
+                                <img itemprop="contentUrl url" src='https://freight.cargo.site/t/original/i/31afc66152a0eb9fde0d87269e73e768253d3bbc4e1b3c68c56b4dd1276e59ff/Reiyukai-Temple-1.jpg' alt='Take a Purikura and Meet Your Teenage Alter Ego - WHEN IN TOKYO ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WHEN IN TOKYO" />
+                                </span>
+                                <a href='https://freight.cargo.site/t/original/i/31afc66152a0eb9fde0d87269e73e768253d3bbc4e1b3c68c56b4dd1276e59ff/Reiyukai-Temple-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura time with the girls  ✨ Love it! #japan #harajuku ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3381379380268508386' alt='Purikura time with the girls  ✨ Love it! #japan #harajuku ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3381379380268508386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura: Discover The Addictive Japanese Photobooth Craze!">
+                                <img itemprop="contentUrl url" src='https://flipjapanguide.com/wp-content/uploads/2021/10/What-is-Purikura.jpg' alt='Purikura: Discover The Addictive Japanese Photobooth Craze!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FLIP Japan Guide" />
+                                </span>
+                                <a href='https://flipjapanguide.com/wp-content/uploads/2021/10/What-is-Purikura.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura Land Noa | Tokyo Cheapo">
+                                <img itemprop="contentUrl url" src='https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/07/Purikura-Photo-Booths-Lily-Crossley-Baxter.jpg' alt='Purikura Land Noa | Tokyo Cheapo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tokyo Cheapo" />
+                                </span>
+                                <a href='https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/07/Purikura-Photo-Booths-Lily-Crossley-Baxter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura: The Joy of Japanese Photo Booths">
+                                <img itemprop="contentUrl url" src='https://files.tofugu.com/articles/japan/2013-03-22-purikura/fugu-gaku-purikura.jpg' alt='Purikura: The Joy of Japanese Photo Booths'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tofugu" />
+                                </span>
+                                <a href='https://files.tofugu.com/articles/japan/2013-03-22-purikura/fugu-gaku-purikura.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura: The Story Behind the Iconic Japanese Photo Booths ...">
+                                <img itemprop="contentUrl url" src='https://guidable.co/wp-content/uploads/2023/04/Margheritas-featured-article-images-1000-%C3%97-600-px.jpg' alt='Purikura: The Story Behind the Iconic Japanese Photo Booths ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Guidable" />
+                                </span>
+                                <a href='https://guidable.co/wp-content/uploads/2023/04/Margheritas-featured-article-images-1000-%C3%97-600-px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purikura no Mecca - All You Need to Know BEFORE You Go (2025)">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6c/41/5a/photo0jpg.jpg?w=1200&h=1200&s=1' alt='Purikura no Mecca - All You Need to Know BEFORE You Go (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6c/41/5a/photo0jpg.jpg?w=1200&h=1200&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Say Cheese! The Ultimate Guide to Purikura Japanese Photo Booths ...">
+                                <img itemprop="contentUrl url" src='https://japan-forward.com/wp-content/uploads/2021/05/purikura-japanese-photo-booth-retouched-2-of-3-1068x1424-1-e1621242859228.jpg' alt='Say Cheese! The Ultimate Guide to Purikura Japanese Photo Booths ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JAPAN Forward" />
+                                </span>
+                                <a href='https://japan-forward.com/wp-content/uploads/2021/05/purikura-japanese-photo-booth-retouched-2-of-3-1068x1424-1-e1621242859228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240514 ILLIT Japan Twitter Update - Memory of Purikura    : r/illit">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/240514-illit-japan-twitter-update-memory-of-purikura-v0-tvb3v5mcvd0d1.jpg?width=640&crop=smart&auto=webp&s=876b75b01c900450fafb4b39a0a3ade4c57b7a85' alt='240514 ILLIT Japan Twitter Update - Memory of Purikura    : r/illit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/240514-illit-japan-twitter-update-memory-of-purikura-v0-tvb3v5mcvd0d1.jpg?width=640&crop=smart&auto=webp&s=876b75b01c900450fafb4b39a0a3ade4c57b7a85' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Yellow Aesthetic Wallpapers for Your Space</title>
+                    <meta name="description" content="Discover charming yellow aesthetic wallpapers to uplift your space! Perfect for those seeking joy and warmth, our collection features adorable patterns and designs. Brighten your room effortlessly with these vibrant wallpapers that reflect your personality.">
+                    <meta name="keywords" content="cute yellow aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-yellow-aesthetic-wallpaper">
+                            <span itemprop="name">cute yellow aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Yellow Aesthetic Wallpapers for Your Space</h1>
+                <p>Brighten your space with cute yellow aesthetic wallpapers! Perfect for adding a pop of color, these cheerful designs evoke warmth and positivity. From pastel sunflowers to playful geometric patterns, yellow wallpapers can transform any room into a happy haven. Dive into a world of vibrant hues and uplifting vibes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Items Cute Yellow Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/items-cute-yellow-aesthetic-3m0anavx8fp9wgr3.jpg' alt='Items Cute Yellow Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1031">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/items-cute-yellow-aesthetic-3m0anavx8fp9wgr3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Brighten Up Your Day with This Happy Yellow Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-yellow-aesthetic-1000-x-1500-c2thei09wgxa7376.jpg' alt='Download Brighten Up Your Day with This Happy Yellow Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-yellow-aesthetic-1000-x-1500-c2thei09wgxa7376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brighten Up Your Day With This Fun And Cheerful Cute Yellow ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/brighten-up-your-day-with-this-fun-and-cheerful-cute-yellow-aesthetic-xu1hn3svq5pf0r21.jpg' alt='Brighten Up Your Day With This Fun And Cheerful Cute Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/brighten-up-your-day-with-this-fun-and-cheerful-cute-yellow-aesthetic-xu1hn3svq5pf0r21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ Yellow Aesthetic Wallpaper Options For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/10/f5/2b/10f52b1f6b5ac5d4f29b57e07f8831cc.jpg' alt='40+ Yellow Aesthetic Wallpaper Options For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/10/f5/2b/10f52b1f6b5ac5d4f29b57e07f8831cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lockscreen / Wallpaper : Yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/bb/c8/dfbbc83115768c253a7d184199dc0131.jpg' alt='Aesthetic Lockscreen / Wallpaper : Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/bb/c8/dfbbc83115768c253a7d184199dc0131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper aesthetic 2025 yellow">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-yellow-gw5gnzmizeeoq5qd.jpg' alt='Wallpaper aesthetic 2025 yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-yellow-gw5gnzmizeeoq5qd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cloudy-cute-pastel-yellow-aesthetic-n8x7x2zrxpmv4ccz.jpg' alt='Cute Pastel Yellow Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cloudy-cute-pastel-yellow-aesthetic-n8x7x2zrxpmv4ccz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/yellow-aesthetic-iphone-0m2gb3nkn1gvvnqn.jpg' alt='100+] Yellow Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="523">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/yellow-aesthetic-iphone-0m2gb3nkn1gvvnqn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin By Loustique On Wallpapers | Iphone Wallpaper Yellow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4a/b9/6d/4ab96d14245cf06247dfe932503954bb.jpg' alt='Pin By Loustique On Wallpapers | Iphone Wallpaper Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4a/b9/6d/4ab96d14245cf06247dfe932503954bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Yellow Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/collage-cute-yellow-aesthetic-5mdht55r8zqgobay.jpg' alt='Cute Yellow Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/collage-cute-yellow-aesthetic-5mdht55r8zqgobay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

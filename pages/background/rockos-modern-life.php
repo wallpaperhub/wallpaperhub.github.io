@@ -1,0 +1,129 @@
+<title>"Discover Rocko's Modern Life: A Quirky Animated Classic"</title>
+                    <meta name="description" content="Explore the charming chaos of "Rocko's Modern Life" - an iconic animated series that humorously tackles the challenges of modern society. Join Rocko and his friends in their relatable yet surreal adventures. Perfect for fans seeking nostalgia and newcomers alike!">
+                    <meta name="keywords" content="rocko's modern life">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rockos-modern-life">
+                            <span itemprop="name">rocko's modern life</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover Rocko's Modern Life: A Quirky Animated Classic"</h1>
+                <p>"Rocko's Modern Life" is an animated TV show that takes viewers on a quirky journey through the life of Rocko, a wallaby navigating modern society. With its unique humor and relatable scenarios, the series explores themes of adulthood, friendship, and the bizarre reality of everyday life. It’s a nostalgic gem filled with colorful characters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life (TV Series 1993–1996) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMDdhYjBkZjQtZWEwNy00OGQyLWJkNGEtOTI2NDcyZWQ1OTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Rocko's Modern Life (TV Series 1993–1996) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMDdhYjBkZjQtZWEwNy00OGQyLWJkNGEtOTI2NDcyZWQ1OTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix's 'Rocko's Modern Life' special features transgender storyline">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_32/2964601/190808-rockos-modern-life-static-cling-ew-322p.jpg' alt='Netflix's 'Rocko's Modern Life' special features transgender storyline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_32/2964601/190808-rockos-modern-life-static-cling-ew-322p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko Rama | Rocko's Modern Life Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/rockosmodernlife/images/5/5e/Rocko_Wallaby.png/revision/latest?cb=20130920192204' alt='Rocko Rama | Rocko's Modern Life Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocko's Modern Life Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/rockosmodernlife/images/5/5e/Rocko_Wallaby.png/revision/latest?cb=20130920192204' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rocko%27s_Modern_Life.svg/1200px-Rocko%27s_Modern_Life.svg.png' alt='Rocko's Modern Life - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rocko%27s_Modern_Life.svg/1200px-Rocko%27s_Modern_Life.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life Netflix special will feature a trans storyline ...">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18940282/rocko_rachel.png?quality=90&strip=all&crop=12.342877094972,0,75.314245810056,100' alt='Rocko's Modern Life Netflix special will feature a trans storyline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18940282/rocko_rachel.png?quality=90&strip=all&crop=12.342877094972,0,75.314245810056,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life: Static Cling" Is a Stylized Reboot Worth the ...">
+                                <img itemprop="contentUrl url" src='https://thespool.net/wp-content/uploads/2019/08/rockos-modern-live-1.jpg' alt='Rocko's Modern Life: Static Cling" Is a Stylized Reboot Worth the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spool" />
+                                </span>
+                                <a href='https://thespool.net/wp-content/uploads/2019/08/rockos-modern-live-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life (TV Series 1993–1996) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZjBjY2QyNzYtMjVlOC00NWQwLWE2N2EtZDY1OGRmMmI1ZTA4XkEyXkFqcGc@._V1_.jpg' alt='Rocko's Modern Life (TV Series 1993–1996) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZjBjY2QyNzYtMjVlOC00NWQwLWE2N2EtZDY1OGRmMmI1ZTA4XkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life': A Tribute">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/QkEwuq3dE12ivfflO5unMaCvznU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rockos-modern-life_320-536ca744730945e49de820ee8c8b5425.jpg' alt='Rocko's Modern Life': A Tribute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/QkEwuq3dE12ivfflO5unMaCvznU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rockos-modern-life_320-536ca744730945e49de820ee8c8b5425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rocko's Modern Life: ...And Afterlife | Book by Ryan Ferrier, Joe ...">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781608864713/rockos-modern-life-and-afterlife-sc-9781608864713_hr.jpg' alt='Rocko's Modern Life: ...And Afterlife | Book by Ryan Ferrier, Joe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781608864713/rockos-modern-life-and-afterlife-sc-9781608864713_hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Review – Rocko's Modern Life: Static Cling | TL;DR Movie ...">
+                                <img itemprop="contentUrl url" src='https://tldrmoviereviews.com/wp-content/uploads/2019/08/rockos-modern-life-static-cling-1.jpg?w=640' alt='Movie Review – Rocko's Modern Life: Static Cling | TL;DR Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TL;DR Movie Reviews and Analysis" />
+                                </span>
+                                <a href='https://tldrmoviereviews.com/wp-content/uploads/2019/08/rockos-modern-life-static-cling-1.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

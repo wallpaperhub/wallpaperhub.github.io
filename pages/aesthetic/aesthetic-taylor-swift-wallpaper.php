@@ -1,0 +1,129 @@
+<title>Aesthetic Taylor Swift Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning aesthetic Taylor Swift wallpapers to personalize your device. From dreamy designs to vibrant graphics, find the perfect wallpaper that resonates with every Swiftie. Bring her music to life and showcase your fandom with these captivating visuals!">
+                    <meta name="keywords" content="aesthetic taylor swift wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-taylor-swift-wallpaper">
+                            <span itemprop="name">aesthetic taylor swift wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Taylor Swift Wallpapers for Your Device</h1>
+                <p>Aesthetic Taylor Swift wallpapers are perfect for fans looking to elevate their device's look. Featuring stunning visuals inspired by her albums and iconic moments, these wallpapers bring her music to life on your screen. Choose from dreamy pastel hues, bold graphics, or vintage-style designs that reflect Taylor’s unique aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="eras tour taylor swift wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/3f/e0/613fe0f61323c9e947fe3f0d5c49cb01.jpg' alt='eras tour taylor swift wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/3f/e0/613fe0f61323c9e947fe3f0d5c49cb01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=1&sign=c9c6a73498750fd5cc7280f112e48d6b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this Taylor swift phone wallpaper!    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2az9746kjxe61.jpg' alt='I made this Taylor swift phone wallpaper!    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2az9746kjxe61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/80/b4/bb80b47662d6db99f138f876fc349740.jpg' alt='Taylor Swift Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/80/b4/bb80b47662d6db99f138f876fc349740.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Taylor Swift Evermore Aesthetic Collage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-evermore-aesthetic-collage-xm73idf1zc79skyw.jpg' alt='Download Taylor Swift Evermore Aesthetic Collage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-evermore-aesthetic-collage-xm73idf1zc79skyw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1989 Era Aesthetic Collage/Wallpaper    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/znq1q1tzb93b1.jpg' alt='1989 Era Aesthetic Collage/Wallpaper    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3464">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/znq1q1tzb93b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-taylor-swift-rhvnnu2qlvr3r3br.jpg' alt='100+] Aesthetic Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-taylor-swift-rhvnnu2qlvr3r3br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48 Taylor Swift wallpaper ideas | taylor swift wallpaper, taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0e/47/88/0e47885e3e3982ac32307d7922e0e9c6.jpg' alt='48 Taylor Swift wallpaper ideas | taylor swift wallpaper, taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0e/47/88/0e47885e3e3982ac32307d7922e0e9c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70+ Cute Taylor Swift Phone Wallpapers and Backgrounds - Boss Babe ...">
+                                <img itemprop="contentUrl url" src='https://www.bossbabechroniclesblog.com/wp-content/uploads/2024/05/TaylorSwiftWallpaper-576x1024.png' alt='70+ Cute Taylor Swift Phone Wallpapers and Backgrounds - Boss Babe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boss Babe Chronicles" />
+                                </span>
+                                <a href='https://www.bossbabechroniclesblog.com/wp-content/uploads/2024/05/TaylorSwiftWallpaper-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fanmade Phone Wallpaper Update: Los Angeles ⭐️    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fanmade-phone-wallpaper-update-los-angeles-v0-8o9z9i8rgzhb1.jpg?width=640&crop=smart&auto=webp&s=212a678b05704a7b43c665c67bf32a5c3ee06f07' alt='Fanmade Phone Wallpaper Update: Los Angeles ⭐️    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fanmade-phone-wallpaper-update-los-angeles-v0-8o9z9i8rgzhb1.jpg?width=640&crop=smart&auto=webp&s=212a678b05704a7b43c665c67bf32a5c3ee06f07' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

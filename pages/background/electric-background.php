@@ -1,0 +1,129 @@
+<title>Electrifying Backgrounds: Enhance Your Digital Design</title>
+                    <meta name="description" content="Explore the power of electric backgrounds to elevate your digital designs. Perfect for tech themes, these eye-catching elements bring a modern edge, captivating audiences and showcasing innovation. Transform your creations with vibrant electric patterns today!">
+                    <meta name="keywords" content="electric background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/electric-background">
+                            <span itemprop="name">electric background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Electrifying Backgrounds: Enhance Your Digital Design</h1>
+                <p>Electric backgrounds are essential in enhancing digital designs and presentations. They create a modern, high-tech feel, making them perfect for tech companies, gadget launches, or futuristic themes. By incorporating electric elements like neon patterns or circuit motifs, one can captivate audiences and convey innovation effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electricity Background Images – Browse 2,249,244 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/40/84/83/360_F_340848300_QnB5lPGQGaJAxsFVGDJjN9ES6S3E9bpQ.jpg' alt='Electricity Background Images – Browse 2,249,244 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/40/84/83/360_F_340848300_QnB5lPGQGaJAxsFVGDJjN9ES6S3E9bpQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electricity Background Images – Browse 2,249,244 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/60/04/08/360_F_60040805_v44hUlIYziuW0jHXhyFASqI71ONkxGJi.jpg' alt='Electricity Background Images – Browse 2,249,244 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/60/04/08/360_F_60040805_v44hUlIYziuW0jHXhyFASqI71ONkxGJi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Dynamic Electric Background Templates for Impressive Videos ...">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2020/07/28154440/Electric-Background.jpg?w=800&h=400&auto=format' alt='22 Dynamic Electric Background Templates for Impressive Videos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2020/07/28154440/Electric-Background.jpg?w=800&h=400&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electricity Background Images – Browse 2,249,244 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/06/88/12/360_F_706881245_dQFxhVdjSmoNVFluTHiMIWPG2xwf2EVS.jpg' alt='Electricity Background Images – Browse 2,249,244 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/06/88/12/360_F_706881245_dQFxhVdjSmoNVFluTHiMIWPG2xwf2EVS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/023/315/small_2x/ai-generated-gold-flash-of-lightning-on-dark-background-electric-energy-storm-power-thunder-photo.jpg' alt='Electric Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/023/315/small_2x/ai-generated-gold-flash-of-lightning-on-dark-background-electric-energy-storm-power-thunder-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Blue Background Stock Illustrations – 227,575 Electric ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-blue-electric-lightning-seamless-pattern-vector-45607785.jpg' alt='Electric Blue Background Stock Illustrations – 227,575 Electric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-blue-electric-lightning-seamless-pattern-vector-45607785.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/291/382/small/abstact-futuristic-background-with-electric-neon-waves-electro-light-effect-ai-generated-photo.jpg' alt='Electric Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/291/382/small/abstact-futuristic-background-with-electric-neon-waves-electro-light-effect-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vector-banner-illustration-lightning-thunder-abstract-blue-background-with-neon-sparkles-light_528282-302.jpg?w=360' alt='Electric Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vector-banner-illustration-lightning-thunder-abstract-blue-background-with-neon-sparkles-light_528282-302.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Electric Background Stock Illustrations – 226,683 Blue ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/blue-light-energy-abstract-dark-space-electric-impulses-plasma-background-macro-view-neural-network-concept-ai-technology-343121959.jpg' alt='Blue Electric Background Stock Illustrations – 226,683 Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/blue-light-energy-abstract-dark-space-electric-impulses-plasma-background-macro-view-neural-network-concept-ai-technology-343121959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="393,874 Voltage Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/blue-fractal-lightning-background-electrical-260nw-2332106537.jpg' alt='393,874 Voltage Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/blue-fractal-lightning-background-electrical-260nw-2332106537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

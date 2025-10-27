@@ -1,0 +1,129 @@
+<title>Merrick Garland: The Shaping Force of U.S. Law</title>
+                    <meta name="description" content="Explore Merrick Garland's impactful role as the U.S. Attorney General. Discover his contributions to civil rights, criminal justice reform, and more. Stay informed about his initiatives and the future of American law under his leadership.">
+                    <meta name="keywords" content="merrick garland">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/merrick-garland">
+                            <span itemprop="name">merrick garland</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Merrick Garland: The Shaping Force of U.S. Law</h1>
+                <p>Merrick Garland, the 86th Attorney General of the United States, has played a pivotal role in shaping federal legal policies. Appointed by President Biden in March 2021, Garland's tenure focuses on various issues including civil rights, criminal justice reform, and combating domestic extremism. His judicial experience and commitment to justice are highly regarded.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrick Garland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Attorney_General_Merrick_Garland.jpg/1200px-Attorney_General_Merrick_Garland.jpg' alt='Merrick Garland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Attorney_General_Merrick_Garland.jpg/1200px-Attorney_General_Merrick_Garland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrick Garland - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Merrick_Garland.jpg/220px-Merrick_Garland.jpg' alt='Merrick Garland - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Merrick_Garland.jpg/220px-Merrick_Garland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Republicans Finally Face Merrick Garland—and Act as if They ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/60353290153316aa4e73252b/16:9/w_2559,h_1439,c_limit/ADS-MerrickGarland.jpg' alt='The Republicans Finally Face Merrick Garland—and Act as if They ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2559">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/60353290153316aa4e73252b/16:9/w_2559,h_1439,c_limit/ADS-MerrickGarland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrick Garland | Biography, Education, & Attorney General ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/39/227639-050-33AC090F/US-Attorney-General-Merrick-Garland.jpg?w=400&h=300&c=crop' alt='Merrick Garland | Biography, Education, & Attorney General ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/39/227639-050-33AC090F/US-Attorney-General-Merrick-Garland.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrick Garland | Biography, Education, & Attorney General ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/72/219772-050-34D14241/Judge-Merrick-Garland-2016.jpg' alt='Merrick Garland | Biography, Education, & Attorney General ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1099">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/72/219772-050-34D14241/Judge-Merrick-Garland-2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garland exits with his record under scrutiny and the Justice ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/e18c86e/2147483647/strip/true/crop/5101x3401+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F6f%2Ff9e443c4b285bcbce70a33b509c5%2Fee1c95b22aa04c39993e17b7738f1439' alt='Garland exits with his record under scrutiny and the Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/e18c86e/2147483647/strip/true/crop/5101x3401+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F6f%2Ff9e443c4b285bcbce70a33b509c5%2Fee1c95b22aa04c39993e17b7738f1439' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happened With Merrick Garland In 2016 And Why It Matters Now ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2018/06/28/gettyimages-515910592_wide-aa1d86119c13ab81273ade27be73fc701034d015.jpg' alt='What Happened With Merrick Garland In 2016 And Why It Matters Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="2916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2018/06/28/gettyimages-515910592_wide-aa1d86119c13ab81273ade27be73fc701034d015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biden to name Judge Merrick Garland as attorney general | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/b8a94a9/2147483647/strip/false/crop/3000x2000+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F147681771c5e43029bb12b5a2c7fd475%2F3000.jpeg' alt='Biden to name Judge Merrick Garland as attorney general | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/b8a94a9/2147483647/strip/false/crop/3000x2000+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F147681771c5e43029bb12b5a2c7fd475%2F3000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What I remember about Merrick Garland from junior high – Chicago ...">
+                                <img itemprop="contentUrl url" src='https://www.chicagotribune.com/wp-content/uploads/migration/2016/03/25/75OG2PEHKNAFRGJOCSTMIDOIPE.jpg?w=620' alt='What I remember about Merrick Garland from junior high – Chicago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chicago Tribune" />
+                                </span>
+                                <a href='https://www.chicagotribune.com/wp-content/uploads/migration/2016/03/25/75OG2PEHKNAFRGJOCSTMIDOIPE.jpg?w=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merrick Garland Is Confirmed as Attorney General - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/03/10/us/politics/10dc-garland/10dc-garland-mediumSquareAt3X.jpg' alt='Merrick Garland Is Confirmed as Attorney General - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/03/10/us/politics/10dc-garland/10dc-garland-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

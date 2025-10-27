@@ -1,0 +1,129 @@
+<title>Enchanting String Lights: Illuminate Any Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="string lights white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/string-lights-white-background">
+                            <span itemprop="name">string lights white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting String Lights: Illuminate Any Space</h1>
+                <p>String lights on a white background create a charming, ethereal ambiance that brightens any space. Whether draped over furniture or hung above a gathering, these twinkling lights add a touch of magic and warmth. Perfect for parties, weddings, or cozy nights at home, they enhance your décor effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights White Background Images – Browse 99,226 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/22/10/03/360_F_922100346_7n0zmSBWmtn4mIUMiVzHOTYq3bPmtAuJ.jpg' alt='String Lights White Background Images – Browse 99,226 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/22/10/03/360_F_922100346_7n0zmSBWmtn4mIUMiVzHOTYq3bPmtAuJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String lights on white background hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/MB0WDR/plain-white-background-with-copy-space-and-white-string-lights-at-the-top-for-holiday-decorations-MB0WDR.jpg' alt='String lights on white background hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/MB0WDR/plain-white-background-with-copy-space-and-white-string-lights-at-the-top-for-holiday-decorations-MB0WDR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas lights string isolated on white background vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/096/298/non_2x/christmas-lights-string-isolated-on-white-background-free-vector.jpg' alt='Christmas lights string isolated on white background vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/096/298/non_2x/christmas-lights-string-isolated-on-white-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420+ String Of Christmas Lights White Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1352524630/vector/christmas-lights-bulbs-isolated-on-white.jpg?s=612x612&w=0&k=20&c=fN4iLnb6OA2DxedIcQa3c3ek_e4i23Ka5G1OQfVmVaU=' alt='420+ String Of Christmas Lights White Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1352524630/vector/christmas-lights-bulbs-isolated-on-white.jpg?s=612x612&w=0&k=20&c=fN4iLnb6OA2DxedIcQa3c3ek_e4i23Ka5G1OQfVmVaU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights On White Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/lights-bulbs-isolated-on-white-260nw-2430928765.jpg' alt='String Lights On White Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/lights-bulbs-isolated-on-white-260nw-2430928765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Images – Browse 545,581 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/02/64/56/360_F_102645653_5NqNGfZaImMBLB4GhuhSPrt4KUx4ip5d.jpg' alt='String Lights Images – Browse 545,581 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/02/64/56/360_F_102645653_5NqNGfZaImMBLB4GhuhSPrt4KUx4ip5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420+ String Of Christmas Lights White Background Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/890224172/vector/garland-glowing-seamless-pattern.jpg?s=612x612&w=0&k=20&c=scp__cPUMvdRw2G_jkxd6BGWLvwuAvGx85bgH8NLTAs=' alt='420+ String Of Christmas Lights White Background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/890224172/vector/garland-glowing-seamless-pattern.jpg?s=612x612&w=0&k=20&c=scp__cPUMvdRw2G_jkxd6BGWLvwuAvGx85bgH8NLTAs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82,673 White String Lights Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/string-lights-hanging-light-bulbs-260nw-303305975.jpg' alt='82,673 White String Lights Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/string-lights-hanging-light-bulbs-260nw-303305975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas lights string isolated on white background vector ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/469/274/non_2x/christmas-lights-string-isolated-on-white-background-free-vector.jpg' alt='Christmas lights string isolated on white background vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/469/274/non_2x/christmas-lights-string-isolated-on-white-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights On White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/light-bulbs-isolated_23-2151045849.jpg' alt='String Lights On White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/light-bulbs-isolated_23-2151045849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Evolution of Social Work: A Historical Overview</title>
+                    <meta name="description" content="Discover the rich history of social work, from its charitable roots to its evolution into a vital profession advocating for social justice and community welfare. Learn how influential figures have shaped its mission over the years.">
+                    <meta name="keywords" content="history of social work">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-social-work">
+                            <span itemprop="name">history of social work</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Evolution of Social Work: A Historical Overview</h1>
+                <p>The history of social work dates back to the late 19th century, evolving from charitable efforts and religious missions to a profession focused on systemic social change. Early pioneers like Jane Addams emphasized social justice and welfare. Over the decades, social work has adapted to meet the needs of marginalized communities, shaping public policy and providing essential services.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Modern History of Social Workers | Infographic | AU Online">
+                                <img itemprop="contentUrl url" src='https://online.aurora.edu/wp-content/uploads/History-Social-Work-infographic-AU-e1542736794589.png' alt='A Modern History of Social Workers | Infographic | AU Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="3812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aurora Online - Aurora University" />
+                                </span>
+                                <a href='https://online.aurora.edu/wp-content/uploads/History-Social-Work-infographic-AU-e1542736794589.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Work | Regis College">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/utep-uploads/wp-content/uploads/online-regis-college/2020/05/25063055/history-of-social-work.png' alt='History of Social Work | Regis College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="10562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regis College Online" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/utep-uploads/wp-content/uploads/online-regis-college/2020/05/25063055/history-of-social-work.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Work History">
+                                <img itemprop="contentUrl url" src='https://www.socialworkers.org/portals/0/Images/_News/Facts/facts-history-1915-350px.jpg' alt='Social Work History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Association of Social Workers" />
+                                </span>
+                                <a href='https://www.socialworkers.org/portals/0/Images/_News/Facts/facts-history-1915-350px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the History of the Social Work Profession? - Social Work ...">
+                                <img itemprop="contentUrl url" src='https://www.socialworkdegreeguide.com/wp-content/uploads/2014/03/history-of-social-work-profession-300x217.jpg' alt='What is the History of the Social Work Profession? - Social Work ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Work Degree Guide" />
+                                </span>
+                                <a href='https://www.socialworkdegreeguide.com/wp-content/uploads/2014/03/history-of-social-work-profession-300x217.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution of Social Work: Historical Milestones | Simmons Online">
+                                <img itemprop="contentUrl url" src='https://online.simmons.edu/wp-content/uploads/sites/48/2021/03/Simmons-College-History-6.png' alt='The Evolution of Social Work: Historical Milestones | Simmons Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simmons University Online Programs" />
+                                </span>
+                                <a href='https://online.simmons.edu/wp-content/uploads/sites/48/2021/03/Simmons-College-History-6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Work | Regis College">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/utep-uploads/wp-content/uploads/online-regis-college/2020/05/03114142/history-of-social-work-preview.jpg' alt='History of Social Work | Regis College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Regis College Online" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/utep-uploads/wp-content/uploads/online-regis-college/2020/05/03114142/history-of-social-work-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Work - Social Work Degree Center">
+                                <img itemprop="contentUrl url" src='https://www.socialworkdegreecenter.com/wp-content/uploads/2014/10/History-of-Social-WorkersThumb-300x300.jpg' alt='History of Social Work - Social Work Degree Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Work Degree Center" />
+                                </span>
+                                <a href='https://www.socialworkdegreecenter.com/wp-content/uploads/2014/10/History-of-Social-WorkersThumb-300x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Social Work, a Brief History">
+                                <img itemprop="contentUrl url" src='https://www.totalhealthguidance.com/wp-content/uploads/2022/03/NATIONAL-SOCIAL-WORK-MONTH-HARRY-R-MAR-2022-IMAGE.png' alt='Social Work, a Brief History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Health Guidance" />
+                                </span>
+                                <a href='https://www.totalhealthguidance.com/wp-content/uploads/2022/03/NATIONAL-SOCIAL-WORK-MONTH-HARRY-R-MAR-2022-IMAGE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution of Social Work: Historical Milestones | Simmons Online">
+                                <img itemprop="contentUrl url" src='https://online.simmons.edu/wp-content/uploads/sites/48/2021/03/Civil-War-Era-2.jpg' alt='The Evolution of Social Work: Historical Milestones | Simmons Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simmons University Online Programs" />
+                                </span>
+                                <a href='https://online.simmons.edu/wp-content/uploads/sites/48/2021/03/Civil-War-Era-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Social Work - Social Work Degree Center">
+                                <img itemprop="contentUrl url" src='https://www.socialworkdegreecenter.com/wp-content/uploads/2014/10/History-of-Social-Workers.jpg' alt='History of Social Work - Social Work Degree Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="4258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Social Work Degree Center" />
+                                </span>
+                                <a href='https://www.socialworkdegreecenter.com/wp-content/uploads/2014/10/History-of-Social-Workers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

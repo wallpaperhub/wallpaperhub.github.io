@@ -1,0 +1,129 @@
+<title>Discover the Rising Star: Ken Carson's Unique Sound</title>
+                    <meta name="description" content="Explore the world of Ken Carson, the breakout hip-hop artist known for his catchy melodies and innovative style. Dive into his music, collaborations, and rise to fame, showcasing the talent that is captivating listeners everywhere. Stay tuned for more on his journey and upcoming releases!">
+                    <meta name="keywords" content="ken carson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ken-carson">
+                            <span itemprop="name">ken carson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rising Star: Ken Carson's Unique Sound</h1>
+                <p>Ken Carson is an emerging artist known for his unique blend of melodic hip-hop and innovative production. Rising to fame through viral hits and collaborations, he captivates audiences with his rhythmic flows and engaging lyrics. Carson has solidified his position in the music industry, appealing to a diverse fan base.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000517495ccca370d8bd50e84c222bc' alt='Ken Carson Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000517495ccca370d8bd50e84c222bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Ken Carson">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=340016801888789' alt='Profile for Ken Carson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1702">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=340016801888789' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/vFYGeLht-OM6QTHQ-kH9550gYVQi8jZAMQUsquOh-IKCfDk7y-Dvhe5OWLvKWdaMUmSl9T88=s900-c-k-c0x00ffffff-no-rj' alt='Ken Carson - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/vFYGeLht-OM6QTHQ-kH9550gYVQi8jZAMQUsquOh-IKCfDk7y-Dvhe5OWLvKWdaMUmSl9T88=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvin | A PUNK ROCK MESSIANIC VISION FOR THE FUTURE | Ken Carson ...">
+                                <img itemprop="contentUrl url" src='https://marvin.la/wp-content/uploads/2023/05/Ken_Carson_MARVIN_2_15_231819-667x1000.jpeg' alt='Marvin | A PUNK ROCK MESSIANIC VISION FOR THE FUTURE | Ken Carson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marvin magazine" />
+                                </span>
+                                <a href='https://marvin.la/wp-content/uploads/2023/05/Ken_Carson_MARVIN_2_15_231819-667x1000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson - First Avenue">
+                                <img itemprop="contentUrl url" src='https://first-avenue.com/wp-content/uploads/2022/05/kencarson-IMG_6400-1080.jpg' alt='Ken Carson - First Avenue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Avenue" />
+                                </span>
+                                <a href='https://first-avenue.com/wp-content/uploads/2022/05/kencarson-IMG_6400-1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson | iHeart">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/catalog/artist/32262693?ops=fit(720%2C720)' alt='Ken Carson | iHeart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/catalog/artist/32262693?ops=fit(720%2C720)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson — X | In Review Online">
+                                <img itemprop="contentUrl url" src='https://inreviewonline.com/wp-content/uploads/2022/08/kencarson-1024x579.jpg' alt='Ken Carson — X | In Review Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="In Review Online" />
+                                </span>
+                                <a href='https://inreviewonline.com/wp-content/uploads/2022/08/kencarson-1024x579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the Road With Ken Carson | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/6724fcb7003c7899724109e0/master/w_1600%2Cc_limit/P4K1024-KenCarson-Zangas-008.jpg' alt='On the Road With Ken Carson | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/6724fcb7003c7899724109e0/master/w_1600%2Cc_limit/P4K1024-KenCarson-Zangas-008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="is ken carson a real person or is he just a character played by ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/is-ken-carson-a-real-person-or-is-he-just-a-character-v0-e1sj96l9tm1e1.jpg?width=779&format=pjpg&auto=webp&s=ec0b7aa8887c0ca669bbeaa1716099f9611c0f8c' alt='is ken carson a real person or is he just a character played by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="779">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/is-ken-carson-a-real-person-or-is-he-just-a-character-v0-e1sj96l9tm1e1.jpg?width=779&format=pjpg&auto=webp&s=ec0b7aa8887c0ca669bbeaa1716099f9611c0f8c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ken Carson Announces 2024 World Tour | Pitchfork">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/6622b7894682cb54c157c9c2/2:3/w_3413,h_5120,c_limit/Ken-Carson.jpg' alt='Ken Carson Announces 2024 World Tour | Pitchfork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3413">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/6622b7894682cb54c157c9c2/2:3/w_3413,h_5120,c_limit/Ken-Carson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Textured Brick Peel and Stick Wallpaper for Easy Home Makeover</title>
+                    <meta name="description" content="Elevate your decor with our textured brick peel and stick wallpaper. Quick to install and easy to remove, it's perfect for a stylish and temporary upgrade to any room. Achieve the look of classic brick without the hassle—ideal for renters and DIY projects!">
+                    <meta name="keywords" content="textured brick peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/textured-brick-peel-and-stick-wallpaper">
+                            <span itemprop="name">textured brick peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Textured Brick Peel and Stick Wallpaper for Easy Home Makeover</h1>
+                <p>Transform your space effortlessly with textured brick peel and stick wallpaper. Ideal for renters and DIY enthusiasts, this versatile wallpaper adds depth and charm to any room. With easy installation and removal, you can create a cozy, rustic feel without the commitment of traditional wallpaper. Perfect for accent walls, bedrooms, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana 17.3"197" Brick Peel and Stick Wallpaper - Grey and Brown Vintage  Faux Textured Removable DIY Wallpaper for Room Accent Walls - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91cU5k1jYdL.jpg' alt='Guvana 17.3"197" Brick Peel and Stick Wallpaper - Grey and Brown Vintage  Faux Textured Removable DIY Wallpaper for Room Accent Walls - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91cU5k1jYdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-living-room.jpg?v=1724537788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_1080xN.3365555145_kzf7.jpg' alt='Red Brick Texture Peel and Stick Removable Wallpaper 8331 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21169547/r/il/5e22b4/3365555145/il_1080xN.3365555145_kzf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Textured Brick Wallpaper | Wall Mural, Peel and Stick Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19118106/r/il/a2f1e6/3693396543/il_fullxfull.3693396543_guul.jpg' alt='Natural Textured Brick Wallpaper | Wall Mural, Peel and Stick Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19118106/r/il/a2f1e6/3693396543/il_fullxfull.3693396543_guul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' alt='STICKEEP Red Brick Wallpaper Peel and Stick Vinyl Wallpaper Faux 3D  Textured Brick Contact Paper Peel and Stick Wallpaper for Bedroom Accent  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813zyeWhjAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Wallpaper Red Brick Peel and Stick Wallpaper17.3" x 197"Brick  Textured Faux Brick Backsplash Removable Brick Contact Paper Faux 3D Brick  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/918KLln-iUL.jpg' alt='Brick Wallpaper Red Brick Peel and Stick Wallpaper17.3" x 197"Brick  Textured Faux Brick Backsplash Removable Brick Contact Paper Faux 3D Brick  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/918KLln-iUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75-sq ft Red Vinyl Brick Self-adhesive Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/c370ed9b-d431-449c-b3d4-62f96bbe010b/15956611.jpg?size=pdhz' alt='NextWall 30.75-sq ft Red Vinyl Brick Self-adhesive Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/c370ed9b-d431-449c-b3d4-62f96bbe010b/15956611.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeet Textured 3D Brick Wallpaper Peel and Stick Wallpaper 17.7"×197" Self  Adhesive Wallpaper Faux Brick Wallpaper Removable Wall Paper Home Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/712aFAn17JL._AC_UF894,1000_QL80_.jpg' alt='Timeet Textured 3D Brick Wallpaper Peel and Stick Wallpaper 17.7"×197" Self  Adhesive Wallpaper Faux Brick Wallpaper Removable Wall Paper Home Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/712aFAn17JL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brick Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-kitchen_1800x1800.jpg?v=1724537788' alt='Brick Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/BR10523-black-textured-brick-peel-stick-wallpaper-kitchen_1800x1800.jpg?v=1724537788' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Peel and Stick Wallpaper - Removable and Self-Adhesive">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/stone-peel-and-stick-wallpaper-240923.png?v=1695277731' alt='Stone Peel and Stick Wallpaper - Removable and Self-Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/stone-peel-and-stick-wallpaper-240923.png?v=1695277731' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

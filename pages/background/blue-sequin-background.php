@@ -1,0 +1,129 @@
+<title>Stunning Blue Sequin Background Ideas for Events</title>
+                    <meta name="description" content="Add sparkle to your occasion with our blue sequin background! Perfect for photos or decor, this glittering backdrop enhances any event, ensuring a dazzling atmosphere. Explore creative ideas and elevate your celebrations effortlessly with this vibrant and eye-catching design!">
+                    <meta name="keywords" content="blue sequin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-sequin-background">
+                            <span itemprop="name">blue sequin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Sequin Background Ideas for Events</h1>
+                <p>Transform your space with a stunning blue sequin background! Ideal for events, photo booths, or celebrations, this shimmering backdrop captures light beautifully, adding a touch of glamour to any setting. Its vibrant blue shade enhances themes, making your decor pop. Perfect for parties, weddings, or creative projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New!! Sapphire Blue Sequin Fabric Photography Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5944851/r/il/96d31a/2946044228/il_570xN.2946044228_m2or.jpg' alt='New!! Sapphire Blue Sequin Fabric Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5944851/r/il/96d31a/2946044228/il_570xN.2946044228_m2or.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65,799 Blue Sequin Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/bright-shiny-blue-sequins-paillettes-600nw-2215973005.jpg' alt='65,799 Blue Sequin Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/bright-shiny-blue-sequins-paillettes-600nw-2215973005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitz Sequin 10ft H x 52" W Drape/Backdrop panel - Royal Blue">
+                                <img itemprop="contentUrl url" src='https://www.cvlinens.com/cdn/shop/products/RoyalBlue-GlitzDrape-CU_dec94736-d544-40c3-8eb9-b4eba82cb9c4.jpg?v=1587677324' alt='Glitz Sequin 10ft H x 52" W Drape/Backdrop panel - Royal Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CV Linens" />
+                                </span>
+                                <a href='https://www.cvlinens.com/cdn/shop/products/RoyalBlue-GlitzDrape-CU_dec94736-d544-40c3-8eb9-b4eba82cb9c4.jpg?v=1587677324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,300+ Blue Sequin Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1049836882/photo/beautiful-blue-glitter-sparkling-sequined-curtain-background.jpg?s=612x612&w=0&k=20&c=gz6NR02Czr0oa3x6eN0VubAKCv75LnQQLVmPgmUDu74=' alt='13,300+ Blue Sequin Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1049836882/photo/beautiful-blue-glitter-sparkling-sequined-curtain-background.jpg?s=612x612&w=0&k=20&c=gz6NR02Czr0oa3x6eN0VubAKCv75LnQQLVmPgmUDu74=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue sequin background. Blue sparkle background. Holiday abstract ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/08/78/92/1000_F_308789200_0x1kC8tpUbna1UpFBl57Ichr6FyrN5eE.jpg' alt='Blue sequin background. Blue sparkle background. Holiday abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/08/78/92/1000_F_308789200_0x1kC8tpUbna1UpFBl57Ichr6FyrN5eE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Background Images – Browse 1,972,494 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/95/98/60/360_F_95986098_rr9IRglVZfB8YBC3mPvB1e7u8AdLCbeu.jpg' alt='Blue Glitter Background Images – Browse 1,972,494 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/95/98/60/360_F_95986098_rr9IRglVZfB8YBC3mPvB1e7u8AdLCbeu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Close up of blue sequin background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/close-up-blue-sequin-background_53876-63482.jpg' alt='Free Photo | Close up of blue sequin background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/close-up-blue-sequin-background_53876-63482.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShinyBeauty Sequin Backdrop Photo Booth Backdrop 6FTx6FT Royal Blue Wedding  Shimmer Fabric Background for Baby Shower Sparkle Sequin Wall Backdrop for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91tqmRvkZYL.jpg' alt='ShinyBeauty Sequin Backdrop Photo Booth Backdrop 6FTx6FT Royal Blue Wedding  Shimmer Fabric Background for Baby Shower Sparkle Sequin Wall Backdrop for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91tqmRvkZYL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background with Blue Sequin Texture. Glitter Background for ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-blue-sequin-texture-glitter-holiday-party-banner-abstract-poster-blinking-lights-fabric-sequins-bright-173127862.jpg' alt='Background with Blue Sequin Texture. Glitter Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-blue-sequin-texture-glitter-holiday-party-banner-abstract-poster-blinking-lights-fabric-sequins-bright-173127862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Glitter Background Images – Browse 1,972,494 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/08/59/24/360_F_408592489_Tf0uQnIzAyce7yLJeJhcX7IuZ6mxIyzb.jpg' alt='Blue Glitter Background Images – Browse 1,972,494 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="633">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/08/59/24/360_F_408592489_Tf0uQnIzAyce7yLJeJhcX7IuZ6mxIyzb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

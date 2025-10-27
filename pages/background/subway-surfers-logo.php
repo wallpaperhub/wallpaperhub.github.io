@@ -1,0 +1,129 @@
+<title>Subway Surfers Logo: Vibrant & Iconic Design</title>
+                    <meta name="description" content="Discover the Subway Surfers logo, a symbol of adventure and excitement. With its bold colors and playful design, it perfectly represents the thrilling gameplay. Learn more about its significance and how it enhances the overall gaming experience. Ideal for casual gamers and fans alike!">
+                    <meta name="keywords" content="subway surfers logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/subway-surfers-logo">
+                            <span itemprop="name">subway surfers logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Subway Surfers Logo: Vibrant & Iconic Design</h1>
+                <p>The Subway Surfers logo is vibrant and dynamic, embodying the spirit of the popular endless runner game. Featuring bold colors and playful typography, it captures the essence of urban adventure and continuous motion. The logo reflects the game's fun elements, enticing players to join the thrilling chase across colorful cityscapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/b/b9/Subway_Surfers_app_logo.png' alt='Subway Surfers - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/b/b9/Subway_Surfers_app_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Logo - Subway Surfers Game Logo Design - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180611/ero/aa8nk00le.webp' alt='Subway Surfers Logo - Subway Surfers Game Logo Design - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180611/ero/aa8nk00le.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Logo | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5304864126.4823/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Subway Surfers Logo | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5304864126.4823/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/5/5e/Subway-surfers-Logo.png/revision/latest?cb=20130502121844' alt='Subway Surfers | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/5/5e/Subway-surfers-Logo.png/revision/latest?cb=20130502121844' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Logo - Subway Surfers Game Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180528/kr/avpef5405.webp' alt='Subway Surfers Logo - Subway Surfers Game Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180528/kr/avpef5405.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers Vinyl Records & Discography - Vinyl Me, Please">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Subway-Surfers-hero-banner-241212-1454.webp' alt='Subway Surfers Vinyl Records & Discography - Vinyl Me, Please'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vinyl Me, Please" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Subway-Surfers-hero-banner-241212-1454.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers | Logopedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/logopedia/images/c/cc/SubwaySurfIcon05.jpg/revision/latest/scale-to-width-down/250?cb=20250207140706' alt='Subway Surfers | Logopedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logopedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/logopedia/images/c/cc/SubwaySurfIcon05.jpg/revision/latest/scale-to-width-down/250?cb=20250207140706' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Subway Surfers Logo" Sticker for Sale by NEAbstracts">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5303207571.4386/st,small,507x507-pad,600x600,f8f8f8.u2.jpg' alt='"Subway Surfers Logo" Sticker for Sale by NEAbstracts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5303207571.4386/st,small,507x507-pad,600x600,f8f8f8.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="App Icon Coloring Pages - Super Fun Coloring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/71/c7/a471c7b4801a99fe8a8d406d0bec3815.jpg' alt='App Icon Coloring Pages - Super Fun Coloring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/71/c7/a471c7b4801a99fe8a8d406d0bec3815.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subway Surfers - Subway Surfers Game Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180327/dbe/avo7aeej1.webp' alt='Subway Surfers - Subway Surfers Game Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180327/dbe/avo7aeej1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

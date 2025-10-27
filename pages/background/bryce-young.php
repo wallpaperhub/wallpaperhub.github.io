@@ -1,0 +1,129 @@
+<title>Bryce Young: Rising Star QB Profile</title>
+                    <meta name="description" content="Discover Bryce Young, the dynamic quarterback from Alabama. Explore his career highlights, playing style, and potential impact on the NFL. Follow his journey as he emerges as one of football's brightest stars. Stay updated on his performance and future prospects in the league.">
+                    <meta name="keywords" content="bryce young">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bryce-young">
+                            <span itemprop="name">bryce young</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bryce Young: Rising Star QB Profile</h1>
+                <p>Bryce Young is a talented quarterback known for his incredible skill and leadership on the field. As a standout player from Alabama, he showcased his ability to read defenses and make quick decisions, earning accolades and capturing national attention. His promise in football makes him a future star poised for success in the NFL.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young - Carolina Panthers Quarterback - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4685720.png' alt='Bryce Young - Carolina Panthers Quarterback - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4685720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Bryce Young, the No. 1 Draft Pick in the 2023 NFL Draft">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/6-st46k2EYC4L4sqJAe1NZ9rIb8=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bryce-young-6-321104a67d8447a9a6846aa43b80ec6b.jpg' alt='All About Bryce Young, the No. 1 Draft Pick in the 2023 NFL Draft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/6-st46k2EYC4L4sqJAe1NZ9rIb8=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bryce-young-6-321104a67d8447a9a6846aa43b80ec6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young | American Football Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/collegefootballmania/images/d/db/Bryce_Young.jpg/revision/latest/scale-to-width-down/320?cb=20211009175726' alt='Bryce Young | American Football Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Football Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/collegefootballmania/images/d/db/Bryce_Young.jpg/revision/latest/scale-to-width-down/320?cb=20211009175726' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/3a/Bryce_Young_at_W.P.T._Hill_Field_-_2024_-_02_%28cropped%29.jpg' alt='Bryce Young - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1363">
+                                <meta itemprop="height" content="1699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/3a/Bryce_Young_at_W.P.T._Hill_Field_-_2024_-_02_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Bryce Young, the No. 1 Draft Pick in the 2023 NFL Draft">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/tqYH4NLUbjg9tJck1bjZWgJLuSc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/bryce-young-10-623df72eafbf47249ae29036fcc22422.jpg' alt='All About Bryce Young, the No. 1 Draft Pick in the 2023 NFL Draft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/tqYH4NLUbjg9tJck1bjZWgJLuSc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/bryce-young-10-623df72eafbf47249ae29036fcc22422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carolina's Strategy for Success as They Build Around Bryce Young ...">
+                                <img itemprop="contentUrl url" src='https://athlonsports.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjExOTEyNjc4Njc3OTQ4Mzky/carolina-panthers-quarterback-bryce-young-9.jpg' alt='Carolina's Strategy for Success as They Build Around Bryce Young ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Athlon Sports" />
+                                </span>
+                                <a href='https://athlonsports.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjExOTEyNjc4Njc3OTQ4Mzky/carolina-panthers-quarterback-bryce-young-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young outlook: Can rookie become Panthers' next franchise QB ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/Wl5tiOd4_lPAtgHGnYCecHysFBw=/0x0:3293x2196/1200x800/filters:focal(1384x835:1910x1361)/cdn.vox-cdn.com/uploads/chorus_image/image/72787723/1739238847.0.jpg' alt='Bryce Young outlook: Can rookie become Panthers' next franchise QB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat Scratch Reader" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/Wl5tiOd4_lPAtgHGnYCecHysFBw=/0x0:3293x2196/1200x800/filters:focal(1384x835:1910x1361)/cdn.vox-cdn.com/uploads/chorus_image/image/72787723/1739238847.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young - Football - Alabama Athletics">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Frolltide.com%2Fimages%2F2022%2F12%2F2%2F112622_MFB_YoungBr_Auburn_RC1753.JPG&height=300&type=webp' alt='Bryce Young - Football - Alabama Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alabama Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Frolltide.com%2Fimages%2F2022%2F12%2F2%2F112622_MFB_YoungBr_Auburn_RC1753.JPG&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bryce Young: Alabama's star quarterback announces intention to ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230103101221-01-bryce-young-draft.jpg?c=original' alt='Bryce Young: Alabama's star quarterback announces intention to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230103101221-01-bryce-young-draft.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panthers QB Bryce Young will start against Broncos after Andy ...">
+                                <img itemprop="contentUrl url" src='https://www.kxan.com/wp-content/uploads/sites/40/2024/10/67195d2b35c487.16138568.jpeg?w=2560&h=1440&crop=1' alt='Panthers QB Bryce Young will start against Broncos after Andy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KXAN" />
+                                </span>
+                                <a href='https://www.kxan.com/wp-content/uploads/sites/40/2024/10/67195d2b35c487.16138568.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

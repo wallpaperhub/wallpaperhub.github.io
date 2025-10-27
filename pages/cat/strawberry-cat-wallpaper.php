@@ -1,0 +1,129 @@
+<title>Charming Strawberry Cat Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest strawberry cat wallpapers to brighten your mobile screen! Perfect for animal lovers, our vibrant designs bring joy and personality to your device. Download now to enjoy a playful blend of adorable cats and fresh strawberries!">
+                    <meta name="keywords" content="strawberry cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/strawberry-cat-wallpaper">
+                            <span itemprop="name">strawberry cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Strawberry Cat Wallpapers for Your Device</h1>
+                <p>Transform your device with our delightful strawberry cat wallpaper! Perfect for cat lovers and those who adore vibrant designs, this collection features charming feline illustrations surrounded by juicy strawberries. Ideal for adding a pop of color and whimsy to your screens, it's a must-have for any pet enthusiast!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry cat     ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/9e/2c/ef9e2cee9c02dae97d210a65ded65922.jpg' alt='Strawberry cat     ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/9e/2c/ef9e2cee9c02dae97d210a65ded65922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Printable Strawberry Cats Clipart / Commercial Use ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24366546/r/il/c7096e/6018557047/il_fullxfull.6018557047_s50c.jpg' alt='Cute Kawaii Printable Strawberry Cats Clipart / Commercial Use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24366546/r/il/c7096e/6018557047/il_fullxfull.6018557047_s50c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Strawberry Cat Digital Phone Wallpaper! - Bryson ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/a208fe98-a38a-471a-95d7-7ce070e60f74_strawberry.png' alt='FREE Strawberry Cat Digital Phone Wallpaper! - Bryson ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/a208fe98-a38a-471a-95d7-7ce070e60f74_strawberry.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry pusheen wallpaper by Mavis_gloom - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/b9/5e/cab95ebbf87f57710fa6f739948c941a.jpg' alt='Strawberry pusheen wallpaper by Mavis_gloom - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/b9/5e/cab95ebbf87f57710fa6f739948c941a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/14/24/151424be332f3b696aac4d53564ebbe8.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/14/24/151424be332f3b696aac4d53564ebbe8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Cat Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17013713/p/f/m/xCEJiO9tHQ8q-yJBJf9-wHjeTrLJFqiIeOD_NMhxDB7_KR8vdC8VARg/strawpurry%20cats%20minty%20green.jpg' alt='Strawberry Cat Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17013713/p/f/m/xCEJiO9tHQ8q-yJBJf9-wHjeTrLJFqiIeOD_NMhxDB7_KR8vdC8VARg/strawpurry%20cats%20minty%20green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mofusand wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/da/cf/b4dacf892a6ee51104b13bb1ea4efe4e.jpg' alt='Mofusand wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/da/cf/b4dacf892a6ee51104b13bb1ea4efe4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Cat Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7474560.jpg' alt='Strawberry Cat Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7474560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Korilakkuma with cat and strawberries">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/33/08/e9/3308e91398cea2b54e5aad6b77d62b0c.jpg' alt='Korilakkuma with cat and strawberries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/33/08/e9/3308e91398cea2b54e5aad6b77d62b0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern hand drawn cute cat and Strawberry">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-hand-drawn-cute-cat-strawberry_126000-411.jpg' alt='Premium Vector | Seamless pattern hand drawn cute cat and Strawberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-hand-drawn-cute-cat-strawberry_126000-411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

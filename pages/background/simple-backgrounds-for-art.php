@@ -1,0 +1,129 @@
+<title>Enhance Your Art with Simple Backgrounds</title>
+                    <meta name="description" content="Discover how simple backgrounds can elevate your artwork. Explore tips on color selection and texture options to create a harmonious balance between your subject and background. Perfect for both traditional and digital art, these strategies will enhance clarity and focus, making your art truly stand out.">
+                    <meta name="keywords" content="simple backgrounds for art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/simple-backgrounds-for-art">
+                            <span itemprop="name">simple backgrounds for art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Art with Simple Backgrounds</h1>
+                <p>Simple backgrounds can elevate your art by enhancing focus on the subject. Choose neutral tones like beige or gray, or soft gradients to create depth without distraction. In digital art, utilizing solid color layers or subtle textures helps maintain clarity. Experiment with light washes or minimal patterns to complement your composition effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a Simple Fantasy Background by vampbyte - Make better art ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/0d76/205175/9da90e552501789985ff0e4b2a121716' alt='Creating a Simple Fantasy Background by vampbyte - Make better art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/0d76/205175/9da90e552501789985ff0e4b2a121716' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Simple Background by wysoka on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/7c/85/a57c85c40f374f9322bd37aff2bbc5dd.jpg' alt='How To Make Simple Background by wysoka on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/7c/85/a57c85c40f374f9322bd37aff2bbc5dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a Simple Fantasy Background by vampbyte - Make better art ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/753f/205183/2ea323c885b00fd97f9263c7d2d9c668' alt='Creating a Simple Fantasy Background by vampbyte - Make better art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3703">
+                                <meta itemprop="height" content="2226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/753f/205183/2ea323c885b00fd97f9263c7d2d9c668' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing-tutorial | DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5959274-86c8-4aff-938a-130b9ed1912e/dcpmsce-e5e69f1e-0751-4a59-85de-e1b95b23b484.png/v1/fill/w_513,h_350/bg_examples_by_alriandi_dcpmsce-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2Q1OTU5Mjc0LTg2YzgtNGFmZi05MzhhLTEzMGI5ZWQxOTEyZVwvZGNwbXNjZS1lNWU2OWYxZS0wNzUxLTRhNTktODVkZS1lMWI5NWIyM2I0ODQucG5nIiwid2lkdGgiOiI8PTE0NjUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TEoBJfLv1CSHxHOSynPopspctKS-eJUHXOcf0yEe6PU' alt='Drawing-tutorial | DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Drawing-tutorial | DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5959274-86c8-4aff-938a-130b9ed1912e/dcpmsce-e5e69f1e-0751-4a59-85de-e1b95b23b484.png/v1/fill/w_513,h_350/bg_examples_by_alriandi_dcpmsce-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2Q1OTU5Mjc0LTg2YzgtNGFmZi05MzhhLTEzMGI5ZWQxOTEyZVwvZGNwbXNjZS1lNWU2OWYxZS0wNzUxLTRhNTktODVkZS1lMWI5NWIyM2I0ODQucG5nIiwid2lkdGgiOiI8PTE0NjUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TEoBJfLv1CSHxHOSynPopspctKS-eJUHXOcf0yEe6PU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY - Backgrounds ideas for artwork /zentangle">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lVy1CMAkSwY/maxresdefault.jpg' alt='DIY - Backgrounds ideas for artwork /zentangle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lVy1CMAkSwY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACKGROUNDS THAT MAKE YOUR CHARACTER STAND OUT by Cyfuko - Make ...">
+                                <img itemprop="contentUrl url" src='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/516e/1969405/76c57341278abf16d293b5d59f9e560a' alt='BACKGROUNDS THAT MAKE YOUR CHARACTER STAND OUT by Cyfuko - Make ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3624">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clip Studio TIPS" />
+                                </span>
+                                <a href='https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/516e/1969405/76c57341278abf16d293b5d59f9e560a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blush-colored — How does one draw backgrounds as pretty as you????...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/33769a77270a87a05d96f97ce916cfb1/d1fafb95162698b3-71/s1280x1920/12cb813a3366dfd938c8bc30fd66baddaf26d57e.png' alt='blush-colored — How does one draw backgrounds as pretty as you????...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="881">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@rosefinnapple on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/33769a77270a87a05d96f97ce916cfb1/d1fafb95162698b3-71/s1280x1920/12cb813a3366dfd938c8bc30fd66baddaf26d57e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Art Simple Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-circle-art-simple-background-picture-image_1438038.jpg' alt='Circle Art Simple Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-circle-art-simple-background-picture-image_1438038.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QUICK and EASY Background Tutorial! Digital Art Background Ideas">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hXLJAWri7Mw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtXXubnnYK1akKDbYIL8ITpqjDPA' alt='QUICK and EASY Background Tutorial! Digital Art Background Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hXLJAWri7Mw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtXXubnnYK1akKDbYIL8ITpqjDPA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Creative Background Drawing Ideas for a Wow-Worthy Artwork">
+                                <img itemprop="contentUrl url" src='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/color.jpg' alt='25 Creative Background Drawing Ideas for a Wow-Worthy Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Prompts" />
+                                </span>
+                                <a href='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

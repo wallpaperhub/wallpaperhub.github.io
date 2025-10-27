@@ -1,0 +1,129 @@
+<title>Understanding Chase: A Brief Background</title>
+                    <meta name="description" content="Discover the rich history of Chase, part of JPMorgan Chase & Co. Learn about its evolution, commitment to innovation, and impact on the banking industry. Explore how Chase has become a leading financial institution globally, providing top-notch services and community support.">
+                    <meta name="keywords" content="chase background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chase-background">
+                            <span itemprop="name">chase background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Chase: A Brief Background</h1>
+                <p>Chase background refers to the history and evolution of the Chase brand, part of JPMorgan Chase & Co. Known for its banking services, it has grown from a local institution into a global financial powerhouse. Understanding its background offers insights into its commitment to innovation, customer service, and community involvement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Chase Board Background Vector Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/352458401/display_1500/stock-vector-black-white-chase-board-background-vector-352458401.jpg' alt='Black White Chase Board Background Vector Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/352458401/display_1500/stock-vector-black-white-chase-board-background-vector-352458401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Chase Board Background Stock Vector (Royalty Free) 352458395 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/gray-chase-board-background-260nw-352458395.jpg' alt='Gray Chase Board Background Stock Vector (Royalty Free) 352458395 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="273">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/gray-chase-board-background-260nw-352458395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase, blue lines background, with names, Chase name, male names ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/984/397/HD-wallpaper-chase-blue-lines-background-with-names-chase-name-male-names-chase-greeting-card-line-art-with-chase-name.jpg' alt='Chase, blue lines background, with names, Chase name, male names ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/984/397/HD-wallpaper-chase-blue-lines-background-with-names-chase-name-male-names-chase-greeting-card-line-art-with-chase-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with chase name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/637/212/HD-wallpaper-happy-birtay-chase-blue-neon-lights-chase-name-creative-chase-happy-birtay-chase-birtay-popular-american-male-names-with-chase-name-chase-thumbnail.jpg' alt='HD with chase name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/637/212/HD-wallpaper-happy-birtay-chase-blue-neon-lights-chase-name-creative-chase-happy-birtay-chase-birtay-popular-american-male-names-with-chase-name-chase-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Chase Board Background Stock Vector (Royalty Free) 352458371 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/color-chase-board-background-260nw-352458371.jpg' alt='Color Chase Board Background Stock Vector (Royalty Free) 352458371 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="273">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/color-chase-board-background-260nw-352458371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase Logo: Over 4,924 Royalty-Free Licensable Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/jp-morgan-chase-logo-on-600nw-2367106907.jpg' alt='Chase Logo: Over 4,924 Royalty-Free Licensable Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/jp-morgan-chase-logo-on-600nw-2367106907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase bank logo hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/D330GC/close-up-of-chase-bank-logo-D330GC.jpg' alt='Chase bank logo hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/D330GC/close-up-of-chase-bank-logo-D330GC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="first name Chase in chrome on dark background with flashes Stock ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/97/20/34/1000_F_297203475_lK2WnK58DLsFh0nZ9nhFfoQkTqZetFCU.jpg' alt='first name Chase in chrome on dark background with flashes Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/97/20/34/1000_F_297203475_lK2WnK58DLsFh0nZ9nhFfoQkTqZetFCU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase Bank logos vector (AI, EPS, SVG, PDF, CDR) free download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/73/de/4773de1dbfaaee954052d8831e75197a.jpg' alt='Chase Bank logos vector (AI, EPS, SVG, PDF, CDR) free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/73/de/4773de1dbfaaee954052d8831e75197a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase Logo - Chase Bank Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180515/ctq/avcprc5b4.webp' alt='Chase Logo - Chase Bank Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180515/ctq/avcprc5b4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Sofia Name Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the cutest Sofia name wallpapers perfect for your phone or tablet. Explore a variety of charming designs that showcase the personality of the name Sofia, making your device uniquely yours. Download your favorite wallpaper today and add a delightful touch to your screen!">
+                    <meta name="keywords" content="cute sofia name wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-sofia-name-wallpaper">
+                            <span itemprop="name">cute sofia name wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Sofia Name Wallpapers for Your Device</h1>
+                <p>Brighten up your device with adorable Sofia name wallpapers! Featuring cute designs that celebrate the charm of the name Sofia, these wallpapers add a whimsical touch to your home screen. Whether you prefer pastel colors, floral patterns, or playful themes, find the perfect Sofia wallpaper that reflects your style and personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SOFIA">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/51/9e/93/519e931cffe110e2a87119b49eb33664.jpg' alt='SOFIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/51/9e/93/519e931cffe110e2a87119b49eb33664.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sofia name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/689/451/HD-wallpaper-happy-birtay-sofia-pink-neon-lights-sofia-name-creative-sofia-happy-birtay-sofia-birtay-popular-american-female-names-with-sofia-name-sofia.jpg' alt='HD sofia name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/689/451/HD-wallpaper-happy-birtay-sofia-pink-neon-lights-sofia-name-creative-sofia-happy-birtay-sofia-birtay-popular-american-female-names-with-sofia-name-sofia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/363577223/display_1500/stock-photo-sofia-name-set-with-hearts-decorative-lettering-type-design-363577223.jpg' alt='Sofia Name Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/363577223/display_1500/stock-photo-sofia-name-set-with-hearts-decorative-lettering-type-design-363577223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sofia name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1006/900/HD-wallpaper-sofia-with-names-female-names-sofia-name-purple-neon-lights-horizontal-text-with-sofia-name-thumbnail.jpg' alt='HD sofia name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1006/900/HD-wallpaper-sofia-with-names-female-names-sofia-name-purple-neon-lights-horizontal-text-with-sofia-name-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name SOFIA Boho Watercolor Botanical Feather Pastels Wall Art Printable  Nursery or Girl's Room Personalized (Size A3 & A4) Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19003111/r/il/ae88d4/1732767054/il_fullxfull.1732767054_t19e.jpg' alt='Name SOFIA Boho Watercolor Botanical Feather Pastels Wall Art Printable  Nursery or Girl's Room Personalized (Size A3 & A4) Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19003111/r/il/ae88d4/1732767054/il_fullxfull.1732767054_t19e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/88/3e/6c/883e6c8e056b7f075c2679215e6e9ccb.jpg' alt='Sofia Name Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/88/3e/6c/883e6c8e056b7f075c2679215e6e9ccb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia Name Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/name-sofia-decorative-floral-font-260nw-1401007706.jpg' alt='Sofia Name Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/name-sofia-decorative-floral-font-260nw-1401007706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia name hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PW37GY/lettering-female-name-sofia-on-bohemian-hand-drawn-frame-mandala-pattern-and-trend-color-stained-vector-illustration-fashion-style-print-isolated-on-white-background-PW37GY.jpg' alt='Sofia name hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PW37GY/lettering-female-name-sofia-on-bohemian-hand-drawn-frame-mandala-pattern-and-trend-color-stained-vector-illustration-fashion-style-print-isolated-on-white-background-PW37GY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic rainbow sofia name | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1578150200.6187/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='aesthetic rainbow sofia name | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1578150200.6187/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sofia name hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2AWD6PF/sofia-name-text-word-with-love-heart-hand-written-for-logo-typography-design-template-can-be-used-for-a-business-logotype-2AWD6PF.jpg' alt='Sofia name hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2AWD6PF/sofia-name-text-word-with-love-heart-hand-written-for-logo-typography-design-template-can-be-used-for-a-business-logotype-2AWD6PF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

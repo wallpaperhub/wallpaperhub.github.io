@@ -1,0 +1,129 @@
+<title>Cute Halloween iPhone Wallpapers: Spooktacular Designs</title>
+                    <meta name="description" content="Explore a charming collection of cute Halloween wallpapers for your iPhone! Perfect for adding a festive touch, these designs feature whimsical characters and delightful themes. Download now to celebrate the spooky season in style!">
+                    <meta name="keywords" content="cute halloween wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-halloween-wallpaper-iphone">
+                            <span itemprop="name">cute halloween wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Halloween iPhone Wallpapers: Spooktacular Designs</h1>
+                <p>Transform your iPhone this Halloween with cute wallpapers that capture the spirit of the season! From playful pumpkins and adorable ghosts to sweet candy corn and whimsical witches, our collection has something for everyone. Enhance your device with delightful designs that bring joy and festivity to your everyday life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Halloween Wallpapers For iPhone That Are Cute And Absolutely ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/78/71/c4/7871c491144f5ea83849dbf611331ca2.jpg' alt='30 Halloween Wallpapers For iPhone That Are Cute And Absolutely ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/78/71/c4/7871c491144f5ea83849dbf611331ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPhone wallpaper | Halloween wallpaper | iOS 16 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/a1/0b/9ea10b5f3b01d2d77d83cacb9d62ede6.jpg' alt='Halloween iPhone wallpaper | Halloween wallpaper | iOS 16 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/a1/0b/9ea10b5f3b01d2d77d83cacb9d62ede6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin October Pattern Cute Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pumpkin-october-pattern-cute-halloween-iphone-ovp7amek04925g21.jpg' alt='Pumpkin October Pattern Cute Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pumpkin-october-pattern-cute-halloween-iphone-ovp7amek04925g21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Iphone Pattern In Gray Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-halloween-iphone-pattern-in-gray-18g57k740rt6ua39.jpg' alt='Cute Halloween Iphone Pattern In Gray Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1619">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-halloween-iphone-pattern-in-gray-18g57k740rt6ua39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 FREE CUTE HALLOWEEN IPHONE WALLPAPERS - Nikki's Plate">
+                                <img itemprop="contentUrl url" src='https://www.nikkisplate.com/wp-content/uploads/2023/10/Cute-Halloween-iPhone-Wallpaper-Backgrounds-11-1.png' alt='30 FREE CUTE HALLOWEEN IPHONE WALLPAPERS - Nikki's Plate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki's Plate" />
+                                </span>
+                                <a href='https://www.nikkisplate.com/wp-content/uploads/2023/10/Cute-Halloween-iPhone-Wallpaper-Backgrounds-11-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Cute And Classic Halloween Wallpaper Ideas For Your Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/cb/a9/c3cba9731ff3bdda87678107e8746c7f.jpg' alt='25 Cute And Classic Halloween Wallpaper Ideas For Your Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/cb/a9/c3cba9731ff3bdda87678107e8746c7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Best Halloween iPhone Wallpaper to Download for Free - atinydreamer">
+                                <img itemprop="contentUrl url" src='https://www.atinydreamer.com/wp-content/uploads/2022/10/halloween-iphone-wallpaper1-576x1024.png' alt='47 Best Halloween iPhone Wallpaper to Download for Free - atinydreamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="atinydreamer" />
+                                </span>
+                                <a href='https://www.atinydreamer.com/wp-content/uploads/2022/10/halloween-iphone-wallpaper1-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fall Halloween Iphone Stack Of Pumpkins Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-halloween-iphone-ktuo1qt9z6wcefku.jpg' alt='Download Fall Halloween Iphone Stack Of Pumpkins Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-halloween-iphone-ktuo1qt9z6wcefku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Halloween Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1waW5uLTAxMy1zdG9yeS0xLmpwZw.jpg' alt='Iphone Wallpaper Halloween Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1waW5uLTAxMy1zdG9yeS0xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Halloween Phone Wallpaper, background, cute, halloween, pastel">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33363487/r/il/2557b5/4231740959/il_fullxfull.4231740959_390f.jpg' alt='Pastel Halloween Phone Wallpaper, background, cute, halloween, pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33363487/r/il/2557b5/4231740959/il_fullxfull.4231740959_390f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

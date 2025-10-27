@@ -1,0 +1,129 @@
+<title>Stunning KU Football Wallpapers: Show Your Team Spirit!</title>
+                    <meta name="description" content="Explore a collection of vibrant KU football wallpapers! Perfect for fans wanting to display their team pride. Download and personalize your devices with captivating images that capture the excitement of Kansas football. Get ready to cheer in style!">
+                    <meta name="keywords" content="ku football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/ku-football-wallpaper">
+                            <span itemprop="name">ku football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning KU Football Wallpapers: Show Your Team Spirit!</h1>
+                <p>Discover stunning KU football wallpapers to showcase your team spirit! Whether you're a die-hard fan or just love the vibrant colors and dynamic designs, you'll find the perfect background to enhance your devices. From action shots to team logos, these wallpapers embody the passion of Kansas football. Get yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday - University of Kansas">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/Generic-scaled.jpg' alt='Wallpaper Wednesday - University of Kansas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kansas Athletics" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/Generic-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Football on X: "Blackhawk wallpapers? Yeah, Blackhawk ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5WT0sbWMAIe0QJ?format=jpg&name=large' alt='Kansas Football on X: "Blackhawk wallpapers? Yeah, Blackhawk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5WT0sbWMAIe0QJ?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday - University of Kansas">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/Generic-2-scaled.jpg' alt='Wallpaper Wednesday - University of Kansas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kansas Athletics" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/Generic-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Football on X: "Blackhawk wallpapers? Yeah, Blackhawk ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5WT0sdW8AAZyFe?format=jpg&name=large' alt='Kansas Football on X: "Blackhawk wallpapers? Yeah, Blackhawk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5WT0sdW8AAZyFe?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Football - We've got some wallpaper options for all ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155020149115547' alt='Kansas Football - We've got some wallpaper options for all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155020149115547' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Football on X: "Last Wallpaper Wednesday before game week ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E9qfB2EWQAIdCJJ.jpg:large' alt='Kansas Football on X: "Last Wallpaper Wednesday before game week ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E9qfB2EWQAIdCJJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday: Homecoming Edition - University of Kansas">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/ZAK_1500-scaled.jpg' alt='Wallpaper Wednesday: Homecoming Edition - University of Kansas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kansas Athletics" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/ZAK_1500-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KU's top three receivers all returning for fifth year | KSNT 27 News">
+                                <img itemprop="contentUrl url" src='https://www.ksnt.com/wp-content/uploads/sites/86/2024/01/GettyImages-1878232419.jpg?w=2560&h=1440&crop=1' alt='KU's top three receivers all returning for fifth year | KSNT 27 News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSNT" />
+                                </span>
+                                <a href='https://www.ksnt.com/wp-content/uploads/sites/86/2024/01/GettyImages-1878232419.jpg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kansas Football on X: "New look, new wallpapers      #RockChalk ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F02CdNOWYAIJspg.jpg' alt='Kansas Football on X: "New look, new wallpapers      #RockChalk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F02CdNOWYAIJspg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday: Homecoming Edition - University of Kansas">
+                                <img itemprop="contentUrl url" src='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/ZAK_1599-scaled.jpg' alt='Wallpaper Wednesday: Homecoming Edition - University of Kansas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kansas Athletics" />
+                                </span>
+                                <a href='https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ukansas.sidearmsports.com/images/2024/5/8/ZAK_1599-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

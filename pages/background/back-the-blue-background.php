@@ -1,0 +1,129 @@
+<title>Back the Blue: Stand with Law Enforcement</title>
+                    <meta name="description" content="Explore the "Back the Blue" movement, a tribute to law enforcement supporters. Learn how to show solidarity and appreciation for those dedicated to community safety with meaningful symbols and backgrounds. Stand together in gratitude and honor their unwavering service and bravery.">
+                    <meta name="keywords" content="back the blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/back-the-blue-background">
+                            <span itemprop="name">back the blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Back the Blue: Stand with Law Enforcement</h1>
+                <p>Back the blue is a powerful movement that shows support for law enforcement officers who dedicate their lives to keeping communities safe. By displaying blue backgrounds or symbols, individuals and organizations express gratitude and solidarity with those who protect and serve. Join the cause to celebrate and honor their sacrifices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,513 Back Blue Flag Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/back-blue-american-thin-line-600nw-2048220611.jpg' alt='18,513 Back Blue Flag Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/back-blue-american-thin-line-600nw-2048220611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Back the Blue Thin Blue Line Police Design Flag Grunge Splash  Frame Splatter Sublimation PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11371075/r/il/869382/6602443096/il_570xN.6602443096_m2xr.jpg' alt='Background Back the Blue Thin Blue Line Police Design Flag Grunge Splash  Frame Splatter Sublimation PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11371075/r/il/869382/6602443096/il_570xN.6602443096_m2xr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Law Enforcement Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/33/b6/c433b6bedfc69f06aac24a2606d2272c.jpg' alt='Awesome Law Enforcement Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/33/b6/c433b6bedfc69f06aac24a2606d2272c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Line Law Enforcement Images – Browse 4,497 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/08/59/68/360_F_608596889_a8IRdWUGChXZEf3DgP6UonkiK475CHDC.jpg' alt='Blue Line Law Enforcement Images – Browse 4,497 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/08/59/68/360_F_608596889_a8IRdWUGChXZEf3DgP6UonkiK475CHDC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back the Blue flag SVG, PNG, JPG files for Cricut or Silhouette Instant  Download digital file">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24246594/r/il/6bb9d9/2473805158/il_fullxfull.2473805158_9xd0.jpg' alt='Back the Blue flag SVG, PNG, JPG files for Cricut or Silhouette Instant  Download digital file'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24246594/r/il/6bb9d9/2473805158/il_fullxfull.2473805158_9xd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WE BACK THE BLUE AMERICAN FLAG BACKGROUND METAL NOVELTY LICENSE PLATE TAG |  eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rq8AAOSwoVFfkYjf/s-l400.jpg' alt='WE BACK THE BLUE AMERICAN FLAG BACKGROUND METAL NOVELTY LICENSE PLATE TAG |  eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rq8AAOSwoVFfkYjf/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE LIVES MATTER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/91/fd/f7/91fdf7d0869c74ad7fa2d0505094d8bf.jpg' alt='BLUE LIVES MATTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/91/fd/f7/91fdf7d0869c74ad7fa2d0505094d8bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Line Law Enforcement Images – Browse 4,497 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/76/69/31/360_F_576693169_0UD9pvWzvV2tX4SyeUUrfdt6I7Kntsl6.jpg' alt='Blue Line Law Enforcement Images – Browse 4,497 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/76/69/31/360_F_576693169_0UD9pvWzvV2tX4SyeUUrfdt6I7Kntsl6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Thin Blue Line Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/faded-thin-blue-line-us-flag-ea7na3oi8rjcnxvx.jpg' alt='100+] Thin Blue Line Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/faded-thin-blue-line-us-flag-ea7na3oi8rjcnxvx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BACK THE BLUE">
+                                <img itemprop="contentUrl url" src='http://www.artbrands.com/wp-content/uploads/22946EL2-1.png' alt='BACK THE BLUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art Brands" />
+                                </span>
+                                <a href='http://www.artbrands.com/wp-content/uploads/22946EL2-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

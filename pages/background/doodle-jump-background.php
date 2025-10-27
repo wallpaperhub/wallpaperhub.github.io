@@ -1,0 +1,129 @@
+<title>Doodle Jump: Explore Colorful Backgrounds!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="doodle jump background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/doodle-jump-background">
+                            <span itemprop="name">doodle jump background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Doodle Jump: Explore Colorful Backgrounds!</h1>
+                <p>Doodle Jump features vibrant and mesmerizing backgrounds that enhance the gaming experience. From floating platforms in a whimsical sky to lush green landscapes, each backdrop is designed to immerse players in a fun and engaging atmosphere. The colorful, animated scenes are integral to Doodle Jump's charm, keeping players entertained.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doodle Jump Wallpaper by jFar920 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76ad72b9-f512-488e-9b94-64009484ffbc/d3d39g8-195c828d-a7d5-4c90-92ac-dfa64944478a.png/v1/fill/w_900,h_507,q_80,strp/doodle_jump_wallpaper_by_jfar920_d3d39g8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNzZhZDcyYjktZjUxMi00ODhlLTliOTQtNjQwMDk0ODRmZmJjXC9kM2QzOWc4LTE5NWM4MjhkLWE3ZDUtNGM5MC05MmFjLWRmYTY0OTQ0NDc4YS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8rCsP-ZFtQwzA9EZqayeNFxlR5Lhdv9E7DAQ1yYFTNs' alt='Doodle Jump Wallpaper by jFar920 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76ad72b9-f512-488e-9b94-64009484ffbc/d3d39g8-195c828d-a7d5-4c90-92ac-dfa64944478a.png/v1/fill/w_900,h_507,q_80,strp/doodle_jump_wallpaper_by_jfar920_d3d39g8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvNzZhZDcyYjktZjUxMi00ODhlLTliOTQtNjQwMDk0ODRmZmJjXC9kM2QzOWc4LTE5NWM4MjhkLWE3ZDUtNGM5MC05MmFjLWRmYTY0OTQ0NDc4YS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8rCsP-ZFtQwzA9EZqayeNFxlR5Lhdv9E7DAQ1yYFTNs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...">
+                                <img itemprop="contentUrl url" src='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/background.png' alt='Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="courses.cs.duke.edu" />
+                                </span>
+                                <a href='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...">
+                                <img itemprop="contentUrl url" src='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/Default.png' alt='Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="courses.cs.duke.edu" />
+                                </span>
+                                <a href='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/Default.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doodle Jump Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9167885.png' alt='Doodle Jump Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9167885.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...">
+                                <img itemprop="contentUrl url" src='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/soccer-background.png' alt='Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="courses.cs.duke.edu" />
+                                </span>
+                                <a href='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/soccer-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doodle Jump png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/251/699/png-clipart-doodle-jump-kinect-video-game-iphone-doodle-electronics-video-game.png' alt='Doodle Jump png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/251/699/png-clipart-doodle-jump-kinect-video-game-iphone-doodle-electronics-video-game.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro review: Doodle Jump">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/08/Doodle-Jump-Gameplay-e1564717442453.jpg' alt='Retro review: Doodle Jump'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/08/Doodle-Jump-Gameplay-e1564717442453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doodle Jump released for iPad">
+                                <img itemprop="contentUrl url" src='https://news.macgasm.net/wp-content/uploads/2011/09/doodlejump.jpg' alt='Doodle Jump released for iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="News - Macgasm" />
+                                </span>
+                                <a href='https://news.macgasm.net/wp-content/uploads/2011/09/doodlejump.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...">
+                                <img itemprop="contentUrl url" src='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/space-background.png' alt='Index of /fall10/cps108/code/src/vooga/games/doodlejump/resources ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="courses.cs.duke.edu" />
+                                </span>
+                                <a href='https://courses.cs.duke.edu/fall10/cps108/code/src/vooga/games/doodlejump/resources/images/space-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Code Doodle Jump! - Codeheir">
+                                <img itemprop="contentUrl url" src='https://codeheir.com/wp-content/uploads/2021/03/5.gif' alt='How to Code Doodle Jump! - Codeheir'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codeheir" />
+                                </span>
+                                <a href='https://codeheir.com/wp-content/uploads/2021/03/5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

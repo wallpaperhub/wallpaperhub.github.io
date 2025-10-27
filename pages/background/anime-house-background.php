@@ -1,0 +1,129 @@
+<title>Stunning Anime House Backgrounds: Enhance Your Artwork</title>
+                    <meta name="description" content="Explore captivating anime house backgrounds that enhance your artwork! Discover a variety of vibrant settings and styles that bring animated worlds to life, perfect for artists and fans alike. Ideal for storytelling and immersion in the anime universe!">
+                    <meta name="keywords" content="anime house background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-house-background">
+                            <span itemprop="name">anime house background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime House Backgrounds: Enhance Your Artwork</h1>
+                <p>Anime house backgrounds are visually stunning elements that bring animated worlds to life. These vibrant settings often blend traditional Japanese aesthetics with contemporary themes, providing an immersive experience for viewers. From cozy interiors to picturesque landscapes, anime house backgrounds enhance the storytelling and emotional depth of each scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320 Best anime house ideas | anime house, anime scenery, scenery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg' alt='320 Best anime house ideas | anime house, anime scenery, scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/7f/89/81/7f8981319cd68fc531501d31593a5749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedroom House Anime Scenery Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/90/60/a690604cb81706cc5a013cde822e3b23.jpg' alt='Bedroom House Anime Scenery Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/90/60/a690604cb81706cc5a013cde822e3b23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime house/street view by anasofoz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5eec622a-0091-48c5-bba9-e5d03e3e0fe5/dd9p32r-9b4e27cb-a3a5-4d23-844c-c95533cb4568.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlZWM2MjJhLTAwOTEtNDhjNS1iYmE5LWU1ZDAzZTNlMGZlNVwvZGQ5cDMyci05YjRlMjdjYi1hM2E1LTRkMjMtODQ0Yy1jOTU1MzNjYjQ1NjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._RjuaDNxd82sOMdgxAEUsKltP5Gi111AlgLs7G5ve-c' alt='Anime house/street view by anasofoz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5eec622a-0091-48c5-bba9-e5d03e3e0fe5/dd9p32r-9b4e27cb-a3a5-4d23-844c-c95533cb4568.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlZWM2MjJhLTAwOTEtNDhjNS1iYmE5LWU1ZDAzZTNlMGZlNVwvZGQ5cDMyci05YjRlMjdjYi1hM2E1LTRkMjMtODQ0Yy1jOTU1MzNjYjQ1NjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._RjuaDNxd82sOMdgxAEUsKltP5Gi111AlgLs7G5ve-c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime House HD Wallpaper by Ming Ren">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/101/1010290.jpg' alt='Download Anime House HD Wallpaper by Ming Ren'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2608">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/101/1010290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime house wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/390/931/HD-wallpaper-anime-room-art-japan-original-house-japanese-anime-indoor-room-thumbnail.jpg' alt='HD anime house wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="178">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/390/931/HD-wallpaper-anime-room-art-japan-original-house-japanese-anime-indoor-room-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brickhouse Serenity - Citrus Anime HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/901/thumb-1920-901544.png' alt='Brickhouse Serenity - Citrus Anime HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/901/thumb-1920-901544.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Anime House at Sunset Background">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmdtmmyR8DqAY0_ENkMc9fywINHBbSojSIGvHO3eGaGwXrKCVUuCFga0Bjq9KxFAeF29y4ruGzQk6eY2FrpV_PZtu67CAtoWSUR5ASgrxjA72C5jt2szRrHojBkbXKYYiA6JtOJ5vFM4/w1200-h630-p-k-no-nu/Anime+House+Background+6.png' alt='Anime Landscape: Anime House at Sunset Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmdtmmyR8DqAY0_ENkMc9fywINHBbSojSIGvHO3eGaGwXrKCVUuCFga0Bjq9KxFAeF29y4ruGzQk6eY2FrpV_PZtu67CAtoWSUR5ASgrxjA72C5jt2szRrHojBkbXKYYiA6JtOJ5vFM4/w1200-h630-p-k-no-nu/Anime+House+Background+6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Living Room Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anime-living-room-background-0hsgav3bovx5qk66.jpg' alt='100+] Anime Living Room Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anime-living-room-background-0hsgav3bovx5qk66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Night Anime House Anime Night HD Wallpaper by Moonslan Studio">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/111/1115832.jpg' alt='Download Night Anime House Anime Night HD Wallpaper by Moonslan Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/111/1115832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="77 Anime house ideas | anime house, episode interactive ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ec/80/79/ec8079678459630dbd3bf18d5727230a.jpg' alt='77 Anime house ideas | anime house, episode interactive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ec/80/79/ec8079678459630dbd3bf18d5727230a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

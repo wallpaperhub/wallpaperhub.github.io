@@ -1,0 +1,129 @@
+<title>Fun & Quirky Poop Emoji Wallpaper for Kids</title>
+                    <meta name="description" content="Add a touch of humor to your decor with our fun poop emoji wallpaper! Perfect for children's rooms or playful spaces, this unique design brightens any area. Easy to install and a great conversation starter, our wallpaper is ideal for those who love to embrace fun and individuality in their home. Shop now!">
+                    <meta name="keywords" content="poop emoji wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/poop-emoji-wallpaper">
+                            <span itemprop="name">poop emoji wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun & Quirky Poop Emoji Wallpaper for Kids</h1>
+                <p>Transform your space with playful poop emoji wallpaper! Perfect for kids' rooms, play areas, or fun-loving adults, these quirky designs add a humorous touch to any wall. Available in various patterns, they bring smiles and laughter while keeping your decor light-hearted. Elevate your interior style with this unique wall treatment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Poo Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1371613792/vector/poop-emoji-seamless-pattern.jpg?s=612x612&w=0&k=20&c=aRj5FCxrtuA6qDuDXnILB8H8BC7r4VnO0LwCU0COdNw=' alt='2,200+ Poo Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1371613792/vector/poop-emoji-seamless-pattern.jpg?s=612x612&w=0&k=20&c=aRj5FCxrtuA6qDuDXnILB8H8BC7r4VnO0LwCU0COdNw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Humorous Poop Emoji HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/857/thumb-1920-857882.jpg' alt='Humorous Poop Emoji HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1866">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/857/thumb-1920-857882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pile of Poo Emoji Wallpaper | Wallaland">
+                                <img itemprop="contentUrl url" src='http://wallaland.com/wp-content/uploads/wallpapers/art/illustration/Emoji/Wallaland%20Emoji%20Poo.jpg' alt='Pile of Poo Emoji Wallpaper | Wallaland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallaland" />
+                                </span>
+                                <a href='http://wallaland.com/wp-content/uploads/wallpapers/art/illustration/Emoji/Wallaland%20Emoji%20Poo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Poop Wallpapers ideas | emoji wallpaper, poop, emoji">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5e/c5/2a/5ec52a9e1204e817ad37fbd0b1c0f7a9.jpg' alt='11 Poop Wallpapers ideas | emoji wallpaper, poop, emoji'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5e/c5/2a/5ec52a9e1204e817ad37fbd0b1c0f7a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love this found it on awesome wallpapers #EMOJI      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/bb/a3/babba386ab33d1b2b82906776a0c1fd5.jpg' alt='Love this found it on awesome wallpapers #EMOJI      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/bb/a3/babba386ab33d1b2b82906776a0c1fd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="poop emoji cute funny fabric tan Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7598571/p/f/m/JCI_pD6hBiDULE8lH1a4UnG89PJimNfLODLCea_99z24yqvan8WZiQ/7598571-poop-emoji-cute-funny-fabric-tan-by-charlottewinter.jpg' alt='poop emoji cute funny fabric tan Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7598571/p/f/m/JCI_pD6hBiDULE8lH1a4UnG89PJimNfLODLCea_99z24yqvan8WZiQ/7598571-poop-emoji-cute-funny-fabric-tan-by-charlottewinter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Poo Emoji Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1016777012/vector/seamless-pattern-with-poop-emojies-emoticons-background-texture.jpg?s=612x612&w=0&k=20&c=XexznzCgeTP8PblKbKXZ7l_fMBZEpQ1BL5qPcr5O9KY=' alt='2,000+ Poo Emoji Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1016777012/vector/seamless-pattern-with-poop-emojies-emoticons-background-texture.jpg?s=612x612&w=0&k=20&c=XexznzCgeTP8PblKbKXZ7l_fMBZEpQ1BL5qPcr5O9KY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poop Emoji Design Custom Wallpaper & Surface Covering">
+                                <img itemprop="contentUrl url" src='https://www.youcustomizeit.com/common/MAKE/1210994/Poop-Emoji-Wallpaper-Square.jpg?lm=1555022407' alt='Poop Emoji Design Custom Wallpaper & Surface Covering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouCustomizeIt" />
+                                </span>
+                                <a href='https://www.youcustomizeit.com/common/MAKE/1210994/Poop-Emoji-Wallpaper-Square.jpg?lm=1555022407' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Emoji, poop, new, cool, trending, recommended, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/295/331/HD-wallpaper-pop-emoji-poop-new-cool-trending-recommended.jpg' alt='Pop Emoji, poop, new, cool, trending, recommended, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/295/331/HD-wallpaper-pop-emoji-poop-new-cool-trending-recommended.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Poop Emoji Silicone Focal – RD Creations 1stop">
+                                <img itemprop="contentUrl url" src='https://rdcreations4you.com/cdn/shop/files/96146C8F-C452-44C2-A5DE-4EF572575D8D.jpg?v=1724987558&width=1445' alt='3d Poop Emoji Silicone Focal – RD Creations 1stop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RD Creations 1stop" />
+                                </span>
+                                <a href='https://rdcreations4you.com/cdn/shop/files/96146C8F-C452-44C2-A5DE-4EF572575D8D.jpg?v=1724987558&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

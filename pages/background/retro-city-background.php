@@ -1,0 +1,129 @@
+<title>Explore Vibrant Retro City Backgrounds</title>
+                    <meta name="description" content="Discover stunning retro city backgrounds that blend nostalgia with vibrant visuals. Perfect for designers and storytellers, these nostalgic settings invite creativity and inspiration. Transform your projects with colorful scenes that capture the essence of classic urban life. Ideal for mobile viewing and engagement!">
+                    <meta name="keywords" content="retro city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/retro-city-background">
+                            <span itemprop="name">retro city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Vibrant Retro City Backgrounds</h1>
+                <p>Step back in time with a vibrant retro city background that captures the essence of a bygone era. Picture neon lights, vintage storefronts, and classic cars lining the streets, creating a nostalgic atmosphere. Perfect for setting the scene in art, design, or storytelling, this colorful backdrop evokes memories and adventures of yesteryears.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro City Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/072/150/non_2x/retro-futurism-city-background-free-vector.jpg' alt='Retro City Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/072/150/non_2x/retro-futurism-city-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Retro city wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/034/590/096/large/raquel-rubio-wallpaper-cityv2.jpg?1612709307' alt='ArtStation - Retro city wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/034/590/096/large/raquel-rubio-wallpaper-cityv2.jpg?1612709307' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro City Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-comic-book-city-background_23-2151125552.jpg' alt='Retro City Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-comic-book-city-background_23-2151125552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sun Shines Over The Retro City | Animation Background | Music Video (4K)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WpECio7FAWM/maxresdefault.jpg' alt='The Sun Shines Over The Retro City | Animation Background | Music Video (4K)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WpECio7FAWM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City In Retro Style of 80's [2880 x 1800] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kv2gh5hxna431.jpg' alt='City In Retro Style of 80's [2880 x 1800] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kv2gh5hxna431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro City Stock Illustrations – 183,239 Retro City Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/retro-futuristic-skyscraper-city-s-style-d-illustration-digital-landscape-cyber-world-use-as-music-album-cover-90404179.jpg' alt='Retro City Stock Illustrations – 183,239 Retro City Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/retro-futuristic-skyscraper-city-s-style-d-illustration-digital-landscape-cyber-world-use-as-music-album-cover-90404179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Retro neon city background. Neon style 80s ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/retro-neon-city-background-neon-style-80s-vector-illustration_3482-4660.jpg' alt='Premium Vector | Retro neon city background. Neon style 80s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/retro-neon-city-background-neon-style-80s-vector-illustration_3482-4660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Style Retro City Vibe Wallpaper Graphic. Lo-Fi Synthwave ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/s-style-retro-city-vibe-wallpaper-graphic-lo-fi-synthwave-cityscape-sunset-vintage-background-328293092.jpg' alt='80s Style Retro City Vibe Wallpaper Graphic. Lo-Fi Synthwave ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/s-style-retro-city-vibe-wallpaper-graphic-lo-fi-synthwave-cityscape-sunset-vintage-background-328293092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro City Skyline in 80s Style. Neon Glowing Moon and Starry Sky ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2F2BFNA/retro-city-skyline-in-80s-style-neon-glowing-moon-and-starry-sky-synthwave-retrowave-vaporwave-background-futuristic-vector-illustration-geometric-style-2F2BFNA.jpg' alt='Retro City Skyline in 80s Style. Neon Glowing Moon and Starry Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2F2BFNA/retro-city-skyline-in-80s-style-neon-glowing-moon-and-starry-sky-synthwave-retrowave-vaporwave-background-futuristic-vector-illustration-geometric-style-2F2BFNA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro City Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/1002/retro-city.jpg' alt='Retro City Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/1002/retro-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

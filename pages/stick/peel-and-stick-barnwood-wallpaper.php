@@ -1,0 +1,129 @@
+<title>Peel and Stick Barnwood Wallpaper: Rustic Charm Made Easy</title>
+                    <meta name="description" content="Revamp your home with peel and stick barnwood wallpaper! Simple to apply and remove, it offers a stylish rustic look without the hassle. Perfect for any room, this wallpaper is an ideal choice for renters and DIY enthusiasts. Enjoy a warm, inviting atmosphere effortlessly!">
+                    <meta name="keywords" content="peel and stick barnwood wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-barnwood-wallpaper">
+                            <span itemprop="name">peel and stick barnwood wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peel and Stick Barnwood Wallpaper: Rustic Charm Made Easy</h1>
+                <p>Transform your space effortlessly with peel and stick barnwood wallpaper. Perfect for a rustic touch, this easy-to-install wallpaper mimics the warmth and charm of real barnwood. Ideal for feature walls, DIY projects, or rentals, it removes cleanly without damaging surfaces. Enjoy a cozy, country-inspired atmosphere in any room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barn Wood Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?v=1666799095' alt='Barn Wood Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/barn-wood-wallpaper-peel-stick-307792.png?v=1666799095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Wood Peel and Stick Wallpaper Gray Brown White 3D ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/939682/1235931669/il_570xN.1235931669_1cki.jpg' alt='Distressed Wood Peel and Stick Wallpaper Gray Brown White 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/939682/1235931669/il_570xN.1235931669_1cki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livebor Gray Wood Peel and Stick Wallpaper Wood Plank Wallpaper Shiplap  Contact Paper Faux Barnwood Wallpaper Peel and Stick Self Adhesive Wall  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/911BGFa+r+L._AC_UF894,1000_QL80_.jpg' alt='Livebor Gray Wood Peel and Stick Wallpaper Wood Plank Wallpaper Shiplap  Contact Paper Faux Barnwood Wallpaper Peel and Stick Self Adhesive Wall  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/911BGFa+r+L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Whitewashed Barn Wood Planks Mural Wall Art Wallpaper ...">
+                                <img itemprop="contentUrl url" src='http://www.simpleshapes.com/cdn/shop/files/8031_Herringbone_Wood_Accent_1_1200x1200.jpg?v=1692976532' alt='Herringbone Whitewashed Barn Wood Planks Mural Wall Art Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="889">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='http://www.simpleshapes.com/cdn/shop/files/8031_Herringbone_Wood_Accent_1_1200x1200.jpg?v=1692976532' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Distressed Barnwood Plank Wood Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/2c44fe/1779255938/il_570xN.1779255938_cso8.jpg' alt='Blue Distressed Barnwood Plank Wood Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/2c44fe/1779255938/il_570xN.1779255938_cso8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Reclaimed Wood Plank Vinyl Peel & Stick Wallpaper Roll (Covers  30.75 Sq. Ft.) NW32601">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ade66a31-f064-4022-84d2-20fc6f5ead77/svn/nextwall-wallpaper-rolls-nw32601-64_600.jpg' alt='NextWall Reclaimed Wood Plank Vinyl Peel & Stick Wallpaper Roll (Covers  30.75 Sq. Ft.) NW32601'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ade66a31-f064-4022-84d2-20fc6f5ead77/svn/nextwall-wallpaper-rolls-nw32601-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wall Mural - Grey Country Style Barn Wood ...">
+                                <img itemprop="contentUrl url" src='http://tiptophomedecor.com/cdn/shop/files/tiptophomedecor-peel-and-stick-wallpaper-wall-mural-grey-country-style-barn-wood-removable-wall-decals-2_ea076592-9fe9-4126-94d9-ecadde5d4671_1200x1200.jpg?v=1708696148' alt='Peel & Stick Wall Mural - Grey Country Style Barn Wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiptophomedecor" />
+                                </span>
+                                <a href='http://tiptophomedecor.com/cdn/shop/files/tiptophomedecor-peel-and-stick-wallpaper-wall-mural-grey-country-style-barn-wood-removable-wall-decals-2_ea076592-9fe9-4126-94d9-ecadde5d4671_1200x1200.jpg?v=1708696148' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Shiplap Peel and Stick Barnwood Wallpaper for Walls Rustic Barn  Wood Wall Planks Bathroom Wallpaper 17.7X78.8 Wood Plank Contact Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wdZLCpzUL.jpg' alt='Livelynine Shiplap Peel and Stick Barnwood Wallpaper for Walls Rustic Barn  Wood Wall Planks Bathroom Wallpaper 17.7X78.8 Wood Plank Contact Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wdZLCpzUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Distressed Barnwood Plank Wood Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10028083/r/il/ce5bc9/1826716313/il_570xN.1826716313_j9gf.jpg' alt='Blue Distressed Barnwood Plank Wood Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10028083/r/il/ce5bc9/1826716313/il_570xN.1826716313_j9gf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NU1690 Taupe Grey Reclaimed Wood Plank Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thefabricco.com/cdn/shop/products/nuw1690_1.jpg?v=1707473164&width=480' alt='NU1690 Taupe Grey Reclaimed Wood Plank Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fabric Co" />
+                                </span>
+                                <a href='https://thefabricco.com/cdn/shop/products/nuw1690_1.jpg?v=1707473164&width=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

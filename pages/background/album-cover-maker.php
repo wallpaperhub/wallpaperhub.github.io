@@ -1,0 +1,129 @@
+<title>Design Your Own Album Covers Easily</title>
+                    <meta name="description" content="Unleash your creativity with our user-friendly album cover maker. Design unique and eye-catching covers in minutes, perfect for musicians and artists alike. Choose from templates, fonts, and graphics to reflect your style and make your music stand out. Create memorable album art today!">
+                    <meta name="keywords" content="album cover maker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/album-cover-maker">
+                            <span itemprop="name">album cover maker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Design Your Own Album Covers Easily</h1>
+                <p>Creating stunning album covers is easier than ever with our album cover maker. Whether you're a professional musician or a budding artist, you can unleash your creativity and design unique covers that reflect your style. Choose from various templates, fonts, and graphics to make an eye-catching album cover that stands out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Album Cover Maker - Create Album Covers Online | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1100221/1HowtomakeanalbumcoverCanva.png' alt='Free Album Cover Maker - Create Album Covers Online | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1100221/1HowtomakeanalbumcoverCanva.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Cover Maker - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/tRkbdD6Uzswddw6x_yUcCZwadfM1AXgg2PxykzgNUfPPdOYYoUkIpVXHDqrds4UdaL8' alt='Album Cover Maker - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/tRkbdD6Uzswddw6x_yUcCZwadfM1AXgg2PxykzgNUfPPdOYYoUkIpVXHDqrds4UdaL8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Album Cover Maker: Design Your Own Album Cover Art">
+                                <img itemprop="contentUrl url" src='https://cms-cdn.kittl.com/album_cover_maker_6_85f7054ab8.png' alt='Free Album Cover Maker: Design Your Own Album Cover Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kittl" />
+                                </span>
+                                <a href='https://cms-cdn.kittl.com/album_cover_maker_6_85f7054ab8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Cover Maker | Design Templates | Placeit">
+                                <img itemprop="contentUrl url" src='https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/190899/optimized_product_thumb_stage.jpg' alt='Album Cover Maker | Design Templates | Placeit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Placeit" />
+                                </span>
+                                <a href='https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/190899/optimized_product_thumb_stage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Album Cover Maker - Create Album Covers Online | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1895680/1600w-8iSVF3m00jk.jpg' alt='Free Album Cover Maker - Create Album Covers Online | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1895680/1600w-8iSVF3m00jk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parental Advisory Sticker Template Album Maker — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/templates/album-cover-maker-with-parental-advisory-sticker-regular-78a77f7c.webp' alt='Parental Advisory Sticker Template Album Maker — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/templates/album-cover-maker-with-parental-advisory-sticker-regular-78a77f7c.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Placeit - Album Cover Art Generator for Hip-Hop Singers Featuring ...">
+                                <img itemprop="contentUrl url" src='https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/78754/optimized_product_thumb_stage.jpg' alt='Placeit - Album Cover Art Generator for Hip-Hop Singers Featuring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Placeit" />
+                                </span>
+                                <a href='https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/78754/optimized_product_thumb_stage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Free Album Covers | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_album-covers-d12ef0296af80b58363dc0deef077ecc.jpg?ts%20=%201740517689' alt='Create Free Album Covers | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_album-covers-d12ef0296af80b58363dc0deef077ecc.jpg?ts%20=%201740517689' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Album Cover Maker — Cover Art Studio">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f820bf2bc13266a987f75fc/1660671506232-XANC95IYK87OJXWOF7II/make+your+own+album+cover.jpg' alt='Free Album Cover Maker — Cover Art Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cover Art Studio" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f820bf2bc13266a987f75fc/1660671506232-XANC95IYK87OJXWOF7II/make+your+own+album+cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Cover Creator - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/IPCdkczBxtezLrU_iBUy-sU2BFzNID1aXppqL2mOcT-G5Z20TgM82iOYcKWxi3vDMfk' alt='Album Cover Creator - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/IPCdkczBxtezLrU_iBUy-sU2BFzNID1aXppqL2mOcT-G5Z20TgM82iOYcKWxi3vDMfk' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

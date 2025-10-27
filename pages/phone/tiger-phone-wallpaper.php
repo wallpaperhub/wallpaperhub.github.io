@@ -1,0 +1,129 @@
+<title>Tiger Phone Wallpapers: Stunning Jungle Views for Your Device</title>
+                    <meta name="description" content="Discover breathtaking tiger phone wallpapers that showcase the elegance of these magnificent creatures. Perfect for wildlife lovers, our collection offers vibrant images that will make your screen stand out. Download now and bring the wild beauty of tigers to your device!">
+                    <meta name="keywords" content="tiger phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/tiger-phone-wallpaper">
+                            <span itemprop="name">tiger phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tiger Phone Wallpapers: Stunning Jungle Views for Your Device</h1>
+                <p>Transform your device's look with stunning tiger phone wallpaper! Rich in color and detail, these wallpapers showcase the majestic beauty of tigers in their natural habitat. Whether you prefer fierce close-ups or breathtaking landscapes, there's a perfect tiger wallpaper for every style. Elevate your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tiger Wallpaper For Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/de/12/c0de12ab481336c92efb8430969392b1.jpg' alt='Free Tiger Wallpaper For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/de/12/c0de12ab481336c92efb8430969392b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roaring Tiger 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/da/a3/20daa3bae2e5e4ba262ac1349a34cf20.jpg' alt='Roaring Tiger 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/da/a3/20daa3bae2e5e4ba262ac1349a34cf20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger Wallpaper iPhone 6S Plus by DeviantSith17 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da97t1g-2e6fd3ed-e838-44f3-9d15-42a1f49bf92f.jpg/v1/fill/w_1024,h_1821,q_75,strp/tiger_wallpaper_iphone_6s_plus_by_deviantsith17_da97t1g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzFjZDVmMDc1LTQyZGEtNDY2Yi1iMDBhLThiYjdlZjY2YWQzMlwvZGE5N3QxZy0yZTZmZDNlZC1lODM4LTQ0ZjMtOWQxNS00MmExZjQ5YmY5MmYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZHjOP71ID1K2Uo_NVQKAtkNKRTMPBxeFpw8sxl58O7U' alt='Tiger Wallpaper iPhone 6S Plus by DeviantSith17 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da97t1g-2e6fd3ed-e838-44f3-9d15-42a1f49bf92f.jpg/v1/fill/w_1024,h_1821,q_75,strp/tiger_wallpaper_iphone_6s_plus_by_deviantsith17_da97t1g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcLzFjZDVmMDc1LTQyZGEtNDY2Yi1iMDBhLThiYjdlZjY2YWQzMlwvZGE5N3QxZy0yZTZmZDNlZC1lODM4LTQ0ZjMtOWQxNS00MmExZjQ5YmY5MmYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZHjOP71ID1K2Uo_NVQKAtkNKRTMPBxeFpw8sxl58O7U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tiger Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tiger-phone-0e2o3589gwl04ks7.jpg' alt='100+] Tiger Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tiger-phone-0e2o3589gwl04ks7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Tiger, blue, water, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/995/593/HD-wallpaper-cool-tiger-blue-water.jpg' alt='Cool Tiger, blue, water, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/995/593/HD-wallpaper-cool-tiger-blue-water.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Siberian Tiger Winter Snowfall 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/3f/df/523fdf982414766408ad9abd24eb923e.jpg' alt='Siberian Tiger Winter Snowfall 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/3f/df/523fdf982414766408ad9abd24eb923e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cell Phone Wallpaper- Year of The Tiger">
+                                <img itemprop="contentUrl url" src='https://www.emmacheng.com/cdn/shop/products/tiger16to9phonepaper300x534forlisting_580x.jpg?v=1671756489' alt='Cell Phone Wallpaper- Year of The Tiger'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emma Cheng Medical Art - Emma Cheng Medical Art" />
+                                </span>
+                                <a href='https://www.emmacheng.com/cdn/shop/products/tiger16to9phonepaper300x534forlisting_580x.jpg?v=1671756489' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiger Wallpapers (86 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/7/5/23124-1440x2560-phone-hd-tiger-wallpaper-photo.jpg' alt='Tiger Wallpapers (86 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/7/5/23124-1440x2560-phone-hd-tiger-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Tiger Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/wild-tiger.png' alt='Wild Tiger Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/wild-tiger.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animal Tiger Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/889/889236.jpg' alt='Download Animal Tiger Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/889/889236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Western Wallpaper: Rustic Charm for Your Home</title>
+                    <meta name="description" content="Discover the beauty of western wallpaper for walls! Perfect for adding rustic elegance to any space, our collection features stunning patterns and colors that capture the Wild West spirit. Elevate your home decor with unique designs that offer character and warmth. Shop now for your perfect wall transformation!">
+                    <meta name="keywords" content="western wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/western-wallpaper-for-walls">
+                            <span itemprop="name">western wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Western Wallpaper: Rustic Charm for Your Home</h1>
+                <p>Transform your living space with stunning western wallpaper for walls. Infused with rustic charm, these designs feature bold patterns, natural motifs, and earthy tones that evoke the spirit of the Wild West. Ideal for accent walls or whole rooms, western wallpaper enhances your decor, bringing warmth and character to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Out West Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/1_863036bc-94ed-4a61-92b9-58cda474d8d8.jpg?v=1720560250&width=2048' alt='Out West Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/1_863036bc-94ed-4a61-92b9-58cda474d8d8.jpg?v=1720560250&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Wild West Wallpaper | Gender-Neutral Nursery Design – Anewall">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/cowboynurserythemewalldecor.jpg?v=1627486929' alt='Wild Wild West Wallpaper | Gender-Neutral Nursery Design – Anewall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/cowboynurserythemewalldecor.jpg?v=1627486929' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper With Vintage Cowboy and Horses, Wild West ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_fullxfull.6014700830_p18l.jpg' alt='Western Wallpaper With Vintage Cowboy and Horses, Wild West ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_fullxfull.6014700830_p18l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Wild West Wallpaper | Gender-Neutral Nursery Design – Anewall">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/cowboywesternnursery.jpg?v=1627486929' alt='Wild Wild West Wallpaper | Gender-Neutral Nursery Design – Anewall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4220">
+                                <meta itemprop="height" content="3457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/cowboywesternnursery.jpg?v=1627486929' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/western-peel-and-stick-wallpaper-860564.png?crop=center&height=1154&v=1671170942&width=1154' alt='Western Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1154">
+                                <meta itemprop="height" content="1154">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/western-peel-and-stick-wallpaper-860564.png?crop=center&height=1154&v=1671170942&width=1154' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Peel and Stick Wallpaper (Western Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/cowboy-peel-and-stick-wallpaper-435069.jpg?v=1693951854' alt='Cowboy Peel and Stick Wallpaper (Western Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/cowboy-peel-and-stick-wallpaper-435069.jpg?v=1693951854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Southwestern Wallpaper, Western Wall Paper, Cowboy Wall Decal ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20454595/r/il/f1c595/3295615754/il_570xN.3295615754_onxv.jpg' alt='Southwestern Wallpaper, Western Wall Paper, Cowboy Wall Decal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20454595/r/il/f1c595/3295615754/il_570xN.3295615754_onxv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Toile Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/western-toile-wallpaper-665408.png?v=1730408942' alt='Western Toile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/western-toile-wallpaper-665408.png?v=1730408942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Pistols and Stars Wallpaper: Retro Western Peel & Stick for  Modern Decor">
+                                <img itemprop="contentUrl url" src='https://www.wallsofwisdomhome.com/cdn/shop/files/Western-Pistol-Wallpaper_bff55415-f811-4487-819c-b97720eff3ee.jpg?v=1727877249&width=1200' alt='Black & White Pistols and Stars Wallpaper: Retro Western Peel & Stick for  Modern Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls of Wisdom | Large Wall Art Murals & Rustic Western Decor" />
+                                </span>
+                                <a href='https://www.wallsofwisdomhome.com/cdn/shop/files/Western-Pistol-Wallpaper_bff55415-f811-4487-819c-b97720eff3ee.jpg?v=1727877249&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Peel and Stick Wallpaper (Western Wallpaper)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/cowboy-peel-and-stick-wallpaper-547231.jpg?v=1693932581' alt='Cowboy Peel and Stick Wallpaper (Western Wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/cowboy-peel-and-stick-wallpaper-547231.jpg?v=1693932581' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

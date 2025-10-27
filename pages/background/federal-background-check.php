@@ -1,0 +1,129 @@
+<title>Federal Background Check: Essential Guide</title>
+                    <meta name="description" content="Discover everything you need to know about federal background checks. Learn their importance, the process involved, and how they impact hiring and safety decisions. Stay informed with our concise guide tailored for quick reading on mobile devices.">
+                    <meta name="keywords" content="federal background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/federal-background-check">
+                            <span itemprop="name">federal background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Federal Background Check: Essential Guide</h1>
+                <p>A federal background check is a comprehensive review of an individual's criminal history, typically conducted by employers, licensing agencies, or organizations. This check involves searching databases managed by the FBI and other federal agencies to ensure safety and compliance. It's crucial for making informed hiring decisions in sensitive positions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check: Identity History Summary | GlobalPassport™">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' alt='FBI Background Check: Identity History Summary | GlobalPassport™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GlobalPassport™" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Background Checks: A Comprehensive Guide | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/d0e68c58b41fad4931d400513c6fd091/da8b6/Article-Federal-Background-Checks-Example-List.png' alt='Federal Background Checks: A Comprehensive Guide | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/d0e68c58b41fad4931d400513c6fd091/da8b6/Article-Federal-Background-Checks-Example-List.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Background Checks: A Comprehensive Guide | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/0c177b850e81d76cf40819deab05d054/d66bc/Article-Federal-Background-Checks_Resized.png' alt='Federal Background Checks: A Comprehensive Guide | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/0c177b850e81d76cf40819deab05d054/d66bc/Article-Federal-Background-Checks_Resized.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Apostille | Notarypublicapostille.com">
+                                <img itemprop="contentUrl url" src='https://notarypublicapostille.com/wp-content/uploads/2021/04/FBI-Background-Check-apostille-1-229x300.jpg' alt='FBI Background Check Apostille | Notarypublicapostille.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="229">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarmiento Notary" />
+                                </span>
+                                <a href='https://notarypublicapostille.com/wp-content/uploads/2021/04/FBI-Background-Check-apostille-1-229x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal Background Check - Federal Court Criminal Checks">
+                                <img itemprop="contentUrl url" src='https://www.instantcriminalchecks.com/images/federal-background-check.gif' alt='Federal Background Check - Federal Court Criminal Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant Criminal Background Checks" />
+                                </span>
+                                <a href='https://www.instantcriminalchecks.com/images/federal-background-check.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PIA: National Instant Criminal Background Check System (NICS) — FBI">
+                                <img itemprop="contentUrl url" src='https://www.fbi.gov/@@dvpdffiles/e/6/e6fdace8f3214ce5b62c4436a7a4048c/normal/dump_1.gif' alt='PIA: National Instant Criminal Background Check System (NICS) — FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI" />
+                                </span>
+                                <a href='https://www.fbi.gov/@@dvpdffiles/e/6/e6fdace8f3214ce5b62c4436a7a4048c/normal/dump_1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Apostille: The Step-By-Step Guide for Fast FBI Background ...">
+                                <img itemprop="contentUrl url" src='https://floridadocument.com/wp-content/uploads/2022/09/redact-fbi-example-791x1024.png' alt='FBI Apostille: The Step-By-Step Guide for Fast FBI Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Document Specialists" />
+                                </span>
+                                <a href='https://floridadocument.com/wp-content/uploads/2022/09/redact-fbi-example-791x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free FBI Criminal Background Check (Form 1-783) - PDF – eForms">
+                                <img itemprop="contentUrl url" src='https://eforms.com/images/2017/07/FBI-Background-Check-Forms-Packet.png' alt='Free FBI Criminal Background Check (Form 1-783) - PDF – eForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eForms" />
+                                </span>
+                                <a href='https://eforms.com/images/2017/07/FBI-Background-Check-Forms-Packet.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Instant Criminal Background Check System - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg/640px-Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg' alt='National Instant Criminal Background Check System - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg/640px-Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

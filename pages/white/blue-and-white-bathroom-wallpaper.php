@@ -1,0 +1,129 @@
+<title>Elegant Blue and White Bathroom Wallpaper Ideas</title>
+                    <meta name="description" content="Discover stunning blue and white bathroom wallpaper options that elevate your decor. Explore various patterns and styles to create a serene atmosphere in your space. Perfect for adding elegance and freshness to any bathroom design. Transform your bathroom today!">
+                    <meta name="keywords" content="blue and white bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-bathroom-wallpaper">
+                            <span itemprop="name">blue and white bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue and White Bathroom Wallpaper Ideas</h1>
+                <p>Transform your bathroom into a serene oasis with blue and white wallpaper. This classic color combination adds elegance and freshness, making your space feel larger and more inviting. From nautical patterns to floral designs, blue and white wallpaper can complement any decor style while providing a tranquil backdrop for relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' alt='Toile Farmhouse Whimsical Wallpaper, Blue and White Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36506512/r/il/0dabad/4533010817/il_fullxfull.4533010817_jenh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' alt='Blue and White Tile Tile Adhesive Peel and Stick Removable Wallpaper 8066'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/4a4cebf2972118194a8b98b4d877d49a_1200x1200.jpg?v=1609277136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' alt='67 Best Blue and White Wallpaper ideas | blue and white wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/03/9c/5b/039c5b633b613b5e0583ec5588a0b16d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stacking Plates | White on Cloud Blue - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1644618689995-E2CVU7AKGNAJUDDI5YRL/Screen+Shot+2022-02-11+at+2.07.48+PM.png?format=1000w' alt='Stacking Plates | White on Cloud Blue - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1644618689995-E2CVU7AKGNAJUDDI5YRL/Screen+Shot+2022-02-11+at+2.07.48+PM.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling">
+                                <img itemprop="contentUrl url" src='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' alt='MY FAVORITE BLUE AND WHITE WALLPAPERS | Design Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Darling" />
+                                </span>
+                                <a href='http://mackenziehoran.com/wp-content/uploads/2022/05/visual-comfort-country-bell-semi-flush-lantern-and-brunschwig-fils-les-touches-wallpaper-in-bathroom-1024x1434-1-500x700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowberry's Blue and White Bathroom Reveal - Make Mine a Spritzer">
+                                <img itemprop="contentUrl url" src='https://makemineaspritzer.com/wp-content/uploads/2021/01/Snowberry-May-2020_-0076.jpg' alt='Snowberry's Blue and White Bathroom Reveal - Make Mine a Spritzer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make Mine a Spritzer" />
+                                </span>
+                                <a href='https://makemineaspritzer.com/wp-content/uploads/2021/01/Snowberry-May-2020_-0076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Fresh Blue Bathroom Ideas - Mylands">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2983/8386/t/20/assets/hoxton-grey-no72-wm-eggshell--doors--architaves_blueprint-wm-eggshell--sink-unit_mylands_freegrove-road_second-bedroom-en-suite_portrait_2-1658225083128.jpg?v=1658225084' alt='Five Fresh Blue Bathroom Ideas - Mylands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mylands" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2983/8386/t/20/assets/hoxton-grey-no72-wm-eggshell--doors--architaves_blueprint-wm-eggshell--sink-unit_mylands_freegrove-road_second-bedroom-en-suite_portrait_2-1658225083128.jpg?v=1658225084' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathroom Wallpaper Ideas - Designer Wallpaper Patterns for Powder ...">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/collections/Nathan_Turner_Collection_-_Citrus_White_326c55d5-19de-4e38-b768-17cf85f7e36c.jpg?v=1636852766' alt='Bathroom Wallpaper Ideas - Designer Wallpaper Patterns for Powder ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1391">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/collections/Nathan_Turner_Collection_-_Citrus_White_326c55d5-19de-4e38-b768-17cf85f7e36c.jpg?v=1636852766' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' alt='Powder Room Floral Wallpaper Blue Peony Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13227949/r/il/d633c1/3525436968/il_570xN.3525436968_43nw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana 118"x17.7" Blue and White Striped Contact Paper Navy Blue Peel and  Stick Wallpaper Removable Contact Paper Self-Adhesive Wallpaper Modern ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814noCL47SL.jpg' alt='Guvana 118"x17.7" Blue and White Striped Contact Paper Navy Blue Peel and  Stick Wallpaper Removable Contact Paper Self-Adhesive Wallpaper Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1702">
+                                <meta itemprop="height" content="2495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814noCL47SL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

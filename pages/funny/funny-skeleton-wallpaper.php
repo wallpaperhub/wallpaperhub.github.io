@@ -1,0 +1,129 @@
+<title>Hilarious Skeleton Wallpaper for a Spooky Touch</title>
+                    <meta name="description" content="Explore our collection of funny skeleton wallpaper that adds a playful vibe to any room. Perfect for Halloween or year-round fun, these designs will make guests chuckle. Lightweight and easy to apply, our wallpapers bring humor and charm to your walls. Brighten up your space today!">
+                    <meta name="keywords" content="funny skeleton wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/funny-skeleton-wallpaper">
+                            <span itemprop="name">funny skeleton wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious Skeleton Wallpaper for a Spooky Touch</h1>
+                <p>Transform your space with our funny skeleton wallpaper! Perfect for Halloween or anyone who loves a good laugh, these quirky designs add a humorous twist to your decor. Whether you're decorating a kid's room or just want to lighten the mood, our skeleton wallpapers bring personality and charm to any wall. Dive into a world of spooky fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Skeleton Rock Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/funny-skeleton-rock-aesthetic-bda4plocccafjej0.jpg' alt='Funny Skeleton Rock Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/funny-skeleton-rock-aesthetic-bda4plocccafjej0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got Your Back Bro, Bones, Skull, Comedy, Skeleton, Funny, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/7/859/HD-wallpaper-i-got-your-back-bro-bones-skull-comedy-skeleton-funny.jpg' alt='I Got Your Back Bro, Bones, Skull, Comedy, Skeleton, Funny, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/7/859/HD-wallpaper-i-got-your-back-bro-bones-skull-comedy-skeleton-funny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/e9/2b/08e92bac398928a9cbb27d83b6a0c50f.jpg' alt='Skeleton Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/e9/2b/08e92bac398928a9cbb27d83b6a0c50f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Skeleton In The Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-skeleton-in-the-sky-6g14jzgeust3t335.webp' alt='Cute Skeleton In The Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-skeleton-in-the-sky-6g14jzgeust3t335.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD funny skeleton wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/632/903/HD-wallpaper-skeleton-dab-funny-entertaining-thumbnail.jpg' alt='HD funny skeleton wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/632/903/HD-wallpaper-skeleton-dab-funny-entertaining-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Skeleton Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-skeleton-i3ol0awpwnygeo10.jpg' alt='100+] Cute Skeleton Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-skeleton-i3ol0awpwnygeo10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Skeleton Images – Browse 123,073 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/29/20/81/360_F_229208109_gW9YPxEDiGhqAuY5q2jxiBljSX3hSGHz.jpg' alt='Funny Skeleton Images – Browse 123,073 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/29/20/81/360_F_229208109_gW9YPxEDiGhqAuY5q2jxiBljSX3hSGHz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween iPad WALLPAPER Funny Skeleton, Wallpaper Ipad, Spooky ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/103d88/5334902519/il_fullxfull.5334902519_e34l.jpg' alt='Halloween iPad WALLPAPER Funny Skeleton, Wallpaper Ipad, Spooky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/103d88/5334902519/il_fullxfull.5334902519_e34l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/bf/77/32bf770d2b00080e1cc81471ee65f4ba.jpg' alt='Skeleton Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/bf/77/32bf770d2b00080e1cc81471ee65f4ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SKELETON WALLPAPER DESKTOP, Funny Skeleton Desktop Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/fcfbec/5485375547/il_570xN.5485375547_caii.jpg' alt='SKELETON WALLPAPER DESKTOP, Funny Skeleton Desktop Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/fcfbec/5485375547/il_570xN.5485375547_caii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

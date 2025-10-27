@@ -1,0 +1,129 @@
+<title>Barbie Birthday Decorations: Create a Magical Celebration!</title>
+                    <meta name="description" content="Elevate your child's birthday with enchanting Barbie decorations! Explore vibrant themes, balloons, and party supplies for a memorable celebration. Transform your party space and delight young guests with stylish Barbie-inspired decor. Perfect for collectors and fans alike!">
+                    <meta name="keywords" content="barbie birthday decorations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barbie-birthday-decorations">
+                            <span itemprop="name">barbie birthday decorations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barbie Birthday Decorations: Create a Magical Celebration!</h1>
+                <p>Make your child's birthday magical with vibrant Barbie birthday decorations! From pink balloons and themed tableware to stunning banners and cake toppers, transform your space into Barbie's dream world. Add sparkle with DIY crafts and party favors that delight every little guest. Celebrate with style and create unforgettable memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EPIC Malibu Barbie Birthday Party - ravenelysetv.com">
+                                <img itemprop="contentUrl url" src='https://ravenelysetv.com/wp-content/uploads/2023/04/custom-barbie-photo-box.png' alt='EPIC Malibu Barbie Birthday Party - ravenelysetv.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raven Elyse" />
+                                </span>
+                                <a href='https://ravenelysetv.com/wp-content/uploads/2023/04/custom-barbie-photo-box.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Unique Barbie Party Decorations | Serves 16 Guests | Officially  Licensed | Barbie Birthday Decorations | Barbie Birthday Party Supplies |  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91tfSRG9+aL.jpg' alt='Amazon.com: Unique Barbie Party Decorations | Serves 16 Guests | Officially  Licensed | Barbie Birthday Decorations | Barbie Birthday Party Supplies |  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91tfSRG9+aL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Throw a Barbie Birthday Party - The Price Adventure">
+                                <img itemprop="contentUrl url" src='https://thepriceadventure.com/wp-content/uploads/2023/10/2D4A6358-scaled.jpg' alt='How to Throw a Barbie Birthday Party - The Price Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Price Adventure -" />
+                                </span>
+                                <a href='https://thepriceadventure.com/wp-content/uploads/2023/10/2D4A6358-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Birthday - Anagram Licensed Barbie Balloons | Barbie Party ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37254409/r/il/a3ddb1/5783059958/il_fullxfull.5783059958_4phx.jpg' alt='Barbie Birthday - Anagram Licensed Barbie Balloons | Barbie Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1485">
+                                <meta itemprop="height" content="1485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37254409/r/il/a3ddb1/5783059958/il_fullxfull.5783059958_4phx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Barbie Kids Birthday Party Supplies, Serves 16 - Dessert &  Lunch Paper Plates, Beverage Napkins, Paper Cups, Tablecloth & Balloons -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81yOBWG2MQL.jpg' alt='Amazon.com: Barbie Kids Birthday Party Supplies, Serves 16 - Dessert &  Lunch Paper Plates, Beverage Napkins, Paper Cups, Tablecloth & Balloons -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81yOBWG2MQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Barbie Birthday Ideas: Centerpieces & Balloon Backdrops Decor!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hgN4NZoLAUI/maxresdefault.jpg' alt='DIY Barbie Birthday Ideas: Centerpieces & Balloon Backdrops Decor!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hgN4NZoLAUI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BARBIE PARTY SUPPLIES Barbie Doll birthday party Barbie kit party 90PCS">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/TtYAAOSw2dlfWXdK/$_57.JPG?set_id=880000500F' alt='BARBIE PARTY SUPPLIES Barbie Doll birthday party Barbie kit party 90PCS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/TtYAAOSw2dlfWXdK/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie themed Birthday Party - Posh Little Designs">
+                                <img itemprop="contentUrl url" src='https://poshlittledesigns.com/wp-content/uploads/2024/07/Barbie-Party-update-32.jpg' alt='Barbie themed Birthday Party - Posh Little Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posh Little Designs" />
+                                </span>
+                                <a href='https://poshlittledesigns.com/wp-content/uploads/2024/07/Barbie-Party-update-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Step-by-Step Guide: Planning a Memorable Barbie Themed Birthday ...">
+                                <img itemprop="contentUrl url" src='https://princesspartiesbynatalie.com/wp-content/uploads/2023/07/barbie-scaled-e1690055959450.webp' alt='Step-by-Step Guide: Planning a Memorable Barbie Themed Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Princess Parties by Natalie" />
+                                </span>
+                                <a href='https://princesspartiesbynatalie.com/wp-content/uploads/2023/07/barbie-scaled-e1690055959450.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Barbie Birthday Party Ideas Your Little One Will LOVE - One ...">
+                                <img itemprop="contentUrl url" src='https://www.onesweetnursery.com/wp-content/uploads/2024/09/barbie-birthday-party-ideas.jpg' alt='25+ Barbie Birthday Party Ideas Your Little One Will LOVE - One ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Sweet Nursery" />
+                                </span>
+                                <a href='https://www.onesweetnursery.com/wp-content/uploads/2024/09/barbie-birthday-party-ideas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

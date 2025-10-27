@@ -1,0 +1,129 @@
+<title>Discover the Magic of Romeo Santos: Bachata's King</title>
+                    <meta name="description" content="Explore the world of Romeo Santos, the iconic Bachata artist known for his heartwarming lyrics and captivating melodies. Learn about his journey from Aventura to solo stardom and discover his newest hits and albums. Dive into the rhythm of his music today!">
+                    <meta name="keywords" content="romeo santos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/romeo-santos">
+                            <span itemprop="name">romeo santos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Romeo Santos: Bachata's King</h1>
+                <p>Romeo Santos, the King of Bachata, has captivated audiences worldwide with his soulful voice and compelling songwriting. Rising to fame as the lead vocalist of Aventura, he has since launched a successful solo career, releasing hits that blend romantic themes with infectious rhythms. His music transcends cultures and continues to resonate globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8b/El_Rey_de_Bachata.jpg' alt='Romeo Santos - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8b/El_Rey_de_Bachata.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb6d8b48abede0f9e433aa6e49' alt='Romeo Santos Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb6d8b48abede0f9e433aa6e49' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/vu-zuubmBfz-fBHMomd3Uk3tMfadUjK71mNNFMjGU8ZMK75E9mocWax-v2rBJBUUm7Cs6AzE=s900-c-k-c0x00ffffff-no-rj' alt='Romeo Santos - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/vu-zuubmBfz-fBHMomd3Uk3tMfadUjK71mNNFMjGU8ZMK75E9mocWax-v2rBJBUUm7Cs6AzE=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fórmula Vol. 1">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81h6qKxR7LL._UF1000,1000_QL80_.jpg' alt='Fórmula Vol. 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81h6qKxR7LL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos' 'Formula, Vol. 3': Inside the Bachata King's New Album">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/08/feature-romeo-santos-billboard-2022-bb11-grace-rivera-2-1240.jpg?w=819' alt='Romeo Santos' 'Formula, Vol. 3': Inside the Bachata King's New Album'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/08/feature-romeo-santos-billboard-2022-bb11-grace-rivera-2-1240.jpg?w=819' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Días - song and lyrics by Romeo Santos | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273e9da42890bbd629df1e8f640' alt='7 Días - song and lyrics by Romeo Santos | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273e9da42890bbd629df1e8f640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Latin Pop-Megastar Romeo Santos on His Big Year">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/77f/ff1/e822330229f52c66196b9a2aea6e6f110c-12-romeo-santos.rvertical.w330.png' alt='Latin Pop-Megastar Romeo Santos on His Big Year'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/77f/ff1/e822330229f52c66196b9a2aea6e6f110c-12-romeo-santos.rvertical.w330.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos Talks 'Utopia,' Aventura & His New Baby | Billboard">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/romeo-santos-2019-cr-Erniel-Rodriguez-billboard-1548.jpg' alt='Romeo Santos Talks 'Utopia,' Aventura & His New Baby | Billboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/romeo-santos-2019-cr-Erniel-Rodriguez-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos Next Concert Setlist & tour dates">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/573323ce254851c2c0b616758c9e9413948cd16b' alt='Romeo Santos Next Concert Setlist & tour dates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Concerty.com" />
+                                </span>
+                                <a href='https://i.scdn.co/image/573323ce254851c2c0b616758c9e9413948cd16b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romeo Santos Denies Reports He Suffered a Heart Attack">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/04/romeo-santos-heart-attack.jpg?w=1581&h=1054&crop=1' alt='Romeo Santos Denies Reports He Suffered a Heart Attack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/04/romeo-santos-heart-attack.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

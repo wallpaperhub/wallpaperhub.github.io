@@ -1,0 +1,129 @@
+<title>Elegant Brown and Blue Background Designs</title>
+                    <meta name="description" content="Discover the beauty of brown and blue backgrounds! This perfect blend enhances your design projects with warmth and tranquility. Ideal for art, websites, and graphics, explore how these colors can elevate your visuals. Embrace elegance and balance in your creative endeavors today!">
+                    <meta name="keywords" content="brown and blue background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-and-blue-background">
+                            <span itemprop="name">brown and blue background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Brown and Blue Background Designs</h1>
+                <p>Brown and blue backgrounds create a striking visual contrast that is both soothing and dynamic. Brown evokes warmth and earthiness, while blue brings in a refreshing and calming essence. This combination can be used effectively in design, fashion, or art, creating a harmonious balance that captivates the eye and enhances creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Brown Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-dark-blue-brown-background-texture-with-vintage-grunge-background-texture_941265-642.jpg?semt=ais_hybrid' alt='Blue Brown Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-dark-blue-brown-background-texture-with-vintage-grunge-background-texture_941265-642.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Watercolor Backgrounds In Shades Of Brown And Blue ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20231228/pngtree-aesthetic-watercolor-backgrounds-in-shades-of-brown-and-blue-vector-design-image_13900888.png' alt='Aesthetic Watercolor Backgrounds In Shades Of Brown And Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20231228/pngtree-aesthetic-watercolor-backgrounds-in-shades-of-brown-and-blue-vector-design-image_13900888.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown with blue light abstract background vector 01 free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2017/08/brown-with-blue-light-abstract-background-vector-01.jpg' alt='brown with blue light abstract background vector 01 free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2017/08/brown-with-blue-light-abstract-background-vector-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Brown Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-beach-themed-hand-painted-alcohol-ink-background_1048-20327.jpg' alt='Blue And Brown Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-beach-themed-hand-painted-alcohol-ink-background_1048-20327.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown.blue Images – Browse 3,662,811 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/67/00/25/360_F_967002532_5OslVTcZQtx2UID1QvpSlKKp248gNa2r.jpg' alt='Brown.blue Images – Browse 3,662,811 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/67/00/25/360_F_967002532_5OslVTcZQtx2UID1QvpSlKKp248gNa2r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue brown background — Stock Photo © stillfx #163480714">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1031174/16348/i/1600/depositphotos_163480714-stock-photo-blue-brown-background.jpg' alt='Blue brown background — Stock Photo © stillfx #163480714'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1031174/16348/i/1600/depositphotos_163480714-stock-photo-blue-brown-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="885,321 Background Blue Brown Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/old-blue-brown-background-paper-texture-26019869.jpg' alt='885,321 Background Blue Brown Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/old-blue-brown-background-paper-texture-26019869.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brown with blue light abstract background vector 02 free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2017/08/brown-with-blue-light-abstract-background-vector-02.jpg' alt='brown with blue light abstract background vector 02 free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2017/08/brown-with-blue-light-abstract-background-vector-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Brown Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/909/347/non_2x/beach-background-with-blue-and-brown-gradient-colors-free-vector.jpg' alt='Blue Brown Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/909/347/non_2x/beach-background-with-blue-and-brown-gradient-colors-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and blue abstract watercolor texture background. Grunge ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/74/86/76/1000_F_274867645_3o5fwfhGofeOGeMK2EHAiNAtCYEHhkMa.jpg' alt='Brown and blue abstract watercolor texture background. Grunge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/74/86/76/1000_F_274867645_3o5fwfhGofeOGeMK2EHAiNAtCYEHhkMa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

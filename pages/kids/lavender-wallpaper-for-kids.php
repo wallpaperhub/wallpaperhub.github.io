@@ -1,0 +1,129 @@
+<title>Charming Lavender Wallpaper for Kids' Rooms</title>
+                    <meta name="description" content="Discover enchanting lavender wallpaper for kids that adds charm and serenity to their space. Ideal for nurseries and playrooms, our designs inspire creativity and create a restful atmosphere. Explore our collection and give your child the perfect backdrop for their adventures!">
+                    <meta name="keywords" content="lavender wallpaper for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/lavender-wallpaper-for-kids">
+                            <span itemprop="name">lavender wallpaper for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Lavender Wallpaper for Kids' Rooms</h1>
+                <p>Transform your child's room with delightful lavender wallpaper that combines elegance and playfulness. The soothing lavender hue adds a calming ambiance, perfect for bedtime stories and dreams. Choose from whimsical patterns or classic designs to create a cozy space that sparks creativity and joy in your little one!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: VGHUYEVOGERE Modern Wallpaper Murals 3D Lavender Nursery  Rainbows Clouds Peel and Stick Removable Self-Adhesive PVC Wall Stickers  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61kALatUETL.jpg' alt='Amazon.com: VGHUYEVOGERE Modern Wallpaper Murals 3D Lavender Nursery  Rainbows Clouds Peel and Stick Removable Self-Adhesive PVC Wall Stickers  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61kALatUETL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper for Kids and Nursery Rooms - Shop Now!">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2993/5016/files/3_candy_stars.jpg?v=1718665125' alt='Purple Wallpaper for Kids and Nursery Rooms - Shop Now!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teepee Joy" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2993/5016/files/3_candy_stars.jpg?v=1718665125' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Wallpaper, Natural Plants Wall Mural, 3D Print Peel and  Stick Self-Adhesive Home Wall Decal for Boys Girls Bedroom Office Living  Room ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71kC1QYiFtL._AC_UF894,1000_QL80_.jpg' alt='Purple Lavender Wallpaper, Natural Plants Wall Mural, 3D Print Peel and  Stick Self-Adhesive Home Wall Decal for Boys Girls Bedroom Office Living  Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71kC1QYiFtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/241-7537528995903.jpg?v=1720842028&width=2093' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2093">
+                                <meta itemprop="height" content="2093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/241-7537528995903.jpg?v=1720842028&width=2093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid - Purple - Wallpaper - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9c5d2d54-9d25-4b74-9280-126e4dae635a/svn/wallpaper-rolls-g78373-64_300.jpg' alt='Kid - Purple - Wallpaper - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9c5d2d54-9d25-4b74-9280-126e4dae635a/svn/wallpaper-rolls-g78373-64_300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lavender Butterfly Wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/files/Lavender-butterflies-kids-room-wallpaper-2.jpg?v=1696087865' alt='Purple Lavender Butterfly Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/files/Lavender-butterflies-kids-room-wallpaper-2.jpg?v=1696087865' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Magical purple heather Peel and Stick Removable  Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/ae4ce18e-3878-483c-8a5f-46ec6bc2a9bf.a8a2e72bcffe0f27a7a595caca426042.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Modern Wallpaper Murals 3D Magical purple heather Peel and Stick Removable  Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/ae4ce18e-3878-483c-8a5f-46ec6bc2a9bf.a8a2e72bcffe0f27a7a595caca426042.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Misty Forest Purple Meadow Flowers Nursery Wallpaper Baby Girl Wall  Decor Hanging Leaves Pastel Color Photo Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/31f400/3344545959/il_570xN.3344545959_o9df.jpg' alt='Magic Misty Forest Purple Meadow Flowers Nursery Wallpaper Baby Girl Wall  Decor Hanging Leaves Pastel Color Photo Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/31f400/3344545959/il_570xN.3344545959_o9df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbows | English Lavender - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1642795689861-LGWNZDDPDHFOG3I3O86R/Screen+Shot+2022-01-21+at+1.57.43+PM.png?format=1000w' alt='Rainbows | English Lavender - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1642795689861-LGWNZDDPDHFOG3I3O86R/Screen+Shot+2022-01-21+at+1.57.43+PM.png?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JBTOHS Purple Lavender Modern Wallpaper Murals 3D Natural Plants Peel and  Stick Removable Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71H0AwyzfxL.jpg' alt='JBTOHS Purple Lavender Modern Wallpaper Murals 3D Natural Plants Peel and  Stick Removable Self-Adhesive PVC Wall Stickers for Nursery Kids Bedroom TV  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71H0AwyzfxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

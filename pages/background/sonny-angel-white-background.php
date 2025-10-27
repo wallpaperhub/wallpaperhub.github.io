@@ -1,0 +1,129 @@
+<title>Sonny Angel: Adorable Collectibles on White Background</title>
+                    <meta name="description" content="Discover the enchanting world of Sonny Angel figurines set against a pristine white background. These adorable collectibles are perfect for fans and collectors, showcasing their unique charm and whimsical designs. Elevate your space with these delightful pieces that bring joy and cuteness into any room.">
+                    <meta name="keywords" content="sonny angel white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sonny-angel-white-background">
+                            <span itemprop="name">sonny angel white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sonny Angel: Adorable Collectibles on White Background</h1>
+                <p>Sonny Angel figurines are beloved for their adorable designs and unique charm. Against a classic white background, the details of these cute collectibles truly pop, making them perfect for display in any setting. Their whimsical appeal and delightful expressions capture the hearts of fans and collectors alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRODUCTS -Mini Figure (Regular)- ｜ Sonny Angel - Official Site -">
+                                <img itemprop="contentUrl url" src='https://www.sonnyangel.com/renewal/wp-content/uploads/cache/2018/10/new_whitebear_01-1/560102765.jpg' alt='PRODUCTS -Mini Figure (Regular)- ｜ Sonny Angel - Official Site -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="150">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sonny Angel" />
+                                </span>
+                                <a href='https://www.sonnyangel.com/renewal/wp-content/uploads/cache/2018/10/new_whitebear_01-1/560102765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white cat sonny angel | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5098436119.8829/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='white cat sonny angel | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5098436119.8829/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini Figurine Animal Series 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/38/6f/cb386f702b46fec64d51888e66961bad.jpg' alt='Mini Figurine Animal Series 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/38/6f/cb386f702b46fec64d51888e66961bad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="starfish sonny angel pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/1b/b5/221bb5619064d17f27b8b798b242a6ac.jpg' alt='starfish sonny angel pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/1b/b5/221bb5619064d17f27b8b798b242a6ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreams Sonny Angel - Vegetable Series">
+                                <img itemprop="contentUrl url" src='https://cdn.shoplightspeed.com/shops/649365/files/46478709/1652x1652x2/dreams-sonny-angel-vegetable-series.jpg' alt='Dreams Sonny Angel - Vegetable Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1652">
+                                <meta itemprop="height" content="1652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Matcha Time Gift Shop" />
+                                </span>
+                                <a href='https://cdn.shoplightspeed.com/shops/649365/files/46478709/1652x1652x2/dreams-sonny-angel-vegetable-series.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRODUCTS -Mini Figure (Regular)- ｜ Sonny Angel - Official Site -">
+                                <img itemprop="contentUrl url" src='https://www.sonnyangel.com/renewal/wp-content/uploads/cache/2019/08/Strawberry/3842779761.png' alt='PRODUCTS -Mini Figure (Regular)- ｜ Sonny Angel - Official Site -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="150">
+                                <meta itemprop="height" content="327">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sonny Angel" />
+                                </span>
+                                <a href='https://www.sonnyangel.com/renewal/wp-content/uploads/cache/2019/08/Strawberry/3842779761.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ISO monkey sonny angel I'll literally trade anything or pay any ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/iso-monkey-sonny-angel-ill-literally-trade-anything-or-pay-v0-qiv31nhq2m7b1.jpg?width=640&crop=smart&auto=webp&s=e9cab8872897bf16ba820083abee5d9ae5b02363' alt='ISO monkey sonny angel I'll literally trade anything or pay any ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/iso-monkey-sonny-angel-ill-literally-trade-anything-or-pay-v0-qiv31nhq2m7b1.jpg?width=640&crop=smart&auto=webp&s=e9cab8872897bf16ba820083abee5d9ae5b02363' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry sonny angel transparent background | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5438125962.9156/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Raspberry sonny angel transparent background | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5438125962.9156/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sonny Angel tiger✧.*">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/9d/f2/109df270e6ec202a3f3044aa8a726807.jpg' alt='Sonny Angel tiger✧.*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/9d/f2/109df270e6ec202a3f3044aa8a726807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dolphin sonny angel | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5111993046.3730/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='dolphin sonny angel | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5111993046.3730/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore captivating galaxy aesthetic wallpapers to elevate your device's look. Discover vibrant cosmic designs perfect for showcasing your love of space and beauty. Transform your screens with cosmic colors and starry skies that inspire and delight.">
+                    <meta name="keywords" content="galaxy aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-aesthetic-wallpaper">
+                            <span itemprop="name">galaxy aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning galaxy aesthetic wallpapers that capture the beauty of the cosmos. Featuring vibrant colors, star-studded skies, and cosmic patterns, these wallpapers offer a mesmerizing backdrop for your screens. Perfect for space enthusiasts, they enhance any digital space with a touch of celestial charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Purple Aesthetic Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-and-purple-aesthetic-galaxy-cg51ihvor4h7igog.jpg' alt='Black And Purple Aesthetic Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-and-purple-aesthetic-galaxy-cg51ihvor4h7igog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/fa/e4/48fae44aeffaff8ab3ea50718dfd216e.jpg' alt='Galaxy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/fa/e4/48fae44aeffaff8ab3ea50718dfd216e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-nf1w8ixwpr6uut3m.jpg' alt='100+] Galaxy Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-nf1w8ixwpr6uut3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Aesthetic Purple Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pretty-aesthetic-purple-galaxy-el07p9x3ml98nj4r.jpg' alt='Pretty Aesthetic Purple Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pretty-aesthetic-purple-galaxy-el07p9x3ml98nj4r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Galaxy Aesthetic ideas | galaxy, space pictures, astronomy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2f/22/12/2f221261ebebadb6ea1adba662b37e71.jpg' alt='900+ Galaxy Aesthetic ideas | galaxy, space pictures, astronomy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2f/22/12/2f221261ebebadb6ea1adba662b37e71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sky aesthetic – @some-aesthetic-wallpapers on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9cb566dcfdb6fb07ff892b80efff20aa/tumblr_pmmjrjh9Hb1sa30yz_1280.jpg' alt='sky aesthetic – @some-aesthetic-wallpapers on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9cb566dcfdb6fb07ff892b80efff20aa/tumblr_pmmjrjh9Hb1sa30yz_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Take a journey through time and space with Galaxy Blue ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-wzp92iex7gbrvk2i.jpg' alt='Download Take a journey through time and space with Galaxy Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-wzp92iex7gbrvk2i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Eye, aesthetic, milky way, planet, purple, saturn, space ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/280/732/HD-wallpaper-galaxy-eye-aesthetic-milky-way-planet-purple-saturn-space-trippy.jpg' alt='Galaxy Eye, aesthetic, milky way, planet, purple, saturn, space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/280/732/HD-wallpaper-galaxy-eye-aesthetic-milky-way-planet-purple-saturn-space-trippy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Moon Aesthetic Galaxy Wallpaper Bundle Download Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30152599/r/il/48fafd/3568692632/il_570xN.3568692632_426k.jpg' alt='Celestial Moon Aesthetic Galaxy Wallpaper Bundle Download Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30152599/r/il/48fafd/3568692632/il_570xN.3568692632_426k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Dark Galaxy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' alt='Most Popular Dark Galaxy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-lost-astronaut-adventure-aesthetic-beautiful-astronomy-cool-trippy-dark-galaxy-retro-astronaut-spaceman-lost-in-space-surreal-30-10-2024-1730342151-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

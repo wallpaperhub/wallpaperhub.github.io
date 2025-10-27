@@ -1,0 +1,129 @@
+<title>Volleyball Court Background: A Dynamic Play Space</title>
+                    <meta name="description" content="Discover the vibrant backdrop of volleyball courts! Whether indoor or outdoor, learn about the design, materials, and thrilling atmosphere that enhance the game. Perfect for players and fans, explore how these dynamic settings make volleyball an exciting sport to enjoy.">
+                    <meta name="keywords" content="volleyball court background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/volleyball-court-background">
+                            <span itemprop="name">volleyball court background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Volleyball Court Background: A Dynamic Play Space</h1>
+                <p>A volleyball court background features a smooth, flat surface, typically made of sand or wood. The court is divided by a high net in the center, with lines marking the boundaries. Ideal for both beach and indoor play, the ambiance often includes vibrant colors and dynamic action, creating an exciting environment for athletes and spectators alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Court Background Images – Browse 21,123 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/22/84/12/360_F_422841241_OR69MNhNG3Sxl6pmrKwuoBZPaZpZLt1a.jpg' alt='Volleyball Court Background Images – Browse 21,123 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/22/84/12/360_F_422841241_OR69MNhNG3Sxl6pmrKwuoBZPaZpZLt1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL BACKGROUND - VOLLEYBALL COURT V">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-jdhnct1/products/2332/images/6786/volleyball_court_V__70983.1601652904.500.625.jpg?c=2' alt='DIGITAL BACKGROUND - VOLLEYBALL COURT V'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Photo Borders" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-jdhnct1/products/2332/images/6786/volleyball_court_V__70983.1601652904.500.625.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL BACKGROUND - VOLLEYBALL COURT III - HORIZONTAL">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-jdhnct1/images/stencil/1280x1280/products/2335/6792/volleyball_court_horz_III__43813.1601653304.jpg?c=2' alt='DIGITAL BACKGROUND - VOLLEYBALL COURT III - HORIZONTAL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Photo Borders" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-jdhnct1/images/stencil/1280x1280/products/2335/6792/volleyball_court_horz_III__43813.1601653304.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Court Background Images – Browse 21,123 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/84/01/85/360_F_784018568_3Mvmi5jUONpUyZQEXSB7dS3COAXuRsYH.jpg' alt='Volleyball Court Background Images – Browse 21,123 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/84/01/85/360_F_784018568_3Mvmi5jUONpUyZQEXSB7dS3COAXuRsYH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL BACKGROUND - VOLLEYBALL COURT">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-jdhnct1/images/stencil/1280x1280/products/686/1786/volleyball_court__18063.1477419942.jpg?c=2' alt='DIGITAL BACKGROUND - VOLLEYBALL COURT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Photo Borders" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-jdhnct1/images/stencil/1280x1280/products/686/1786/volleyball_court__18063.1477419942.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,700+ Volleyball Court Indoor Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1880868639/photo/empty-professional-volleyball-court-in-lights.jpg?s=612x612&w=0&k=20&c=WKC3VjuxioM8B01M1j7e5_ZC1vcbC71n9GsMiDNFozk=' alt='2,700+ Volleyball Court Indoor Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1880868639/photo/empty-professional-volleyball-court-in-lights.jpg?s=612x612&w=0&k=20&c=WKC3VjuxioM8B01M1j7e5_ZC1vcbC71n9GsMiDNFozk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Court Images – Browse 40,801 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/11/82/71/360_F_211827190_SYtnwYmxeHEghZxKtCP3coVyXbbLZGzr.jpg' alt='Volleyball Court Images – Browse 40,801 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/11/82/71/360_F_211827190_SYtnwYmxeHEghZxKtCP3coVyXbbLZGzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Backdrop Photography - Sports | VOLLEYBALL RED VIBRANCE ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21060982/r/il/0eca8c/4327939067/il_fullxfull.4327939067_qgbx.jpg' alt='Digital Backdrop Photography - Sports | VOLLEYBALL RED VIBRANCE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21060982/r/il/0eca8c/4327939067/il_fullxfull.4327939067_qgbx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,501 Volleyball Court Empty Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/sport-arena-interior-professional-volleyball-260nw-1942692997.jpg' alt='3,501 Volleyball Court Empty Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/sport-arena-interior-professional-volleyball-260nw-1942692997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Volleyball Digital Backdrop - Sports | VOLLEYBALL PURPLE VIBRANCE ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21060982/r/il/070acf/4280582182/il_fullxfull.4280582182_mvja.jpg' alt='Volleyball Digital Backdrop - Sports | VOLLEYBALL PURPLE VIBRANCE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21060982/r/il/070acf/4280582182/il_fullxfull.4280582182_mvja.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
