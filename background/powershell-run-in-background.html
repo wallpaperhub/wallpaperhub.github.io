@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+                  <html lang="en">
+                  <head>
+                      <meta charset="UTF-8">
+                      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+                      <title>PowerShell: Efficiently Run Scripts in the Background</title>
+                    <meta name="description" content="Learn how to effectively run PowerShell scripts in the background to enhance productivity. Discover essential commands and techniques to multitask without keeping the console open, optimizing your workflow effortlessly. Perfect for busy users seeking efficiency.">
+                    <meta name="keywords" content="powershell run in background">
+                </head>
+                <body>
+                <nav>
+                                                        <ul>
+                                                            <li><a href="/">Home</a></li>
+                                                            <li><a href="page/about-us.html">About Us</a></li>
+                                                            <li><a href="page/contact-us.html">Contact Us</a></li>
+                                                            <li><a href="page/dmca.html">DMCA</a></li>
+                                                            <li><a href="page/license.html">License</a></li>
+                                                            <li><a href="page/privacy-policy.html">Privacy Policy</a></li>
+                                                            <li><a href="page/terms-of-use.html">Terms Of Use</a></li>
+                                                        </ul>
+                                                    </nav>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/powershell-run-in-background">
+                            <span itemprop="name">powershell run in background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>PowerShell: Efficiently Run Scripts in the Background</h1>
+                <p>Running PowerShell in the background allows users to execute scripts and commands without needing to keep the console open. This can be achieved using the "Start-Process" cmdlet with the "-NoNewWindow" flag, facilitating seamless multitasking. Background tasks free up terminal space for other operations, enhancing productivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 background usually runs powershell after start ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/bb02ca4f-85f3-43ec-989f-88a0310b297e?upload=true' alt='Windows 11 background usually runs powershell after start ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1922">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/bb02ca4f-85f3-43ec-989f-88a0310b297e?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Under The Stairs: Background Jobs in PowerShell 7">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic9aONKkaNydRHqOlCcZ0qarmhVVYZcRbhvsaG2njpMQdDOkzlk3Y71x_bu7hsn4FjAs2l5gybMJ6R0pTx5PZxy7sr0SOUcJlYgrQDzKBHqpioXu2fC-exx5QGDL0V_QFcWyDpow/s1600/2020-01-15_11-30-31.png' alt='Under The Stairs: Background Jobs in PowerShell 7'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Under The Stairs" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic9aONKkaNydRHqOlCcZ0qarmhVVYZcRbhvsaG2njpMQdDOkzlk3Y71x_bu7hsn4FjAs2l5gybMJ6R0pTx5PZxy7sr0SOUcJlYgrQDzKBHqpioXu2fC-exx5QGDL0V_QFcWyDpow/s1600/2020-01-15_11-30-31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powershell running in background - Microsoft Community">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/f152b0c4-622e-4c3a-83c4-39c89099e313?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54V0bAjC4%2FqsJkKlPoP3a38Q7A9zVWZqE%2BHtgSLZxWFgr%2Fh2oIB3I0HrVfYBbAA0%2FryRc3aHJn0Cdi8lm8roySVChx5swB2GKeJPIrOAwKVwaP9UjN4z3crbTit1DOuOA7jfuUcJgj%2B%2FL8wGV%2FCVwxiV3%2FmTuwoZGoJP0zQijmRyirJQCqvHh1FP5cYfen4enQbXc1e5RZYGE9ehB1XOutTDrmkA2bnZFTByYS1FQJhdfvtJEah58jQLHyKqoMM5IXpNjazfYbB0nNELIi%2BSLD2dpfYtVFjreUkXYqPSyrUGk%3D' alt='Powershell running in background - Microsoft Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/f152b0c4-622e-4c3a-83c4-39c89099e313?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54V0bAjC4%2FqsJkKlPoP3a38Q7A9zVWZqE%2BHtgSLZxWFgr%2Fh2oIB3I0HrVfYBbAA0%2FryRc3aHJn0Cdi8lm8roySVChx5swB2GKeJPIrOAwKVwaP9UjN4z3crbTit1DOuOA7jfuUcJgj%2B%2FL8wGV%2FCVwxiV3%2FmTuwoZGoJP0zQijmRyirJQCqvHh1FP5cYfen4enQbXc1e5RZYGE9ehB1XOutTDrmkA2bnZFTByYS1FQJhdfvtJEah58jQLHyKqoMM5IXpNjazfYbB0nNELIi%2BSLD2dpfYtVFjreUkXYqPSyrUGk%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Run Background Commands after Every Command (Part II ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tommymaynard.com/wp-content/uploads/2015/10/Run-background-commands-after-every-command-PartII-03.png?resize=577%2C479' alt='Run Background Commands after Every Command (Part II ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tommymaynard.com" />
+                                </span>
+                                <a href='https://i0.wp.com/tommymaynard.com/wp-content/uploads/2015/10/Run-background-commands-after-every-command-PartII-03.png?resize=577%2C479' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get name of process in background process with powershell ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/bZPox.png' alt='How to get name of process in background process with powershell ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="831">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/bZPox.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Jobs and Recursive Functions - tommymaynard.com">
+                                <img itemprop="contentUrl url" src='https://tommymaynard.com/wp-content/uploads/2022/02/background_jobs_and_recursive_functions1.1.png' alt='Background Jobs and Recursive Functions - tommymaynard.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tommymaynard.com" />
+                                </span>
+                                <a href='https://tommymaynard.com/wp-content/uploads/2022/02/background_jobs_and_recursive_functions1.1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powershell running in background - Microsoft Community">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/3c211a00-d7cb-421c-9455-b5fb1ba182d4?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54V0bAjC4%2FqsJkKlPoP3a38Q7A9zVWZqE%2BHtgSLZxWFgr%2Fh2oIB3I0HrVfYBbAA0%2FryRc3aHJn0Cdi8lm8roySVChx5swB2GKeJPIrOAwKVwY57e0Cnv9U3NF0DrhKyxXv0hqNo%2FoFACp4czLi0EnA0XK8SnDJJJBcct4xQXYADsaSF%2FTO4QriMvqYoujeP3Ld2FEeiFGQr8CFqlMTqveLvuCE%2BVxvuojhB4VHmdELK6MTCHaZqZuSVePEMzTCUp9iZD8wC6qwiFTWy7%2FZXwKjY%2FF3AfhyNWsRzeTRxeXpGKk%3D' alt='Powershell running in background - Microsoft Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/3c211a00-d7cb-421c-9455-b5fb1ba182d4?upload=true&fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2BfFBh2dqlqMuW7np3F6Utp%2FKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2FU3qhn54V0bAjC4%2FqsJkKlPoP3a38Q7A9zVWZqE%2BHtgSLZxWFgr%2Fh2oIB3I0HrVfYBbAA0%2FryRc3aHJn0Cdi8lm8roySVChx5swB2GKeJPIrOAwKVwY57e0Cnv9U3NF0DrhKyxXv0hqNo%2FoFACp4czLi0EnA0XK8SnDJJJBcct4xQXYADsaSF%2FTO4QriMvqYoujeP3Ld2FEeiFGQr8CFqlMTqveLvuCE%2BVxvuojhB4VHmdELK6MTCHaZqZuSVePEMzTCUp9iZD8wC6qwiFTWy7%2FZXwKjY%2FF3AfhyNWsRzeTRxeXpGKk%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Differences between blue background and black background ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/HFuLm.jpg' alt='Differences between blue background and black background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/HFuLm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Run Background Commands after Every Command (Part II ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tommymaynard.com/wp-content/uploads/2015/10/Run-background-commands-after-every-command-PartII-02.png' alt='Run Background Commands after Every Command (Part II ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tommymaynard.com" />
+                                </span>
+                                <a href='https://i0.wp.com/tommymaynard.com/wp-content/uploads/2015/10/Run-background-commands-after-every-command-PartII-02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chapter 11. Background jobs and scheduling - PowerShell in Depth">
+                                <img itemprop="contentUrl url" src='https://drek4537l1klr.cloudfront.net/jones2/Figures/11fig01_alt.jpg' alt='Chapter 11. Background jobs and scheduling - PowerShell in Depth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="liveBook · Manning - Manning Publications" />
+                                </span>
+                                <a href='https://drek4537l1klr.cloudfront.net/jones2/Figures/11fig01_alt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
+                        <footer></footer>
+                       <style>
+                           .container {
+                               display: flex;
+                               flex-wrap: wrap;
+                           }
+                           .container > div {
+                               flex-basis: calc(20% - 1rem);
+                               padding: 0.5rem;
+                           }
+                           @media (max-width: 768px) {
+                               flex-basis: calc(50% - 1rem);
+                           }
+                           .container > div img {
+                               max-width: 100%;
+                               height: auto;
+                           }
+                           .container > div a {
+                               display: block;
+                               text-align: center;
+                           }
+                           ul.breadcrumb {
+                               display: flex;
+                               list-style: none;
+                           }
+                           ul.breadcrumb li {
+                               margin-right: 10px;
+                           }
+                           ul.breadcrumb li:not(:last-child):after {
+                               content: '>';
+                           }
+                           nav {
+                               background: #d9dfdf;
+                               padding: 1rem;
+                           }
+                           nav ul {
+                               display: flex;
+                               list-style: none;
+                           }
+                           nav ul li {
+                               margin-right: 10px;
+                           }
+                       </style>
+                       </body>
+                       </html>

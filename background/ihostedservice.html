@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+                  <html lang="en">
+                  <head>
+                      <meta charset="UTF-8">
+                      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                      <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+                      <title>Essential Insights on IHostedService in ASP.NET Core</title>
+                    <meta name="description" content="Discover the power of IHostedService in ASP.NET Core for efficient background processing. Enhance your application's functionality with seamless, reliable background tasks to boost performance and user experience. Explore more in our comprehensive guide!">
+                    <meta name="keywords" content="ihostedservice">
+                </head>
+                <body>
+                <nav>
+                                                        <ul>
+                                                            <li><a href="/">Home</a></li>
+                                                            <li><a href="page/about-us.html">About Us</a></li>
+                                                            <li><a href="page/contact-us.html">Contact Us</a></li>
+                                                            <li><a href="page/dmca.html">DMCA</a></li>
+                                                            <li><a href="page/license.html">License</a></li>
+                                                            <li><a href="page/privacy-policy.html">Privacy Policy</a></li>
+                                                            <li><a href="page/terms-of-use.html">Terms Of Use</a></li>
+                                                        </ul>
+                                                    </nav>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ihostedservice">
+                            <span itemprop="name">ihostedservice</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insights on IHostedService in ASP.NET Core</h1>
+                <p>IHostedService is a crucial interface in ASP.NET Core, enabling background services to run alongside your web application. It provides a simple way to create tasks that execute on a continuous basis or on a specific schedule. This helps ensure tasks like data processing, file management, or API calls run smoothly in the background, enhancing application performance and reliability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Implement background tasks in microservices with IHostedService ...">
+                                <img itemprop="contentUrl url" src='https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/background-tasks-with-ihostedservice/ihosted-service-webhost-vs-host.png' alt='Implement background tasks in microservices with IHostedService ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1306">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Microsoft" />
+                                </span>
+                                <a href='https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/background-tasks-with-ihostedservice/ihosted-service-webhost-vs-host.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Implement background tasks in microservices with IHostedService ...">
+                                <img itemprop="contentUrl url" src='https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/background-tasks-with-ihostedservice/class-diagram-custom-ihostedservice.png' alt='Implement background tasks in microservices with IHostedService ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1344">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Microsoft" />
+                                </span>
+                                <a href='https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/background-tasks-with-ihostedservice/class-diagram-custom-ihostedservice.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Controlling IHostedService execution order in ASP.NET Core 3.x">
+                                <img itemprop="contentUrl url" src='https://andrewlock.net/content/images/2019/hosting_startup.png' alt='Controlling IHostedService execution order in ASP.NET Core 3.x'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1836">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andrew Lock | .NET Escapades" />
+                                </span>
+                                <a href='https://andrewlock.net/content/images/2019/hosting_startup.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding IHostedService and BackgroundService in .NET ...">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fygxwfrmpux99do78cwoe.png' alt='Understanding IHostedService and BackgroundService in .NET ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fygxwfrmpux99do78cwoe.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IHostedService in .NET Core">
+                                <img itemprop="contentUrl url" src='https://www.jbw.codes/assets/blog/hosted-services.png' alt='IHostedService in .NET Core'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="331">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.jbw.codes" />
+                                </span>
+                                <a href='https://www.jbw.codes/assets/blog/hosted-services.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IHostedService and BackgroundService">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Kf4PWObFPm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD8lkxwhhIJS-JAXZ61w44urtfe3g' alt='IHostedService and BackgroundService'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Kf4PWObFPm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD8lkxwhhIJS-JAXZ61w44urtfe3g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IHostedService interface in .NET Core - DEV Community">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl396knxikldw3yf1awhl.png' alt='IHostedService interface in .NET Core - DEV Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl396knxikldw3yf1awhl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introducing the new IHostedLifecycleService Interface in .NET 8 ...">
+                                <img itemprop="contentUrl url" src='https://www.stevejgordon.co.uk/wp-content/uploads/2023/08/Introducing-the-new-IHostedLifecycleService-Interface-in-.NET-8-750x410.png' alt='Introducing the new IHostedLifecycleService Interface in .NET 8 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steve Gordon" />
+                                </span>
+                                <a href='https://www.stevejgordon.co.uk/wp-content/uploads/2023/08/Introducing-the-new-IHostedLifecycleService-Interface-in-.NET-8-750x410.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Implement a Time-based Service in .NET 8 using IHostedService ...">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2h0kdpk9yvw90lc9q0hp.png' alt='Implement a Time-based Service in .NET 8 using IHostedService ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2h0kdpk9yvw90lc9q0hp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a Background Service using IHostedService in C# | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:732/1*EGJpXe3-kiI1ZmxhoTNxqA.png' alt='Creating a Background Service using IHostedService in C# | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:732/1*EGJpXe3-kiI1ZmxhoTNxqA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
+                        <footer></footer>
+                       <style>
+                           .container {
+                               display: flex;
+                               flex-wrap: wrap;
+                           }
+                           .container > div {
+                               flex-basis: calc(20% - 1rem);
+                               padding: 0.5rem;
+                           }
+                           @media (max-width: 768px) {
+                               flex-basis: calc(50% - 1rem);
+                           }
+                           .container > div img {
+                               max-width: 100%;
+                               height: auto;
+                           }
+                           .container > div a {
+                               display: block;
+                               text-align: center;
+                           }
+                           ul.breadcrumb {
+                               display: flex;
+                               list-style: none;
+                           }
+                           ul.breadcrumb li {
+                               margin-right: 10px;
+                           }
+                           ul.breadcrumb li:not(:last-child):after {
+                               content: '>';
+                           }
+                           nav {
+                               background: #d9dfdf;
+                               padding: 1rem;
+                           }
+                           nav ul {
+                               display: flex;
+                               list-style: none;
+                           }
+                           nav ul li {
+                               margin-right: 10px;
+                           }
+                       </style>
+                       </body>
+                       </html>
