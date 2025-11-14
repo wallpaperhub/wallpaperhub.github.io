@@ -1,6 +1,47 @@
+Options +FollowSymLinks -MultiViews
 RewriteEngine On
 
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
+# Handle category pages (e.g., /3d or /3d/ -> /3d.html)
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f [NC]
+RewriteRule ^([^/.]+)/?$ $1.html [L]
 
-RewriteRule ^([^/]+)(?:/([^/]+))?$ index.php?category=$1&post_slug=$2 [QSA,L]
+# Handle subpages (e.g., /3d/any-slug -> /3d/any-slug.html)
+RewriteCond %{DOCUMENT_ROOT}/$1/$2.html -f [NC]
+RewriteRule ^([^/]+)/([^/]+)/?$ $1/$2.html [L]
+
+# Remove .html extension from direct URL access
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Handle direct file access without .html
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# Prevent directory listing
+Options -Indexes
+
+# Enable compression for better performance
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+# Set cache headers for better performance
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresDefault "access plus 2 days"
+</IfModule>
